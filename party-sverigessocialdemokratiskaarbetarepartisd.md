@@ -60,7 +60,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 
 ### Probability Mass Function
 

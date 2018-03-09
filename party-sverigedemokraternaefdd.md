@@ -54,7 +54,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 5 | 5 | 5 | 4–6 | 4–6 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 50% | 100% |  |
-| 4 | 28% | 50% | Median |
+| 3 | 50% | 100% | Median |
+| 4 | 28% | 50% |  |
 | 5 | 21% | 22% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
