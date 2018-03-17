@@ -50,9 +50,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
-| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2 | 2 | 1–2 |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 1–2 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 90% | 91% | Median |
+| 1 | 11% | 100% | Last Result |
+| 2 | 88% | 89% | Median |
 | 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
