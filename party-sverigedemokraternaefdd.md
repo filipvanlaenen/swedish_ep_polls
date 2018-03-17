@@ -10,7 +10,11 @@ Last result: **9.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 14.9–22.4% | 14.5–23.2% | 14.1–23.8% | 13.5–25.0% |
+| N/A | [Poll Average](average.html) | 16.9% | 15.2–22.9% | 14.7–23.8% | 14.4–24.5% | 13.7–25.8% |
+| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15.9% | 15.4–16.4% | 15.3–16.5% | 15.2–16.6% | 15.0–16.9% |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 23.0% | 21.1–25.0% | 20.5–25.6% | 20.1–26.1% | 19.2–27.1% |
+| [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 18.6% | 17.4–19.9% | 17.0–20.2% | 16.8–20.6% | 16.2–21.2% |
+| [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 15.7% | 14.8–16.7% | 14.5–17.0% | 14.3–17.3% | 13.8–17.7% |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 22.1% | 20.6–23.8% | 20.2–24.2% | 19.8–24.6% | 19.1–25.4% |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16.0% | 14.8–17.3% | 14.4–17.6% | 14.1–18.0% | 13.6–18.6% |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 17.1% | 16.4–17.8% | 16.2–18.0% | 16.1–18.2% | 15.8–18.5% |
@@ -29,21 +33,22 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 6% | 99.5% |  |
-| 14.5–15.5% | 18% | 94% |  |
-| 15.5–16.5% | 30% | 76% | Median |
-| 16.5–17.5% | 17% | 46% |  |
-| 17.5–18.5% | 4% | 29% |  |
-| 18.5–19.5% | 0.9% | 25% |  |
-| 19.5–20.5% | 3% | 24% |  |
-| 20.5–21.5% | 5% | 22% |  |
-| 21.5–22.5% | 7% | 16% |  |
-| 22.5–23.5% | 5% | 9% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.8% | 1.0% |  |
-| 25.5–26.5% | 0.2% | 0.2% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 3% | 99.7% |  |
+| 14.5–15.5% | 14% | 96% |  |
+| 15.5–16.5% | 27% | 82% |  |
+| 16.5–17.5% | 16% | 56% | Median |
+| 17.5–18.5% | 8% | 40% |  |
+| 18.5–19.5% | 5% | 32% |  |
+| 19.5–20.5% | 3% | 27% |  |
+| 20.5–21.5% | 5% | 24% |  |
+| 21.5–22.5% | 7% | 19% |  |
+| 22.5–23.5% | 6% | 12% |  |
+| 23.5–24.5% | 4% | 6% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.5% | 0.7% |  |
+| 26.5–27.5% | 0.1% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,7 +59,11 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5 | 5 | 5 | 5 |
+| [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 5 | 5 | 5 | 4–6 | 4–6 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -73,10 +82,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 50% | 100% | Median |
-| 4 | 28% | 50% |  |
-| 5 | 21% | 22% |  |
-| 6 | 0.9% | 0.9% |  |
+| 3 | 32% | 100% |  |
+| 4 | 41% | 68% | Median |
+| 5 | 27% | 27% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 
