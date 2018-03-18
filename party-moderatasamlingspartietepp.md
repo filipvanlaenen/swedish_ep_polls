@@ -10,7 +10,7 @@ Last result: **13.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 19.4–24.4% | 18.7–24.9% | 18.1–25.4% | 17.0–26.1% |
+| N/A | [Poll Average](average.html) | 22.7% | 19.5–25.0% | 18.8–25.6% | 18.2–26.1% | 17.0–27.1% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 23.1% | 22.5–23.7% | 22.4–23.8% | 22.3–24.0% | 22.0–24.2% |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 19.5% | 17.7–21.4% | 17.2–22.0% | 16.8–22.5% | 16.0–23.4% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 21.8% | 20.5–23.2% | 20.1–23.5% | 19.8–23.9% | 19.3–24.5% |
@@ -20,9 +20,9 @@ Last result: **13.7%** (General Election of 25 May 2014)
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 23.7% | 22.9–24.5% | 22.7–24.7% | 22.5–24.9% | 22.2–25.3% |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 23.7% | 23.2–24.3% | 23.0–24.5% | 22.9–24.6% | 22.6–24.9% |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 21.0% | 19.1–23.1% | 18.6–23.7% | 18.1–24.2% | 17.2–25.2% |
-| [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 23.9% | N/A | N/A | N/A | N/A |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 24.6% | N/A | N/A | N/A | N/A |
-| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 24.9% | N/A | N/A | N/A | N/A |
+| [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 23.9% | 22.6–25.3% | 22.2–25.7% | 21.9–26.0% | 21.3–26.7% |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 24.6% | 23.4–25.8% | 23.1–26.1% | 22.8–26.4% | 22.2–27.0% |
+| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 24.9% | 23.5–26.5% | 23.1–26.9% | 22.7–27.3% | 22.0–28.1% |
 
 ### Probability Mass Function
 
@@ -33,18 +33,19 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% | Last Result |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.0% | 99.8% |  |
-| 17.5–18.5% | 3% | 98.8% |  |
-| 18.5–19.5% | 7% | 96% |  |
-| 19.5–20.5% | 13% | 88% |  |
-| 20.5–21.5% | 16% | 76% |  |
-| 21.5–22.5% | 14% | 60% | Median |
-| 22.5–23.5% | 22% | 46% |  |
-| 23.5–24.5% | 16% | 24% |  |
-| 24.5–25.5% | 6% | 8% |  |
-| 25.5–26.5% | 2% | 2% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.9% | 99.8% |  |
+| 17.5–18.5% | 3% | 98.9% |  |
+| 18.5–19.5% | 6% | 96% |  |
+| 19.5–20.5% | 11% | 90% |  |
+| 20.5–21.5% | 14% | 79% |  |
+| 21.5–22.5% | 12% | 65% |  |
+| 22.5–23.5% | 21% | 53% | Median |
+| 23.5–24.5% | 17% | 32% |  |
+| 24.5–25.5% | 10% | 15% |  |
+| 25.5–26.5% | 4% | 5% |  |
+| 26.5–27.5% | 1.1% | 1.3% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,9 +66,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5 | 4–5 | 4–5 | 4–5 |
-| [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen |  |  |  |  |  |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
-| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP |  |  |  |  |  |
+| [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6 | 6 | 6 | 5–7 |
+| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 6 | 6 | 6 | 6 | 6 |
 
 ### Probability Mass Function
 
@@ -78,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 25% | 100% |  |
-| 5 | 52% | 75% | Median |
-| 6 | 23% | 23% |  |
+| 4 | 22% | 100% |  |
+| 5 | 45% | 78% | Median |
+| 6 | 33% | 33% |  |
 | 7 | 0% | 0% |  |
 
 
