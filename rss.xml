@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 09:54:47 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 12:39:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-15-Sifo.html</link>
@@ -49,6 +49,56 @@
       <pubDate>Sun, 18 Mar 2018 09:54:47 +0100</pubDate>
       <dc:date>2018-03-18T09:54:47.053467+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T09:54:47.053467+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 16–19 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 20.1–24.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.3–22.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 19.8–24.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.5–4.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.8–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.4–11.9%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.6–6.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.8–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-YouGov.png"
+        length="296489"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 10:44:42 +0100</pubDate>
+      <dc:date>2018-03-18T10:44:42.574819+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.7–31.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.0–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 14.1–18.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.5–12.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.6–10.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.9–6.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-Ipsos.png"
+        length="269585"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 10:51:14 +0100</pubDate>
+      <dc:date>2018-03-18T10:51:14.205734+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 22 January–18 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-18-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.2–29.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.5–24.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 16.1–18.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.8–4.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.0–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.4–8.9%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.0–5.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.3–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-18-Novus.png"
+        length="223975"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 11:09:24 +0100</pubDate>
+      <dc:date>2018-03-18T11:09:24.544894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-15-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.4–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.9–24.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 15.5–16.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.2–5.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.9–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.6–5.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.5–3.1%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.2–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-15-Sifo.png"
+        length="233059"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 12:16:48 +0100</pubDate>
+      <dc:date>2018-03-18T12:16:48.284274+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 9–14 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-14-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 21.5–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.1–24.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 18.9–25.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.2–5.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.7–13.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.1–11.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.1–6.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1.3–3.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.0–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-14-Sentio.png"
+        length="308507"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 12:39:45 +0100</pubDate>
+      <dc:date>2018-03-18T12:39:45.490384+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T12:39:45.490384+01:00</dc:date>
   </channel>
 </rss>
