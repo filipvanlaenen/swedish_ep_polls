@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 12:39:45 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 16:49:48 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-15-Sifo.html</link>
@@ -99,6 +99,36 @@
       <pubDate>Sun, 18 Mar 2018 12:39:45 +0100</pubDate>
       <dc:date>2018-03-18T12:39:45.490384+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T12:39:45.490384+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 30 January–6 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-06-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 25.2–29.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 21.9–26.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 13.7–17.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.1–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.0–10.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.1–8.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.9–6.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.7–4.5%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.5–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-06-Demoskop.png"
+        length="271738"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 16:30:11 +0100</pubDate>
+      <dc:date>2018-03-18T16:30:11.304995+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 30 January–5 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-05-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.6–30.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.8–26.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 14.1–17.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.5–4.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.1–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 5.8–8.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.3–5.0%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.6–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-05-Inizio.png"
+        length="260851"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 16:43:08 +0100</pubDate>
+      <dc:date>2018-03-18T16:43:08.320944+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 11 January–2 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-02-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.6–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.7–27.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 13.6–17.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.3–4.2%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.1–12.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.4–9.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.1–6.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.6–4.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-02-SKOP.png"
+        length="274394"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 16:49:48 +0100</pubDate>
+      <dc:date>2018-03-18T16:49:48.336966+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T16:49:48.336966+01:00</dc:date>
   </channel>
 </rss>
