@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 16:49:48 +0100</pubDate>
+    <pubDate>Mon, 19 Mar 2018 06:55:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-15-Sifo.html</link>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-14-Sentio.png"
         length="308507"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 12:39:45 +0100</pubDate>
-      <dc:date>2018-03-18T12:39:45.490384+01:00</dc:date>
+      <pubDate>Mon, 19 Mar 2018 06:55:32 +0100</pubDate>
+      <dc:date>2018-03-19T06:55:32.416207+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 30 January–6 February 2018 – Voting Intentions</title>
@@ -129,6 +129,6 @@
       <pubDate>Sun, 18 Mar 2018 16:49:48 +0100</pubDate>
       <dc:date>2018-03-18T16:49:48.336966+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T16:49:48.336966+01:00</dc:date>
+    <dc:date>2018-03-19T06:55:32.416207+01:00</dc:date>
   </channel>
 </rss>
