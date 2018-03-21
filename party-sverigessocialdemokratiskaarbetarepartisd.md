@@ -56,18 +56,18 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 7 | 7 | 7 | 7 | 6–7 |
-| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6 | 6 | 6 | 6 |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 6 | 6 | 6 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 7 | 7 | 7 | 7 | 6–8 |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 
 ### Probability Mass Function
@@ -78,8 +78,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 9% | 100% | Last Result |
-| 6 | 49% | 91% | Median |
+| 4 | 0.1% | 100% |  |
+| 5 | 16% | 99.9% | Last Result |
+| 6 | 42% | 84% | Median |
 | 7 | 40% | 42% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
