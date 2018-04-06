@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Apr 2018 20:56:21 +0200</pubDate>
+    <pubDate>Fri, 06 Apr 2018 08:38:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 16–19 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 4–6 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov-seats.png"
+        length="238286"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 22:32:48 +0200</pubDate>
+      <dc:date>2018-04-05T22:32:48.525036+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 16–19 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov-coalitions-seats.png"
+        length="146824"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 22:32:48 +0200</pubDate>
+      <dc:date>2018-04-05T22:32:48.525036+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 16–19 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.png"
         length="290644"
         type="image/png"/>
-      <pubDate>Thu, 05 Apr 2018 20:56:21 +0200</pubDate>
-      <dc:date>2018-04-05T20:56:21.347256+02:00</dc:date>
+      <pubDate>Thu, 05 Apr 2018 22:32:48 +0200</pubDate>
+      <dc:date>2018-04-05T22:32:48.525036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 March 2018 – Seat Projections</title>
@@ -50,14 +70,34 @@
       <dc:date>2018-04-05T20:41:47.783889+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 19 February–18 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus-seats.png"
+        length="142907"
+        type="image/png"/>
+      <pubDate>Fri, 06 Apr 2018 08:38:42 +0200</pubDate>
+      <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 19 February–18 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus-coalitions-seats.png"
+        length="94167"
+        type="image/png"/>
+      <pubDate>Fri, 06 Apr 2018 08:38:42 +0200</pubDate>
+      <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 19 February–18 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.6–29.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 21.5–23.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 16.8–18.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.3–4.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.6–10.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.1–8.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.4–5.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.8–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.png"
         length="223460"
         type="image/png"/>
-      <pubDate>Thu, 05 Apr 2018 17:47:37 +0200</pubDate>
-      <dc:date>2018-04-05T17:47:37.124072+02:00</dc:date>
+      <pubDate>Fri, 06 Apr 2018 08:38:42 +0200</pubDate>
+      <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 March 2018 – Seat Projections</title>
@@ -399,6 +439,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-04-05T20:56:21.347256+02:00</dc:date>
+    <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
   </channel>
 </rss>
