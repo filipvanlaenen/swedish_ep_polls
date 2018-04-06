@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-04-05T20:41:47.783889+02:00</updated>
+  <updated>2018-04-06T08:38:42.761306+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 21.6–26.6%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 16.6–21.2%, 3–5 seats</li><li>Sverigedemokraterna (EFDD): 20.0–24.9%, 4–6 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.0–5.3%, 0–1 seats</li><li>Centerpartiet (ALDE): 6.2–9.3%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.9–10.1%, 2 seats</li><li>Liberalerna (ALDE): 3.6–6.1%, 0–1 seats</li><li>Kristdemokraterna (EPP): 2.7–4.8%, 0–1 seats</li><li>Feministiskt initiativ (S&amp;D): 1.8–3.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-YouGov.html"/>
+    <title>Opinion Poll by YouGov for Metro, 16–19 March 2018</title>
+    <updated>2018-04-05T22:32:48.525036+02:00</updated>
+    <dc:date>2018-04-05T22:32:48.525036+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 25.5–30.0%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 18.9–22.9%, 4–5 seats</li><li>Sverigedemokraterna (EFDD): 15.0–18.8%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.1–5.1%, 0–1 seats</li><li>Centerpartiet (ALDE): 8.5–11.5%, 2–3 seats</li><li>Vänsterpartiet (GUE/NGL): 7.6–10.5%, 2 seats</li><li>Liberalerna (ALDE): 4.0–6.2%, 0–1 seats</li><li>Kristdemokraterna (EPP): 2.3–4.0%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 1.4–2.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-19-Ipsos.html</id>
@@ -14,6 +22,14 @@
     <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 March 2018</title>
     <updated>2018-04-05T20:41:47.783889+02:00</updated>
     <dc:date>2018-04-05T20:41:47.783889+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 26.6–29.0%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 21.5–23.7%, 5–6 seats</li><li>Sverigedemokraterna (EFDD): 16.8–18.9%, 4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.3–4.3%, 0–1 seats</li><li>Centerpartiet (ALDE): 8.6–10.1%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.1–8.6%, 2 seats</li><li>Liberalerna (ALDE): 4.4–5.6%, 1 seats</li><li>Kristdemokraterna (EPP): 2.8–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-18-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 19 February–18 March 2018</title>
+    <updated>2018-04-06T08:38:42.761306+02:00</updated>
+    <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 28.1–29.9%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 22.3–24.0%, 5–6 seats</li><li>Sverigedemokraterna (EFDD): 15.2–16.6%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.4–4.2%, 0–1 seats</li><li>Centerpartiet (ALDE): 9.4–10.6%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.2–8.3%, 2 seats</li><li>Liberalerna (ALDE): 4.0–4.8%, 1 seats</li><li>Kristdemokraterna (EPP): 2.7–3.4%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 1.6–2.1%, 0 seats</li></ul></div></content>
@@ -103,5 +119,5 @@
     <updated>2018-03-25T15:06:01.255159+02:00</updated>
     <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
   </entry>
-  <dc:date>2018-04-05T20:41:47.783889+02:00</dc:date>
+  <dc:date>2018-04-06T08:38:42.761306+02:00</dc:date>
 </feed>
