@@ -50,7 +50,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
+| [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0–1 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
