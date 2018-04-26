@@ -60,10 +60,10 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
-| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 1 | 1 | 1 | 0–1 | 0–2 |
-| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
+| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 0–2 |
+| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 0–1 | 0–1 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -90,9 +90,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 73% | 73% | Median |
-| 2 | 0.3% | 0.3% | Last Result |
+| 0 | 26% | 100% |  |
+| 1 | 74% | 74% | Median |
+| 2 | 0.2% | 0.2% | Last Result |
 | 3 | 0% | 0% |  |
 
 

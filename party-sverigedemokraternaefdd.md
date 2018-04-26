@@ -68,12 +68,12 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 4 | 3–4 |
+| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 3–4 | 3–5 |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 7% | 100% |  |
-| 4 | 64% | 93% | Median |
-| 5 | 21% | 29% |  |
+| 3 | 12% | 100% |  |
+| 4 | 60% | 88% | Median |
+| 5 | 21% | 28% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 

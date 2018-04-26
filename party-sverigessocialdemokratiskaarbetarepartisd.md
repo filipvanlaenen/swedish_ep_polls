@@ -66,10 +66,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 6 | 6 | 6 | 5–6 | 5–7 |
+| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -94,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 14% | 100% | Last Result |
-| 6 | 66% | 86% | Median |
-| 7 | 20% | 20% |  |
+| 5 | 12% | 100% | Last Result |
+| 6 | 64% | 88% | Median |
+| 7 | 24% | 24% |  |
 | 8 | 0% | 0% |  |
 
 
