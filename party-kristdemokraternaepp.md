@@ -11,6 +11,7 @@ Last result: **5.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.6% | 2.9–5.3% | 2.7–5.6% | 2.6–5.9% | 2.3–6.5% |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 3.2% | 2.7–3.8% | 2.5–4.0% | 2.4–4.2% | 2.2–4.5% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
@@ -58,6 +59,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–1 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -11,6 +11,7 @@ Last result: **15.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.1% | 3.4–5.2% | 3.2–5.6% | 3.0–5.9% | 2.7–6.5% |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.3–4.8% |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% | 2.4–5.0% |
@@ -43,7 +44,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.2% | 100% |  |
 | 2.5–3.5% | 14% | 99.8% |  |
 | 3.5–4.5% | 62% | 86% | Median |
-| 4.5–5.5% | 19% | 24% |  |
+| 4.5–5.5% | 19% | 25% |  |
 | 5.5–6.5% | 5% | 6% |  |
 | 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -65,6 +66,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -96,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% |  |
-| 1 | 61% | 61% | Median |
+| 1 | 60% | 61% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |

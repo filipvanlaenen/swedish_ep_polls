@@ -11,6 +11,7 @@ Last result: **9.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.6–5.4% | 3.4–5.6% | 3.2–5.9% | 2.8–6.4% |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 5.0% | 4.6–5.4% | 4.5–5.5% | 4.4–5.6% | 4.2–5.9% |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 5.1% | 4.4–6.0% | 4.2–6.2% | 4.1–6.4% | 3.7–6.9% |
@@ -60,6 +61,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 0–1 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 0–2 |
@@ -90,9 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 74% | 74% | Median |
-| 2 | 0.2% | 0.2% | Last Result |
+| 0 | 25% | 100% |  |
+| 1 | 74% | 75% | Median |
+| 2 | 0.1% | 0.1% | Last Result |
 | 3 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 23.5–28.5% | 22.7–28.9% | 22.2–29.2% | 21.3–29.9% |
+| N/A | [Poll Average](average.html) | 26.4% | 23.4–28.3% | 22.7–28.7% | 22.2–29.0% | 21.3–29.5% |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 23.3% | 22.0–24.7% | 21.6–25.1% | 21.3–25.5% | 20.6–26.2% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 26.9% | 26.1–27.7% | 25.9–28.0% | 25.7–28.2% | 25.3–28.5% |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 26.7% | 25.2–28.3% | 24.7–28.7% | 24.4–29.1% | 23.7–29.9% |
@@ -43,16 +44,15 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0.1% | 100% |  |
 | 20.5–21.5% | 0.8% | 99.9% |  |
 | 21.5–22.5% | 3% | 99.1% |  |
-| 22.5–23.5% | 6% | 96% |  |
-| 23.5–24.5% | 8% | 89% | Last Result |
-| 24.5–25.5% | 10% | 81% |  |
-| 25.5–26.5% | 17% | 71% |  |
-| 26.5–27.5% | 23% | 54% | Median |
-| 27.5–28.5% | 21% | 30% |  |
-| 28.5–29.5% | 9% | 10% |  |
-| 29.5–30.5% | 1.0% | 1.1% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 22.5–23.5% | 7% | 96% |  |
+| 23.5–24.5% | 9% | 89% | Last Result |
+| 24.5–25.5% | 13% | 80% |  |
+| 25.5–26.5% | 20% | 67% | Median |
+| 26.5–27.5% | 23% | 47% |  |
+| 27.5–28.5% | 17% | 24% |  |
+| 28.5–29.5% | 6% | 7% |  |
+| 29.5–30.5% | 0.4% | 0.4% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,6 +64,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 6 | 6 | 5–7 | 5–7 | 5–7 |
@@ -94,9 +95,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 12% | 100% | Last Result |
-| 6 | 64% | 88% | Median |
-| 7 | 24% | 24% |  |
+| 5 | 13% | 100% | Last Result |
+| 6 | 68% | 87% | Median |
+| 7 | 19% | 19% |  |
 | 8 | 0% | 0% |  |
 
 
