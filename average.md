@@ -8,7 +8,7 @@ The table below lists the polls on which the average is based. They are the most
 
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.7% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 22–29% <br> 5–7 | 3–6% <br> 0–1 | 18–26% <br> 4–6 | 3–6% <br> 0–1 | 14–24% <br> 3–6 | 6–13% <br> 1–3 | 6–10% <br> 1–2 | 3–6% <br> 0–1 | 1–3% <br> 0 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 4–6% <br> 1 | 15–19% <br> 3–4 | 10–14% <br> 2–3 | 7–9% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 21–25% <br> 5–6 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 20–24% <br> 5–6 | 8–10% <br> 2–3 | 7–10% <br> 2 | 2–4% <br> 0–1 | 2–4% <br> 0 |
@@ -18,7 +18,7 @@ The table below lists the polls on which the average is based. They are the most
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 25–29% <br> 6–7 | 3–5% <br> 0–1 | 22–25% <br> 5–6 | 3–5% <br> 0–1 | 14–18% <br> 3–4 | 8–10% <br> 2 | 6–8% <br> 1–2 | 4–6% <br> 1 | 2–3% <br> 0 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 24–28% <br> 5–7 | 4–6% <br> 1 | 20–24% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 8–11% <br> 2–3 | 7–10% <br> 2 | 3–4% <br> 0–1 | 1–2% <br> 0 |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 22–28% <br> 5–7 | 3–6% <br> 0–2 | 17–22% <br> 4–5 | 3–6% <br> 0–1 | 20–26% <br> 4–6 | 5–8% <br> 1–2 | 6–10% <br> 1–2 | 4–7% <br> 0–2 | 1–3% <br> 0 |
-| 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.7% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -47,7 +47,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 24.2% | 26.4% | 23.4–28.3% |22.7–28.7% | 22.2–29.0% | 21.3–29.5% |
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 15.4% | 4.1% | 3.4–5.2% |3.2–5.6% | 3.0–5.9% | 2.7–6.5% |
-| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 13.7% | 22.2% | 19.3–24.6% |18.7–25.5% | 18.1–26.1% | 17.0–27.2% |
+| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 13.6% | 22.2% | 19.3–24.6% |18.7–25.5% | 18.1–26.1% | 17.0–27.2% |
 | <a href="#liberalerna-(alde)">Liberalerna (ALDE)</a> | 9.9% | 4.4% | 3.6–5.4% |3.4–5.6% | 3.2–5.9% | 2.8–6.4% |
 | <a href="#sverigedemokraterna-(efdd)">Sverigedemokraterna (EFDD)</a> | 9.7% | 17.8% | 14.9–22.8% |14.6–23.7% | 14.4–24.4% | 14.1–25.8% |
 | <a href="#centerpartiet-(alde)">Centerpartiet (ALDE)</a> | 6.5% | 9.3% | 7.3–11.4% |6.3–12.2% | 5.8–12.7% | 5.1–13.5% |
