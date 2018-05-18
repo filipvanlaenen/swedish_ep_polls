@@ -12,7 +12,7 @@ Last result: **24.2%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.4% | 23.4–28.3% | 22.7–28.7% | 22.2–29.0% | 21.3–29.5% |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 23.0% | 21.7–24.5% | 21.3–24.9% | 21.0–25.2% | 20.4–25.9% |
-| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 26.6% | N/A | N/A | N/A | N/A |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 26.6% | 25.4–27.8% | 25.1–28.2% | 24.8–28.5% | 24.2–29.1% |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 26.3% | 24.9–27.7% | 24.5–28.1% | 24.2–28.5% | 23.6–29.2% |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 23.3% | 22.0–24.7% | 21.6–25.1% | 21.3–25.5% | 20.6–26.2% |
@@ -67,8 +67,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 6 | 6 | 6 | 5–6 | 5–6 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
