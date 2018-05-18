@@ -11,6 +11,9 @@ Last result: **15.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.1% | 3.4–5.2% | 3.2–5.6% | 3.0–5.9% | 2.7–6.5% |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 3.8% | N/A | N/A | N/A | N/A |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 4.4% | 3.8–5.1% | 3.6–5.3% | 3.5–5.5% | 3.2–5.9% |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.3–4.8% |
@@ -66,6 +69,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

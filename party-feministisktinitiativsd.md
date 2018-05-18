@@ -11,6 +11,9 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.4–2.9% | 1.2–3.0% | 1.1–3.2% | 0.9–3.6% |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.9% |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 2.5% | N/A | N/A | N/A | N/A |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.3–3.2% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.8% |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
@@ -57,6 +60,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 |  |  |  |  |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT |  |  |  |  |  |
