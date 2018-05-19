@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 21:29:42 +0200</pubDate>
+    <pubDate>Sat, 19 May 2018 16:28:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 11–14 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 5–6 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov-seats.png"
+        length="174186"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 16:28:25 +0200</pubDate>
+      <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 11–14 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov-coalitions-seats.png"
+        length="125797"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 16:28:25 +0200</pubDate>
+      <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 11–14 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov.png"
         length="292780"
         type="image/png"/>
-      <pubDate>Fri, 18 May 2018 09:18:15 +0200</pubDate>
-      <dc:date>2018-05-18T09:18:15.505609+02:00</dc:date>
+      <pubDate>Sat, 19 May 2018 16:28:25 +0200</pubDate>
+      <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 1–7 May 2018 – Seat Projections</title>
@@ -739,6 +759,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T21:29:42.053413+02:00</dc:date>
+    <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
   </channel>
 </rss>
