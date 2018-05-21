@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-05-19T16:28:25.881066+02:00</updated>
+  <updated>2018-05-21T11:04:02.903042+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 21.0–25.2%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 16.4–20.3%, 4–5 seats</li><li>Sverigedemokraterna (EFDD): 21.0–25.2%, 5–6 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.8–4.7%, 0–1 seats</li><li>Centerpartiet (ALDE): 8.7–11.7%, 2–3 seats</li><li>Vänsterpartiet (GUE/NGL): 7.7–10.5%, 2–3 seats</li><li>Liberalerna (ALDE): 3.3–5.3%, 0–1 seats</li><li>Kristdemokraterna (EPP): 2.3–4.0%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 1.2–2.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-14-YouGov.html</id>
@@ -70,6 +70,14 @@
     <title>Opinion Poll by Sifo for Svenska Dagbladet, 2–12 April 2018</title>
     <updated>2018-04-26T16:40:25.83153+02:00</updated>
     <dc:date>2018-04-26T16:40:25.83153+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.4–28.6%, 5–7 seats</li><li>Moderata samlingspartiet (EPP): 17.8–22.5%, 4–5 seats</li><li>Sverigedemokraterna (EFDD): 19.1–23.9%, 4–6 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.4–5.8%, 0–1 seats</li><li>Centerpartiet (ALDE): 5.1–8.0%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.8–10.1%, 2 seats</li><li>Liberalerna (ALDE): 3.4–5.8%, 0–1 seats</li><li>Kristdemokraterna (EPP): 1.7–3.5%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 2.2–4.3%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-10-Sentio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-10-Sentio.html"/>
+    <title>Opinion Poll by Sentio for Nyheter Idag, 5–10 April 2018</title>
+    <updated>2018-05-21T11:04:02.903042+02:00</updated>
+    <dc:date>2018-05-21T11:04:02.903042+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 25.5–29.3%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 21.6–25.2%, 5–6 seats</li><li>Sverigedemokraterna (EFDD): 14.4–17.6%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.2–4.9%, 0–1 seats</li><li>Centerpartiet (ALDE): 7.8–10.3%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 5.5–7.6%, 1–2 seats</li><li>Liberalerna (ALDE): 3.1–4.8%, 0–1 seats</li><li>Kristdemokraterna (EPP): 4.3–6.2%, 1 seats</li><li>Feministiskt initiativ (S&amp;D): 1.8–3.1%, 0 seats</li></ul></div></content>
@@ -207,5 +215,5 @@
     <updated>2018-03-25T15:06:01.255159+02:00</updated>
     <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
   </entry>
-  <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
+  <dc:date>2018-05-21T11:04:02.903042+02:00</dc:date>
 </feed>
