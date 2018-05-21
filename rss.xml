@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 May 2018 11:04:02 +0200</pubDate>
+    <pubDate>Mon, 21 May 2018 15:33:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo-seats.png"
+        length="147153"
+        type="image/png"/>
+      <pubDate>Mon, 21 May 2018 15:33:56 +0200</pubDate>
+      <dc:date>2018-05-21T15:33:56.984043+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo-coalitions-seats.png"
+        length="86866"
+        type="image/png"/>
+      <pubDate>Mon, 21 May 2018 15:33:56 +0200</pubDate>
+      <dc:date>2018-05-21T15:33:56.984043+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sifo.png"
         length="249304"
         type="image/png"/>
-      <pubDate>Mon, 21 May 2018 10:40:04 +0200</pubDate>
-      <dc:date>2018-05-21T10:40:04.560866+02:00</dc:date>
+      <pubDate>Mon, 21 May 2018 15:33:56 +0200</pubDate>
+      <dc:date>2018-05-21T15:33:56.984043+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 4–17 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 5–6 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sentio-seats.png"
+        length="219661"
+        type="image/png"/>
+      <pubDate>Mon, 21 May 2018 15:09:42 +0200</pubDate>
+      <dc:date>2018-05-21T15:09:42.041818+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 4–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sentio-coalitions-seats.png"
+        length="169805"
+        type="image/png"/>
+      <pubDate>Mon, 21 May 2018 15:09:42 +0200</pubDate>
+      <dc:date>2018-05-21T15:09:42.041818+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 4–17 May 2018 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-17-Sentio.png"
         length="301903"
         type="image/png"/>
-      <pubDate>Mon, 21 May 2018 10:36:19 +0200</pubDate>
-      <dc:date>2018-05-21T10:36:19.192123+02:00</dc:date>
+      <pubDate>Mon, 21 May 2018 15:09:42 +0200</pubDate>
+      <dc:date>2018-05-21T15:09:42.041818+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 11–14 May 2018 – Seat Projections</title>
@@ -809,6 +849,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-05-21T11:04:02.903042+02:00</dc:date>
+    <dc:date>2018-05-21T15:33:56.984043+02:00</dc:date>
   </channel>
 </rss>
