@@ -10,10 +10,14 @@ Last result: **5.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.3–4.7% | 2.0–5.1% | 1.8–5.3% | 1.4–5.7% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.4–4.8% | 2.1–5.1% | 1.8–5.4% | 1.5–5.8% |
+| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–5.9% | 3.8–6.3% |
+| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 2.9% | 2.6–3.2% | 2.5–3.3% | 2.4–3.4% | 2.3–3.6% |
+| [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.5% | 3.2–3.8% | 3.2–3.9% | 3.1–3.9% | 3.0–4.1% |
-| [4–17 May 2018](2018-05-17-Sentio.html) | Sentio <br> Nyheter Idag | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.3% |
+| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.0% | 2.9–4.2% |
+| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 4.8% | 4.3–5.4% | 4.1–5.6% | 4.0–5.8% | 3.7–6.1% |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
@@ -47,12 +51,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.0% | 100% |  |
-| 1.5–2.5% | 14% | 99.0% |  |
-| 2.5–3.5% | 46% | 85% | Median |
-| 3.5–4.5% | 26% | 39% |  |
-| 4.5–5.5% | 12% | 13% |  |
-| 5.5–6.5% | 1.0% | 1.0% | Last Result |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 12% | 99.2% |  |
+| 2.5–3.5% | 44% | 87% | Median |
+| 3.5–4.5% | 29% | 43% |  |
+| 4.5–5.5% | 13% | 14% |  |
+| 5.5–6.5% | 1.4% | 1.5% | Last Result |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -65,9 +69,13 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 0–1 |
+| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 0 | 0 | 0 | 0 | 0 |
+| [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0–1 |
-| [4–17 May 2018](2018-05-17-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0–1 |
+| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–1 |
+| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–1 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–1 |
@@ -102,8 +110,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Median |
-| 1 | 19% | 19% | Last Result |
+| 0 | 78% | 100% | Median |
+| 1 | 22% | 22% | Last Result |
 | 2 | 0% | 0% |  |
 
 
