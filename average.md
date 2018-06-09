@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 22–29% <br> 5–7 | 3–5% <br> 0–1 | 18–26% <br> 4–6 | 3–6% <br> 0–1 | 16–25% <br> 4–6 | 7–11% <br> 2–3 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | 1–3% <br> 0 |
-| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 5–6 | 3–5% <br> 0–1 | 20–24% <br> 5 | 4–5% <br> 0–1 | 18–21% <br> 4–5 | 8–11% <br> 2 | 7–9% <br> 2 | 4–6% <br> 1 | 1–2% <br> 0 |
+| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 5–6 | 3–5% <br> 0–1 | 20–24% <br> 4–5 | 4–5% <br> 0–1 | 18–21% <br> 4–5 | 8–11% <br> 2 | 7–9% <br> 2 | 4–6% <br> 1 | 1–2% <br> 0 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> 6–7 | 4–5% <br> 0–1 | 21–24% <br> 5 | 4–5% <br> 0–1 | 17–20% <br> 4 | 8–10% <br> 2 | 7–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 20–24% <br> 4–6 | 4–6% <br> 1 | 18–22% <br> 4–5 | 8–10% <br> 2 | 8–10% <br> 2–3 | 3–5% <br> 0–1 | 1–3% <br> 0 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–26% <br> 6 | 4% <br> 0–1 | 23–25% <br> 5–6 | 4–5% <br> 1 | 18–20% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 3–4% <br> 0 | 1–2% <br> 0 |
@@ -252,8 +252,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 21% | 100% | Last Result |
-| 6 | 75% | 79% | Median |
+| 5 | 20% | 100% | Last Result |
+| 6 | 75% | 80% | Median |
 | 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 84% | 85% | Median |
+| 0 | 16% | 100% |  |
+| 1 | 84% | 84% | Median |
 | 2 | 0.2% | 0.2% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -309,8 +309,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
-| 4 | 61% | 98.6% | Median |
-| 5 | 30% | 38% |  |
+| 4 | 62% | 98.6% | Median |
+| 5 | 29% | 37% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 21% | 100% |  |
-| 6 | 75% | 79% | Last Result, Median |
+| 5 | 20% | 100% |  |
+| 6 | 75% | 80% | Last Result, Median |
 | 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
@@ -394,7 +394,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 11% | 100% | Last Result |
-| 5 | 56% | 89% | Median |
+| 5 | 57% | 89% | Median |
 | 6 | 29% | 33% |  |
 | 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
@@ -405,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
-| 4 | 61% | 98.6% | Median |
-| 5 | 30% | 38% |  |
+| 4 | 62% | 98.6% | Median |
+| 5 | 29% | 37% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -416,8 +416,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.3% | 100% |  |
-| 2 | 13% | 99.7% |  |
-| 3 | 84% | 86% | Last Result, Median |
+| 2 | 14% | 99.7% |  |
+| 3 | 83% | 86% | Last Result, Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
