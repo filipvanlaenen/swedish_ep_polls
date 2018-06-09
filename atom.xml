@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-06-09T15:45:55.206691+02:00</updated>
+  <updated>2018-06-09T17:42:24.117486+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 22.7–26.4%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 20.3–23.8%, 4–5 seats</li><li>Sverigedemokraterna (EFDD): 17.8–21.2%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.1–4.8%, 0–1 seats</li><li>Centerpartiet (ALDE): 8.3–10.8%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.1–9.4%, 2 seats</li><li>Liberalerna (ALDE): 3.5–5.3%, 0–1 seats</li><li>Kristdemokraterna (EPP): 4.1–5.9%, 1 seats</li><li>Feministiskt initiativ (S&amp;D): 1.1–2.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-30-Inizio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-30-Inizio.html"/>
+    <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018</title>
+    <updated>2018-06-09T17:42:24.117486+02:00</updated>
+    <dc:date>2018-06-09T17:42:24.117486+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 21.9–25.8%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 19.9–23.7%, 4–6 seats</li><li>Sverigedemokraterna (EFDD): 18.0–21.7%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.2–5.0%, 0–1 seats</li><li>Centerpartiet (ALDE): 7.7–10.3%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.7–10.3%, 2–3 seats</li><li>Liberalerna (ALDE): 4.0–6.1%, 1 seats</li><li>Kristdemokraterna (EPP): 3.2–5.0%, 0–1 seats</li><li>Feministiskt initiativ (S&amp;D): 1.4–2.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-21-Ipsos.html</id>
@@ -239,5 +247,5 @@
     <updated>2018-03-25T15:06:01.255159+02:00</updated>
     <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
   </entry>
-  <dc:date>2018-06-09T15:45:55.206691+02:00</dc:date>
+  <dc:date>2018-06-09T17:42:24.117486+02:00</dc:date>
 </feed>
