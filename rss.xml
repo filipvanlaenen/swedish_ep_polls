@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Jun 2018 17:42:24 +0200</pubDate>
+    <pubDate>Sun, 10 Jun 2018 09:37:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-30-Inizio.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-06-09T17:42:24.117486+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SCB, 27 April–29 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB-seats.png"
+        length="167025"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 23:33:36 +0200</pubDate>
+      <dc:date>2018-06-09T23:33:36.86391+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 27 April–29 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB-coalitions-seats.png"
+        length="121059"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 23:33:36 +0200</pubDate>
+      <dc:date>2018-06-09T23:33:36.86391+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SCB, 27 April–29 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.0–29.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 21.4–23.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 17.4–19.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.7–4.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.9–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–8.2%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.8–5.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.4–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-29-SCB.png"
         length="228683"
         type="image/png"/>
-      <pubDate>Thu, 07 Jun 2018 18:23:11 +0200</pubDate>
-      <dc:date>2018-06-07T18:23:11.740132+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 23:33:36 +0200</pubDate>
+      <dc:date>2018-06-09T23:33:36.86391+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–21 May 2018 – Seat Projections for the Parties</title>
@@ -140,14 +160,34 @@
       <dc:date>2018-05-19T16:28:25.881066+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 16 April–13 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus-seats.png"
+        length="188872"
+        type="image/png"/>
+      <pubDate>Sun, 10 Jun 2018 09:37:56 +0200</pubDate>
+      <dc:date>2018-06-10T09:37:56.151529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 16 April–13 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus-coalitions-seats.png"
+        length="143328"
+        type="image/png"/>
+      <pubDate>Sun, 10 Jun 2018 09:37:56 +0200</pubDate>
+      <dc:date>2018-06-10T09:37:56.151529+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 16 April–13 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 25.7–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.5–21.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 18.2–20.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.8–4.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.6–10.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.7–9.2%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.9–5.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.0–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-05-13-Novus.png"
         length="238439"
         type="image/png"/>
-      <pubDate>Thu, 07 Jun 2018 17:40:55 +0200</pubDate>
-      <dc:date>2018-06-07T17:40:55.032695+02:00</dc:date>
+      <pubDate>Sun, 10 Jun 2018 09:37:56 +0200</pubDate>
+      <dc:date>2018-06-10T09:37:56.151529+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 4–7 May 2018 – Seat Projections for the Parties</title>
@@ -929,6 +969,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-06-09T17:42:24.117486+02:00</dc:date>
+    <dc:date>2018-06-10T09:37:56.151529+02:00</dc:date>
   </channel>
 </rss>
