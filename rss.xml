@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 12 Jun 2018 07:25:42 +0200</pubDate>
+    <pubDate>Tue, 12 Jun 2018 18:59:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-06-Novus.html</link>
@@ -28,6 +28,16 @@
         type="image/png"/>
       <pubDate>Tue, 12 Jun 2018 07:25:42 +0200</pubDate>
       <dc:date>2018-06-12T07:25:42.53859+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-05-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 19.3–24.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.9–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.0–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.3–1.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-05-Sentio.png"
+        length="301196"
+        type="image/png"/>
+      <pubDate>Tue, 12 Jun 2018 18:59:30 +0200</pubDate>
+      <dc:date>2018-06-12T18:59:30.059221+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Seat Projections for the Parties</title>
@@ -989,6 +999,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-06-12T07:25:42.53859+02:00</dc:date>
+    <dc:date>2018-06-12T18:59:30.059221+02:00</dc:date>
   </channel>
 </rss>
