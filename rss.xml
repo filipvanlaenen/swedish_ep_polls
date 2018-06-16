@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 12 Jun 2018 18:59:30 +0200</pubDate>
+    <pubDate>Sat, 16 Jun 2018 15:53:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.4–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.0–22.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 17.0–20.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.3–5.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.6–12.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–11.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.1–5.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1.9–3.2%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.1–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.png"
+        length="271570"
+        type="image/png"/>
+      <pubDate>Sat, 16 Jun 2018 15:53:50 +0200</pubDate>
+      <dc:date>2018-06-16T15:53:50.34448+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-06-Novus.html</link>
@@ -999,6 +1009,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-06-12T18:59:30.059221+02:00</dc:date>
+    <dc:date>2018-06-16T15:53:50.34448+02:00</dc:date>
   </channel>
 </rss>
