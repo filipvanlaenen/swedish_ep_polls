@@ -11,6 +11,8 @@ Last result: **9.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.3% | 17.6–23.2% | 16.6–24.0% | 15.9–24.6% | 15.0–25.6% |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 28.4% | 27.0–29.9% | 26.6–30.4% | 26.2–30.7% | 25.5–31.5% |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.2% | 18.5–21.6% | 18.2–21.9% | 17.7–22.5% |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 18.6% | 17.5–19.7% | 17.3–20.0% | 17.0–20.3% | 16.5–20.8% |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 21.9% | 21.1–22.7% | 20.9–22.9% | 20.7–23.1% | 20.4–23.5% |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21.0% | 19.7–22.4% | 19.4–22.7% | 19.1–23.1% | 18.5–23.7% |
@@ -84,6 +86,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
