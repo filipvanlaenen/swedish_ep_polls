@@ -10,7 +10,7 @@ Last result: **13.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 19.1–24.3% | 18.1–25.3% | 17.6–26.0% | 16.7–27.2% |
+| N/A | [Poll Average](average.html) | 20.7% | 17.1–23.9% | 16.4–25.3% | 15.9–26.0% | 15.1–27.2% |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 17.2% | 16.0–18.5% | 15.7–18.9% | 15.4–19.2% | 14.9–19.9% |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 20.7% | 19.6–21.8% | 19.3–22.2% | 19.0–22.5% | 18.5–23.0% |
@@ -56,17 +56,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% | Last Result |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 2% | 99.6% |  |
-| 17.5–18.5% | 5% | 98% |  |
-| 18.5–19.5% | 6% | 93% |  |
-| 19.5–20.5% | 11% | 87% |  |
-| 20.5–21.5% | 18% | 76% |  |
-| 21.5–22.5% | 20% | 58% | Median |
-| 22.5–23.5% | 19% | 38% |  |
-| 23.5–24.5% | 11% | 19% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% | Last Result |
+| 14.5–15.5% | 1.1% | 99.9% |  |
+| 15.5–16.5% | 5% | 98.7% |  |
+| 16.5–17.5% | 8% | 94% |  |
+| 17.5–18.5% | 10% | 86% |  |
+| 18.5–19.5% | 11% | 76% |  |
+| 19.5–20.5% | 13% | 65% |  |
+| 20.5–21.5% | 17% | 52% | Median |
+| 21.5–22.5% | 14% | 35% |  |
+| 22.5–23.5% | 9% | 20% |  |
+| 23.5–24.5% | 4% | 11% |  |
 | 24.5–25.5% | 4% | 8% |  |
 | 25.5–26.5% | 3% | 4% |  |
 | 26.5–27.5% | 1.1% | 1.3% |  |
@@ -82,13 +83,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 4 | 4 | 4 | 4 | 4 |
-| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 4–5 |
-| [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 4 | 4 | 4 | 3–5 | 3–5 |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 4–5 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 4–5 | 4–6 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 5 | 5 | 5 | 5 | 5–6 |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5–6 | 4–6 | 4–6 |
@@ -130,10 +131,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 12% | 100% |  |
-| 5 | 72% | 88% | Median |
-| 6 | 16% | 16% |  |
+| 3 | 1.2% | 100% | Last Result |
+| 4 | 31% | 98.8% |  |
+| 5 | 59% | 68% | Median |
+| 6 | 9% | 9% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
