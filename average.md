@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 20–24% <br> 5–6 | 3–5% <br> 0–1 | 15–19% <br> 3–5 | 3–5% <br> 0–1 | 26–31% <br> 6–7 | 6–9% <br> 1–2 | 8–11% <br> 2 | 2–4% <br> 0–1 | 1–2% <br> 0 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 5–7% <br> 1–2 | 18–22% <br> 4–5 | 9–12% <br> 2–3 | 8–10% <br> 2–3 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> 5–7 | 3–5% <br> 0–1 | 19–22% <br> 4–5 | 4–6% <br> 1 | 17–20% <br> 4–5 | 10–12% <br> 2–3 | 9–11% <br> 2–3 | 2–3% <br> 0 | 1–2% <br> 0 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 23–25% <br> 5 | 4–5% <br> 1 | 20–22% <br> 5 | 4–5% <br> 1 | 21–23% <br> 5 | 8–10% <br> 2 | 8–10% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 23–25% <br> 5–6 | 4–5% <br> 1 | 20–22% <br> 5 | 4–5% <br> 1 | 21–23% <br> 5 | 8–10% <br> 2 | 8–10% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21–25% <br> 5–6 | 4–6% <br> 1 | 18–22% <br> 4–5 | 4–6% <br> 1 | 19–23% <br> 4–5 | 8–11% <br> 2–3 | 7–10% <br> 2 | 3–5% <br> 0–1 | 2–3% <br> 0 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 19–24% <br> 4–5 | 4–6% <br> 0–1 | 15–20% <br> 3–4 | 6–9% <br> 1–2 | 23–29% <br> 5–7 | 6–9% <br> 1–2 | 8–12% <br> 2–3 | 2–5% <br> 0–1 | 0–1% <br> 0 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 5–6 | 3–5% <br> 0–1 | 20–24% <br> 4–5 | 4–5% <br> 0–1 | 18–21% <br> 4–5 | 8–11% <br> 2 | 7–9% <br> 2 | 4–6% <br> 1 | 1–2% <br> 0 |
@@ -302,8 +302,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 83% | 94% | Median |
+| 0 | 7% | 100% |  |
+| 1 | 82% | 93% | Median |
 | 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
