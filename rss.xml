@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Jun 2018 18:48:45 +0200</pubDate>
+    <pubDate>Fri, 29 Jun 2018 20:53:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-24-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.9–26.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.3–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 20.8–24.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.9–5.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.8–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.0–10.2%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.0–5.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.8–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-24-Novus.png"
+        length="257123"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 20:36:28 +0200</pubDate>
+      <dc:date>2018-06-29T20:36:28.058783+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-18-YouGov.html</link>
@@ -18,6 +28,16 @@
         type="image/png"/>
       <pubDate>Mon, 25 Jun 2018 18:33:25 +0200</pubDate>
       <dc:date>2018-06-25T18:33:25.110375+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8 May–18 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-18-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.9–28.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 20.6–25.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 16.9–21.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.4–5.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.5–10.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.3–9.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.4–5.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1.8–3.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.1–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-18-SKOP.png"
+        length="283568"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 20:53:15 +0200</pubDate>
+      <dc:date>2018-06-29T20:53:15.663948+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–18 June 2018 – Seat Projections for the Parties</title>
@@ -1109,6 +1129,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-06-27T18:48:45.857825+02:00</dc:date>
+    <dc:date>2018-06-29T20:53:15.663948+02:00</dc:date>
   </channel>
 </rss>
