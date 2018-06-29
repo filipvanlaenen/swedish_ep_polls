@@ -10,8 +10,10 @@ Last result: **9.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.1–6.6% | 3.9–7.2% | 3.7–7.7% | 3.4–8.5% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.0–6.6% | 3.8–7.2% | 3.7–7.7% | 3.3–8.5% |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 4.8% | 4.3–5.4% | 4.2–5.6% | 4.0–5.7% | 3.8–6.0% |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
+| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 4.5% | 3.8–5.3% | 3.6–5.5% | 3.4–5.8% | 3.1–6.2% |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.3–6.8% | 5.1–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.9% | 4.4–5.6% | 4.2–5.7% | 4.1–5.9% | 3.8–6.2% |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 4.6% | 4.2–5.0% | 4.1–5.1% | 4.0–5.2% | 3.9–5.5% |
@@ -57,10 +59,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 32% | 99.0% |  |
-| 4.5–5.5% | 40% | 67% | Median |
-| 5.5–6.5% | 16% | 27% |  |
+| 2.5–3.5% | 1.5% | 100% |  |
+| 3.5–4.5% | 34% | 98.5% |  |
+| 4.5–5.5% | 40% | 65% | Median |
+| 5.5–6.5% | 15% | 25% |  |
 | 6.5–7.5% | 7% | 10% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.4% | 0.4% |  |
@@ -76,7 +78,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
@@ -123,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 84% | 93% | Median |
+| 0 | 6% | 100% |  |
+| 1 | 84% | 94% | Median |
 | 2 | 10% | 10% | Last Result |
 | 3 | 0% | 0% |  |
 
