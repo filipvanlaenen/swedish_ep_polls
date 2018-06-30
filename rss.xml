@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Jun 2018 20:53:15 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 09:27:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-24-Novus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-24-Novus.png"
         length="257123"
         type="image/png"/>
-      <pubDate>Fri, 29 Jun 2018 20:36:28 +0200</pubDate>
-      <dc:date>2018-06-29T20:36:28.058783+02:00</dc:date>
+      <pubDate>Sat, 30 Jun 2018 09:18:07 +0200</pubDate>
+      <dc:date>2018-06-30T09:18:07.106036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-18-SKOP.png"
         length="283568"
         type="image/png"/>
-      <pubDate>Fri, 29 Jun 2018 20:53:15 +0200</pubDate>
-      <dc:date>2018-06-29T20:53:15.663948+02:00</dc:date>
+      <pubDate>Sat, 30 Jun 2018 09:27:05 +0200</pubDate>
+      <dc:date>2018-06-30T09:27:05.861531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–18 June 2018 – Seat Projections for the Parties</title>
@@ -1129,6 +1129,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-06-29T20:53:15.663948+02:00</dc:date>
+    <dc:date>2018-06-30T09:27:05.861531+02:00</dc:date>
   </channel>
 </rss>
