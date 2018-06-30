@@ -93,9 +93,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 4–6 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5–6 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 4 | 4 | 4 | 4 | 4 |
+| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5 |
@@ -144,8 +144,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 43% | 100% |  |
-| 5 | 37% | 57% | Median |
+| 4 | 39% | 100% |  |
+| 5 | 40% | 61% | Median |
 | 6 | 11% | 21% |  |
 | 7 | 10% | 10% |  |
 | 8 | 0.1% | 0.1% |  |
