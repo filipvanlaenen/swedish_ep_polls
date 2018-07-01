@@ -95,7 +95,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5–6 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5–6 | 4–6 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |

@@ -86,12 +86,12 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 4 | 4 | 4 | 3–5 | 3–5 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 4–5 |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 4–5 | 4–5 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -136,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% | Last Result |
-| 4 | 38% | 98% |  |
-| 5 | 57% | 60% | Median |
+| 4 | 40% | 98% |  |
+| 5 | 56% | 58% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

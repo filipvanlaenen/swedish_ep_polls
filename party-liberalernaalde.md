@@ -79,13 +79,13 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 1 |
+| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 1 | 1 | 1 | 1 | 0–2 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
