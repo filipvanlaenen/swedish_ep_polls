@@ -11,6 +11,7 @@ Last result: **13.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 17.1–22.8% | 16.4–23.4% | 15.9–23.9% | 15.1–25.0% |
+| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 19.9% | 18.6–21.2% | 18.3–21.6% | 18.0–21.9% | 17.4–22.5% |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 20.6% | 19.5–21.8% | 19.2–22.1% | 18.9–22.4% | 18.4–23.0% |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 19.8% | 18.8–20.8% | 18.5–21.1% | 18.3–21.4% | 17.9–21.9% |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 17.2% | 16.0–18.5% | 15.7–18.9% | 15.4–19.2% | 14.9–19.9% |
@@ -85,6 +86,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 4–5 | 4–5 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 4 | 4 | 4 | 3–5 | 3–5 |
@@ -136,8 +138,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% | Last Result |
-| 4 | 40% | 98% |  |
-| 5 | 56% | 58% | Median |
+| 4 | 41% | 98% |  |
+| 5 | 55% | 57% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

@@ -11,6 +11,7 @@ Last result: **6.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.9% | 7.4–10.1% | 7.1–10.5% | 6.9–10.8% | 6.4–11.5% |
+| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 9.1% | 8.2–10.1% | 8.0–10.4% | 7.8–10.6% | 7.4–11.1% |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 8.9% | 8.2–9.8% | 7.9–10.0% | 7.8–10.2% | 7.4–10.6% |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 9.0% | 8.3–9.8% | 8.1–10.0% | 8.0–10.2% | 7.7–10.5% |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 9.3% | 8.4–10.3% | 8.1–10.6% | 7.9–10.9% | 7.5–11.4% |
@@ -79,6 +80,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 2 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 2 | 2 | 2 | 2–3 | 2–3 |
