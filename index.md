@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | [Poll Average](average.html) | 20–29% <br> 5–7 | 3–6% <br> 0–1 | 16–24% <br> 4–5 | 4–8% <br> 0–2 | 18–29% <br> 4–7 | 6–12% <br> 1–3 | 7–11% <br> 2 | 2–5% <br> 0–1 | 0–3% <br> 0 |
-| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 24–28% <br> N/A | 3–5% <br> N/A | 18–22% <br> N/A | 3–5% <br> N/A | 19–23% <br> N/A | 8–11% <br> N/A | 8–11% <br> N/A | 2–3% <br> N/A | 1–3% <br> N/A |
+| [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 24–28% <br> 5–7 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 8–11% <br> 2–3 | 8–11% <br> 2 | 2–3% <br> 0 | 1–3% <br> 0 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 19–22% <br> 4–5 | 4–6% <br> 1 | 19–22% <br> 4–5 | 8–11% <br> 2 | 8–10% <br> 2 | 4–5% <br> 0–1 | 1–2% <br> 0 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 23–26% <br> 5–6 | 4–6% <br> 1 | 18–21% <br> 4–5 | 4–6% <br> 1 | 21–24% <br> 5–6 | 8–10% <br> 2 | 8–10% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 20–24% <br> 4–6 | 3–5% <br> 0–1 | 15–19% <br> 3–5 | 3–5% <br> 0–1 | 26–31% <br> 6–8 | 6–9% <br> 1–2 | 8–11% <br> 2–3 | 2–4% <br> 0–1 | 1–2% <br> 0 |
