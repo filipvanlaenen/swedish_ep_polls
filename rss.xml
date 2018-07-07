@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Jul 2018 14:41:29 +0200</pubDate>
+    <pubDate>Sat, 07 Jul 2018 10:46:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 28 June–3 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 18.5–24.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.4–21.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (EFDD): 22.6–28.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.6–5.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 5.5–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.7–13.2%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.3–7.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.8–5.7%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Sentio.png"
+        length="314035"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jul 2018 10:46:24 +0200</pubDate>
+      <dc:date>2018-07-07T10:46:24.473919+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 25 June–3 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Demoskop.html#seats</link>
@@ -1269,6 +1279,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-07-05T14:41:29.497949+02:00</dc:date>
+    <dc:date>2018-07-07T10:46:24.473919+02:00</dc:date>
   </channel>
 </rss>
