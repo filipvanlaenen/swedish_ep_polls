@@ -6,6 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | [Poll Average](average.html) | 20–29% <br> 5–7 | 3–6% <br> 0–1 | 16–24% <br> 4–5 | 4–8% <br> 0–2 | 18–29% <br> 4–7 | 6–12% <br> 1–3 | 7–11% <br> 2 | 2–5% <br> 0–1 | 0–3% <br> 0 |
+| [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 18–24% <br> 4–6 | 3–5% <br> 0–1 | 15–21% <br> 3–4 | 4–8% <br> 1–2 | 23–29% <br> 5–6 | 5–9% <br> 1–2 | 9–13% <br> 2–3 | 3–6% <br> 0–1 | 1–2% <br> 0 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 24–28% <br> 5–7 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 8–11% <br> 2–3 | 8–11% <br> 2 | 2–3% <br> 0 | 1–3% <br> 0 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 19–22% <br> 4–5 | 4–6% <br> 1 | 19–22% <br> 4–5 | 8–11% <br> 2 | 8–10% <br> 2 | 4–5% <br> 0–1 | 1–2% <br> 0 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 23–26% <br> 5–6 | 4–6% <br> 1 | 18–21% <br> 4–5 | 4–6% <br> 1 | 21–24% <br> 5–6 | 8–10% <br> 2 | 8–10% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
@@ -13,7 +14,6 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 24–29% <br> 5–7 | 3–6% <br> 0–1 | 21–25% <br> 5–6 | 3–6% <br> 0–1 | 17–21% <br> 4–5 | 8–11% <br> 2 | 6–9% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 5–7% <br> 1–2 | 18–22% <br> 4–5 | 9–12% <br> 2–3 | 8–10% <br> 2 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> 5–7 | 3–5% <br> 0–1 | 19–22% <br> 4–5 | 4–6% <br> 1 | 17–20% <br> 4–5 | 10–12% <br> 2–3 | 9–11% <br> 2–3 | 2–3% <br> 0 | 1–2% <br> 0 |
-| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 19–24% <br> 4–5 | 4–6% <br> 0–1 | 15–20% <br> 3–4 | 6–9% <br> 1–2 | 23–29% <br> 5–7 | 6–9% <br> 1–2 | 8–12% <br> 2–3 | 2–5% <br> 0–1 | 0–1% <br> 0 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> 6–7 | 4–5% <br> 0–1 | 21–24% <br> 5 | 4–5% <br> 0–1 | 17–20% <br> 4–5 | 8–10% <br> 2 | 7–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
