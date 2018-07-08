@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-07-05T14:41:29.497949+02:00</updated>
+  <updated>2018-07-08T20:16:45.293971+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 18.5–24.4%, 4–6 seats</li><li>Moderata samlingspartiet (EPP): 15.4–21.0%, 3–5 seats</li><li>Sverigedemokraterna (EFDD): 22.6–28.8%, 5–7 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.6–5.4%, 0–1 seats</li><li>Centerpartiet (ALDE): 5.5–9.2%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 8.7–13.2%, 2–3 seats</li><li>Liberalerna (ALDE): 4.3–7.7%, 1–2 seats</li><li>Kristdemokraterna (EPP): 2.8–5.7%, 0–1 seats</li><li>Feministiskt initiativ (S&amp;D): 0.5–2.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Sentio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Sentio.html"/>
+    <title>Opinion Poll by Sentio for Nyheter Idag, 28 June–3 July 2018</title>
+    <updated>2018-07-08T20:16:45.293971+02:00</updated>
+    <dc:date>2018-07-08T20:16:45.293971+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.8–28.1%, 5–7 seats</li><li>Moderata samlingspartiet (EPP): 18.0–21.9%, 4–5 seats</li><li>Sverigedemokraterna (EFDD): 19.1–23.0%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.3–5.3%, 0–1 seats</li><li>Centerpartiet (ALDE): 8.4–11.3%, 2–3 seats</li><li>Vänsterpartiet (GUE/NGL): 7.8–10.6%, 2 seats</li><li>Liberalerna (ALDE): 3.4–5.4%, 0–1 seats</li><li>Kristdemokraterna (EPP): 1.8–3.4%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 1.4–2.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-07-03-Demoskop.html</id>
@@ -343,5 +351,5 @@
     <updated>2018-03-25T15:06:01.255159+02:00</updated>
     <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
   </entry>
-  <dc:date>2018-07-05T14:41:29.497949+02:00</dc:date>
+  <dc:date>2018-07-08T20:16:45.293971+02:00</dc:date>
 </feed>
