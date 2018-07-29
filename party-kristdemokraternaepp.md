@@ -82,7 +82,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–1 |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
