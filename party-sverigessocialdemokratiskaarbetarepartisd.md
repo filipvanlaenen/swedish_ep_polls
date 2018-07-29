@@ -11,6 +11,9 @@ Last result: **24.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.3% | 21.6–27.9% | 21.0–28.5% | 20.4–28.9% | 19.5–29.5% |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 23.7% | N/A | N/A | N/A | N/A |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 25.9% | N/A | N/A | N/A | N/A |
+| [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 21.2% | 19.8–22.8% | 19.4–23.2% | 19.0–23.6% | 18.3–24.4% |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 21.3% | 19.4–23.3% | 18.9–23.9% | 18.5–24.4% | 17.6–25.3% |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 25.9% | 24.5–27.3% | 24.1–27.7% | 23.8–28.1% | 23.2–28.8% |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 23.9% | 22.7–25.1% | 22.4–25.5% | 22.1–25.8% | 21.6–26.4% |
@@ -86,6 +89,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP |  |  |  |  |  |
+| [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 5 | 5 | 5 | 5 | 4–5 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
