@@ -11,8 +11,8 @@ Last result: **13.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 17.1–22.8% | 16.4–23.4% | 15.9–23.9% | 15.1–25.0% |
-| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 19.6% | N/A | N/A | N/A | N/A |
-| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 19.2% | N/A | N/A | N/A | N/A |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 19.6% | 18.9–20.3% | 18.7–20.6% | 18.5–20.7% | 18.2–21.1% |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 19.2% | 17.8–20.7% | 17.4–21.2% | 17.1–21.6% | 16.4–22.3% |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 15.9% | 14.6–17.3% | 14.3–17.7% | 13.9–18.1% | 13.4–18.7% |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 18.0% | 16.3–20.0% | 15.8–20.5% | 15.4–21.0% | 14.6–21.9% |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 19.9% | 18.6–21.2% | 18.3–21.6% | 18.0–21.9% | 17.4–22.5% |
@@ -90,8 +90,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP |  |  |  |  |  |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 4–5 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |

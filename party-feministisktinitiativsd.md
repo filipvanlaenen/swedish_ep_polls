@@ -12,7 +12,7 @@ Last result: **5.5%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.6–2.6% | 0.4–2.8% | 0.3–3.1% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
-| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0.9% | N/A | N/A | N/A | N/A |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–1.9% |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 1.1% | 0.7–1.8% | 0.6–1.9% | 0.5–2.1% | 0.4–2.5% |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.4–2.7% | 1.2–3.0% |
@@ -82,7 +82,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP |  |  |  |  |  |
+| [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
