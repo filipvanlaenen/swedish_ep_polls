@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Aug 2018 21:19:34 +0200</pubDate>
+    <pubDate>Fri, 03 Aug 2018 21:22:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 27 July–1 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-01-Sentio.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-01-Sentio.png"
         length="313735"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 21:19:34 +0200</pubDate>
-      <dc:date>2018-08-03T21:19:34.660607+02:00</dc:date>
+      <pubDate>Fri, 03 Aug 2018 21:22:46 +0200</pubDate>
+      <dc:date>2018-08-03T21:22:46.665944+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 25 June–22 July 2018 – Seat Projections for the Parties</title>
@@ -1399,6 +1399,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-08-03T21:19:34.660607+02:00</dc:date>
+    <dc:date>2018-08-03T21:22:46.665944+02:00</dc:date>
   </channel>
 </rss>
