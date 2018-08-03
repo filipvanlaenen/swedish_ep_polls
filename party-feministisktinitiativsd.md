@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.6–2.6% | 0.4–2.8% | 0.3–3.1% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.2% | 0.7–2.3% | 0.6–2.5% | 0.5–2.8% |
+| [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.7% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–1.9% |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
@@ -64,10 +65,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% |  |
-| 0.5–1.5% | 41% | 95% |  |
-| 1.5–2.5% | 48% | 54% | Median |
-| 2.5–3.5% | 6% | 6% |  |
+| 0.0–0.5% | 1.1% | 100% |  |
+| 0.5–1.5% | 57% | 98.9% | Median |
+| 1.5–2.5% | 40% | 42% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
@@ -81,6 +82,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |

@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.4–10.1% | 7.1–10.5% | 6.9–10.8% | 6.4–11.5% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.8–11.0% | 7.4–11.5% | 7.1–12.0% | 6.8–12.9% |
+| [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 12.7% | 11.2–14.4% | 10.8–14.8% | 10.5–15.3% | 9.8–16.1% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 10.1% | 9.6–10.7% | 9.4–10.9% | 9.3–11.0% | 9.0–11.3% |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 10.3% | 9.3–11.6% | 9.0–11.9% | 8.7–12.2% | 8.2–12.8% |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 9.8% | 8.8–11.0% | 8.5–11.3% | 8.3–11.6% | 7.8–12.2% |
@@ -64,15 +65,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.8% | 100% | Last Result |
-| 6.5–7.5% | 13% | 99.2% |  |
-| 7.5–8.5% | 25% | 87% |  |
-| 8.5–9.5% | 37% | 62% | Median |
-| 9.5–10.5% | 20% | 25% |  |
-| 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% | Last Result |
+| 6.5–7.5% | 7% | 99.9% |  |
+| 7.5–8.5% | 13% | 93% |  |
+| 8.5–9.5% | 29% | 80% |  |
+| 9.5–10.5% | 33% | 51% | Median |
+| 10.5–11.5% | 13% | 18% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.8% | 1.0% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -83,7 +85,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2–3 | 2–3 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -139,9 +142,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% | Last Result |
-| 2 | 97% | 98.8% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 0.2% | 100% | Last Result |
+| 2 | 90% | 99.8% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 
