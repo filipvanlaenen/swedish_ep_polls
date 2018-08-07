@@ -11,6 +11,7 @@ Last result: **5.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.2% | 2.4–4.5% | 2.2–4.9% | 2.1–5.1% | 1.8–5.6% |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 4.8% | 4.3–5.4% | 4.1–5.6% | 4.0–5.7% | 3.7–6.1% |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 2.4% | 1.8–3.3% | 1.7–3.6% | 1.5–3.8% | 1.3–4.3% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 3.2% | 2.9–3.6% | 2.8–3.7% | 2.7–3.7% | 2.6–3.9% |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 3.3% | 2.7–4.1% | 2.6–4.3% | 2.4–4.5% | 2.2–4.9% |
@@ -83,6 +84,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 0–1 | 0–1 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0–1 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
