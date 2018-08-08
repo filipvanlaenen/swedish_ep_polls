@@ -11,7 +11,7 @@ Last result: **24.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.5% | 21.1–27.9% | 20.3–28.5% | 19.7–28.9% | 18.7–29.5% |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 24.9% | 23.7–26.1% | 23.4–26.4% | 23.2–26.7% | 22.6–27.3% |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 24.9% | 23.8–26.1% | 23.5–26.4% | 23.2–26.7% | 22.6–27.3% |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 21.2% | 19.3–23.2% | 18.8–23.7% | 18.4–24.2% | 17.5–25.2% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 23.7% | 22.9–24.5% | 22.7–24.7% | 22.5–24.9% | 22.1–25.3% |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 25.9% | 24.3–27.6% | 23.9–28.1% | 23.5–28.5% | 22.7–29.3% |
@@ -92,7 +92,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 5–6 | 5–6 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 6 | 6 | 5–7 | 5–7 | 5–7 |
