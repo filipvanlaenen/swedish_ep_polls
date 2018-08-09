@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 08 Aug 2018 18:45:13 +0200</pubDate>
+    <pubDate>Wed, 08 Aug 2018 22:31:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 25 July–2 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio-seats.png"
+        length="208647"
+        type="image/png"/>
+      <pubDate>Wed, 08 Aug 2018 22:31:36 +0200</pubDate>
+      <dc:date>2018-08-08T22:31:36.706932+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 25 July–2 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio-coalitions-seats.png"
+        length="140381"
+        type="image/png"/>
+      <pubDate>Wed, 08 Aug 2018 22:31:36 +0200</pubDate>
+      <dc:date>2018-08-08T22:31:36.706932+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 25 July–2 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-02-Inizio.png"
         length="276564"
         type="image/png"/>
-      <pubDate>Wed, 08 Aug 2018 18:45:13 +0200</pubDate>
-      <dc:date>2018-08-08T18:45:13.476832+02:00</dc:date>
+      <pubDate>Wed, 08 Aug 2018 22:31:36 +0200</pubDate>
+      <dc:date>2018-08-08T22:31:36.706932+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 27 July–1 August 2018 – Seat Projections for the Parties</title>
@@ -1429,6 +1449,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-08-08T18:45:13.476832+02:00</dc:date>
+    <dc:date>2018-08-08T22:31:36.706932+02:00</dc:date>
   </channel>
 </rss>
