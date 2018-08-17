@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Aug 2018 10:03:44 +0200</pubDate>
+    <pubDate>Fri, 17 Aug 2018 12:34:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 8–15 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-15-Demoskop.html</link>
@@ -22,12 +22,12 @@
     <item>
       <title>Opinion Poll by Novus for SVT, 23 July–12 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-12-Novus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.0–25.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.0–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 20.4–22.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.6–5.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.7–10.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.7–10.5%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.2–6.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.5–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.8–25.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.8–19.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 20.2–22.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.5–5.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.7–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.7–10.4%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.2–6.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.5–3.5%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.9–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-12-Novus.png"
-        length="246548"
+        length="267234"
         type="image/png"/>
-      <pubDate>Thu, 16 Aug 2018 10:03:44 +0200</pubDate>
-      <dc:date>2018-08-16T10:03:44.275705+02:00</dc:date>
+      <pubDate>Fri, 17 Aug 2018 12:34:54 +0200</pubDate>
+      <dc:date>2018-08-17T12:34:54.551718+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 6–9 August 2018 – Voting Intentions</title>
@@ -1479,6 +1479,6 @@
       <pubDate>Sun, 25 Mar 2018 15:06:01 +0200</pubDate>
       <dc:date>2018-03-25T15:06:01.255159+02:00</dc:date>
     </item>
-    <dc:date>2018-08-16T10:03:44.275705+02:00</dc:date>
+    <dc:date>2018-08-17T12:34:54.551718+02:00</dc:date>
   </channel>
 </rss>
