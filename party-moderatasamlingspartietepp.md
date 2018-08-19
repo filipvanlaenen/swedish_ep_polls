@@ -96,13 +96,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 3–5 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 5 | 5 | 5 | 5 | 5 |
-| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5 | 5 | 5 | 4–5 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 3–5 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -161,9 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% | Last Result |
-| 4 | 37% | 95% |  |
-| 5 | 58% | 58% | Median |
-| 6 | 0.2% | 0.2% |  |
+| 4 | 59% | 95% | Median |
+| 5 | 35% | 36% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

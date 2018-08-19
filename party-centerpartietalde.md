@@ -92,13 +92,13 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
-| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 3 | 3 | 3 | 3 | 3 |
-| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2 | 2 | 1–2 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2–3 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2–3 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
@@ -156,9 +156,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% | Last Result |
-| 2 | 85% | 99.7% | Median |
-| 3 | 14% | 14% |  |
+| 1 | 2% | 100% | Last Result |
+| 2 | 88% | 98% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 

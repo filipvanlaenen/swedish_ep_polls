@@ -97,13 +97,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 5 | 5 | 5 | 5 | 5 |
-| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 4 | 4 | 4–5 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 6 | 5–6 | 5–7 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -161,9 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 13% | 100% |  |
-| 5 | 34% | 87% | Last Result |
-| 6 | 49% | 52% | Median |
+| 4 | 3% | 100% |  |
+| 5 | 40% | 97% | Last Result |
+| 6 | 53% | 57% | Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 

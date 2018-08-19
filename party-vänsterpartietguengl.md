@@ -92,13 +92,13 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
-| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2–3 | 2–3 |
+| [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 2 |
-| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2 | 2 | 2 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2–3 | 2–3 |
+| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2–3 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -157,8 +157,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% | Last Result |
-| 2 | 96% | 99.8% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 92% | 99.8% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 
