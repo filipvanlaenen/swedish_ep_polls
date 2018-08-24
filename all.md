@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 5–7% <br> 1–2 | 15–19% <br> 4–5 | 4–7% <br> 1 | 18–21% <br> 4–5 | 8–10% <br> 2 | 9–11% <br> 2–3 | 4–6% <br> 0–2 | N/A <br> N/A |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 23–26% <br> 5–6 | 5–7% <br> 1 | 16–19% <br> 3–4 | 5–7% <br> 1–2 | 18–22% <br> 4–5 | 7–9% <br> 2 | 8–11% <br> 2–3 | 4–6% <br> 1 | 1–2% <br> 0 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 23–27% <br> 5–6 | 5–7% <br> 1–2 | 17–21% <br> 4–5 | 4–6% <br> 1 | 17–21% <br> 4–5 | 9–12% <br> 2–3 | 7–10% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 20–24% <br> 4–5 | 4–6% <br> 1 | 14–18% <br> 4 | 4–7% <br> 1 | 22–26% <br> 5–6 | 7–9% <br> 1–2 | 8–11% <br> 2 | 3–5% <br> 0–1 | 1–3% <br> 0 |
