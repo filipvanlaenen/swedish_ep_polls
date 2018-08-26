@@ -115,10 +115,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -199,9 +199,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 9% | 100% |  |
-| 5 | 45% | 91% | Last Result, Median |
-| 6 | 44% | 47% |  |
-| 7 | 2% | 2% |  |
+| 5 | 46% | 91% | Last Result, Median |
+| 6 | 43% | 46% |  |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
