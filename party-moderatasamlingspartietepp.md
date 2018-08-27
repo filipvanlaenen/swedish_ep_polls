@@ -10,7 +10,9 @@ Last result: **13.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.2–22.2% | 15.6–22.7% | 15.1–23.1% | 14.3–23.7% |
+| N/A | [Poll Average](average.html) | 18.7% | 16.2–22.0% | 15.6–22.7% | 15.1–23.1% | 14.3–23.7% |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.9% | 17.0–18.9% | 16.7–19.2% | 16.5–19.4% | 16.1–19.9% |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 20.3% | 19.4–21.2% | 19.1–21.5% | 18.9–21.7% | 18.5–22.2% |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.1% | 16.0–18.3% | 15.7–18.6% | 15.5–18.9% | 15.0–19.5% |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.6% | 16.9–18.4% | 16.6–18.6% | 16.5–18.8% | 16.1–19.2% |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 17.1% | 16.1–18.2% | 15.8–18.5% | 15.5–18.8% | 15.1–19.3% |
@@ -95,13 +97,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0.9% | 99.9% | Last Result |
 | 14.5–15.5% | 4% | 99.1% |  |
 | 15.5–16.5% | 10% | 95% |  |
-| 16.5–17.5% | 18% | 85% |  |
-| 17.5–18.5% | 17% | 68% |  |
-| 18.5–19.5% | 13% | 51% | Median |
-| 19.5–20.5% | 13% | 38% |  |
-| 20.5–21.5% | 10% | 25% |  |
-| 21.5–22.5% | 8% | 15% |  |
-| 22.5–23.5% | 6% | 7% |  |
+| 16.5–17.5% | 16% | 85% |  |
+| 17.5–18.5% | 17% | 69% |  |
+| 18.5–19.5% | 15% | 53% | Median |
+| 19.5–20.5% | 16% | 37% |  |
+| 20.5–21.5% | 9% | 21% |  |
+| 21.5–22.5% | 6% | 13% |  |
+| 22.5–23.5% | 5% | 6% |  |
 | 23.5–24.5% | 0.8% | 0.8% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -115,6 +117,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -198,8 +202,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 1.2% | 100% | Last Result |
-| 4 | 63% | 98.8% | Median |
-| 5 | 35% | 36% |  |
+| 4 | 70% | 98.8% | Median |
+| 5 | 28% | 28% |  |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 

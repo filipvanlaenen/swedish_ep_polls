@@ -10,7 +10,9 @@ Last result: **6.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.7–10.4% | 7.3–11.0% | 7.1–11.6% | 6.8–12.6% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.7–10.4% | 7.3–11.0% | 7.1–11.6% | 6.8–12.6% |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.1% | 8.4–9.9% | 8.2–10.1% | 8.1–10.3% | 7.8–10.6% |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 8.8% | 8.2–9.5% | 8.0–9.6% | 7.8–9.8% | 7.6–10.2% |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.8% | 9.0–10.8% | 8.7–11.0% | 8.5–11.2% | 8.2–11.7% |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.5% | 8.9–10.1% | 8.8–10.3% | 8.6–10.4% | 8.4–10.7% |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.7–10.9% |
@@ -95,8 +97,8 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.1% | 100% | Last Result |
 | 6.5–7.5% | 8% | 99.9% |  |
 | 7.5–8.5% | 20% | 92% |  |
-| 8.5–9.5% | 39% | 72% | Median |
-| 9.5–10.5% | 24% | 33% |  |
+| 8.5–9.5% | 42% | 72% | Median |
+| 9.5–10.5% | 21% | 30% |  |
 | 10.5–11.5% | 6% | 9% |  |
 | 11.5–12.5% | 2% | 3% |  |
 | 12.5–13.5% | 0.5% | 0.6% |  |
@@ -113,6 +115,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 2 |
