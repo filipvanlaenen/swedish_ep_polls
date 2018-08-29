@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 28 Aug 2018 21:08:53 +0200</pubDate>
+    <pubDate>Wed, 29 Aug 2018 20:28:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.7–26.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.2–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.8–20.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.4–6.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.9–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.4–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.7–6.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.7–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.png"
+        length="272324"
+        type="image/png"/>
+      <pubDate>Wed, 29 Aug 2018 19:26:47 +0200</pubDate>
+      <dc:date>2018-08-29T19:26:47.011994+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 21–28 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.7–27.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.7–17.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.7–22.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.7–6.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.2–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.6–9.9%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.7–7.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.8%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.7–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-SKOP.png"
+        length="275691"
+        type="image/png"/>
+      <pubDate>Wed, 29 Aug 2018 19:52:16 +0200</pubDate>
+      <dc:date>2018-08-29T19:52:16.452365+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 22–27 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-Sifo.html</link>
@@ -18,6 +38,16 @@
         type="image/png"/>
       <pubDate>Tue, 28 Aug 2018 21:08:53 +0200</pubDate>
       <dc:date>2018-08-28T21:08:53.83736+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 20–27 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.3–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.2–17.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.7–21.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.3–5.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.2–10.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.9–10.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.9–7.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.9–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-SKOP.png"
+        length="274510"
+        type="image/png"/>
+      <pubDate>Wed, 29 Aug 2018 20:28:07 +0200</pubDate>
+      <dc:date>2018-08-29T20:28:07.864804+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 21–26 August 2018 – Voting Intentions</title>
@@ -849,6 +879,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-08-28T21:08:53.83736+02:00</dc:date>
+    <dc:date>2018-08-29T20:28:07.864804+02:00</dc:date>
   </channel>
 </rss>
