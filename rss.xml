@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 27 Aug 2018 19:44:56 +0200</pubDate>
+    <pubDate>Tue, 28 Aug 2018 21:08:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 22–27 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.3–27.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.9–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.4–20.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.7–6.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.5–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.4–10.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.5–6.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-Sifo.png"
+        length="256933"
+        type="image/png"/>
+      <pubDate>Tue, 28 Aug 2018 21:08:53 +0200</pubDate>
+      <dc:date>2018-08-28T21:08:53.83736+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 21–26 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Sifo.html</link>
@@ -839,6 +849,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-08-27T19:44:56.49812+02:00</dc:date>
+    <dc:date>2018-08-28T21:08:53.83736+02:00</dc:date>
   </channel>
 </rss>
