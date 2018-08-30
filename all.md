@@ -5,8 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 5–6 | 5–7% <br> 1–2 | 16–19% <br> 3–4 | 4–6% <br> 1 | 16–19% <br> 3–4 | 8–10% <br> 2 | 10–13% <br> 2–3 | 5–6% <br> 1 | N/A <br> N/A |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 5–6 | 4–6% <br> 1 | 16–19% <br> 4 | 5–6% <br> 1 | 18–21% <br> 4 | 8–10% <br> 2 | 9–12% <br> 2 | 5–7% <br> 1–2 | 1% <br> 0 |
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 24–27% <br> 6 | 5–7% <br> 1 | 15–18% <br> 3–4 | 6–8% <br> 1–2 | 19–22% <br> 4 | 7–9% <br> 2 | 8–10% <br> 2 | 5–7% <br> 1 | 1–2% <br> 0 |
+| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 22–26% <br> 5–6 | 5–7% <br> 1 | 18–21% <br> 4 | 5–7% <br> 1 | 16–20% <br> 4 | 7–9% <br> 2 | 9–12% <br> 2 | 4–6% <br> 1 | N/A <br> N/A |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> 6 | 5–6% <br> 1 | 17–20% <br> 4 | 4–6% <br> 1 | 17–20% <br> 4 | 7–10% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 23–26% <br> 5–6 | 4–6% <br> 1 | 15–18% <br> 3–4 | 6–8% <br> 1–2 | 19–22% <br> 4–5 | 8–10% <br> 2 | 8–10% <br> 2 | 5–7% <br> 1–2 | 1–2% <br> 0 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 25–28% <br> 5–6 | 5–7% <br> 1 | 16–19% <br> 4 | 5–7% <br> 1–2 | 17–20% <br> 4 | 8–10% <br> 2–3 | 8–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
