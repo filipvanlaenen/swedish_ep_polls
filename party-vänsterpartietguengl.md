@@ -11,6 +11,9 @@ Last result: **6.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.1% | 9.0–11.2% | 8.6–11.5% | 8.4–11.9% | 7.9–12.7% |
+| [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 11.1% | 10.4–11.9% | 10.2–12.1% | 10.0–12.3% | 9.6–12.7% |
+| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 9.4% | 8.7–10.2% | 8.5–10.4% | 8.3–10.6% | 8.0–11.0% |
+| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 10.5% | 9.6–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.4% |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.7% | 9.8–11.7% | 9.6–12.0% | 9.4–12.2% | 9.0–12.7% |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.4% |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 10.5% | 9.8–11.2% | 9.6–11.4% | 9.4–11.6% | 9.1–12.0% |
@@ -127,6 +130,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 2 | 2 | 2 | 2–3 | 2–3 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |

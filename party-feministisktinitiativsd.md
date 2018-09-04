@@ -11,6 +11,9 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.8–2.3% | 0.7–2.5% | 0.6–2.7% | 0.5–3.0% |
+| [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0.0% | N/A | N/A | N/A | N/A |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
@@ -123,6 +126,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
