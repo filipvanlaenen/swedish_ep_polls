@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21–24% <br> 5 | 5–7% <br> 1 | 17–20% <br> 4–5 | 5–7% <br> 1–2 | 18–21% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2–3 | 6–8% <br> 1–2 | 1–2% <br> 0 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 23–27% <br> 5 | 5–6% <br> 1 | 16–19% <br> 4 | 6–8% <br> 1–2 | 16–18% <br> 3–4 | 8–10% <br> 2 | 9–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 21–24% <br> 5 | 5–6% <br> 1 | 16–19% <br> 3–4 | 5–6% <br> 1 | 18–22% <br> 4 | 7–9% <br> 2 | 10–12% <br> 2–3 | 6–8% <br> 2 | 1–2% <br> 0 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 23–28% <br> 5 | 4–6% <br> 1 | 16–20% <br> 4 | 5–7% <br> 1–2 | 16–20% <br> 4 | 8–10% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 5–6 | 5–6% <br> 0–1 | 16–18% <br> 3–4 | 6–8% <br> 1–2 | 16–19% <br> 3–4 | 7–9% <br> 2 | 10–12% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 21–25% <br> 4–5 | 5–7% <br> 1–2 | 15–18% <br> 3–4 | 4–6% <br> 0–1 | 18–22% <br> 4–5 | 7–9% <br> 2 | 10–13% <br> 2–3 | 6–8% <br> 1–2 | 1–2% <br> 0 |
