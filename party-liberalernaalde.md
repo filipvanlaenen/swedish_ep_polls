@@ -18,7 +18,7 @@ Last result: **9.9%** (General Election of 25 May 2014)
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 6.0% | 5.4–6.7% | 5.3–6.8% | 5.1–7.0% | 4.9–7.3% |
 | [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 5.4% | 4.8–6.1% | 4.6–6.3% | 4.5–6.5% | 4.2–6.9% |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.9% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
-| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 5.7% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 5.7% | 4.9–6.6% | 4.7–6.8% | 4.6–7.0% | 4.2–7.5% |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 5.4% | 4.8–6.1% | 4.6–6.3% | 4.5–6.5% | 4.2–6.8% |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.5% | 5.0–6.1% | 4.8–6.2% | 4.7–6.4% | 4.5–6.6% |
 | [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 5.8% | 5.1–6.5% | 5.0–6.7% | 4.8–6.9% | 4.5–7.3% |
@@ -140,7 +140,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1–2 | 1–2 |
 | [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro |  |  |  |  |  |
+| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 1 | 1 | 1 | 1 | 1 |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1 |
 | [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1–2 |
