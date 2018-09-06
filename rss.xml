@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Sep 2018 20:53:04 +0200</pubDate>
+    <pubDate>Wed, 05 Sep 2018 22:48:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 30 August–4 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-04-Sifo.html</link>
@@ -78,6 +78,16 @@
         type="image/png"/>
       <pubDate>Mon, 03 Sep 2018 17:43:19 +0200</pubDate>
       <dc:date>2018-09-03T17:43:19.275392+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 30 August–1 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-01-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 21.6–26.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.6–18.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 22.6–27.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.8–4.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 4.9–7.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.9–11.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.6–7.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.8–6.1%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.3–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-01-YouGov.png"
+        length="293296"
+        type="image/png"/>
+      <pubDate>Wed, 05 Sep 2018 22:48:27 +0200</pubDate>
+      <dc:date>2018-09-05T22:48:27.271544+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 25–31 August 2018 – Voting Intentions</title>
@@ -1029,6 +1039,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-09-05T20:53:04.950743+02:00</dc:date>
+    <dc:date>2018-09-05T22:48:27.271544+02:00</dc:date>
   </channel>
 </rss>
