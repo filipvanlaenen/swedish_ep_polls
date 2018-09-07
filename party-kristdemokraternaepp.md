@@ -11,7 +11,9 @@ Last result: **5.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.1% | 3.7–6.6% | 3.4–6.9% | 3.2–7.2% | 2.8–7.8% |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.9% | 5.4–6.4% | 5.3–6.6% | 5.1–6.7% | 4.9–7.0% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 6.6% | 6.0–7.3% | 5.9–7.5% | 5.7–7.6% | 5.4–7.9% |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.9% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.6% | 6.0–7.2% | 5.9–7.4% | 5.7–7.5% | 5.5–7.8% |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.1–8.1% | 5.8–8.4% |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
@@ -135,7 +137,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1–2 | 1–2 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 2 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
