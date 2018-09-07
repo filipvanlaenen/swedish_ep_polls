@@ -377,6 +377,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–fi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 10% | 100% |  |
@@ -387,6 +389,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 12% | 100% | Last Result |
@@ -395,6 +399,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -407,6 +413,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Liberalerna (ALDE) – Centerpartiet (ALDE)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-l–c.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
@@ -417,6 +425,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Vänsterpartiet (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
@@ -425,6 +435,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
