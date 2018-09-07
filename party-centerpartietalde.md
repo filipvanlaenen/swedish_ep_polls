@@ -11,6 +11,8 @@ Last result: **6.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 7.2–9.8% | 6.9–10.1% | 6.6–10.4% | 6.1–11.0% |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 10.0% | 9.4–10.7% | 9.2–10.9% | 9.0–11.1% | 8.7–11.4% |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 8.6% | 7.8–9.5% | 7.6–9.8% | 7.4–10.0% | 7.0–10.4% |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 10.0% | 9.3–10.7% | 9.2–10.9% | 9.0–11.1% | 8.7–11.4% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 7.7% | 7.1–8.4% | 6.9–8.6% | 6.7–8.8% | 6.4–9.1% |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.6% | 8.8–10.5% | 8.6–10.8% | 8.4–11.0% | 8.0–11.5% |
@@ -138,6 +140,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 2 | 2 | 2 | 1–2 | 1–2 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2 |

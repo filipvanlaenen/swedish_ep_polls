@@ -11,6 +11,8 @@ Last result: **9.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.5% | 17.0–23.7% | 16.5–24.6% | 16.2–25.2% | 15.6–26.2% |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.0% | 16.2–17.9% | 16.0–18.1% | 15.8–18.3% | 15.4–18.7% |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 19.1% | 18.0–20.3% | 17.6–20.7% | 17.4–21.0% | 16.8–21.6% |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.9% | 16.1–17.8% | 15.9–18.0% | 15.7–18.2% | 15.3–18.6% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 19.2% | 18.2–20.2% | 18.0–20.5% | 17.7–20.8% | 17.3–21.2% |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16.8% | 15.7–18.0% | 15.4–18.3% | 15.2–18.6% | 14.7–19.1% |
@@ -147,6 +149,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
