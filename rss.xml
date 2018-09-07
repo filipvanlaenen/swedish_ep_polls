@@ -8,16 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Sep 2018 14:34:53 +0200</pubDate>
+    <pubDate>Fri, 07 Sep 2018 19:32:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–6 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.0–25.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.7–18.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.8–18.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.4–7.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.0–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.0–11.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.3–6.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.1–25.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.7–18.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.8–18.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.4–7.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.1–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.1–11.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.3–6.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo.png"
-        length="250594"
+        length="250602"
         type="image/png"/>
-      <pubDate>Fri, 07 Sep 2018 14:34:53 +0200</pubDate>
-      <dc:date>2018-09-07T14:34:53.504675+02:00</dc:date>
+      <pubDate>Fri, 07 Sep 2018 18:47:14 +0200</pubDate>
+      <dc:date>2018-09-07T18:47:14.582994+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 30 August–6 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 21.6–24.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.0–18.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.3–19.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.9–6.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.0–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.5–11.8%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.4–7.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.0–7.9%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.5–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-SKOP.png"
+        length="276417"
+        type="image/png"/>
+      <pubDate>Fri, 07 Sep 2018 19:17:15 +0200</pubDate>
+      <dc:date>2018-09-07T19:17:15.932288+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 4–6 September 2018 – Voting Intentions</title>
@@ -28,6 +38,16 @@
         type="image/png"/>
       <pubDate>Fri, 07 Sep 2018 12:59:38 +0200</pubDate>
       <dc:date>2018-09-07T12:59:38.763526+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 1–6 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.4–28.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.1–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.5–19.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.3–6.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.0–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.5–11.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.2–7.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Demoskop.png"
+        length="263009"
+        type="image/png"/>
+      <pubDate>Fri, 07 Sep 2018 19:32:35 +0200</pubDate>
+      <dc:date>2018-09-07T19:32:35.596157+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–5 September 2018 – Voting Intentions</title>
@@ -1099,6 +1119,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-09-07T14:34:53.504675+02:00</dc:date>
+    <dc:date>2018-09-07T19:32:35.596157+02:00</dc:date>
   </channel>
 </rss>
