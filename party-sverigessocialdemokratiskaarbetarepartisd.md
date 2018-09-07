@@ -11,8 +11,10 @@ Last result: **24.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.0% | 21.7–26.3% | 21.1–26.8% | 20.6–27.3% | 19.7–28.1% |
-| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 24.4% | 23.5–25.4% | 23.2–25.6% | 23.0–25.9% | 22.6–26.3% |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 24.5% | 23.6–25.4% | 23.3–25.7% | 23.1–25.9% | 22.6–26.4% |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 23.1% | 22.1–24.1% | 21.8–24.4% | 21.6–24.7% | 21.1–25.1% |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 24.9% | 23.6–26.2% | 23.3–26.6% | 23.0–26.9% | 22.4–27.6% |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 26.5% | 25.1–27.9% | 24.7–28.3% | 24.4–28.7% | 23.8–29.3% |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 25.1% | 24.1–26.1% | 23.9–26.4% | 23.6–26.6% | 23.2–27.1% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 22.1% | 21.1–23.2% | 20.8–23.5% | 20.6–23.7% | 20.1–24.2% |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.9% | 24.6–27.2% | 24.2–27.6% | 23.9–27.9% | 23.4–28.6% |
@@ -144,7 +146,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5–6 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 6 | 6 | 6 | 6–7 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5 | 5–6 | 5–6 |

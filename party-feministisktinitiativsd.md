@@ -12,7 +12,9 @@ Last result: **5.5%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.8–2.3% | 0.7–2.5% | 0.6–2.7% | 0.5–3.0% |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 0.8% | 0.6–1.1% | 0.6–1.1% | 0.5–1.2% | 0.4–1.3% |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 1.0% | 0.8–1.3% | 0.8–1.4% | 0.7–1.4% | 0.6–1.6% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0.0% | N/A | N/A | N/A | N/A |
@@ -137,7 +139,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen |  |  |  |  |  |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
