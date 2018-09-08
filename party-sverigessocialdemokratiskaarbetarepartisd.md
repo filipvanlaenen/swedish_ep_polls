@@ -11,6 +11,7 @@ Last result: **24.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.0% | 21.7–26.3% | 21.1–26.8% | 20.6–27.3% | 19.7–28.1% |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 24.6% | 23.3–26.0% | 22.9–26.4% | 22.6–26.8% | 22.0–27.4% |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 24.5% | 23.6–25.4% | 23.3–25.7% | 23.1–25.9% | 22.6–26.4% |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 23.1% | 22.1–24.1% | 21.8–24.4% | 21.6–24.7% | 21.1–25.1% |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 24.9% | 23.6–26.2% | 23.3–26.6% | 23.0–26.9% | 22.4–27.6% |
@@ -145,36 +146,37 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5–6 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 6 | 6 | 6 | 6–7 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5 |
+| [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5 | 5–6 | 5–6 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5 | 5 | 5 | 5 |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 4–6 |
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 5 | 5 | 5 | 5 | 5 |
-| [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 5 | 5 | 5 | 5 | 5–6 |
-| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 5 | 5 | 5 | 5–6 | 5–6 |
-| [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 5 | 5 |
-| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 6 | 6 | 6 | 6 | 5–6 |
-| [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 6 | 6 | 6 | 6 | 5–6 |
-| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 6 | 6 | 6 | 5–6 | 5–6 |
+| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 6 | 6 | 5–6 |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 5 | 5–6 |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -258,8 +260,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 10% | 100% |  |
-| 5 | 59% | 90% | Last Result, Median |
-| 6 | 31% | 32% |  |
+| 5 | 52% | 90% | Last Result, Median |
+| 6 | 38% | 38% |  |
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
