@@ -150,10 +150,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 2 |
-| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 1 | 1 | 1 | 1 | 1 |
