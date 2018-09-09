@@ -11,7 +11,8 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.8–2.3% | 0.7–2.5% | 0.6–2.7% | 0.5–3.0% |
-| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 0.8% | 0.6–1.1% | 0.6–1.1% | 0.5–1.2% | 0.4–1.3% |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
@@ -139,7 +140,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT |  |  |  |  |  |
