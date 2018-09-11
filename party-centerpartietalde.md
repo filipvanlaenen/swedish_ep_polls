@@ -143,7 +143,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 2 | 2 | 2 | 1–2 | 1–2 |
 | [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -159,7 +159,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 2 | 2 | 2 | 1–2 | 1–2 |
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
-| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 2 | 2 | 2 | 1–2 | 1–2 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -180,7 +180,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2–3 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 1–2 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
@@ -258,8 +258,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% | Last Result |
-| 2 | 94% | 94% | Median |
+| 1 | 5% | 100% | Last Result |
+| 2 | 95% | 95% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
