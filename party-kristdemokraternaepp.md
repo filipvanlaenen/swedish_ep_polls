@@ -172,7 +172,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1–2 |
 | [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–2 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1–2 | 1–2 |
-| [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1 |
+| [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1–2 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1 |
 | [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
