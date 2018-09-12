@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 11 Sep 2018 20:32:04 +0200</pubDate>
+    <pubDate>Wed, 12 Sep 2018 11:11:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKOP, 2–7 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-SKOP.html</link>
@@ -426,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-27-SKOP.png"
         length="274510"
         type="image/png"/>
-      <pubDate>Sun, 09 Sep 2018 09:12:21 +0200</pubDate>
-      <dc:date>2018-09-09T09:12:21.472971+02:00</dc:date>
+      <pubDate>Wed, 12 Sep 2018 11:11:57 +0200</pubDate>
+      <dc:date>2018-09-12T11:11:57.163586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 21–26 August 2018 – Voting Intentions</title>
@@ -1299,6 +1299,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-09-11T20:32:04.686362+02:00</dc:date>
+    <dc:date>2018-09-12T11:11:57.163586+02:00</dc:date>
   </channel>
 </rss>
