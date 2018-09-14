@@ -150,14 +150,14 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
-| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 4 | 4 | 4 | 3–4 | 3–4 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
 | [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 4 | 3–4 |
-| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 4 | 4 | 4 | 4 | 4–5 |
-| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 3–4 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 4 | 4 | 4 | 3–4 | 3–4 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 3–4 | 3–5 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -170,12 +170,12 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
 | [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–5 |
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
+| [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4–5 |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
 | [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -262,7 +262,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 15% | 100% | Last Result |
-| 4 | 73% | 85% | Median |
+| 4 | 72% | 85% | Median |
 | 5 | 13% | 13% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

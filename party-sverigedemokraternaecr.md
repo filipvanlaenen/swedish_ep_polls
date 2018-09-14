@@ -156,15 +156,15 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 4 | 4 | 4 | 3–4 | 3–4 |
 | [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
-| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 4 | 4 | 4 | 4 | 3–5 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 4 | 4 | 4 | 4 | 3–4 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 3–4 | 3–4 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 3–4 | 3–4 |
-| [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 4 | 3–5 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 4–5 | 3–5 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -269,8 +269,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.2% | 100% |  |
-| 4 | 66% | 98.8% | Median |
-| 5 | 27% | 33% |  |
+| 4 | 65% | 98.8% | Median |
+| 5 | 27% | 34% |  |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
