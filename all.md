@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 24–28% <br> 5–6 | 4–5% <br> 0–1 | 16–19% <br> 3–4 | 6–8% <br> 1–2 | 16–19% <br> 3–4 | 7–9% <br> 1–2 | 9–12% <br> 2–3 | 5–7% <br> 1–2 | 1–2% <br> 0 |
-| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 23–27% <br> 5–6 | 4–6% <br> 1 | 18–22% <br> 4–5 | 5–7% <br> 1–2 | 15–19% <br> 3–4 | 8–11% <br> 2 | 8–11% <br> 2–3 | 5–7% <br> 1–2 | 1–2% <br> 0 |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 23–27% <br> 5–6 | 4–6% <br> 1 | 18–22% <br> 4–5 | 5–7% <br> 1–2 | 15–19% <br> 3–4 | 8–11% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1–2 | 1–2% <br> 0 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 23–26% <br> 5–6 | 5–7% <br> 1–2 | 16–18% <br> 4 | 5–7% <br> 1–2 | 16–18% <br> 4 | 9–11% <br> 2–3 | 9–11% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 22–25% <br> 5–6 | 5–7% <br> 1 | 16–19% <br> 3–4 | 5–7% <br> 1–2 | 16–19% <br> 4 | 7–9% <br> 2 | 10–12% <br> 2–3 | 6–8% <br> 1–2 | 1% <br> 0 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 23–27% <br> 5–6 | 4–6% <br> 1 | 16–20% <br> 4 | 5–8% <br> 1–2 | 17–21% <br> 4–5 | 7–10% <br> 2 | 9–11% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
