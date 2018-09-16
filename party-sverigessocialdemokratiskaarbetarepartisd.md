@@ -147,7 +147,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 5 | 5 | 5 | 5–6 | 4–6 |
@@ -182,7 +182,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -245,7 +245,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -262,8 +262,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 63% | 98% | Last Result, Median |
-| 6 | 35% | 35% |  |
+| 5 | 62% | 98% | Last Result, Median |
+| 6 | 35% | 36% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

@@ -178,7 +178,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 1–2 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1–2 |
+| [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–2 |
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 1 | 1 | 1 | 1 | 0–2 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -241,7 +241,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–1 | 0–1 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
@@ -257,8 +257,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 86% | 97% | Median |
+| 0 | 4% | 100% |  |
+| 1 | 85% | 96% | Median |
 | 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
