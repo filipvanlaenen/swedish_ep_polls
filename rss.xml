@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 14 Sep 2018 23:04:10 +0200</pubDate>
+    <pubDate>Sun, 16 Sep 2018 09:32:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKOP, 2–7 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-SKOP.html</link>
@@ -26,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-Inizio.png"
         length="288776"
         type="image/png"/>
-      <pubDate>Fri, 14 Sep 2018 23:04:10 +0200</pubDate>
-      <dc:date>2018-09-14T23:04:10.860075+02:00</dc:date>
+      <pubDate>Fri, 14 Sep 2018 23:12:50 +0200</pubDate>
+      <dc:date>2018-09-14T23:12:50.730606+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–6 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo-seats.png"
+        length="166655"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 18:18:50 +0200</pubDate>
+      <dc:date>2018-09-15T18:18:50.461826+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–6 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo-coalitions-seats.png"
+        length="117933"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 18:18:50 +0200</pubDate>
+      <dc:date>2018-09-15T18:18:50.461826+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–6 September 2018 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-06-Sifo.png"
         length="250602"
         type="image/png"/>
-      <pubDate>Sun, 09 Sep 2018 08:42:15 +0200</pubDate>
-      <dc:date>2018-09-09T08:42:15.653989+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 18:18:50 +0200</pubDate>
+      <dc:date>2018-09-15T18:18:50.461826+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 30 August–6 September 2018 – Seat Projections for the Parties</title>
@@ -160,14 +180,34 @@
       <dc:date>2018-09-12T16:50:52.429534+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKOP, 29 August–5 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP-seats.png"
+        length="155605"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 15:54:39 +0200</pubDate>
+      <dc:date>2018-09-15T15:54:39.704767+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 29 August–5 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP-coalitions-seats.png"
+        length="100991"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 15:54:39 +0200</pubDate>
+      <dc:date>2018-09-15T15:54:39.704767+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKOP, 29 August–5 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 20.6–23.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.8–19.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.7–20.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.8–6.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.7–8.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.5–11.8%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.0–6.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.7–7.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.8–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-05-SKOP.png"
         length="281407"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 21:14:52 +0200</pubDate>
-      <dc:date>2018-09-08T21:14:52.438214+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 15:54:39 +0200</pubDate>
+      <dc:date>2018-09-15T15:54:39.704767+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 2–5 September 2018 – Seat Projections for the Parties</title>
@@ -290,14 +330,54 @@
       <dc:date>2018-09-12T20:43:33.930375+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 29 August–3 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo-seats.png"
+        length="183262"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:55:16 +0200</pubDate>
+      <dc:date>2018-09-15T11:55:16.051261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 29 August–3 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo-coalitions-seats.png"
+        length="142977"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:55:16 +0200</pubDate>
+      <dc:date>2018-09-15T11:55:16.051261+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 29 August–3 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.7–26.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.7–18.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.9–18.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.6–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.5–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 10.0–12.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.8–7.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.2–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Sifo.png"
         length="256247"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 15:54:04 +0200</pubDate>
-      <dc:date>2018-09-08T15:54:04.412467+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 11:55:16 +0200</pubDate>
+      <dc:date>2018-09-15T11:55:16.051261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 27 August–3 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-SKOP-seats.png"
+        length="218815"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:02:03 +0200</pubDate>
+      <dc:date>2018-09-15T19:02:03.06945+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 27 August–3 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-SKOP-coalitions-seats.png"
+        length="179838"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:02:03 +0200</pubDate>
+      <dc:date>2018-09-15T19:02:03.06945+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 27 August–3 September 2018 – Voting Intentions</title>
@@ -306,8 +386,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-SKOP.png"
         length="292724"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 16:45:51 +0200</pubDate>
-      <dc:date>2018-09-08T16:45:51.758947+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 19:02:03 +0200</pubDate>
+      <dc:date>2018-09-15T19:02:03.06945+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 27 August–3 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Inizio-seats.png"
+        length="160641"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 08:41:31 +0200</pubDate>
+      <dc:date>2018-09-16T08:41:31.747024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 27 August–3 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Inizio-coalitions-seats.png"
+        length="125119"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 08:41:31 +0200</pubDate>
+      <dc:date>2018-09-16T08:41:31.747024+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 27 August–3 September 2018 – Voting Intentions</title>
@@ -316,8 +416,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-03-Inizio.png"
         length="259835"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 16:01:34 +0200</pubDate>
-      <dc:date>2018-09-08T16:01:34.94076+02:00</dc:date>
+      <pubDate>Sun, 16 Sep 2018 08:41:31 +0200</pubDate>
+      <dc:date>2018-09-16T08:41:31.747024+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 26 August–2 September 2018 – Seat Projections for the Parties</title>
@@ -410,14 +510,54 @@
       <dc:date>2018-09-11T19:31:32.571765+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKOP, 25–31 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP-seats.png"
+        length="215930"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 16:21:24 +0200</pubDate>
+      <dc:date>2018-09-15T16:21:24.679814+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 25–31 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP-coalitions-seats.png"
+        length="155129"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 16:21:24 +0200</pubDate>
+      <dc:date>2018-09-15T16:21:24.679814+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKOP, 25–31 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.0–25.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.4–18.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.3–21.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–7.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.4–8.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.2–11.9%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.5–6.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.7–7.9%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.8–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-31-SKOP.png"
         length="284501"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 16:25:19 +0200</pubDate>
-      <dc:date>2018-09-08T16:25:19.392414+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 16:21:24 +0200</pubDate>
+      <dc:date>2018-09-15T16:21:24.679814+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 28–30 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Sifo-seats.png"
+        length="217884"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 18:42:59 +0200</pubDate>
+      <dc:date>2018-09-15T18:42:59.656087+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 28–30 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Sifo-coalitions-seats.png"
+        length="162758"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 18:42:59 +0200</pubDate>
+      <dc:date>2018-09-15T18:42:59.656087+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 28–30 August 2018 – Voting Intentions</title>
@@ -426,8 +566,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Sifo.png"
         length="255938"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 19:27:33 +0200</pubDate>
-      <dc:date>2018-09-08T19:27:33.953476+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 18:42:59 +0200</pubDate>
+      <dc:date>2018-09-15T18:42:59.656087+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 24–30 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-SKOP-seats.png"
+        length="197405"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 20:09:09 +0200</pubDate>
+      <dc:date>2018-09-15T20:09:09.047116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 24–30 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-SKOP-coalitions-seats.png"
+        length="152756"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 20:09:09 +0200</pubDate>
+      <dc:date>2018-09-15T20:09:09.047116+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 24–30 August 2018 – Voting Intentions</title>
@@ -436,8 +596,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-SKOP.png"
         length="283250"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 19:30:42 +0200</pubDate>
-      <dc:date>2018-09-08T19:30:42.803787+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 20:09:09 +0200</pubDate>
+      <dc:date>2018-09-15T20:09:09.047116+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 25–30 August 2018 – Seat Projections for the Parties</title>
@@ -470,14 +630,34 @@
       <dc:date>2018-09-10T22:42:41.618059+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoskop for Expressen, 23–30 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop-seats.png"
+        length="209648"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:37:39 +0200</pubDate>
+      <dc:date>2018-09-15T19:37:39.583889+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 23–30 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop-coalitions-seats.png"
+        length="140011"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:37:39 +0200</pubDate>
+      <dc:date>2018-09-15T19:37:39.583889+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Expressen, 23–30 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.5–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.3–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.9–21.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.1–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.2–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.2–11.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.7–8.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.9–6.0%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-30-Demoskop.png"
         length="290722"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 20:51:26 +0200</pubDate>
-      <dc:date>2018-09-08T20:51:26.188449+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 19:37:39 +0200</pubDate>
+      <dc:date>2018-09-15T19:37:39.583889+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 27–29 August 2018 – Seat Projections for the Parties</title>
@@ -520,14 +700,34 @@
       <dc:date>2018-09-08T21:20:06.378966+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo-seats.png"
+        length="168323"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 12:16:53 +0200</pubDate>
+      <dc:date>2018-09-15T12:16:53.239953+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo-coalitions-seats.png"
+        length="106683"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 12:16:53 +0200</pubDate>
+      <dc:date>2018-09-15T12:16:53.239953+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.7–26.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.2–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.8–20.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.4–6.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.9–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.4–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.7–6.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0.7–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Sifo.png"
         length="272324"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 20:16:52 +0200</pubDate>
-      <dc:date>2018-09-08T20:16:52.383341+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 12:16:53 +0200</pubDate>
+      <dc:date>2018-09-15T12:16:53.239953+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 21–28 August 2018 – Seat Projections for the Parties</title>
@@ -560,14 +760,34 @@
       <dc:date>2018-09-12T13:09:58.976115+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus-seats.png"
+        length="145980"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:24:00 +0200</pubDate>
+      <dc:date>2018-09-15T19:24:00.503949+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus-coalitions-seats.png"
+        length="112482"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:24:00 +0200</pubDate>
+      <dc:date>2018-09-15T19:24:00.503949+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.2–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.6–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.4–20.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.7–7.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.7–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.1–7.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.3–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-28-Novus.png"
         length="271348"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 20:28:02 +0200</pubDate>
-      <dc:date>2018-09-08T20:28:02.145281+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 19:24:00 +0200</pubDate>
+      <dc:date>2018-09-15T19:24:00.503949+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 22–27 August 2018 – Seat Projections for the Parties</title>
@@ -660,14 +880,34 @@
       <dc:date>2018-09-12T14:08:59.429651+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 22–26 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio-seats.png"
+        length="166648"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 12:38:24 +0200</pubDate>
+      <dc:date>2018-09-15T12:38:24.073782+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 22–26 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio-coalitions-seats.png"
+        length="113841"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 12:38:24 +0200</pubDate>
+      <dc:date>2018-09-15T12:38:24.073782+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 22–26 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.5–25.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.9–21.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.4–20.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.0–6.7%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.8–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.8–9.8%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.4–5.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.0–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-26-Inizio.png"
         length="273508"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 19:50:13 +0200</pubDate>
-      <dc:date>2018-09-08T19:50:13.238717+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 12:38:24 +0200</pubDate>
+      <dc:date>2018-09-15T12:38:24.073782+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 16–24 August 2018 – Seat Projections for the Parties</title>
@@ -700,14 +940,34 @@
       <dc:date>2018-09-14T19:14:49.506284+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 20–23 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo-seats.png"
+        length="155618"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 17:16:34 +0200</pubDate>
+      <dc:date>2018-09-15T17:16:34.699564+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 20–23 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo-coalitions-seats.png"
+        length="104355"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 17:16:34 +0200</pubDate>
+      <dc:date>2018-09-15T17:16:34.699564+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 20–23 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.1–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.5–18.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.4–19.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.4–6.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.4–11.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–10.4%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 5.2–6.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.1–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-23-Sifo.png"
         length="245258"
         type="image/png"/>
-      <pubDate>Sun, 09 Sep 2018 09:05:52 +0200</pubDate>
-      <dc:date>2018-09-09T09:05:52.244634+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 17:16:34 +0200</pubDate>
+      <dc:date>2018-09-15T17:16:34.699564+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 16–22 August 2018 – Seat Projections for the Parties</title>
@@ -840,14 +1100,34 @@
       <dc:date>2018-08-19T13:03:23.050366+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 9–14 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio-seats.png"
+        length="261232"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 09:32:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:32:25.028252+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 9–14 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio-coalitions-seats.png"
+        length="243330"
+        type="image/png"/>
+      <pubDate>Sun, 16 Sep 2018 09:32:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:32:25.028252+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 9–14 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 19.7–25.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.9–22.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.1–24.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.4–6.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.0–9.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–13.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.1–6.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.7–5.4%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.0–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-08-14-Sentio.png"
         length="325030"
         type="image/png"/>
-      <pubDate>Sun, 19 Aug 2018 13:03:23 +0200</pubDate>
-      <dc:date>2018-08-19T13:03:23.050366+02:00</dc:date>
+      <pubDate>Sun, 16 Sep 2018 09:32:25 +0200</pubDate>
+      <dc:date>2018-09-16T09:32:25.028252+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 23 July–12 August 2018 – Voting Intentions</title>
@@ -1350,14 +1630,54 @@
       <dc:date>2018-08-19T13:03:22.850362+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 2–22 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus-seats.png"
+        length="169863"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:30:50 +0200</pubDate>
+      <dc:date>2018-09-15T11:30:50.054127+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 2–22 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus-coalitions-seats.png"
+        length="128688"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:30:50 +0200</pubDate>
+      <dc:date>2018-09-15T11:30:50.054127+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 2–22 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.2–30.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.5–25.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.4–17.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.5–4.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.1–9.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.8–8.5%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.4–5.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-22-Novus.png"
         length="238988"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 11:49:01 +0200</pubDate>
-      <dc:date>2018-08-23T11:49:01.496531+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 11:30:50 +0200</pubDate>
+      <dc:date>2018-09-15T11:30:50.054127+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–21 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-21-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-21-Ipsos-seats.png"
+        length="216769"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:47:28 +0200</pubDate>
+      <dc:date>2018-09-15T19:47:28.75311+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–21 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-21-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-21-Ipsos-coalitions-seats.png"
+        length="163888"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 19:47:28 +0200</pubDate>
+      <dc:date>2018-09-15T19:47:28.75311+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–21 January 2018 – Voting Intentions</title>
@@ -1366,8 +1686,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-21-Ipsos.png"
         length="278511"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 06:55:52 +0200</pubDate>
-      <dc:date>2018-08-23T06:55:52.495677+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 19:47:28 +0200</pubDate>
+      <dc:date>2018-09-15T19:47:28.75311+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 8–18 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-18-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-18-Sifo-seats.png"
+        length="200778"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 15:11:31 +0200</pubDate>
+      <dc:date>2018-09-15T15:11:31.848516+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 8–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-18-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-18-Sifo-coalitions-seats.png"
+        length="151398"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 15:11:31 +0200</pubDate>
+      <dc:date>2018-09-15T15:11:31.848516+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 8–18 January 2018 – Voting Intentions</title>
@@ -1376,8 +1716,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-18-Sifo.png"
         length="275263"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 11:18:04 +0200</pubDate>
-      <dc:date>2018-08-23T11:18:04.020871+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 15:11:31 +0200</pubDate>
+      <dc:date>2018-09-15T15:11:31.848516+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-16-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-16-Sentio-seats.png"
+        length="192353"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 13:54:30 +0200</pubDate>
+      <dc:date>2018-09-15T13:54:30.353483+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-16-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-16-Sentio-coalitions-seats.png"
+        length="149330"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 13:54:30 +0200</pubDate>
+      <dc:date>2018-09-15T13:54:30.353483+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 January 2018 – Voting Intentions</title>
@@ -1386,8 +1746,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-01-16-Sentio.png"
         length="292628"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 10:53:54 +0200</pubDate>
-      <dc:date>2018-08-23T10:53:54.09783+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 13:54:30 +0200</pubDate>
+      <dc:date>2018-09-15T13:54:30.353483+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 12–15 January 2018 – Seat Projections for the Parties</title>
@@ -1480,14 +1840,34 @@
       <dc:date>2018-08-23T14:07:34.565893+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 December 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo-seats.png"
+        length="220148"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:10:39 +0200</pubDate>
+      <dc:date>2018-09-15T11:10:39.243577+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo-coalitions-seats.png"
+        length="172535"
+        type="image/png"/>
+      <pubDate>Sat, 15 Sep 2018 11:10:39 +0200</pubDate>
+      <dc:date>2018-09-15T11:10:39.243577+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.4–31.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 20.3–23.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.0–18.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.3–5.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.0–11.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.4–8.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.2–6.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.1–3.5%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.4–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2017-12-14-Sifo.png"
         length="273386"
         type="image/png"/>
-      <pubDate>Thu, 23 Aug 2018 11:08:05 +0200</pubDate>
-      <dc:date>2018-08-23T11:08:05.461345+02:00</dc:date>
+      <pubDate>Sat, 15 Sep 2018 11:10:39 +0200</pubDate>
+      <dc:date>2018-09-15T11:10:39.243577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 6–14 December 2017 – Seat Projections for the Parties</title>
@@ -1579,6 +1959,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-09-14T23:04:10.860075+02:00</dc:date>
+    <dc:date>2018-09-16T09:32:25.028252+02:00</dc:date>
   </channel>
 </rss>
