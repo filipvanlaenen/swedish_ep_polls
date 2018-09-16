@@ -14,10 +14,10 @@ The table below lists the polls on which the average is based. They are the most
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 5–6 | 6–8% <br> 1–2 | 15–18% <br> 3–4 | 5–6% <br> 1 | 15–18% <br> 3–4 | 8–11% <br> 2 | 9–12% <br> 2–3 | 5–6% <br> 1 | N/A <br> N/A |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 21–25% <br> 5–6 | 5–7% <br> 1 | 18–21% <br> 4–5 | 5–7% <br> 1–2 | 17–20% <br> 4–5 | 7–10% <br> 2 | 9–11% <br> 2–3 | 5–7% <br> 1–2 | 1–2% <br> 0 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 23–27% <br> 5–6 | 4–6% <br> 1 | 15–19% <br> 3–4 | 6–8% <br> 1–2 | 18–22% <br> 4–5 | 8–11% <br> 2 | 8–11% <br> 2 | 4–6% <br> 0–1 | 0–1% <br> 0 |
-| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 22–26% <br> 5–6 | 5–7% <br> 1–2 | 18–21% <br> 4–5 | 5–7% <br> 1–2 | 16–20% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
+| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 22–26% <br> 5–6 | 5–7% <br> 1–2 | 18–21% <br> 4–5 | 5–7% <br> 1–2 | 16–20% <br> 4–5 | 7–9% <br> 2 | 9–12% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 5–7% <br> 1–2 | 15–19% <br> 3–4 | 4–7% <br> 1 | 18–21% <br> 4–5 | 8–10% <br> 2 | 9–11% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 20–24% <br> 4–6 | 4–6% <br> 1 | 14–18% <br> 3–4 | 4–7% <br> 1 | 22–26% <br> 5–6 | 7–9% <br> 1–2 | 8–11% <br> 2 | 3–5% <br> 0–1 | 1–3% <br> 0 |
-| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 4–6 | 3–6% <br> 0–1 | 17–22% <br> 4–5 | 3–6% <br> 0–1 | 19–25% <br> 4–6 | 6–10% <br> 1–2 | 9–13% <br> 2–3 | 3–5% <br> 0–1 | 1–3% <br> 0 |
+| [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 4–6 | 3–6% <br> 0–2 | 17–22% <br> 4–5 | 3–6% <br> 0–1 | 19–25% <br> 4–6 | 6–10% <br> 1–2 | 9–13% <br> 2–3 | 3–5% <br> 0–1 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -249,8 +249,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 57% | 98% | Last Result, Median |
-| 6 | 41% | 41% |  |
+| 5 | 63% | 98% | Last Result, Median |
+| 6 | 35% | 35% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
@@ -276,9 +276,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 15% | 100% | Last Result |
-| 4 | 72% | 85% | Median |
-| 5 | 13% | 13% |  |
+| 3 | 13% | 100% | Last Result |
+| 4 | 73% | 87% | Median |
+| 5 | 14% | 14% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -290,9 +290,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 86% | 96% | Median |
-| 2 | 10% | 10% | Last Result |
+| 0 | 3% | 100% |  |
+| 1 | 86% | 97% | Median |
+| 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -304,9 +304,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 1.2% | 100% |  |
-| 4 | 65% | 98.8% | Median |
-| 5 | 27% | 34% |  |
+| 3 | 2% | 100% |  |
+| 4 | 64% | 98% | Median |
+| 5 | 28% | 34% |  |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
@@ -318,8 +318,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 95% | 95% | Median |
+| 1 | 4% | 100% | Last Result |
+| 2 | 95% | 96% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -332,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 90% | 100% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 91% | 100% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP)
@@ -345,8 +345,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 17% | 100% |  |
-| 1 | 75% | 83% | Last Result, Median |
-| 2 | 8% | 8% |  |
+| 1 | 74% | 83% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Feministiskt initiativ (S&D)
@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 57% | 98% | Median |
-| 6 | 41% | 41% | Last Result |
+| 5 | 63% | 98% | Median |
+| 6 | 35% | 35% | Last Result |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
@@ -395,9 +395,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 1.2% | 100% |  |
-| 4 | 65% | 98.8% | Median |
-| 5 | 27% | 34% |  |
+| 3 | 2% | 100% |  |
+| 4 | 64% | 98% | Median |
+| 5 | 28% | 34% |  |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
@@ -408,9 +408,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 20% | 96% | Last Result |
-| 5 | 62% | 77% | Median |
-| 6 | 15% | 15% |  |
+| 4 | 18% | 96% | Last Result |
+| 5 | 59% | 78% | Median |
+| 6 | 19% | 19% |  |
 | 7 | 0% | 0% |  |
 
 ### Liberalerna (ALDE) – Centerpartiet (ALDE)
@@ -419,10 +419,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 8% | 99.8% |  |
-| 3 | 82% | 92% | Last Result, Median |
-| 4 | 10% | 10% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 7% | 99.7% |  |
+| 3 | 82% | 93% | Last Result, Median |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -432,8 +432,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 90% | 100% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 91% | 100% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -452,6 +452,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,718,591
-+ **Error estimate:** 1.60%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 7,864,320
++ **Error estimate:** 3.96%
