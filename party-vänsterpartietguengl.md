@@ -202,7 +202,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2–3 | 2–3 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 2 |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 1–2 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 2 | 2 | 2 | 2 | 1–2 |
