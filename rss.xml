@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 18 Sep 2018 21:01:59 +0200</pubDate>
+    <pubDate>Sun, 23 Sep 2018 09:17:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKOP, 2–7 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-SKOP.html#seats</link>
@@ -1650,14 +1650,34 @@
       <dc:date>2018-09-17T22:40:32.280715+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo-seats.png"
+        length="207433"
+        type="image/png"/>
+      <pubDate>Sun, 23 Sep 2018 08:56:49 +0200</pubDate>
+      <dc:date>2018-09-23T08:56:49.906974+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo-coalitions-seats.png"
+        length="161880"
+        type="image/png"/>
+      <pubDate>Sun, 23 Sep 2018 08:56:49 +0200</pubDate>
+      <dc:date>2018-09-23T08:56:49.906974+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.4–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.0–22.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.0–20.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.3–5.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 9.6–12.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–11.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.1–5.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1.9–3.2%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.1–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-06-14-Sifo.png"
         length="274337"
         type="image/png"/>
-      <pubDate>Sun, 19 Aug 2018 13:03:22 +0200</pubDate>
-      <dc:date>2018-08-19T13:03:22.862362+02:00</dc:date>
+      <pubDate>Sun, 23 Sep 2018 08:56:49 +0200</pubDate>
+      <dc:date>2018-09-23T08:56:49.906974+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018 – Seat Projections for the Parties</title>
@@ -1880,14 +1900,34 @@
       <dc:date>2018-08-19T13:03:22.858362+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–23 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos-seats.png"
+        length="237686"
+        type="image/png"/>
+      <pubDate>Sun, 23 Sep 2018 08:20:32 +0200</pubDate>
+      <dc:date>2018-09-23T08:20:32.892206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–23 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos-coalitions-seats.png"
+        length="190415"
+        type="image/png"/>
+      <pubDate>Sun, 23 Sep 2018 08:20:32 +0200</pubDate>
+      <dc:date>2018-09-23T08:20:32.892206+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–23 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.9–28.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.0–23.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.2–18.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 10.5–13.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-04-23-Ipsos.png"
         length="284455"
         type="image/png"/>
-      <pubDate>Sun, 19 Aug 2018 13:03:22 +0200</pubDate>
-      <dc:date>2018-08-19T13:03:22.858362+02:00</dc:date>
+      <pubDate>Sun, 23 Sep 2018 08:20:32 +0200</pubDate>
+      <dc:date>2018-09-23T08:20:32.892206+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 13–16 April 2018 – Seat Projections for the Parties</title>
@@ -2204,10 +2244,10 @@
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-05-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.7–28.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 22.8–26.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 14.3–17.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.7–4.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.7–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 5.9–8.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.9–4.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.0–6.9%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ (S&amp;amp;D): 2.0–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-05-Inizio.png"
-        length="277856"
+        length="278420"
         type="image/png"/>
-      <pubDate>Sun, 19 Aug 2018 13:03:22 +0200</pubDate>
-      <dc:date>2018-08-19T13:03:22.854362+02:00</dc:date>
+      <pubDate>Sun, 23 Sep 2018 09:17:12 +0200</pubDate>
+      <dc:date>2018-09-23T09:17:12.187682+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 16–19 February 2018 – Seat Projections for the Parties</title>
@@ -2799,6 +2839,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-09-18T21:01:59.328435+02:00</dc:date>
+    <dc:date>2018-09-23T09:17:12.187682+02:00</dc:date>
   </channel>
 </rss>
