@@ -221,7 +221,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 1 | 1 | 1 | 1 | 0–2 |
@@ -231,7 +231,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
