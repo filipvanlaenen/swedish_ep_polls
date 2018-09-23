@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-09-23T08:56:49.906974+02:00</updated>
+  <updated>2018-09-23T09:38:38.013939+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.2–27.7%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 16.2–19.2%, 3–4 seats</li><li>Sverigedemokraterna (ECR): 16.0–19.0%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.8–5.5%, 0–1 seats</li><li>Centerpartiet (ALDE): 6.9–9.0%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.5–11.9%, 2–3 seats</li><li>Liberalerna (ALDE): 5.6–7.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.5–7.4%, 1–2 seats</li><li>Feministiskt initiativ (S&amp;D): 0.7–1.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-SKOP.html</id>
@@ -568,6 +568,14 @@
     <dc:date>2018-09-18T14:03:05.897046+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.7–28.3%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 22.8–26.3%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 14.3–17.3%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.7–4.1%, 0–1 seats</li><li>Centerpartiet (ALDE): 7.7–10.0%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 5.9–8.0%, 1–2 seats</li><li>Liberalerna (ALDE): 2.9–4.5%, 0–1 seats</li><li>Kristdemokraterna (EPP): 5.0–6.9%, 1–2 seats</li><li>Feministiskt initiativ (S&amp;D): 2.0–3.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-05-Inizio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-03-05-Inizio.html"/>
+    <title>Opinion Poll by Inizio for Aftonbladet, 1–5 March 2018</title>
+    <updated>2018-09-23T09:38:38.013939+02:00</updated>
+    <dc:date>2018-09-23T09:38:38.013939+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 20.1–24.9%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 18.3–22.9%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 19.8–24.6%, 5–6 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.5–4.6%, 0–1 seats</li><li>Centerpartiet (ALDE): 7.8–11.2%, 2–3 seats</li><li>Vänsterpartiet (GUE/NGL): 8.4–11.9%, 2–3 seats</li><li>Liberalerna (ALDE): 3.6–6.1%, 0–1 seats</li><li>Kristdemokraterna (EPP): 1.8–3.7%, 0 seats</li><li>Feministiskt initiativ (S&amp;D): 1.8–3.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-YouGov.html</id>
     <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-02-19-YouGov.html"/>
@@ -719,5 +727,5 @@
     <updated>2018-08-23T18:31:53.491868+02:00</updated>
     <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-23T08:56:49.906974+02:00</dc:date>
+  <dc:date>2018-09-23T09:38:38.013939+02:00</dc:date>
 </feed>
