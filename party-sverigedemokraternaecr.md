@@ -98,7 +98,7 @@ Last result: **9.7%** (General Election of 25 May 2014)
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 22.1% | 20.6–23.8% | 20.2–24.2% | 19.8–24.6% | 19.1–25.4% |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16.0% | 14.8–17.3% | 14.4–17.6% | 14.1–18.0% | 13.6–18.6% |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 17.1% | 16.4–17.8% | 16.2–18.0% | 16.1–18.2% | 15.8–18.5% |
-| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.2% | 15.7–16.7% | 15.6–16.8% | 15.5–16.9% | 15.2–17.1% |
+| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.2% | 15.6–16.7% | 15.5–16.9% | 15.4–17.0% | 15.2–17.1% |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 21.9% | 19.9–24.0% | 19.4–24.6% | 18.9–25.1% | 18.0–26.1% |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 15.4% | 14.3–16.6% | 14.0–16.9% | 13.7–17.2% | 13.2–17.8% |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 15.6% | 14.6–16.6% | 14.3–16.9% | 14.1–17.2% | 13.6–17.7% |
