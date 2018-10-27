@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-09-24T21:36:12.315328+02:00</updated>
+  <updated>2018-10-27T18:26:32.819577+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 27.6–31.9%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 17.6–21.3%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 16.1–19.7%, 3–4 seats</li><li>Centerpartiet (ALDE): 7.5–10.1%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.1–8.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.2–7.5%, 1–2 seats</li><li>Liberalerna (ALDE): 4.0–6.0%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.5–5.4%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-10-08-Inizio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2018-10-08-Inizio.html"/>
+    <title>Opinion Poll by Inizio for Aftonbladet, 1–8 October 2018</title>
+    <updated>2018-10-27T18:26:32.819577+02:00</updated>
+    <dc:date>2018-10-27T18:26:32.819577+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.2–27.7%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 16.2–19.2%, 3–4 seats</li><li>Sverigedemokraterna (ECR): 16.0–19.0%, 3–4 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.8–5.5%, 0–1 seats</li><li>Centerpartiet (ALDE): 6.9–9.0%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.5–11.9%, 2–3 seats</li><li>Liberalerna (ALDE): 5.6–7.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.5–7.4%, 1–2 seats</li><li>Feministiskt initiativ (S&amp;D): 0.7–1.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2018-09-07-SKOP.html</id>
@@ -847,5 +855,5 @@
     <updated>2018-08-23T18:31:53.491868+02:00</updated>
     <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-24T21:36:12.315328+02:00</dc:date>
+  <dc:date>2018-10-27T18:26:32.819577+02:00</dc:date>
 </feed>
