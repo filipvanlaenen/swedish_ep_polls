@@ -155,7 +155,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 September–2 October 2018](2018-10-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4–5 |
 | [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -273,8 +273,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% | Last Result |
-| 4 | 89% | 97% | Median |
-| 5 | 8% | 8% |  |
+| 4 | 90% | 97% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
 
