@@ -11,6 +11,7 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.3–1.5% | 0.3–1.7% |
+| [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0.0% | N/A | N/A | N/A | N/A |
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 0.0% | N/A | N/A | N/A | N/A |
@@ -146,6 +147,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
