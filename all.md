@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 28–31% <br> 6–7 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 9–11% <br> 2–3 | 7–9% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 27–31% <br> 6–7 | 3–5% <br> 0–1 | 16–20% <br> 3–5 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 7–10% <br> 2 | 7–9% <br> 1–2 | 4–6% <br> 0–1 | N/A <br> N/A |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 6–7 | 4–6% <br> 0–1 | 17–21% <br> 4–5 | 4–6% <br> 1 | 17–21% <br> 4 | 8–11% <br> 2 | 7–10% <br> 1–2 | 4–6% <br> 1 | N/A <br> N/A |
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–30% <br> 6–7 | 4–5% <br> 0–1 | 18–20% <br> 4 | 4–5% <br> 1 | 18–19% <br> 4 | 8–10% <br> 2 | 7–8% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 25–30% <br> 5–7 | 4–7% <br> 0–1 | 18–23% <br> 4–5 | 3–6% <br> 0–1 | 18–23% <br> 4–5 | 6–9% <br> 1–2 | 7–10% <br> 1–2 | 4–7% <br> 1–2 | N/A <br> N/A |
