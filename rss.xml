@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 10 Nov 2018 13:31:34 +0100</pubDate>
+    <pubDate>Sat, 17 Nov 2018 15:18:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-11-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 28.5–31.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.1–20.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.1–20.3%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.1–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.2–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–6.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.2–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.8–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-11-Novus.png"
+        length="238298"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 15:18:55 +0100</pubDate>
+      <dc:date>2018-11-17T15:18:55.686323+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 26 October–6 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-06-Inizio.html#seats</link>
@@ -3429,6 +3439,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-11-10T13:31:34.5856+01:00</dc:date>
+    <dc:date>2018-11-17T15:18:55.686323+01:00</dc:date>
   </channel>
 </rss>
