@@ -12,7 +12,7 @@ Last result: **24.2%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.5% | 24.5–30.6% | 23.5–31.2% | 22.8–31.7% | 21.8–32.7% |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 29.8% | 29.0–30.7% | 28.7–30.9% | 28.5–31.1% | 28.2–31.5% |
-| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 28.2% | N/A | N/A | N/A | N/A |
+| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 28.2% | 26.5–30.1% | 26.0–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 29.4% | 28.2–30.7% | 27.9–31.1% | 27.6–31.4% | 27.0–32.0% |
 | [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 29.1% | 27.7–30.6% | 27.3–31.0% | 27.0–31.4% | 26.3–32.1% |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28.6% | 27.2–30.1% | 26.7–30.5% | 26.4–30.9% | 25.7–31.6% |
@@ -162,7 +162,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 7 | 7 | 7 | 7 | 6–7 |
-| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
+| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 6–7 | 6–7 | 6–7 |
