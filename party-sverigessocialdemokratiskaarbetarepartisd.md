@@ -161,7 +161,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 7 | 7 | 7 | 7 | 6–7 |
+| [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
