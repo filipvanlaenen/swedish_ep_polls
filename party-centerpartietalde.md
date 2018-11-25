@@ -10,7 +10,7 @@ Last result: **6.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 6.5–9.5% | 5.9–9.8% | 5.5–10.1% | 5.0–10.7% |
+| N/A | [Poll Average](average.html) | 8.9% | 6.6–10.1% | 5.9–10.4% | 5.6–10.7% | 5.0–11.3% |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 8.9% | 8.4–9.4% | 8.2–9.6% | 8.1–9.7% | 7.9–10.0% |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 9.3% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 9.8% | 9.1–10.7% | 8.8–10.9% | 8.6–11.2% | 8.3–11.6% |
@@ -136,13 +136,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 8% | 97% | Last Result |
-| 6.5–7.5% | 12% | 89% |  |
-| 7.5–8.5% | 31% | 77% | Median |
-| 8.5–9.5% | 37% | 46% |  |
-| 9.5–10.5% | 8% | 9% |  |
-| 10.5–11.5% | 0.7% | 0.7% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 7% | 98% | Last Result |
+| 6.5–7.5% | 6% | 90% |  |
+| 7.5–8.5% | 19% | 84% |  |
+| 8.5–9.5% | 43% | 65% | Median |
+| 9.5–10.5% | 18% | 22% |  |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -153,7 +154,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -279,9 +280,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% | Last Result |
-| 2 | 87% | 87% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 11% | 100% | Last Result |
+| 2 | 87% | 89% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 
