@@ -10,7 +10,11 @@ Last result: **6.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 6.6–10.1% | 5.9–10.4% | 5.6–10.7% | 5.0–11.3% |
+| N/A | [Poll Average](average.html) | 8.7% | 6.4–10.2% | 5.8–10.7% | 5.5–11.1% | 5.0–11.7% |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 8.6% | 8.1–9.2% | 8.0–9.3% | 7.8–9.5% | 7.6–9.7% |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.1% | 9.2–11.2% | 8.9–11.5% | 8.7–11.8% | 8.3–12.3% |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 9.2% | N/A | N/A | N/A | N/A |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.0% | N/A | N/A | N/A | N/A |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 8.9% | 8.4–9.4% | 8.2–9.6% | 8.1–9.7% | 7.9–10.0% |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 9.3% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 9.8% | 9.1–10.7% | 8.8–10.9% | 8.6–11.2% | 8.3–11.6% |
@@ -135,14 +139,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 7% | 98% | Last Result |
-| 6.5–7.5% | 6% | 90% |  |
-| 7.5–8.5% | 19% | 84% |  |
-| 8.5–9.5% | 43% | 65% | Median |
-| 9.5–10.5% | 18% | 22% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 8% | 97% | Last Result |
+| 6.5–7.5% | 7% | 89% |  |
+| 7.5–8.5% | 25% | 82% |  |
+| 8.5–9.5% | 36% | 57% | Median |
+| 9.5–10.5% | 14% | 21% |  |
+| 10.5–11.5% | 5% | 6% |  |
+| 11.5–12.5% | 0.8% | 0.8% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -155,6 +159,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 2 | 2 | 2 | 2 | 2 |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -280,9 +288,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% | Last Result |
-| 2 | 87% | 89% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 1 | 13% | 100% | Last Result |
+| 2 | 86% | 87% | Median |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 

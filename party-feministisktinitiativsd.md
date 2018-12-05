@@ -11,6 +11,10 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.3–1.5% | 0.3–1.7% |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 0.0% | N/A | N/A | N/A | N/A |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0.0% | N/A | N/A | N/A | N/A |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 0.0% | N/A | N/A | N/A | N/A |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 0.0% | N/A | N/A | N/A | N/A |
@@ -151,6 +155,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB |  |  |  |  |  |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
