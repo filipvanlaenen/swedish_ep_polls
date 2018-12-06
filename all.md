@@ -5,10 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 29–32% <br> 6–7 | 3–5% <br> 0–1 | 18–20% <br> 4 | 4–5% <br> 1 | 17–19% <br> 4 | 8–9% <br> 2 | 8–9% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
-| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 6–7 | 3–5% <br> 0–1 | 16–20% <br> 4–5 | 4–6% <br> 0–1 | 18–22% <br> 4–5 | 9–12% <br> 2 | 7–10% <br> 1–2 | 4–7% <br> 1 | N/A <br> N/A |
-| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 29–32% <br> 6–7 | 3–5% <br> 0–1 | 18–20% <br> 4–5 | 4–5% <br> 0–1 | 17–19% <br> 4 | 8–9% <br> 2 | 8–9% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 6–7 | 3–5% <br> 0–1 | 16–20% <br> 4–5 | 4–6% <br> 0–1 | 18–22% <br> 4–5 | 9–12% <br> 2–3 | 7–10% <br> 1–2 | 4–7% <br> 1 | N/A <br> N/A |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 28–31% <br> 6–7 | 3–4% <br> 0–1 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 8–10% <br> 2 | 6–8% <br> 1–2 | 6–8% <br> 1–2 | N/A <br> N/A |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–30% <br> 6 | 4–5% <br> 1 | 17–19% <br> 4 | 4–5% <br> 1 | 18–20% <br> 4 | 8–10% <br> 2 | 7–8% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 29–31% <br> 6–7 | 4–5% <br> 0–1 | 18–20% <br> 4–5 | 3–4% <br> 0–1 | 18–20% <br> 4–5 | 8–10% <br> 2 | 7–9% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 6–7 | 3–5% <br> 0–1 | 16–21% <br> 4–5 | 2–5% <br> 0–1 | 18–23% <br> 4–5 | 8–11% <br> 2–3 | 8–11% <br> 2–3 | 4–7% <br> 1–2 | N/A <br> N/A |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 28–31% <br> 6–7 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 9–11% <br> 2–3 | 7–9% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
