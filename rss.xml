@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Dec 2018 20:09:20 +0100</pubDate>
+    <pubDate>Thu, 06 Dec 2018 12:06:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by SCB, 29 October–27 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-27-SCB.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-27-SCB.png"
         length="237640"
         type="image/png"/>
-      <pubDate>Wed, 05 Dec 2018 19:46:00 +0100</pubDate>
-      <dc:date>2018-12-05T19:46:00.824903+01:00</dc:date>
+      <pubDate>Thu, 06 Dec 2018 12:06:50 +0100</pubDate>
+      <dc:date>2018-12-06T12:06:50.589252+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 November 2018 – Voting Intentions</title>
@@ -26,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-19-Ipsos.png"
         length="264927"
         type="image/png"/>
-      <pubDate>Wed, 05 Dec 2018 20:09:20 +0100</pubDate>
-      <dc:date>2018-12-05T20:09:20.483064+01:00</dc:date>
+      <pubDate>Wed, 05 Dec 2018 21:39:44 +0100</pubDate>
+      <dc:date>2018-12-05T21:39:44.678754+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 14–19 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-19-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.5–31.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.6–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.3–20.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.1–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.3–8.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.1–8.1%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.2–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.9–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-19-Inizio.png"
+        length="252738"
+        type="image/png"/>
+      <pubDate>Thu, 06 Dec 2018 11:26:16 +0100</pubDate>
+      <dc:date>2018-12-06T11:26:16.75743+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-15-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 28.0–29.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.3–18.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.5–20.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.4–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.1–8.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.2–7.2%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.5–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.7–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-11-15-Sifo.png"
+        length="227855"
+        type="image/png"/>
+      <pubDate>Wed, 05 Dec 2018 21:02:07 +0100</pubDate>
+      <dc:date>2018-12-05T21:02:07.978271+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Seat Projections for the Parties</title>
@@ -3509,6 +3529,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-12-05T20:09:20.483064+01:00</dc:date>
+    <dc:date>2018-12-06T12:06:50.589252+01:00</dc:date>
   </channel>
 </rss>
