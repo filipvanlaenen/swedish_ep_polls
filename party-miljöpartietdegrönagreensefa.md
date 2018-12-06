@@ -10,11 +10,11 @@ Last result: **15.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.6% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.4–4.7% | 3.2–4.9% | 3.0–5.1% | 2.7–5.5% |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.3–4.8% |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.6% |
-| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 3.5% | N/A | N/A | N/A | N/A |
-| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.1% | N/A | N/A | N/A | N/A |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 3.5% | 3.1–4.1% | 3.0–4.2% | 2.9–4.3% | 2.7–4.6% |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.1% | 3.8–4.4% | 3.8–4.5% | 3.7–4.5% | 3.6–4.7% |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 4.3% | 3.9–4.7% | 3.8–4.8% | 3.8–4.9% | 3.6–5.1% |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 3.8% | 3.3–4.4% | 3.2–4.5% | 3.1–4.7% | 2.9–5.0% |
@@ -140,10 +140,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 13% | 99.8% |  |
-| 3.5–4.5% | 66% | 86% | Median |
-| 4.5–5.5% | 20% | 21% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 16% | 99.8% |  |
+| 3.5–4.5% | 68% | 84% | Median |
+| 4.5–5.5% | 16% | 16% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -163,11 +163,11 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–1 | 0–1 |
-| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
-| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -293,8 +293,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 50% | 50% |  |
+| 0 | 41% | 100% |  |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
