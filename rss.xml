@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 11 Dec 2018 11:55:32 +0100</pubDate>
+    <pubDate>Tue, 11 Dec 2018 14:19:43 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop-seats.png"
+        length="210655"
+        type="image/png"/>
+      <pubDate>Tue, 11 Dec 2018 14:19:43 +0100</pubDate>
+      <dc:date>2018-12-11T14:19:43.867247+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop-coalitions-seats.png"
+        length="172772"
+        type="image/png"/>
+      <pubDate>Tue, 11 Dec 2018 14:19:43 +0100</pubDate>
+      <dc:date>2018-12-11T14:19:43.867247+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-04-Demoskop.png"
         length="263587"
         type="image/png"/>
-      <pubDate>Tue, 11 Dec 2018 11:55:32 +0100</pubDate>
-      <dc:date>2018-12-11T11:55:32.455724+01:00</dc:date>
+      <pubDate>Tue, 11 Dec 2018 14:19:43 +0100</pubDate>
+      <dc:date>2018-12-11T14:19:43.867247+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-03-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-03-Sentio-seats.png"
+        length="252259"
+        type="image/png"/>
+      <pubDate>Tue, 11 Dec 2018 13:33:13 +0100</pubDate>
+      <dc:date>2018-12-11T13:33:13.244811+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-03-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-03-Sentio-coalitions-seats.png"
+        length="200352"
+        type="image/png"/>
+      <pubDate>Tue, 11 Dec 2018 13:33:13 +0100</pubDate>
+      <dc:date>2018-12-11T13:33:13.244811+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-03-Sentio.png"
         length="277667"
         type="image/png"/>
-      <pubDate>Tue, 11 Dec 2018 11:14:42 +0100</pubDate>
-      <dc:date>2018-12-11T11:14:42.135018+01:00</dc:date>
+      <pubDate>Tue, 11 Dec 2018 13:33:13 +0100</pubDate>
+      <dc:date>2018-12-11T13:33:13.244811+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 29 October–27 November 2018 – Seat Projections for the Parties</title>
@@ -3629,6 +3669,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-12-11T11:55:32.455724+01:00</dc:date>
+    <dc:date>2018-12-11T14:19:43.867247+01:00</dc:date>
   </channel>
 </rss>
