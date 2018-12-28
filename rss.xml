@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Dec 2018 10:33:55 +0100</pubDate>
+    <pubDate>Fri, 28 Dec 2018 16:47:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Novus.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Novus.png"
         length="234219"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 10:25:54 +0100</pubDate>
-      <dc:date>2018-12-28T10:25:54.223533+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 14:26:44 +0100</pubDate>
+      <dc:date>2018-12-28T14:26:44.763126+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–16 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Ipsos-seats.png"
+        length="236345"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 16:47:33 +0100</pubDate>
+      <dc:date>2018-12-28T16:47:33.533831+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–16 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Ipsos-coalitions-seats.png"
+        length="179989"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 16:47:33 +0100</pubDate>
+      <dc:date>2018-12-28T16:47:33.533831+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–16 December 2018 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Ipsos.png"
         length="257567"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 09:04:25 +0100</pubDate>
-      <dc:date>2018-12-28T09:04:25.366002+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 16:47:33 +0100</pubDate>
+      <dc:date>2018-12-28T16:47:33.533831+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–13 December 2018 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-13-Sifo.png"
         length="229287"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 09:30:26 +0100</pubDate>
-      <dc:date>2018-12-28T09:30:26.41956+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 14:23:17 +0100</pubDate>
+      <dc:date>2018-12-28T14:23:17.553728+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 4–12 December 2018 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-12-Inizio.png"
         length="254150"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 10:33:55 +0100</pubDate>
-      <dc:date>2018-12-28T10:33:55.592488+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 14:00:11 +0100</pubDate>
+      <dc:date>2018-12-28T14:00:11.151138+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Seat Projections for the Parties</title>
@@ -3709,6 +3729,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T10:33:55.592488+01:00</dc:date>
+    <dc:date>2018-12-28T16:47:33.533831+01:00</dc:date>
   </channel>
 </rss>
