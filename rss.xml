@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Dec 2018 18:54:50 +0100</pubDate>
+    <pubDate>Fri, 04 Jan 2019 19:22:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 19–26 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio-seats.png"
+        length="173151"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 19:22:58 +0100</pubDate>
+      <dc:date>2019-01-04T19:22:58.394166+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 19–26 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio-coalitions-seats.png"
+        length="131786"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 19:22:58 +0100</pubDate>
+      <dc:date>2019-01-04T19:22:58.394166+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 19–26 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 27.9–31.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.7–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.2–20.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.3–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–8.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.1–9.4%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.6–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.5–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-26-Inizio.png"
+        length="252786"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 19:22:58 +0100</pubDate>
+      <dc:date>2019-01-04T19:22:58.394166+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2018-12-16-Novus.html#seats</link>
@@ -3789,6 +3819,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T18:54:50.141452+01:00</dc:date>
+    <dc:date>2019-01-04T19:22:58.394166+01:00</dc:date>
   </channel>
 </rss>
