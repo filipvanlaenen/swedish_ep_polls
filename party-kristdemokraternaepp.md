@@ -10,7 +10,7 @@ Last result: **5.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–8.4% | 5.1–8.7% | 4.9–9.0% | 4.6–9.5% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.4–8.5% | 5.1–8.8% | 5.0–9.1% | 4.7–9.6% |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 7.7% | 6.9–8.6% | 6.7–8.9% | 6.5–9.1% | 6.1–9.6% |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 8.2% | 7.5–9.0% | 7.3–9.2% | 7.1–9.4% | 6.8–9.8% |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 6.5% | 6.1–7.0% | 6.0–7.1% | 5.9–7.2% | 5.7–7.4% |
@@ -147,13 +147,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 17% | 99.6% |  |
-| 5.5–6.5% | 33% | 82% | Last Result |
-| 6.5–7.5% | 25% | 49% | Median |
-| 7.5–8.5% | 17% | 24% |  |
-| 8.5–9.5% | 7% | 7% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 13% | 99.8% |  |
+| 5.5–6.5% | 25% | 86% | Last Result |
+| 6.5–7.5% | 28% | 61% | Median |
+| 7.5–8.5% | 24% | 33% |  |
+| 8.5–9.5% | 8% | 9% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -303,8 +303,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 64% | 100% | Last Result, Median |
-| 2 | 36% | 36% |  |
+| 1 | 52% | 100% | Last Result, Median |
+| 2 | 48% | 48% |  |
 | 3 | 0% | 0% |  |
 
 
