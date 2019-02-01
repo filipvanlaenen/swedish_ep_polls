@@ -10,12 +10,12 @@ Last result: **24.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.6% | 27.7–31.3% | 27.2–31.8% | 26.7–32.2% | 25.8–33.1% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.9–31.8% | 27.3–32.4% | 26.8–32.8% | 25.9–33.6% |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 28.2% | 26.9–29.5% | 26.6–29.9% | 26.3–30.2% | 25.7–30.8% |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30.0% | 28.6–31.5% | 28.2–32.0% | 27.8–32.3% | 27.1–33.1% |
 | [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.3% | 28.4–30.2% | 28.2–30.4% | 27.9–30.7% | 27.5–31.1% |
 | [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 30.2% | 28.5–32.0% | 28.0–32.5% | 27.6–33.0% | 26.8–33.8% |
-| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 31.8% | N/A | N/A | N/A | N/A |
+| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 31.8% | 30.6–33.1% | 30.2–33.4% | 29.9–33.7% | 29.4–34.3% |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 30.2% | 28.8–31.7% | 28.4–32.2% | 28.0–32.5% | 27.4–33.3% |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 29.8% | 28.6–31.0% | 28.2–31.4% | 27.9–31.7% | 27.4–32.3% |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 30.0% | 29.2–30.8% | 29.0–31.0% | 28.8–31.2% | 28.4–31.6% |
@@ -152,17 +152,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% | Last Result |
-| 24.5–25.5% | 0.3% | 100% |  |
-| 25.5–26.5% | 2% | 99.7% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 14% | 92% |  |
-| 28.5–29.5% | 25% | 77% |  |
-| 29.5–30.5% | 27% | 52% | Median |
-| 30.5–31.5% | 18% | 25% |  |
-| 31.5–32.5% | 6% | 7% |  |
-| 32.5–33.5% | 1.1% | 1.3% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.4% | 99.7% |  |
+| 26.5–27.5% | 5% | 98% |  |
+| 27.5–28.5% | 13% | 93% |  |
+| 28.5–29.5% | 22% | 80% |  |
+| 29.5–30.5% | 25% | 58% | Median |
+| 30.5–31.5% | 20% | 33% |  |
+| 31.5–32.5% | 10% | 14% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.6% | 0.6% |  |
 | 34.5–35.5% | 0% | 0% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -173,12 +174,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 7 | 7 | 7 | 7 | 6–7 |
-| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -317,9 +318,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% | Last Result |
-| 6 | 49% | 99.6% |  |
-| 7 | 50% | 51% | Median |
-| 8 | 0.2% | 0.2% |  |
+| 6 | 44% | 99.6% |  |
+| 7 | 54% | 56% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
