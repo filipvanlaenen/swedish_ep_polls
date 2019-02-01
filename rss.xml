@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Jan 2019 20:58:43 +0100</pubDate>
+    <pubDate>Fri, 01 Feb 2019 20:43:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-23-Inizio.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-23-Inizio.png"
         length="255959"
         type="image/png"/>
-      <pubDate>Thu, 31 Jan 2019 19:53:48 +0100</pubDate>
-      <dc:date>2019-01-31T19:53:48.840512+01:00</dc:date>
+      <pubDate>Fri, 01 Feb 2019 19:57:08 +0100</pubDate>
+      <dc:date>2019-02-01T19:57:08.752295+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 January 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-20-Ipsos.png"
         length="258384"
         type="image/png"/>
-      <pubDate>Thu, 31 Jan 2019 20:07:11 +0100</pubDate>
-      <dc:date>2019-01-31T20:07:11.225157+01:00</dc:date>
+      <pubDate>Fri, 01 Feb 2019 18:38:17 +0100</pubDate>
+      <dc:date>2019-02-01T18:38:17.89307+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 14–17 January 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-17-Sifo.png"
         length="241238"
         type="image/png"/>
-      <pubDate>Thu, 31 Jan 2019 20:39:44 +0100</pubDate>
-      <dc:date>2019-01-31T20:39:44.724634+01:00</dc:date>
+      <pubDate>Fri, 01 Feb 2019 19:20:07 +0100</pubDate>
+      <dc:date>2019-02-01T19:20:07.394157+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 3–17 January 2019 – Voting Intentions</title>
@@ -46,8 +46,18 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-17-SKOP.png"
         length="264051"
         type="image/png"/>
-      <pubDate>Thu, 31 Jan 2019 20:58:43 +0100</pubDate>
-      <dc:date>2019-01-31T20:58:43.526617+01:00</dc:date>
+      <pubDate>Fri, 01 Feb 2019 19:22:56 +0100</pubDate>
+      <dc:date>2019-02-01T19:22:56.256889+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 2–13 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-13-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 29.9–33.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.4–20.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.7–20.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.6–8.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.6–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.7–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.2–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-01-13-Novus.png"
+        length="246436"
+        type="image/png"/>
+      <pubDate>Fri, 01 Feb 2019 20:43:05 +0100</pubDate>
+      <dc:date>2019-02-01T20:43:05.720065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 2–8 January 2019 – Seat Projections for the Parties</title>
@@ -3889,6 +3899,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2019-01-31T20:58:43.526617+01:00</dc:date>
+    <dc:date>2019-02-01T20:43:05.720065+01:00</dc:date>
   </channel>
 </rss>
