@@ -10,10 +10,10 @@ Last result: **9.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.2% | 17.1–21.5% | 16.4–21.9% | 15.8–22.3% | 14.9–23.1% |
+| N/A | [Poll Average](average.html) | 19.2% | 17.4–21.3% | 16.7–21.8% | 16.0–22.2% | 15.1–22.9% |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.4% | 17.4–20.8% | 17.1–21.1% | 16.5–21.7% |
-| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 19.5% | N/A | N/A | N/A | N/A |
-| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.2% | N/A | N/A | N/A | N/A |
+| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 19.5% | 18.4–20.6% | 18.1–20.9% | 17.8–21.2% | 17.3–21.8% |
+| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.2% | 18.6–19.8% | 18.5–19.9% | 18.4–20.1% | 18.1–20.3% |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 19.4% | 18.2–20.7% | 17.8–21.1% | 17.5–21.4% | 16.9–22.0% |
 | [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 21.2% | 20.3–22.2% | 20.0–22.5% | 19.8–22.7% | 19.4–23.2% |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.8% |
@@ -161,17 +161,17 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 1.4% | 99.8% |  |
-| 15.5–16.5% | 4% | 98% |  |
-| 16.5–17.5% | 8% | 94% |  |
-| 17.5–18.5% | 21% | 86% |  |
-| 18.5–19.5% | 23% | 65% | Median |
-| 19.5–20.5% | 17% | 42% |  |
-| 20.5–21.5% | 16% | 25% |  |
-| 21.5–22.5% | 8% | 9% |  |
-| 22.5–23.5% | 1.3% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 1.1% | 99.8% |  |
+| 15.5–16.5% | 3% | 98.8% |  |
+| 16.5–17.5% | 6% | 95% |  |
+| 17.5–18.5% | 18% | 89% |  |
+| 18.5–19.5% | 31% | 71% | Median |
+| 19.5–20.5% | 20% | 40% |  |
+| 20.5–21.5% | 13% | 20% |  |
+| 21.5–22.5% | 6% | 7% |  |
+| 22.5–23.5% | 1.0% | 1.1% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -185,8 +185,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 4 |
-| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
-| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4 |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -333,10 +333,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 4% | 100% |  |
-| 4 | 69% | 96% | Median |
-| 5 | 28% | 28% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 3 | 3% | 100% |  |
+| 4 | 68% | 97% | Median |
+| 5 | 29% | 29% |  |
+| 6 | 0% | 0% |  |
 
 
