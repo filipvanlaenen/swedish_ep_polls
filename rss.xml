@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Feb 2019 09:54:16 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 20:04:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-02-20-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-02-20-Ipsos.png"
         length="264848"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 20:36:50 +0100</pubDate>
-      <dc:date>2019-02-23T20:36:50.360956+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 20:04:29 +0100</pubDate>
+      <dc:date>2019-02-28T20:04:29.261384+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 11–18 February 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-02-18-Inizio.png"
         length="257874"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 20:53:36 +0100</pubDate>
-      <dc:date>2019-02-23T20:53:36.783126+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 12:39:24 +0100</pubDate>
+      <dc:date>2019-02-28T12:39:24.210878+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 February 2019 – Voting Intentions</title>
@@ -4119,6 +4119,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2019-02-24T09:54:16.431073+01:00</dc:date>
+    <dc:date>2019-02-28T20:04:29.261384+01:00</dc:date>
   </channel>
 </rss>
