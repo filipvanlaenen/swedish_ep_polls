@@ -12,8 +12,8 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 25–32% <br> 6–7 | 2–5% <br> 0–1 | 16–21% <br> 3–5 | 2–5% <br> 0–1 | 16–23% <br> 3–5 | 5–10% <br> 1–2 | 8–12% <br> 2–3 | 6–11% <br> 1–2 | N/A <br> N/A |
 | [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 24–29% <br> 5–7 | 2–5% <br> 0–1 | 16–21% <br> 4–5 | 2–4% <br> 0 | 19–24% <br> 4–6 | 4–7% <br> 1–2 | 9–13% <br> 2–3 | 8–11% <br> 2–3 | N/A <br> N/A |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–30% <br> 5–7 | 3–5% <br> 0–1 | 15–19% <br> 3–4 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2–3 | 8–11% <br> 2 | N/A <br> N/A |
-| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 25–29% <br> 6–7 | 3–4% <br> 0–1 | 16–19% <br> 4 | 2–4% <br> 0 | 18–21% <br> 4–5 | 9–11% <br> 2 | 8–10% <br> 2 | 8–10% <br> 2 | N/A <br> N/A |
-| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 27–29% <br> 6–7 | 4–5% <br> 0–1 | 16–18% <br> 3–4 | 3–4% <br> 0–1 | 18–20% <br> 4–5 | 7–8% <br> 1–2 | 9–10% <br> 2 | 8–9% <br> 2 | N/A <br> N/A |
+| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 25–29% <br> 6–7 | 3–4% <br> 0–1 | 16–19% <br> 4 | 2–4% <br> 0 | 18–21% <br> 4–5 | 9–11% <br> 2–3 | 8–10% <br> 2 | 8–10% <br> 2 | N/A <br> N/A |
+| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 27–29% <br> 6–7 | 4–5% <br> 0–1 | 16–18% <br> 3–4 | 3–4% <br> 0–1 | 18–20% <br> 4 | 7–8% <br> 1–2 | 9–10% <br> 2 | 8–9% <br> 2 | N/A <br> N/A |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 26–30% <br> 6–7 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 3–4% <br> 0–1 | 18–21% <br> 4–5 | 7–10% <br> 2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 27–31% <br> 6–7 | 3–4% <br> 0–1 | 17–20% <br> 4 | 2–3% <br> 0 | 20–23% <br> 4–5 | 7–8% <br> 1–2 | 8–10% <br> 2 | 7–8% <br> 1–2 | N/A <br> N/A |
 | [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 28–33% <br> 6–7 | 2–4% <br> 0–1 | 16–20% <br> 3–4 | 3–5% <br> 0–1 | 15–19% <br> 3–4 | 7–10% <br> 1–2 | 7–11% <br> 2 | 8–11% <br> 2–3 | N/A <br> N/A |
@@ -234,8 +234,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% | Last Result |
-| 6 | 69% | 98% | Median |
-| 7 | 29% | 29% |  |
+| 6 | 68% | 98% | Median |
+| 7 | 30% | 30% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -247,8 +247,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% |  |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 3% | 100% |  |
-| 4 | 54% | 97% | Median |
-| 5 | 42% | 43% |  |
+| 4 | 57% | 97% | Median |
+| 5 | 39% | 40% |  |
 | 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
@@ -304,7 +304,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0.1% | 100% |  |
 | 1 | 16% | 99.9% | Last Result |
 | 2 | 84% | 84% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -356,8 +356,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 69% | 98% | Last Result, Median |
-| 7 | 29% | 29% |  |
+| 6 | 68% | 98% | Last Result, Median |
+| 7 | 30% | 30% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -370,7 +370,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 9% | 100% |  |
 | 6 | 83% | 91% | Median |
-| 7 | 7% | 7% |  |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -381,8 +381,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 3% | 100% |  |
-| 4 | 54% | 97% | Median |
-| 5 | 42% | 43% |  |
+| 4 | 57% | 97% | Median |
+| 5 | 39% | 40% |  |
 | 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
@@ -405,7 +405,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 14% | 99.9% |  |
-| 2 | 69% | 86% | Median |
+| 2 | 68% | 86% | Median |
 | 3 | 17% | 17% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -415,8 +415,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% |  |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -425,6 +425,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
-+ **Error estimate:** 1.89%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 1.94%
