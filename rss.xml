@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Mar 2019 09:58:33 +0100</pubDate>
+    <pubDate>Wed, 27 Mar 2019 14:09:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-25-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.8–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.1–21.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–11.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-25-Ipsos.png"
+        length="265791"
+        type="image/png"/>
+      <pubDate>Wed, 27 Mar 2019 14:09:55 +0100</pubDate>
+      <dc:date>2019-03-27T14:09:55.233769+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–14 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-14-Sifo.html</link>
@@ -4239,6 +4249,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2019-03-24T09:58:33.109621+01:00</dc:date>
+    <dc:date>2019-03-27T14:09:55.233769+01:00</dc:date>
   </channel>
 </rss>
