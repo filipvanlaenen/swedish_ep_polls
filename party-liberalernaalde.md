@@ -10,7 +10,7 @@ Last result: **9.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.3% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.3% |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.3% | 3.1–3.6% | 3.0–3.6% | 2.9–3.7% | 2.8–3.8% |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.0–4.3% |
@@ -163,10 +163,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 14% | 99.9% |  |
-| 2.5–3.5% | 43% | 86% | Median |
-| 3.5–4.5% | 37% | 42% |  |
-| 4.5–5.5% | 5% | 6% |  |
+| 1.5–2.5% | 12% | 99.9% |  |
+| 2.5–3.5% | 54% | 88% | Median |
+| 3.5–4.5% | 29% | 35% |  |
+| 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
