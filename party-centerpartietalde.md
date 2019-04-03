@@ -184,7 +184,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 1–2 | 1–2 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
-| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 2 | 2 | 2 |
+| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -336,8 +336,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
-| 1 | 22% | 99.8% | Last Result |
-| 2 | 78% | 78% | Median |
+| 1 | 23% | 99.8% | Last Result |
+| 2 | 77% | 77% | Median |
 | 3 | 0% | 0% |  |
 
 
