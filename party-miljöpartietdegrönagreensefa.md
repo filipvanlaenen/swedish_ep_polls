@@ -10,10 +10,11 @@ Last result: **15.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–9.0% | 2.9–9.5% | 2.7–9.9% | 2.4–10.5% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.6–9.5% | 3.4–9.9% | 3.2–10.2% | 2.9–10.8% |
+| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.0% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.7% | 3.6–4.9% | 3.5–5.0% | 3.3–5.2% |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.7% |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.1% | 2.1–4.5% |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 9.2% | 8.3–10.2% | 8.1–10.5% | 7.8–10.8% | 7.4–11.3% |
 | [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.1% | 7.4–8.9% | 7.2–9.2% | 7.0–9.4% | 6.7–9.8% |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [11–24 March 2019](2019-03-24-Novus.html) | Novus <br> SVT | 9.2% | 8.4–10.1% | 8.1–10.4% | 7.9–10.6% | 7.6–11.1% |
@@ -166,17 +167,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 18% | 98.9% |  |
-| 3.5–4.5% | 42% | 81% | Median |
-| 4.5–5.5% | 10% | 39% |  |
-| 5.5–6.5% | 0.3% | 29% |  |
-| 6.5–7.5% | 2% | 29% |  |
-| 7.5–8.5% | 11% | 26% |  |
-| 8.5–9.5% | 11% | 16% |  |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 8% | 99.9% |  |
+| 3.5–4.5% | 39% | 92% |  |
+| 4.5–5.5% | 10% | 53% | Median |
+| 5.5–6.5% | 0.3% | 43% |  |
+| 6.5–7.5% | 2% | 43% |  |
+| 7.5–8.5% | 13% | 40% |  |
+| 8.5–9.5% | 18% | 27% |  |
+| 9.5–10.5% | 8% | 9% |  |
+| 10.5–11.5% | 1.0% | 1.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -192,9 +192,10 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 2 |
 | [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 1–2 |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–24 March 2019](2019-03-24-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
@@ -349,9 +350,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 32% | 60% | Median |
-| 2 | 28% | 28% |  |
+| 0 | 26% | 100% |  |
+| 1 | 31% | 74% | Median |
+| 2 | 43% | 43% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
