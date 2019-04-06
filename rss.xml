@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 13:39:07 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 20:58:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.3–27.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.8–18.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.2–20.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 7.0–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.2–11.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 10.2–13.4%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.0–5.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.png"
+        length="271613"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 20:58:13 +0200</pubDate>
+      <dc:date>2019-04-06T20:58:13.096127+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-28-Inizio.html#seats</link>
@@ -52,12 +62,12 @@
     <item>
       <title>Opinion Poll by SKOP, 7–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-27-SKOP.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.4–31.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.2–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 14.7–18.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.1–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.5–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 8.6–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.3–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.3–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.5–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.8–19.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 13.4–17.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.4–9.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.4–9.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.9–10.9%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 7.8–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-27-SKOP.png"
-        length="263416"
+        length="270094"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 09:53:36 +0200</pubDate>
-      <dc:date>2019-04-04T09:53:36.039928+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 19:28:31 +0200</pubDate>
+      <dc:date>2019-04-06T19:28:31.4727+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 19–25 March 2019 – Voting Intentions</title>
@@ -4289,6 +4299,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2019-04-04T13:39:07.066342+02:00</dc:date>
+    <dc:date>2019-04-06T20:58:13.096127+02:00</dc:date>
   </channel>
 </rss>
