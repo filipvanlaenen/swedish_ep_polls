@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 20:58:13 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 10:16:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop-seats.png"
+        length="239333"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 10:08:00 +0200</pubDate>
+      <dc:date>2019-04-07T10:08:00.505189+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop-coalitions-seats.png"
+        length="176621"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 10:08:00 +0200</pubDate>
+      <dc:date>2019-04-07T10:08:00.505189+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-03-Demoskop.png"
         length="271613"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 20:58:13 +0200</pubDate>
-      <dc:date>2019-04-06T20:58:13.096127+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 10:08:00 +0200</pubDate>
+      <dc:date>2019-04-07T10:08:00.505189+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Seat Projections for the Parties</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-27-Sentio.png"
         length="286947"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 09:26:03 +0200</pubDate>
-      <dc:date>2019-04-04T09:26:03.298419+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 23:42:56 +0200</pubDate>
+      <dc:date>2019-04-06T23:42:56.017703+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 7–27 March 2019 – Voting Intentions</title>
@@ -66,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-27-SKOP.png"
         length="270094"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 19:28:31 +0200</pubDate>
-      <dc:date>2019-04-06T19:28:31.4727+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:33:42 +0200</pubDate>
+      <dc:date>2019-04-07T09:33:42.292467+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 19–25 March 2019 – Voting Intentions</title>
@@ -76,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-25-Sifo.png"
         length="262485"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 11:16:52 +0200</pubDate>
-      <dc:date>2019-04-04T11:16:52.051858+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:45:02 +0200</pubDate>
+      <dc:date>2019-04-07T09:45:02.236708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 March 2019 – Voting Intentions</title>
@@ -86,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-25-Ipsos.png"
         length="265791"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 06:50:58 +0100</pubDate>
-      <dc:date>2019-03-28T06:50:58.63574+01:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 10:00:03 +0200</pubDate>
+      <dc:date>2019-04-07T10:00:03.793134+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 11–24 March 2019 – Voting Intentions</title>
@@ -96,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-03-24-Novus.png"
         length="267488"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 11:29:42 +0200</pubDate>
-      <dc:date>2019-04-04T11:29:42.307696+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 10:16:11 +0200</pubDate>
+      <dc:date>2019-04-07T10:16:11.474274+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 26 February–5 March 2019 – Voting Intentions</title>
@@ -4299,6 +4319,6 @@
       <pubDate>Thu, 23 Aug 2018 18:31:53 +0200</pubDate>
       <dc:date>2018-08-23T18:31:53.491868+02:00</dc:date>
     </item>
-    <dc:date>2019-04-06T20:58:13.096127+02:00</dc:date>
+    <dc:date>2019-04-07T10:16:11.474274+02:00</dc:date>
   </channel>
 </rss>
