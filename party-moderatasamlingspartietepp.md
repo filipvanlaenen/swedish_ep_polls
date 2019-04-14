@@ -194,10 +194,10 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 3–5 | 3–5 |
+| [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [11–24 March 2019](2019-03-24-Novus.html) | Novus <br> SVT | 3 | 3 | 3 | 3 | 2–4 |
-| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4 | 4–5 | 4–5 |
+| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4–5 | 3–5 |
 | [20–25 February 2019](2019-02-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -349,8 +349,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 30% | 99.9% | Last Result |
-| 4 | 68% | 70% | Median |
+| 3 | 29% | 99.9% | Last Result |
+| 4 | 68% | 71% | Median |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
