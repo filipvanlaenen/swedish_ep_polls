@@ -188,13 +188,13 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
-| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1 | 1 | 1 | 1 |
+| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 1–2 |
-| [11–24 March 2019](2019-03-24-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
+| [19–25 March 2019](2019-03-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–24 March 2019](2019-03-24-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen |  |  |  |  |  |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [20–25 February 2019](2019-02-25-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
@@ -346,8 +346,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% | Last Result |
-| 2 | 57% | 57% | Median |
+| 1 | 33% | 100% | Last Result |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 
 
