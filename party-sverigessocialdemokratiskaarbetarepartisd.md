@@ -10,8 +10,8 @@ Last result: **24.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 24.4–27.5% | 24.0–27.9% | 23.6–28.4% | 23.0–29.2% |
-| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 25.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 25.9% | 24.3–27.5% | 23.8–28.0% | 23.4–28.4% | 22.6–29.3% |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 25.6% | 23.7–27.7% | 23.1–28.3% | 22.7–28.8% | 21.8–29.8% |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 25.4% | 24.0–26.8% | 23.6–27.2% | 23.3–27.6% | 22.7–28.3% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 26.5% | 25.5–27.6% | 25.2–27.9% | 25.0–28.1% | 24.5–28.6% |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.5% | 21.4–28.4% |
@@ -169,15 +169,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 2% | 99.9% |  |
-| 23.5–24.5% | 11% | 98% | Last Result |
-| 24.5–25.5% | 26% | 87% |  |
-| 25.5–26.5% | 32% | 61% | Median |
+| 21.5–22.5% | 0.4% | 100% |  |
+| 22.5–23.5% | 3% | 99.6% |  |
+| 23.5–24.5% | 12% | 97% | Last Result |
+| 24.5–25.5% | 26% | 85% |  |
+| 25.5–26.5% | 31% | 60% | Median |
 | 26.5–27.5% | 20% | 29% |  |
 | 27.5–28.5% | 7% | 9% |  |
 | 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.2% | 0.3% |  |
+| 29.5–30.5% | 0.3% | 0.3% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -190,7 +190,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -349,9 +349,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.1% | 100% |  |
-| 5 | 74% | 98.9% | Last Result, Median |
-| 6 | 25% | 25% |  |
-| 7 | 0% | 0% |  |
+| 4 | 1.0% | 100% |  |
+| 5 | 72% | 99.0% | Last Result, Median |
+| 6 | 26% | 26% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
