@@ -11,6 +11,7 @@ Last result: **24.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.9% | 24.3–27.5% | 23.8–28.0% | 23.4–28.4% | 22.6–29.3% |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.3% | 25.8–28.8% | 25.4–29.2% | 25.0–29.6% | 24.4–30.3% |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 25.6% | 23.7–27.7% | 23.1–28.3% | 22.7–28.8% | 21.8–29.8% |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 25.4% | 24.0–26.8% | 23.6–27.2% | 23.3–27.6% | 22.7–28.3% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 26.5% | 25.5–27.6% | 25.2–27.9% | 25.0–28.1% | 24.5–28.6% |
@@ -190,6 +191,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
