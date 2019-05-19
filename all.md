@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 20–23% <br> 4–5 | 9–11% <br> 2 | 12–15% <br> 3 | 3–5% <br> 0–1 | 18–21% <br> 4–5 | 7–9% <br> 1–2 | 8–11% <br> 2 | 10–12% <br> 2–3 | N/A <br> N/A |
-| [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 21–25% <br> 4–5 | 10–13% <br> 2–3 | 14–17% <br> 3–4 | 3–4% <br> 0–1 | 15–18% <br> 3–4 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 11–14% <br> 2–3 | N/A <br> N/A |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–28 April 2019](2019-04-28-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 April 2019](2019-04-25-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
