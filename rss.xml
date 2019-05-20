@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 21:03:00 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 22:29:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-15-Sifo.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-25-Inizio.png"
         length="263467"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 19:56:38 +0200</pubDate>
-      <dc:date>2019-05-20T19:56:38.378805+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:03:51 +0200</pubDate>
+      <dc:date>2019-05-20T22:03:51.659847+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 12–24 April 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos.png"
         length="280070"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:25:16 +0200</pubDate>
-      <dc:date>2019-05-20T20:25:16.174281+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:29:55 +0200</pubDate>
+      <dc:date>2019-05-20T22:29:55.25704+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Seat Projections for the Parties</title>
@@ -309,6 +309,6 @@
       <pubDate>Wed, 01 May 2019 15:42:11 +0200</pubDate>
       <dc:date>2019-05-01T15:42:11.228494+02:00</dc:date>
     </item>
-    <dc:date>2019-05-20T21:03:00.1336+02:00</dc:date>
+    <dc:date>2019-05-20T22:29:55.25704+02:00</dc:date>
   </channel>
 </rss>
