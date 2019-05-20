@@ -199,15 +199,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [15–28 April 2019](2019-04-28-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 4–5 | 4–6 |
 | [23–25 April 2019](2019-04-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [15–25 April 2019](2019-04-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [15–25 April 2019](2019-04-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [12–24 April 2019](2019-04-24-Demoskop.html) | Demoskop <br> Expressen | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -367,9 +367,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 30% | 100% |  |
-| 5 | 68% | 70% | Last Result, Median |
-| 6 | 2% | 2% |  |
+| 4 | 14% | 100% |  |
+| 5 | 82% | 86% | Last Result, Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
 

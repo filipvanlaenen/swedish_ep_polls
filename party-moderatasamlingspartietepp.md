@@ -204,9 +204,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–28 April 2019](2019-04-28-Novus.html) | Novus <br> SVT | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–25 April 2019](2019-04-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [15–25 April 2019](2019-04-25-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3 | 3 | 3 | 3–4 |
+| [15–25 April 2019](2019-04-25-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–24 April 2019](2019-04-24-Demoskop.html) | Demoskop <br> Expressen | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3 | 3 | 3–4 | 3–4 |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3 | 3 | 3 | 3–4 |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -367,8 +367,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 8% | 100% |  |
-| 3 | 70% | 92% | Last Result, Median |
-| 4 | 22% | 22% |  |
+| 3 | 66% | 92% | Last Result, Median |
+| 4 | 26% | 26% |  |
 | 5 | 0% | 0% |  |
 
 
