@@ -263,8 +263,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 53% | 100% | Median |
-| 1 | 47% | 47% |  |
-| 2 | 0.3% | 0.3% | Last Result |
+| 1 | 46% | 47% |  |
+| 2 | 0.4% | 0.4% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -277,7 +277,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.2% | 100% | Last Result |
 | 3 | 38% | 98.8% |  |
-| 4 | 57% | 61% | Median |
+| 4 | 56% | 61% | Median |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
@@ -366,7 +366,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.2% | 100% | Last Result |
 | 3 | 38% | 98.8% |  |
-| 4 | 57% | 61% | Median |
+| 4 | 56% | 61% | Median |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
@@ -377,8 +377,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 34% | 100% | Median |
-| 2 | 37% | 66% |  |
-| 3 | 29% | 29% | Last Result |
+| 2 | 36% | 66% |  |
+| 3 | 30% | 30% | Last Result |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -409,5 +409,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,538,944
++ **Total number of simulations done in the polls included in this average:** 4,325,376
 + **Error estimate:** 1.65%
