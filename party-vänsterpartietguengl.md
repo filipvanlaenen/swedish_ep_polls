@@ -201,7 +201,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–28 April 2019](2019-04-28-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2–3 | 2–3 |
-| [23–25 April 2019](2019-04-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [23–25 April 2019](2019-04-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 1–2 | 1–2 |
 | [15–25 April 2019](2019-04-25-Inizio.html) | Inizio <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–24 April 2019](2019-04-24-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
