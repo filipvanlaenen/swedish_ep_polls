@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 05:07:06 +0200</pubDate>
+    <pubDate>Tue, 21 May 2019 05:28:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-15-Sifo.html#seats</link>
@@ -200,14 +200,34 @@
       <dc:date>2019-05-21T04:23:41.634204+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos-seats.png"
+        length="183644"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 05:28:32 +0200</pubDate>
+      <dc:date>2019-05-21T05:28:32.048898+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos-coalitions-seats.png"
+        length="130224"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 05:28:32 +0200</pubDate>
+      <dc:date>2019-05-21T05:28:32.048898+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 20.7–25.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 13.2–16.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.0–18.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.6–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.5–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 8.5–11.5%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 7.5–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-04-22-Ipsos.png"
         length="280070"
         type="image/png"/>
-      <pubDate>Tue, 21 May 2019 05:07:06 +0200</pubDate>
-      <dc:date>2019-05-21T05:07:06.017328+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 05:28:32 +0200</pubDate>
+      <dc:date>2019-05-21T05:28:32.048898+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Seat Projections for the Parties</title>
@@ -409,6 +429,6 @@
       <pubDate>Wed, 01 May 2019 15:42:11 +0200</pubDate>
       <dc:date>2019-05-01T15:42:11.228494+02:00</dc:date>
     </item>
-    <dc:date>2019-05-21T05:07:06.017328+02:00</dc:date>
+    <dc:date>2019-05-21T05:28:32.048898+02:00</dc:date>
   </channel>
 </rss>
