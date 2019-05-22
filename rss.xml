@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 05:28:32 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 19:50:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKOP, 19–20 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 20.9–26.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.6–19.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.0–19.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.0–11.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 7.8–11.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.png"
+        length="290869"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 19:50:04 +0200</pubDate>
+      <dc:date>2019-05-22T19:50:04.787066+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-15-Sifo.html#seats</link>
@@ -429,6 +439,6 @@
       <pubDate>Wed, 01 May 2019 15:42:11 +0200</pubDate>
       <dc:date>2019-05-01T15:42:11.228494+02:00</dc:date>
     </item>
-    <dc:date>2019-05-21T05:28:32.048898+02:00</dc:date>
+    <dc:date>2019-05-22T19:50:04.787066+02:00</dc:date>
   </channel>
 </rss>
