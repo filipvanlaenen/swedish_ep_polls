@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 May 2019 19:50:04 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 23:08:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKOP, 19–20 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Wed, 22 May 2019 19:50:04 +0200</pubDate>
       <dc:date>2019-05-22T19:50:04.787066+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 10–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 21.3–24.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.2–17.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.2–20.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.3–10.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 5.9–8.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 8.0–10.4%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.7–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 8.2–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio.png"
+        length="264915"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 23:08:32 +0200</pubDate>
+      <dc:date>2019-05-22T23:08:32.583809+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Seat Projections for the Parties</title>
@@ -439,6 +449,6 @@
       <pubDate>Wed, 01 May 2019 15:42:11 +0200</pubDate>
       <dc:date>2019-05-01T15:42:11.228494+02:00</dc:date>
     </item>
-    <dc:date>2019-05-22T19:50:04.787066+02:00</dc:date>
+    <dc:date>2019-05-22T23:08:32.583809+02:00</dc:date>
   </channel>
 </rss>
