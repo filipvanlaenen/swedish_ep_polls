@@ -12,7 +12,7 @@ Last result: **6.3%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.6% | 7.3–11.2% | 7.0–11.7% | 6.8–12.0% | 6.4–12.7% |
 | [19–20 May 2019](2019-05-20-SKOP.html) | SKOP | 7.5% | 6.5–8.6% | 6.3–9.0% | 6.0–9.3% | 5.6–9.8% |
-| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 6.9% | N/A | N/A | N/A | N/A |
+| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 6.9% | 6.2–7.7% | 6.1–7.9% | 5.9–8.0% | 5.6–8.4% |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.5% | 8.8–10.2% | 8.6–10.4% | 8.5–10.6% | 8.2–11.0% |
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.3% | 6.7–8.0% | 6.5–8.2% | 6.3–8.4% | 6.0–8.8% |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 6.9% | 6.2–7.6% | 6.0–7.8% | 5.9–8.0% | 5.6–8.4% |
@@ -200,7 +200,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [19–20 May 2019](2019-05-20-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
+| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
