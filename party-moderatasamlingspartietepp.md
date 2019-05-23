@@ -201,8 +201,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [19–20 May 2019](2019-05-20-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3 | 3 | 3 | 3–4 |
+| [19–20 May 2019](2019-05-20-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 3 | 3 | 3 | 2–3 |
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

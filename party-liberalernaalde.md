@@ -200,7 +200,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–20 May 2019](2019-05-20-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–1 |
+| [10–16 May 2019](2019-05-16-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–9 May 2019](2019-05-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–9 May 2019](2019-05-09-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |
