@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 May 2019 02:46:22 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 21:05:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SKOP, 19–20 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP-seats.png"
+        length="200248"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:53:53 +0200</pubDate>
+      <dc:date>2019-05-23T20:53:53.604632+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 19–20 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP-coalitions-seats.png"
+        length="173098"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:53:53 +0200</pubDate>
+      <dc:date>2019-05-23T20:53:53.604632+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKOP, 19–20 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-20-SKOP.png"
         length="290869"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 02:38:23 +0200</pubDate>
-      <dc:date>2019-05-23T02:38:23.240318+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 20:53:53 +0200</pubDate>
+      <dc:date>2019-05-23T20:53:53.604632+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 10–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio-seats.png"
+        length="185849"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-05-23T21:05:09.75264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 10–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio-coalitions-seats.png"
+        length="144180"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-05-23T21:05:09.75264+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 10–16 May 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-16-Inizio.png"
         length="264915"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 02:46:22 +0200</pubDate>
-      <dc:date>2019-05-23T02:46:22.66548+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-05-23T21:05:09.75264+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Seat Projections for the Parties</title>
@@ -449,6 +489,6 @@
       <pubDate>Wed, 01 May 2019 15:42:11 +0200</pubDate>
       <dc:date>2019-05-01T15:42:11.228494+02:00</dc:date>
     </item>
-    <dc:date>2019-05-23T02:46:22.66548+02:00</dc:date>
+    <dc:date>2019-05-23T21:05:09.75264+02:00</dc:date>
   </channel>
 </rss>
