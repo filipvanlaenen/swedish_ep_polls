@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sat, 15 Jun 2019 23:21:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.7–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.3–16.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.3–17.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 6.4–7.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.1–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 12.3–13.7%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 3.3–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.png"
+        length="227876"
+        type="image/png"/>
+      <pubDate>Sat, 15 Jun 2019 23:19:18 +0200</pubDate>
+      <dc:date>2019-06-15T23:19:18.945952+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 21–28 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.3–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.6–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.8–20.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 8.9–11.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.2–9.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-Inizio.png"
+        length="258895"
+        type="image/png"/>
+      <pubDate>Sat, 15 Jun 2019 23:21:48 +0200</pubDate>
+      <dc:date>2019-06-15T23:21:48.946869+02:00</dc:date>
+    </item>
+    <dc:date>2019-06-15T23:21:48.946869+02:00</dc:date>
+  </channel>
+</rss>
