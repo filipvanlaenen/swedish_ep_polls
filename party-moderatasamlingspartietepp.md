@@ -41,7 +41,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 3 | 3 | 3 | 3–4 | 3–4 |
-| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
 
@@ -51,9 +51,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 55% | 100% | Last Result, Median |
-| 4 | 45% | 45% |  |
-| 5 | 0.2% | 0.2% |  |
+| 3 | 52% | 100% | Last Result, Median |
+| 4 | 48% | 48% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
