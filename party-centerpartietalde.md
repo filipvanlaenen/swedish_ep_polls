@@ -13,6 +13,7 @@ Last result: **6.5%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 8.9% | 6.8–10.4% | 6.7–10.7% | 6.6–11.0% | 6.4–11.5% |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 8.8% | 8.4–9.2% | 8.3–9.3% | 8.2–9.4% | 8.1–9.6% |
+| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 7.4% | N/A | N/A | N/A | N/A |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 6.9% | 6.6–7.3% | 6.5–7.4% | 6.4–7.4% | 6.2–7.6% |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 10.1% | 9.3–11.0% | 9.1–11.2% | 8.9–11.5% | 8.5–11.9% |
 
@@ -44,6 +45,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 1–2 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
+| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 
