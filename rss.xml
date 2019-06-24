@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Jun 2019 20:31:12 +0200</pubDate>
+    <pubDate>Mon, 24 Jun 2019 06:48:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-18-Ipsos.html#seats</link>
@@ -70,6 +70,16 @@
       <dc:date>2019-06-19T19:01:04.342332+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 3–13 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-13-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.8–28.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.5–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.1–24.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 5.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.0–10.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.2–10.0%&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 2.6–5.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.5–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-13-Sentio.png"
+        length="292135"
+        type="image/png"/>
+      <pubDate>Mon, 24 Jun 2019 06:48:07 +0200</pubDate>
+      <dc:date>2019-06-24T06:48:07.8828+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -129,6 +139,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-06-21T20:31:12.089753+02:00</dc:date>
+    <dc:date>2019-06-24T06:48:07.8828+02:00</dc:date>
   </channel>
 </rss>
