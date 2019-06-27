@@ -25,9 +25,9 @@ Only polls for which at least the sample size has been published are included in
 + **S:** Sveriges socialdemokratiska arbetareparti (S&D)
 + **MP:** Miljöpartiet de gröna (Greens/EFA)
 + **M:** Moderata samlingspartiet (EPP)
-+ **L:** Liberalerna (ALDE)
++ **L:** Liberalerna (RE)
 + **SD:** Sverigedemokraterna (ECR)
-+ **C:** Centerpartiet (ALDE)
++ **C:** Centerpartiet (RE)
 + **V:** Vänsterpartiet (GUE/NGL)
 + **KD:** Kristdemokraterna (EPP)
 + **Fi:** Feministiskt initiativ (S&D)
@@ -45,9 +45,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 24.2% | 26.4% | 24.4–27.8% |23.9–28.1% | 23.4–28.3% | 22.5–29.0% |
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 15.4% | 5.0% | 4.2–5.8% |4.0–6.0% | 3.8–6.2% | 3.4–6.6% |
 | <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 13.6% | 17.5% | 15.8–18.8% |15.5–19.2% | 15.2–19.5% | 14.5–20.2% |
-| <a href="#liberalerna-(alde)">Liberalerna (ALDE)</a> | 9.9% | 3.7% | 2.9–5.1% |2.7–5.5% | 2.6–5.7% | 2.3–6.2% |
+| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 9.9% | 3.7% | 2.9–5.1% |2.7–5.5% | 2.6–5.7% | 2.3–6.2% |
 | <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 9.7% | 18.4% | 17.0–21.9% |16.8–22.9% | 16.6–23.6% | 16.3–24.8% |
-| <a href="#centerpartiet-(alde)">Centerpartiet (ALDE)</a> | 6.5% | 8.7% | 6.7–10.2% |6.5–10.6% | 6.3–10.9% | 5.7–11.5% |
+| <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 6.5% | 8.7% | 6.7–10.2% |6.5–10.6% | 6.3–10.9% | 5.7–11.5% |
 | <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 6.3% | 8.7% | 8.0–10.2% |7.7–10.6% | 7.4–11.0% | 6.9–11.6% |
 | <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 5.9% | 9.1% | 7.4–13.0% |7.1–13.2% | 6.8–13.4% | 6.2–13.7% |
 | <a href="#feministiskt-initiativ-(s&d)">Feministiskt initiativ (S&D)</a> | 5.5% | N/A | N/A |N/A | N/A | N/A |
@@ -108,9 +108,9 @@ Only polls for which at least the sample size has been published are included in
 | 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
-### Liberalerna (ALDE)
+### Liberalerna (RE)
 
-*For a full overview of the results for this party, see the [Liberalerna (ALDE)](party-liberalernaalde.html) page.*
+*For a full overview of the results for this party, see the [Liberalerna (RE)](party-liberalernare.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -150,9 +150,9 @@ Only polls for which at least the sample size has been published are included in
 | 25.5–26.5% | 0.1% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
-### Centerpartiet (ALDE)
+### Centerpartiet (RE)
 
-*For a full overview of the results for this party, see the [Centerpartiet (ALDE)](party-centerpartietalde.html) page.*
+*For a full overview of the results for this party, see the [Centerpartiet (RE)](party-centerpartietre.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -213,9 +213,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 5 | 5 | 5–6 |5–6 | 5–6 | 4–6 |
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 4 | 1 | 1 |1 | 0–1 | 0–1 |
 | <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 3 | 4 | 3–4 |3–4 | 3–4 | 3–4 |
-| <a href="#liberalerna-(alde)">Liberalerna (ALDE)</a> | 2 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 2 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 2 | 4 | 4 |3–5 | 3–5 | 3–5 |
-| <a href="#centerpartiet-(alde)">Centerpartiet (ALDE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 1 | 2 | 2 |2 | 1–2 | 1–2 |
 | <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 1 | 2 | 2–3 |1–3 | 1–3 | 1–3 |
 | <a href="#feministiskt-initiativ-(s&d)">Feministiskt initiativ (S&D)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
@@ -261,11 +261,11 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
-### Liberalerna (ALDE)
+### Liberalerna (RE)
 
-*For a full overview of the results for this party, see the [Liberalerna (ALDE)](party-liberalernaalde.html) page.*
+*For a full overview of the results for this party, see the [Liberalerna (RE)](party-liberalernare.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalernaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalernare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -288,11 +288,11 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
-### Centerpartiet (ALDE)
+### Centerpartiet (RE)
 
-*For a full overview of the results for this party, see the [Centerpartiet (ALDE)](party-centerpartietalde.html) page.*
+*For a full overview of the results for this party, see the [Centerpartiet (RE)](party-centerpartietre.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-centerpartietalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-centerpartietre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -339,7 +339,7 @@ Only polls for which at least the sample size has been published are included in
 | Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D) | 6 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–6 |
 | Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP) | 4 | 6 | 0% | 5–6 | 5–6 | 4–6 | 4–7 |
 | Sverigedemokraterna (ECR) | 2 | 4 | 0% | 4 | 3–5 | 3–5 | 3–5 |
-| Liberalerna (ALDE) – Centerpartiet (ALDE) | 3 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Liberalerna (RE) – Centerpartiet (RE) | 3 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet (GUE/NGL) | 1 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna (Greens/EFA) | 4 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 
@@ -380,7 +380,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
-### Liberalerna (ALDE) – Centerpartiet (ALDE)
+### Liberalerna (RE) – Centerpartiet (RE)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-l–c.png "Seats Probability Mass Function")
 
