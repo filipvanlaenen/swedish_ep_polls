@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Jun 2019 11:19:27 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 12:01:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-24-Inizio.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-23-Ipsos.png"
         length="249714"
         type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 11:19:27 +0200</pubDate>
-      <dc:date>2019-06-30T11:19:27.076078+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 12:01:30 +0200</pubDate>
+      <dc:date>2019-06-30T12:01:30.572598+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-02-Novus.png"
         length="247210"
         type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 09:57:29 +0200</pubDate>
-      <dc:date>2019-06-30T09:57:29.342773+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 11:50:54 +0200</pubDate>
+      <dc:date>2019-06-30T11:50:54.409102+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
@@ -229,6 +229,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-06-30T11:19:27.076078+02:00</dc:date>
+    <dc:date>2019-06-30T12:01:30.572598+02:00</dc:date>
   </channel>
 </rss>
