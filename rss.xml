@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 14:24:21 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 11:19:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-24-Inizio.html#seats</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sat, 29 Jun 2019 14:14:34 +0200</pubDate>
       <dc:date>2019-06-29T14:14:34.18392+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–23 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 25.3–28.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.6–20.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 15.6–18.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.9–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.0–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.0–9.1%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.3–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-23-Ipsos.png"
+        length="249714"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 11:19:27 +0200</pubDate>
+      <dc:date>2019-06-30T11:19:27.076078+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
@@ -150,6 +160,16 @@
       <dc:date>2019-06-29T14:24:21.880168+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 6 May–2 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-02-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.5–27.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.5–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.4–18.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.8–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.1–10.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 9.1–11.0%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.5–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.8–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-02-Novus.png"
+        length="247210"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 09:57:29 +0200</pubDate>
+      <dc:date>2019-06-30T09:57:29.342773+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -209,6 +229,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T14:24:21.880168+02:00</dc:date>
+    <dc:date>2019-06-30T11:19:27.076078+02:00</dc:date>
   </channel>
 </rss>
