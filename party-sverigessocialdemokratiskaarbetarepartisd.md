@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 25.0–28.0% | 24.4–28.3% | 23.9–28.6% | 22.9–29.4% |
+| N/A | [Poll Average](average.html) | 26.3% | 24.7–27.6% | 24.2–28.0% | 23.7–28.4% | 22.8–29.1% |
+| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 25.9% | 24.6–27.4% | 24.2–27.8% | 23.8–28.1% | 23.2–28.8% |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 25.4% | 24.2–26.6% | 23.8–27.0% | 23.5–27.3% | 23.0–27.9% |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 26.7% | 25.6–27.8% | 25.3–28.1% | 25.1–28.4% | 24.6–28.9% |
 | [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.0% | 25.9–28.1% | 25.6–28.4% | 25.3–28.7% | 24.8–29.2% |
@@ -29,15 +30,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.7% |  |
-| 23.5–24.5% | 5% | 98.6% | Last Result |
-| 24.5–25.5% | 12% | 94% |  |
-| 25.5–26.5% | 28% | 83% |  |
-| 26.5–27.5% | 34% | 55% | Median |
-| 27.5–28.5% | 18% | 21% |  |
-| 28.5–29.5% | 3% | 3% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.7% |  |
+| 23.5–24.5% | 7% | 98% | Last Result |
+| 24.5–25.5% | 17% | 92% |  |
+| 25.5–26.5% | 34% | 75% | Median |
+| 26.5–27.5% | 30% | 41% |  |
+| 27.5–28.5% | 9% | 11% |  |
+| 28.5–29.5% | 1.5% | 2% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -50,6 +51,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -69,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 57% | 99.7% | Last Result, Median |
-| 6 | 43% | 43% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 71% | 99.6% | Last Result, Median |
+| 6 | 29% | 29% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
