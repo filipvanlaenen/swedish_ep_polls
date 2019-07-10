@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Jun 2019 17:21:07 +0200</pubDate>
+    <pubDate>Wed, 10 Jul 2019 20:28:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop-seats.png"
+        length="215574"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jul 2019 20:28:26 +0200</pubDate>
+      <dc:date>2019-07-10T20:28:26.146983+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop-coalitions-seats.png"
+        length="161622"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jul 2019 20:28:26 +0200</pubDate>
+      <dc:date>2019-07-10T20:28:26.146983+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.8–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.8–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.7–21.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.0–10.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.2–5.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.3–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop.png"
+        length="265271"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jul 2019 20:28:26 +0200</pubDate>
+      <dc:date>2019-07-10T20:28:26.146983+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-24-Inizio.html#seats</link>
@@ -309,6 +339,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-06-30T17:21:07.331056+02:00</dc:date>
+    <dc:date>2019-07-10T20:28:26.146983+02:00</dc:date>
   </channel>
 </rss>
