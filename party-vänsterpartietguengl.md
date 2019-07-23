@@ -50,7 +50,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 1–2 |
+| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 2 | 2 | 2 | 1–2 | 1–2 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 1–2 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |

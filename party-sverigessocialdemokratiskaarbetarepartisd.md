@@ -52,7 +52,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -73,9 +73,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 71% | 99.7% | Last Result, Median |
-| 6 | 29% | 29% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 70% | 99.6% | Last Result, Median |
+| 6 | 30% | 30% |  |
 | 7 | 0% | 0% |  |
 
 
