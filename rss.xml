@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 23 Jul 2019 17:06:02 +0200</pubDate>
+    <pubDate>Sun, 18 Aug 2019 22:55:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 1–8 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-08-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.8–27.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.0–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.0–21.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 9.1–11.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.4–9.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.3–8.5%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.9–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 2.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-08-Inizio.png"
+        length="261218"
+        type="image/png"/>
+      <pubDate>Sun, 18 Aug 2019 22:55:28 +0200</pubDate>
+      <dc:date>2019-08-18T22:55:28.737339+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SKOP, 25 June–16 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-16-SKOP.html#seats</link>
@@ -369,6 +379,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-07-23T17:06:02.440305+02:00</dc:date>
+    <dc:date>2019-08-18T22:55:28.737339+02:00</dc:date>
   </channel>
 </rss>
