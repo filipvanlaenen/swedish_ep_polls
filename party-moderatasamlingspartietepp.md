@@ -11,6 +11,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.6% | 16.6–20.1% | 16.1–20.5% | 15.6–20.8% | 14.8–21.5% |
+| [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 19.6% | 18.5–20.8% | 18.2–21.1% | 18.0–21.4% | 17.4–21.9% |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.8–19.4% | 14.2–20.2% |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 17.6% | 16.4–18.9% | 16.1–19.2% | 15.8–19.5% | 15.3–20.2% |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 19.7% | 18.6–20.9% | 18.3–21.2% | 18.0–21.5% | 17.5–22.0% |
@@ -52,6 +53,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
