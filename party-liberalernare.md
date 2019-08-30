@@ -11,6 +11,10 @@ Last result: **9.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.3–5.8% | 3.2–6.3% | 3.1–6.7% | 2.8–7.3% |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 5.4% | 4.5–6.6% | 4.3–6.9% | 4.1–7.2% | 3.7–7.8% |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 3.7% | 3.2–4.2% | 3.1–4.3% | 3.0–4.5% | 2.8–4.7% |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 3.8% | 3.5–4.1% | 3.4–4.2% | 3.4–4.3% | 3.2–4.5% |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.8% |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.2% | 3.0–5.6% |
@@ -51,6 +55,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 1 | 1 | 1 | 1–2 | 0–2 |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 0–1 |
+| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 1 | 1 | 1 | 1 | 1–2 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
