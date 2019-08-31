@@ -57,8 +57,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 5 | 5 | 5 | 5–6 | 5–6 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 6 | 5–6 | 5–6 | 5–6 | 5–6 |

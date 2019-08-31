@@ -55,7 +55,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
