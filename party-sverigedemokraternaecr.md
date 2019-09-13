@@ -11,7 +11,7 @@ Last result: **9.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.9% | 16.5–20.4% | 16.1–20.8% | 15.8–21.2% | 15.3–21.8% |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 21.4% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 21.4% | 20.1–22.8% | 19.8–23.2% | 19.5–23.5% | 18.9–24.2% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 21.0% | 19.9–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 23.6% | N/A | N/A | N/A | N/A |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 18.4% | N/A | N/A | N/A | N/A |
@@ -62,7 +62,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio |  |  |  |  |  |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT |  |  |  |  |  |
