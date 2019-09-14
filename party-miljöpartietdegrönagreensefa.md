@@ -13,9 +13,9 @@ Last result: **15.4%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5.3% | 4.6–6.2% | 4.4–6.4% | 4.2–6.6% | 3.9–6.9% |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.9% | 3.5–5.0% | 3.4–5.2% | 3.2–5.5% |
-| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 4.7% | N/A | N/A | N/A | N/A |
-| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 5.6% | N/A | N/A | N/A | N/A |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | N/A | N/A | N/A | N/A |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 4.7% | 3.8–5.8% | 3.6–6.1% | 3.4–6.4% | 3.0–7.0% |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 5.6% | 5.1–6.2% | 4.9–6.4% | 4.8–6.6% | 4.5–6.9% |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 4.9% | 4.6–5.3% | 4.5–5.4% | 4.4–5.5% | 4.2–5.6% |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 4.7% | N/A | N/A | N/A | N/A |
@@ -62,9 +62,9 @@ Last result: **4** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio |  |  |  |  |  |
-| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 1 | 1 | 1 | 1 | 1 |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 1 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 1 | 1 | 1 | 1 | 1 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP |  |  |  |  |  |
