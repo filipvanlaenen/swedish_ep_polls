@@ -11,7 +11,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.8% | 24.2–27.3% | 23.8–27.7% | 23.4–28.1% | 22.6–28.8% |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24.0% | 22.7–25.4% | 22.3–25.8% | 22.0–26.2% | 21.4–26.9% |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 25.8% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24.1% | N/A | N/A | N/A | N/A |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 25.5% | 24.2–26.7% | 23.9–27.1% | 23.6–27.4% | 23.0–28.0% |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 23.3% | 21.5–25.3% | 21.0–25.9% | 20.5–26.4% | 19.6–27.4% |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 26.3% | 25.2–27.4% | 24.9–27.8% | 24.7–28.0% | 24.2–28.6% |
@@ -58,7 +59,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo |  |  |  |  |  |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop |  |  |  |  |  |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 6 | 6 | 6 | 6 | 6 |
