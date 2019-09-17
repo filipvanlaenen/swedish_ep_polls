@@ -11,7 +11,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 16.2–19.9% | 15.8–20.4% | 15.4–20.8% | 14.7–21.5% |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 18.9% | N/A | N/A | N/A | N/A |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 18.9% | 18.3–19.4% | 18.2–19.6% | 18.1–19.8% | 17.8–20.0% |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 19.5% | N/A | N/A | N/A | N/A |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 18.3% | 17.2–19.4% | 16.9–19.7% | 16.6–20.0% | 16.1–20.6% |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 18.4% | 16.7–20.3% | 16.3–20.8% | 15.9–21.3% | 15.1–22.2% |
