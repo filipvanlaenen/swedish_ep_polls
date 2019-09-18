@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 14 Sep 2019 16:03:59 +0200</pubDate>
+    <pubDate>Wed, 18 Sep 2019 13:07:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 2–12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.9–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.1–19.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.4–21.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.0–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.9–9.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.8–7.9%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.8–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.6–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.png"
+        length="228948"
+        type="image/png"/>
+      <pubDate>Tue, 17 Sep 2019 21:05:10 +0200</pubDate>
+      <dc:date>2019-09-17T21:05:10.900356+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 27 August–3 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-03-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.1–26.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.6–21.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.6–23.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.2–9.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.2–9.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.4–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.7–5.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.9–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-03-Demoskop.png"
+        length="271203"
+        type="image/png"/>
+      <pubDate>Wed, 18 Sep 2019 13:07:45 +0200</pubDate>
+      <dc:date>2019-09-18T13:07:45.834098+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 22–28 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-28-Inizio.html</link>
@@ -419,6 +439,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-09-14T16:03:59.329689+02:00</dc:date>
+    <dc:date>2019-09-18T13:07:45.834098+02:00</dc:date>
   </channel>
 </rss>
