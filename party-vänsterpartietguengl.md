@@ -11,8 +11,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.1–11.0% | 6.6–11.6% |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 8.5% | 8.1–8.9% | 8.0–9.0% | 7.9–9.1% | 7.7–9.3% |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 8.4% | N/A | N/A | N/A | N/A |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 8.5% | 8.1–8.9% | 8.0–9.0% | 7.9–9.1% | 7.8–9.3% |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 8.4% | 7.6–9.4% | 7.4–9.7% | 7.2–9.9% | 6.8–10.4% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 7.9% | 7.2–8.7% | 7.0–8.9% | 6.8–9.2% | 6.4–9.6% |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 10.6% | 9.3–12.1% | 8.9–12.6% | 8.6–12.9% | 8.0–13.7% |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 9.0% | 8.3–9.7% | 8.1–10.0% | 8.0–10.1% | 7.6–10.5% |
@@ -57,8 +57,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo |  |  |  |  |  |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
