@@ -62,7 +62,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 1–2 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 1–2 |
