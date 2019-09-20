@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 13:07:45 +0200</pubDate>
+    <pubDate>Thu, 19 Sep 2019 07:23:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo, 2–12 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.html</link>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos.png"
         length="267076"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 23:24:54 +0200</pubDate>
-      <dc:date>2019-09-13T23:24:54.414561+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:23:06 +0200</pubDate>
+      <dc:date>2019-09-19T07:23:06.868661+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–15 August 2019 – Seat Projections for the Parties</title>
@@ -439,6 +439,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T13:07:45.834098+02:00</dc:date>
+    <dc:date>2019-09-19T07:23:06.868661+02:00</dc:date>
   </channel>
 </rss>
