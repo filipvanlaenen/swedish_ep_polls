@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 15:32:40 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 12:22:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo, 2–12 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.html</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-09-05T20:28:29.788448+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio, 22–27 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio-seats.png"
+        length="227696"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 11:32:11 +0200</pubDate>
+      <dc:date>2019-09-24T11:32:11.86627+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 22–27 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio-coalitions-seats.png"
+        length="201514"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 11:32:11 +0200</pubDate>
+      <dc:date>2019-09-24T11:32:11.86627+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio, 22–27 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 20.5–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.9–21.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 20.8–26.7%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 4.7–8.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–12.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.4–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 4.1–7.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-27-Sentio.png"
         length="295930"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 16:01:18 +0200</pubDate>
-      <dc:date>2019-09-14T16:01:18.441111+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 11:32:11 +0200</pubDate>
+      <dc:date>2019-09-24T11:32:11.86627+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus-seats.png"
+        length="195858"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 11:54:33 +0200</pubDate>
+      <dc:date>2019-09-24T11:54:33.483439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus-coalitions-seats.png"
+        length="127132"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 11:54:33 +0200</pubDate>
+      <dc:date>2019-09-24T11:54:33.483439+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus.png"
         length="255954"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 15:11:04 +0200</pubDate>
-      <dc:date>2019-09-20T15:11:04.456226+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 11:54:33 +0200</pubDate>
+      <dc:date>2019-09-24T11:54:33.483439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos-seats.png"
+        length="178731"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 12:22:59 +0200</pubDate>
+      <dc:date>2019-09-24T12:22:59.44783+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos-coalitions-seats.png"
+        length="166128"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 12:22:59 +0200</pubDate>
+      <dc:date>2019-09-24T12:22:59.44783+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 August 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Ipsos.png"
         length="267076"
         type="image/png"/>
-      <pubDate>Thu, 19 Sep 2019 07:23:06 +0200</pubDate>
-      <dc:date>2019-09-19T07:23:06.868661+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 12:22:59 +0200</pubDate>
+      <dc:date>2019-09-24T12:22:59.44783+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–15 August 2019 – Seat Projections for the Parties</title>
@@ -439,6 +499,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T15:32:40.980826+02:00</dc:date>
+    <dc:date>2019-09-24T12:22:59.44783+02:00</dc:date>
   </channel>
 </rss>
