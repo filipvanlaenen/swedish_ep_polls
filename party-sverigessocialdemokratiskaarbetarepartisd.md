@@ -60,10 +60,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5–6 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 5 | 5 | 5 | 5 | 4–6 |
-| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -89,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 80% | 98% | Last Result, Median |
-| 6 | 17% | 17% |  |
+| 4 | 3% | 100% |  |
+| 5 | 80% | 97% | Last Result, Median |
+| 6 | 18% | 18% |  |
 | 7 | 0% | 0% |  |
 
 
