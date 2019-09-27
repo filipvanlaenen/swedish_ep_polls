@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-09-24T19:35:06.108187+02:00</updated>
+  <updated>2019-09-27T12:26:05.807846+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.9–28.3%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 17.1–21.0%, 3–4 seats</li><li>Sverigedemokraterna (ECR): 17.1–21.0%, 3–4 seats</li><li>Centerpartiet (RE): 7.7–10.5%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.7–10.5%, 2 seats</li><li>Kristdemokraterna (EPP): 5.9–8.4%, 1–2 seats</li><li>Liberalerna (RE): 4.0–6.2%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.0–6.2%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-23-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-23-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 September 2019</title>
+    <updated>2019-09-27T11:36:31.309593+02:00</updated>
+    <dc:date>2019-09-27T11:36:31.309593+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.9–26.7%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 18.1–19.7%, 4 seats</li><li>Sverigedemokraterna (ECR): 19.4–21.0%, 4 seats</li><li>Centerpartiet (RE): 8.0–9.2%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.9–9.1%, 2 seats</li><li>Kristdemokraterna (EPP): 6.8–7.9%, 1–2 seats</li><li>Liberalerna (RE): 3.8–4.6%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.6–5.6%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-12-Sifo.html"/>
+    <title>Opinion Poll by Sifo, 2–12 September 2019</title>
+    <updated>2019-09-27T12:04:11.742995+02:00</updated>
+    <dc:date>2019-09-27T12:04:11.742995+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 22.1–26.3%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 17.6–21.5%, 4 seats</li><li>Sverigedemokraterna (ECR): 19.6–23.6%, 4–5 seats</li><li>Centerpartiet (RE): 7.2–9.9%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.2–9.9%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.4–7.8%, 1–2 seats</li><li>Liberalerna (RE): 3.7–5.8%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.9–6.1%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-03-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-03-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop, 27 August–3 September 2019</title>
+    <updated>2019-09-27T12:26:05.807846+02:00</updated>
+    <dc:date>2019-09-27T12:26:05.807846+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.6–27.4%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 16.6–20.0%, 3–4 seats</li><li>Sverigedemokraterna (ECR): 19.3–22.8%, 4–5 seats</li><li>Centerpartiet (RE): 8.2–10.7%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.8–9.2%, 1–2 seats</li><li>Kristdemokraterna (EPP): 6.6–8.9%, 1–2 seats</li><li>Liberalerna (RE): 3.4–5.2%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.4–5.2%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-28-Inizio.html</id>
@@ -135,5 +159,5 @@
     <updated>2019-06-16T15:47:29.35806+02:00</updated>
     <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
   </entry>
-  <dc:date>2019-09-24T19:35:06.108187+02:00</dc:date>
+  <dc:date>2019-09-27T12:26:05.807846+02:00</dc:date>
 </feed>
