@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Sep 2019 18:37:47 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2019 19:35:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 20–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-25-Inizio.html</link>
@@ -58,6 +58,16 @@
         type="image/png"/>
       <pubDate>Fri, 27 Sep 2019 11:36:31 +0200</pubDate>
       <dc:date>2019-09-27T11:36:31.309593+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 26 August–22 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-22-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.3–26.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 19.1–21.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.4–22.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.2–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.3–10.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.0–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.0–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.3–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-09-22-Novus.png"
+        length="248925"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 19:35:23 +0200</pubDate>
+      <dc:date>2019-09-27T19:35:23.741518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 September 2019 – Seat Projections for the Parties</title>
@@ -609,6 +619,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-09-27T18:37:47.778172+02:00</dc:date>
+    <dc:date>2019-09-27T19:35:23.741518+02:00</dc:date>
   </channel>
 </rss>
