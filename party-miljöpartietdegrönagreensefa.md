@@ -10,11 +10,11 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.5% | 3.5–5.7% | 3.2–5.9% | 2.8–6.3% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.5% | 3.5–5.7% | 3.3–5.9% | 2.8–6.3% |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.8% | 3.5–5.0% | 3.4–5.2% | 3.2–5.5% |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 3.9% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.1% |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
-| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 5.0% | N/A | N/A | N/A | N/A |
+| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 5.0% | 4.5–5.5% | 4.4–5.6% | 4.3–5.7% | 4.1–6.0% |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 5.1% | 4.8–5.4% | 4.7–5.5% | 4.6–5.6% | 4.5–5.7% |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.9% | 3.5–5.0% | 3.4–5.2% | 3.2–5.5% |
@@ -42,11 +42,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 6% | 99.8% |  |
-| 3.5–4.5% | 33% | 94% |  |
-| 4.5–5.5% | 53% | 61% | Median |
-| 5.5–6.5% | 8% | 8% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 5% | 99.9% |  |
+| 3.5–4.5% | 29% | 95% |  |
+| 4.5–5.5% | 58% | 65% | Median |
+| 5.5–6.5% | 7% | 8% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -70,7 +70,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1 | 1 | 0–1 | 0–1 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 0–1 | 0–1 |
-| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 1 | 1 | 1 | 1 | 1 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
