@@ -63,11 +63,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5–6 | 4–6 |
-| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5 | 4–6 | 4–6 |
-| [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5 | 5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5 |
+| [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 5 | 5 | 5 | 5–6 | 5–6 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 5 | 5 | 5 | 4–5 | 4–6 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 95% | 98% | Last Result, Median |
-| 6 | 3% | 3% |  |
+| 5 | 85% | 98% | Last Result, Median |
+| 6 | 14% | 14% |  |
 | 7 | 0% | 0% |  |
 
 
