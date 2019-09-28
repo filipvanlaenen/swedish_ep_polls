@@ -240,8 +240,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 85% | 98% | Last Result, Median |
-| 6 | 14% | 14% |  |
+| 5 | 88% | 98% | Last Result, Median |
+| 6 | 11% | 11% |  |
 | 7 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -252,8 +252,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Median |
+| 0 | 15% | 100% |  |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -266,8 +266,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 8% | 100% | Last Result |
-| 4 | 90% | 92% | Median |
+| 3 | 7% | 100% | Last Result |
+| 4 | 90% | 93% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -294,9 +294,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
 | 4 | 58% | 98.6% | Median |
-| 5 | 26% | 40% |  |
-| 6 | 13% | 14% |  |
-| 7 | 0.8% | 0.8% |  |
+| 5 | 25% | 40% |  |
+| 6 | 14% | 15% |  |
+| 7 | 1.4% | 1.4% |  |
 | 8 | 0% | 0% |  |
 
 ### Centerpartiet (RE)
@@ -307,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% | Last Result |
-| 2 | 83% | 83% | Median |
+| 1 | 15% | 100% | Last Result |
+| 2 | 84% | 85% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -322,7 +322,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% | Last Result |
 | 2 | 98% | 98.6% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP)
@@ -334,7 +334,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 84% | 99.9% | Last Result, Median |
+| 1 | 85% | 99.9% | Last Result, Median |
 | 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
@@ -361,8 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 85% | 98% | Median |
-| 6 | 14% | 14% | Last Result |
+| 5 | 88% | 98% | Median |
+| 6 | 11% | 11% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
@@ -373,7 +373,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% | Last Result |
 | 5 | 80% | 95% | Median |
-| 6 | 15% | 16% |  |
+| 6 | 15% | 15% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -386,9 +386,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
 | 4 | 58% | 98.6% | Median |
-| 5 | 26% | 40% |  |
-| 6 | 13% | 14% |  |
-| 7 | 0.8% | 0.8% |  |
+| 5 | 25% | 40% |  |
+| 6 | 14% | 15% |  |
+| 7 | 1.4% | 1.4% |  |
 | 8 | 0% | 0% |  |
 
 ### Liberalerna (RE) – Centerpartiet (RE)
@@ -397,9 +397,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 44% | 92% |  |
-| 3 | 48% | 48% | Last Result, Median |
+| 1 | 7% | 100% |  |
+| 2 | 44% | 93% |  |
+| 3 | 49% | 49% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -410,7 +410,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% | Last Result |
 | 2 | 98% | 98.6% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -419,8 +419,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Median |
+| 0 | 15% | 100% |  |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -430,5 +430,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,538,944
-+ **Error estimate:** 2.13%
++ **Total number of simulations done in the polls included in this average:** 4,456,448
++ **Error estimate:** 1.92%
