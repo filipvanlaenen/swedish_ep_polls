@@ -11,7 +11,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.1% | 17.2–20.6% | 16.5–21.0% | 15.9–21.3% | 15.0–21.8% |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 19.5% | N/A | N/A | N/A | N/A |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 19.5% | 18.3–20.8% | 17.9–21.2% | 17.6–21.5% | 17.0–22.1% |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 19.1% | 18.0–20.2% | 17.7–20.5% | 17.4–20.8% | 16.9–21.4% |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 17.1% | 15.6–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.3% | 17.4–20.7% | 17.1–21.0% | 16.5–21.7% |
@@ -65,7 +65,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4 | 4–5 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 4–5 | 3–5 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 3–4 | 3–4 | 3–4 |

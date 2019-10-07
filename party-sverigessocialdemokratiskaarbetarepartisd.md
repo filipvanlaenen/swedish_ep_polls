@@ -11,7 +11,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.8% | 23.1–26.3% | 22.6–26.8% | 22.2–27.3% | 21.4–28.2% |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 23.1% | N/A | N/A | N/A | N/A |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 23.1% | 21.8–24.5% | 21.4–24.9% | 21.1–25.3% | 20.5–25.9% |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 24.0% | 22.8–25.2% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
@@ -65,7 +65,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5–6 | 5–6 | 5–6 |
