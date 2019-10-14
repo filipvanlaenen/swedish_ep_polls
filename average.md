@@ -220,7 +220,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 5 | 5 | 5 |5–6 | 5–6 | 4–6 |
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 4 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 3 | 4 | 4 |4 | 3–5 | 3–5 |
+| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 3 | 4 | 4 |3–4 | 3–5 | 3–5 |
 | <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 2 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 2 | 4 | 4–6 |4–6 | 4–6 | 3–7 |
 | <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
@@ -238,7 +238,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.2% | 100% |  |
 | 5 | 91% | 98.8% | Last Result, Median |
-| 6 | 7% | 7% |  |
+| 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -249,8 +249,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 83% | 83% | Median |
+| 0 | 15% | 100% |  |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -263,8 +263,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% | Last Result |
-| 4 | 92% | 95% | Median |
+| 3 | 6% | 100% | Last Result |
+| 4 | 90% | 94% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% |  |
-| 1 | 59% | 59% | Median |
+| 0 | 42% | 100% |  |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### Sverigedemokraterna (ECR)
@@ -291,9 +291,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
 | 4 | 58% | 98.6% | Median |
-| 5 | 27% | 41% |  |
-| 6 | 14% | 14% |  |
-| 7 | 0.6% | 0.6% |  |
+| 5 | 26% | 41% |  |
+| 6 | 14% | 15% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 ### Centerpartiet (RE)
@@ -319,7 +319,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% | Last Result |
 | 2 | 98% | 98.6% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP)
@@ -358,7 +358,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.2% | 100% |  |
 | 5 | 91% | 98.8% | Median |
-| 6 | 7% | 7% | Last Result |
+| 6 | 8% | 8% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
@@ -367,9 +367,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% | Last Result |
-| 5 | 81% | 97% | Median |
-| 6 | 16% | 16% |  |
+| 4 | 4% | 100% | Last Result |
+| 5 | 81% | 96% | Median |
+| 6 | 15% | 15% |  |
 | 7 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -381,9 +381,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% | Last Result |
 | 3 | 1.4% | 100% |  |
 | 4 | 58% | 98.6% | Median |
-| 5 | 27% | 41% |  |
-| 6 | 14% | 14% |  |
-| 7 | 0.6% | 0.6% |  |
+| 5 | 26% | 41% |  |
+| 6 | 14% | 15% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 ### Liberalerna (RE) – Centerpartiet (RE)
@@ -392,8 +392,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% |  |
-| 2 | 44% | 94% |  |
+| 1 | 7% | 100% |  |
+| 2 | 42% | 93% |  |
 | 3 | 50% | 50% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
@@ -405,7 +405,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% | Last Result |
 | 2 | 98% | 98.6% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -414,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 83% | 83% | Median |
+| 0 | 15% | 100% |  |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -424,6 +424,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
-+ **Error estimate:** 2.99%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Error estimate:** 2.38%
