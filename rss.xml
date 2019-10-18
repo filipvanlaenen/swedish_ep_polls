@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 14 Oct 2019 19:35:33 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 17:24:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop-seats.png"
+        length="206443"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 17:24:44 +0200</pubDate>
+      <dc:date>2019-10-18T17:24:44.751383+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop-coalitions-seats.png"
+        length="140214"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 17:24:44 +0200</pubDate>
+      <dc:date>2019-10-18T17:24:44.751383+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-01-Demoskop.png"
         length="272903"
         type="image/png"/>
-      <pubDate>Tue, 08 Oct 2019 06:46:08 +0200</pubDate>
-      <dc:date>2019-10-08T06:46:08.788142+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 17:24:44 +0200</pubDate>
+      <dc:date>2019-10-18T17:24:44.751383+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 20–25 September 2019 – Seat Projections for the Parties</title>
@@ -689,6 +709,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-10-14T19:35:33.363506+02:00</dc:date>
+    <dc:date>2019-10-18T17:24:44.751383+02:00</dc:date>
   </channel>
 </rss>
