@@ -5,13 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 22–27% <br> 4–6 | 3–6% <br> 0–1 | 16–21% <br> 3–5 | 3–6% <br> 0–1 | 18–29% <br> 4–6 | 5–11% <br> 1–2 | 8–11% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–27% <br> 4–6 | 3–6% <br> 0–1 | 16–21% <br> 3–5 | 3–6% <br> 0–1 | 18–29% <br> 4–6 | 5–10% <br> 1–2 | 8–11% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 24–26% <br> 5 | 5–6% <br> 1 | 17–19% <br> 4 | 3–4% <br> 0–1 | 22–24% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 21–25% <br> 4–5 | 4–6% <br> 1 | 18–21% <br> 4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–10% <br> 1–2 | 7–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 22–26% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 3–4% <br> 0–1 | 21–24% <br> 4–6 | 9–11% <br> 2 | 7–10% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 21–27% <br> 5–6 | 3–5% <br> 0–1 | 15–20% <br> 3–4 | 3–5% <br> 0–1 | 25–30% <br> 5–7 | 5–8% <br> 1–2 | 8–11% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 4–6% <br> 0–1 | 17–21% <br> 3–4 | 4–6% <br> 0–1 | 17–21% <br> 3–4 | 8–11% <br> 2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 23–26% <br> 5–6 | 4–6% <br> 1 | 19–22% <br> 4–5 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 7–9% <br> 2 | 8–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 25–27% <br> 5–6 | 5–6% <br> 1 | 18–20% <br> 4 | 4–5% <br> 0–1 | 19–21% <br> 4 | 8–9% <br> 2 | 8–9% <br> 2 | 7–8% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
