@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 27 Oct 2019 22:25:14 +0100</pubDate>
+    <pubDate>Mon, 28 Oct 2019 19:19:54 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.png"
         length="293898"
         type="image/png"/>
-      <pubDate>Sun, 27 Oct 2019 21:37:48 +0100</pubDate>
-      <dc:date>2019-10-27T21:37:48.759891+01:00</dc:date>
+      <pubDate>Mon, 28 Oct 2019 18:23:26 +0100</pubDate>
+      <dc:date>2019-10-28T18:23:26.228127+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-21-Ipsos.png"
         length="269078"
         type="image/png"/>
-      <pubDate>Sun, 27 Oct 2019 22:09:06 +0100</pubDate>
-      <dc:date>2019-10-27T22:09:06.21272+01:00</dc:date>
+      <pubDate>Mon, 28 Oct 2019 18:41:38 +0100</pubDate>
+      <dc:date>2019-10-28T18:41:38.861328+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 23 September–20 October 2019 – Voting Intentions</title>
@@ -36,8 +36,18 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-20-Novus.png"
         length="248418"
         type="image/png"/>
-      <pubDate>Sun, 27 Oct 2019 22:25:14 +0100</pubDate>
-      <dc:date>2019-10-27T22:25:14.509167+01:00</dc:date>
+      <pubDate>Mon, 28 Oct 2019 19:12:27 +0100</pubDate>
+      <dc:date>2019-10-28T19:12:27.236606+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 7–17 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-17-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.5–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.3–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 20.1–21.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.0–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.8–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.3–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.6–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.6–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-17-Sifo.png"
+        length="229232"
+        type="image/png"/>
+      <pubDate>Mon, 28 Oct 2019 19:19:54 +0100</pubDate>
+      <dc:date>2019-10-28T19:19:54.457912+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 8–14 October 2019 – Voting Intentions</title>
@@ -729,6 +739,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-10-27T22:25:14.509167+01:00</dc:date>
+    <dc:date>2019-10-28T19:19:54.457912+01:00</dc:date>
   </channel>
 </rss>
