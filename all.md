@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 21–27% <br> 5–6 | 3–6% <br> 0–1 | 14–20% <br> 3–4 | 3–6% <br> 0–1 | 23–29% <br> 5–6 | 5–8% <br> 1–2 | 8–12% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 21–27% <br> 4–6 | 3–6% <br> 0–1 | 14–20% <br> 3–4 | 3–6% <br> 0–1 | 23–29% <br> 5–6 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 4–6 | 4–6% <br> 1 | 14–18% <br> 3–4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 24–27% <br> 5–6 | 4–6% <br> 1 | 18–21% <br> 4 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 8–9% <br> 2 | 8–9% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 24–26% <br> 5–6 | 5–6% <br> 1 | 17–19% <br> 4 | 4% <br> 0–1 | 20–22% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
