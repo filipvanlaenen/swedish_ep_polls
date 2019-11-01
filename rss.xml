@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Oct 2019 19:19:54 +0100</pubDate>
+    <pubDate>Fri, 01 Nov 2019 20:30:44 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio-seats.png"
+        length="227821"
+        type="image/png"/>
+      <pubDate>Fri, 01 Nov 2019 20:30:44 +0100</pubDate>
+      <dc:date>2019-11-01T20:30:44.433739+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio-coalitions-seats.png"
+        length="207607"
+        type="image/png"/>
+      <pubDate>Fri, 01 Nov 2019 20:30:44 +0100</pubDate>
+      <dc:date>2019-11-01T20:30:44.433739+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.png"
         length="293898"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 18:23:26 +0100</pubDate>
-      <dc:date>2019-10-28T18:23:26.228127+01:00</dc:date>
+      <pubDate>Fri, 01 Nov 2019 20:30:44 +0100</pubDate>
+      <dc:date>2019-11-01T20:30:44.433739+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 October 2019 – Voting Intentions</title>
@@ -739,6 +759,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-10-28T19:19:54.457912+01:00</dc:date>
+    <dc:date>2019-11-01T20:30:44.433739+01:00</dc:date>
   </channel>
 </rss>
