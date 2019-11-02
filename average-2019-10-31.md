@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 4–6 | 4–6% <br> 0–1 | 14–18% <br> 3–4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 24–27% <br> 5–6 | 4–6% <br> 1 | 18–21% <br> 4 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 8–9% <br> 2 | 8–9% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 24–26% <br> 5–6 | 5–6% <br> 1 | 17–19% <br> 4 | 4% <br> 0–1 | 20–22% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
-| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 23–27% <br> 5–6 | 3–5% <br> 0–1 | 18–21% <br> 4 | 3–4% <br> 0 | 21–24% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | N/A <br> N/A |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 23–27% <br> 5–6 | 3–5% <br> 0–1 | 18–21% <br> 4–5 | 3–4% <br> 0 | 21–24% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 21–25% <br> 4–5 | 4–6% <br> 1 | 18–21% <br> 4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–10% <br> 1–2 | 7–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
@@ -266,7 +266,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 23% | 100% | Last Result |
 | 4 | 76% | 77% | Median |
-| 5 | 0.8% | 0.8% |  |
+| 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
 ### Liberalerna (RE)
@@ -278,7 +278,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 58% | 100% | Median |
-| 1 | 41% | 42% |  |
+| 1 | 42% | 42% |  |
 | 2 | 0.1% | 0.1% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -307,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 16% | 100% | Last Result |
-| 2 | 83% | 84% | Median |
-| 3 | 0.4% | 0.4% |  |
+| 2 | 84% | 84% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% | Last Result |
-| 2 | 98% | 98.9% | Median |
+| 1 | 1.2% | 100% | Last Result |
+| 2 | 98% | 98.8% | Median |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -332,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 68% | 100% | Last Result, Median |
-| 2 | 32% | 32% |  |
+| 1 | 69% | 100% | Last Result, Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -405,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% | Last Result |
-| 2 | 98% | 98.9% | Median |
+| 1 | 1.2% | 100% | Last Result |
+| 2 | 98% | 98.8% | Median |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -426,6 +426,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 5,767,168
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 2.21%
