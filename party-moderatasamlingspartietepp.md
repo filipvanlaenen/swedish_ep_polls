@@ -10,10 +10,10 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.9–17.2% | 14.5–17.6% | 14.3–17.9% | 13.7–18.5% |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 17.0% | N/A | N/A | N/A | N/A |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 18.3% | N/A | N/A | N/A | N/A |
-| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 17.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 17.1% | 15.5–18.7% | 15.0–19.0% | 14.7–19.4% | 14.0–20.0% |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.5–19.8% | 13.8–20.7% |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 18.3% | 17.5–19.1% | 17.3–19.4% | 17.1–19.6% | 16.7–20.0% |
+| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 17.0% | 16.4–17.5% | 16.3–17.7% | 16.2–17.8% | 15.9–18.1% |
 | [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 17.8% | N/A | N/A | N/A | N/A |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 16.9% | 15.2–18.7% | 14.8–19.2% | 14.4–19.6% | 13.7–20.5% |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16.0% | 14.9–17.2% | 14.5–17.6% | 14.3–17.9% | 13.7–18.5% |
@@ -52,14 +52,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 5% | 99.7% | Last Result |
-| 14.5–15.5% | 25% | 95% |  |
-| 15.5–16.5% | 41% | 70% | Median |
-| 16.5–17.5% | 23% | 29% |  |
-| 17.5–18.5% | 5% | 5% |  |
-| 18.5–19.5% | 0.4% | 0.4% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 2% | 99.9% | Last Result |
+| 14.5–15.5% | 9% | 98% |  |
+| 15.5–16.5% | 20% | 89% |  |
+| 16.5–17.5% | 35% | 69% | Median |
+| 17.5–18.5% | 22% | 34% |  |
+| 18.5–19.5% | 11% | 12% |  |
+| 19.5–20.5% | 1.4% | 2% |  |
+| 20.5–21.5% | 0.1% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,10 +72,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4 |
+| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
 | [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop |  |  |  |  |  |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -113,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 90% | 100% | Last Result, Median |
-| 4 | 10% | 10% |  |
+| 3 | 43% | 100% | Last Result |
+| 4 | 57% | 57% | Median |
 | 5 | 0% | 0% |  |
 
 
