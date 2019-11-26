@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Nov 2019 12:27:43 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 20:45:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 15–19 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-19-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 19.8–25.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.5–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 25.5–31.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.7–10.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.3–8.8%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 1.6–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-19-Sentio.png"
+        length="281524"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 19:29:01 +0100</pubDate>
+      <dc:date>2019-11-26T19:29:01.592523+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 21 October–17 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-17-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.6–27.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.1–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 20.2–22.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.0–8.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.4–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.3–8.0%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.9–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-17-Novus.png"
+        length="247645"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 19:48:46 +0100</pubDate>
+      <dc:date>2019-11-26T19:48:46.231448+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 4–14 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-14-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.4–25.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.2–17.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 22.0–23.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.1–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.3–8.5%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.2–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.2–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-14-Sifo.png"
+        length="231677"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 20:45:38 +0100</pubDate>
+      <dc:date>2019-11-26T20:45:38.786386+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-10-24-Sentio.html#seats</link>
@@ -839,6 +869,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-11-02T12:27:43.785891+01:00</dc:date>
+    <dc:date>2019-11-26T20:45:38.786386+01:00</dc:date>
   </channel>
 </rss>
