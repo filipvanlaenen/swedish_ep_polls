@@ -70,10 +70,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1 | 1 | 1 | 1–2 |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
-| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |

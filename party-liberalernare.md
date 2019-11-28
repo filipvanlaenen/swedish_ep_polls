@@ -73,10 +73,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–1 |
-| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
-| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–1 | 0–1 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0–1 |
+| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -115,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% |  |
+| 0 | 78% | 100% | Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% | Last Result |
 
 
