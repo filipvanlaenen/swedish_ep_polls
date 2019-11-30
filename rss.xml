@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 19:06:52 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 14:23:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 15–19 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-19-Sentio.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-19-Sentio.png"
         length="281524"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 18:55:42 +0100</pubDate>
-      <dc:date>2019-11-28T18:55:42.950452+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 13:37:22 +0100</pubDate>
+      <dc:date>2019-11-30T13:37:22.39462+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 21 October–17 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-17-Novus.png"
         length="247645"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 18:59:18 +0100</pubDate>
-      <dc:date>2019-11-28T18:59:18.390146+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 13:53:47 +0100</pubDate>
+      <dc:date>2019-11-30T13:53:47.005856+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 4–14 November 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-14-Sifo.png"
         length="231677"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:03:27 +0100</pubDate>
-      <dc:date>2019-11-28T19:03:27.090046+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:08:22 +0100</pubDate>
+      <dc:date>2019-11-30T14:08:22.686784+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 4–13 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-11-13-Demoskop.png"
         length="257836"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:06:52 +0100</pubDate>
-      <dc:date>2019-11-28T19:06:52.333238+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 14:23:02 +0100</pubDate>
+      <dc:date>2019-11-30T14:23:02.934119+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for the Parties</title>
@@ -879,6 +879,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T19:06:52.333238+01:00</dc:date>
+    <dc:date>2019-11-30T14:23:02.934119+01:00</dc:date>
   </channel>
 </rss>
