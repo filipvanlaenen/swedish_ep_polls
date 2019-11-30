@@ -10,9 +10,9 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 21–27% <br> 4–6 | 4–6% <br> 0–1 | 15–19% <br> 3–4 | 2–5% <br> 0–1 | 21–30% <br> 4–6 | 6–9% <br> 1–2 | 8–11% <br> 2 | 6–9% <br> 1–2 | N/A <br> N/A |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 4–6 | 4–7% <br> 0–1 | 15–20% <br> 3–4 | 2–4% <br> 0–1 | 25–32% <br> 5–7 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 25–27% <br> 5–6 | 4–6% <br> 1 | 17–20% <br> 3–4 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 7–9% <br> 1–2 | 8–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 23–25% <br> 5 | 4–5% <br> 1 | 16–18% <br> 3–4 | 3–4% <br> 0 | 22–24% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 4–5 | 4–7% <br> 0–1 | 15–20% <br> 3–4 | 2–4% <br> 0 | 25–32% <br> 5–7 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 25–27% <br> 5–6 | 4–6% <br> 1 | 17–20% <br> 4 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 7–9% <br> 1–2 | 8–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
+| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 23–25% <br> 5 | 4–5% <br> 1 | 16–18% <br> 3–4 | 3–4% <br> 0–1 | 22–24% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 20–24% <br> 4–5 | 4–6% <br> 0–1 | 16–20% <br> 3–4 | 3–5% <br> 0–1 | 22–26% <br> 4–5 | 7–9% <br> 1–2 | 9–11% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 4–6 | 4–6% <br> 0–1 | 14–18% <br> 3–4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–9% <br> 1–2 | 9–12% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
@@ -235,8 +235,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 20% | 100% |  |
-| 5 | 74% | 80% | Last Result, Median |
+| 4 | 18% | 100% |  |
+| 5 | 76% | 82% | Last Result, Median |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
 
@@ -248,9 +248,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 3% | 100% |  |
+| 1 | 97% | 97% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -263,9 +263,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 48% | 100% | Last Result |
-| 4 | 52% | 52% | Median |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 4 | 51% | 52% | Median |
+| 5 | 0% | 0% |  |
 
 ### Liberalerna (RE)
 
@@ -275,8 +274,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 22% | 22% |  |
+| 0 | 79% | 100% | Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Sverigedemokraterna (ECR)
@@ -328,8 +327,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% | Last Result |
-| 2 | 68% | 68% | Median |
+| 1 | 35% | 100% | Last Result |
+| 2 | 65% | 65% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -354,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 20% | 100% |  |
-| 5 | 74% | 80% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 76% | 82% | Median |
 | 6 | 6% | 6% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -365,9 +364,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% | Last Result |
-| 5 | 67% | 94% |  |
-| 6 | 27% | 27% | Median |
+| 4 | 7% | 100% | Last Result |
+| 5 | 68% | 93% |  |
+| 6 | 24% | 24% | Median |
 | 7 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -391,7 +390,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 16% | 100% |  |
-| 2 | 70% | 84% | Median |
+| 2 | 69% | 84% | Median |
 | 3 | 14% | 14% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -412,9 +411,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 3% | 100% |  |
+| 1 | 97% | 97% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -422,6 +421,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
-+ **Error estimate:** 1.46%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.14%
