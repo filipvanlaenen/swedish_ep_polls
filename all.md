@@ -7,7 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 22–26% <br> 4–6 | 4–5% <br> 0–1 | 16–19% <br> 3–4 | 3–5% <br> 0–1 | 24–27% <br> 5–6 | 8–11% <br> 2 | 7–9% <br> 1–2 | 5–7% <br> 1 | N/A <br> N/A |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 25–28% <br> 5–6 | 4–6% <br> 1 | 17–19% <br> 3–4 | 4–5% <br> 0–1 | 21–24% <br> 4–5 | 7–8% <br> 1–2 | 7–9% <br> 1–2 | 6–7% <br> 1–2 | N/A <br> N/A |
-| [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23–27% <br> 5–6 | 4–6% <br> 0–1 | 15–19% <br> 3–4 | 2–4% <br> 0 | 23–27% <br> 4–6 | 7–9% <br> 1–2 | 7–9% <br> 1–2 | 7–9% <br> 1–2 | N/A <br> N/A |
 | [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 4–5 | 4–7% <br> 0–1 | 15–20% <br> 3–4 | 2–4% <br> 0 | 25–32% <br> 5–7 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A |
 | [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 25–27% <br> 5–6 | 4–6% <br> 1 | 17–20% <br> 4 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 7–9% <br> 1–2 | 8–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 23–25% <br> 5 | 4–5% <br> 1 | 16–18% <br> 3–4 | 3–4% <br> 0–1 | 22–24% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 7–9% <br> 1–2 | N/A <br> N/A |
