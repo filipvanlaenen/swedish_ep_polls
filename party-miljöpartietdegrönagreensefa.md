@@ -82,8 +82,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 1 | 1 | 1 | 1 | 1 |
 | [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 0–1 | 0–1 |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 1 | 1 | 1 | 1 | 1 |
 | [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 1 | 1 | 1 | 0–1 | 0–1 |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
