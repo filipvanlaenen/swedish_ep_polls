@@ -235,8 +235,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 14% | 100% |  |
-| 5 | 78% | 86% | Last Result, Median |
+| 4 | 13% | 100% |  |
+| 5 | 78% | 87% | Last Result, Median |
 | 6 | 9% | 9% |  |
 | 7 | 0% | 0% |  |
 
@@ -262,8 +262,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 35% | 100% | Last Result |
-| 4 | 65% | 65% | Median |
+| 3 | 36% | 100% | Last Result |
+| 4 | 64% | 64% | Median |
 | 5 | 0% | 0% |  |
 
 ### Liberalerna (RE)
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 15% | 100% |  |
-| 5 | 69% | 85% | Median |
+| 4 | 16% | 100% |  |
+| 5 | 68% | 84% | Median |
 | 6 | 14% | 16% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
@@ -302,8 +302,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 31% | 100% | Last Result |
-| 2 | 69% | 69% | Median |
+| 1 | 30% | 100% | Last Result |
+| 2 | 70% | 70% | Median |
 | 3 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -327,8 +327,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% | Last Result |
-| 2 | 53% | 53% | Median |
+| 1 | 46% | 100% | Last Result |
+| 2 | 54% | 54% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -353,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 14% | 100% |  |
-| 5 | 78% | 86% | Median |
+| 4 | 13% | 100% |  |
+| 5 | 78% | 87% | Median |
 | 6 | 9% | 9% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -365,7 +365,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% | Last Result |
-| 5 | 71% | 95% |  |
+| 5 | 72% | 95% |  |
 | 6 | 23% | 23% | Median |
 | 7 | 0% | 0% |  |
 
@@ -377,8 +377,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 15% | 100% |  |
-| 5 | 69% | 85% | Median |
+| 4 | 16% | 100% |  |
+| 5 | 68% | 84% | Median |
 | 6 | 14% | 16% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
@@ -421,6 +421,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 1.25%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Error estimate:** 1.72%
