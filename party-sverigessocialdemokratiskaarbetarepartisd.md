@@ -11,7 +11,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.6% | 21.8–26.6% | 21.2–26.9% | 20.7–27.2% | 19.8–27.7% |
-| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 24.6% | N/A | N/A | N/A | N/A |
+| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 24.6% | 24.0–25.3% | 23.9–25.4% | 23.7–25.6% | 23.4–25.9% |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 24.3% | 23.1–25.5% | 22.8–25.9% | 22.5–26.2% | 21.9–26.8% |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 26.3% | 25.5–27.2% | 25.3–27.4% | 25.1–27.6% | 24.7–28.0% |
 | [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24.8% | 23.4–26.2% | 23.0–26.6% | 22.7–27.0% | 22.0–27.7% |
@@ -78,7 +78,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo |  |  |  |  |  |
+| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5–6 | 5–6 | 4–6 |
