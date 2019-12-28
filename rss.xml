@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Dec 2019 17:32:28 +0100</pubDate>
+    <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio-seats.png"
+        length="216211"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
+      <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio-coalitions-seats.png"
+        length="200240"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
+      <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 18.4–24.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.1–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 26.1–32.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 5.3–8.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.2–12.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.8–8.2%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.1–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.3–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.png"
+        length="281901"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
+      <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-12-Sifo.html#seats</link>
@@ -1079,6 +1109,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-12-18T17:32:28.138872+01:00</dc:date>
+    <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
   </channel>
 </rss>
