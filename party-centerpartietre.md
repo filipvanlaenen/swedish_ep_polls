@@ -11,6 +11,9 @@ Last result: **6.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.8% | 6.8–8.6% | 6.5–8.8% | 6.1–9.0% | 5.5–9.5% |
+| [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 6.8% | 5.8–8.1% | 5.5–8.5% | 5.3–8.8% | 4.8–9.4% |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 8.3% | N/A | N/A | N/A | N/A |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | N/A | N/A | N/A | N/A |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 8.0% | 7.6–8.4% | 7.5–8.5% | 7.4–8.6% | 7.3–8.8% |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 9.6% | 8.8–10.5% | 8.6–10.7% | 8.4–11.0% | 8.1–11.4% |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 7.3% | 6.8–7.8% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% |
@@ -74,6 +77,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 1–2 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
