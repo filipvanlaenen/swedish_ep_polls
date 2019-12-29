@@ -12,8 +12,8 @@ Last result: **9.7%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.3% | 21.6–28.2% | 21.1–29.4% | 20.8–30.2% | 20.2–31.6% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 29.1% | 27.1–31.3% | 26.6–31.9% | 26.1–32.4% | 25.1–33.4% |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 24.0% | N/A | N/A | N/A | N/A |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24.0% | N/A | N/A | N/A | N/A |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 24.0% | 23.2–24.9% | 22.9–25.1% | 22.7–25.4% | 22.3–25.8% |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24.0% | 22.6–25.4% | 22.3–25.8% | 21.9–26.2% | 21.3–26.9% |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 24.4% | 23.8–25.0% | 23.6–25.2% | 23.5–25.4% | 23.2–25.7% |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 25.4% | 24.2–26.7% | 23.9–27.0% | 23.6–27.3% | 23.0–27.9% |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 22.6% | 21.8–23.4% | 21.6–23.6% | 21.4–23.8% | 21.0–24.2% |
@@ -95,8 +95,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5 | 4–5 | 4–6 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 5 | 4–5 | 4–5 | 4–5 | 4–5 |

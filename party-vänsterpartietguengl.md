@@ -12,8 +12,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.0% | 7.6–10.1% | 7.3–10.4% | 7.1–10.6% | 6.6–11.2% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 10.1% | 8.8–11.6% | 8.5–12.0% | 8.2–12.4% | 7.6–13.1% |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 9.9% | N/A | N/A | N/A | N/A |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.0% | N/A | N/A | N/A | N/A |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 9.9% | 9.3–10.5% | 9.1–10.7% | 9.0–10.9% | 8.7–11.2% |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.0% | 9.1–11.0% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 9.7% | 9.3–10.2% | 9.2–10.3% | 9.1–10.4% | 8.9–10.6% |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 7.9% | 7.2–8.7% | 7.0–8.9% | 6.8–9.1% | 6.5–9.5% |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 8.1% | 7.6–8.6% | 7.5–8.8% | 7.3–8.9% | 7.1–9.2% |
@@ -79,8 +79,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 2 | 2 | 2 | 1–2 | 1–2 |
