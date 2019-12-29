@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
+    <pubDate>Sat, 28 Dec 2019 23:38:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sat, 28 Dec 2019 12:24:05 +0100</pubDate>
       <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 18 November–15 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus-seats.png"
+        length="132560"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 20:24:10 +0100</pubDate>
+      <dc:date>2019-12-28T20:24:10.966849+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 18 November–15 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus-coalitions-seats.png"
+        length="86285"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 20:24:10 +0100</pubDate>
+      <dc:date>2019-12-28T20:24:10.966849+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 18 November–15 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.4–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.7–19.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 22.7–25.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.5–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 9.0–10.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.5–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.0–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Novus.png"
+        length="245487"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 20:24:10 +0100</pubDate>
+      <dc:date>2019-12-28T20:24:10.966849+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos-seats.png"
+        length="175865"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:33 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:33.220455+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos-coalitions-seats.png"
+        length="142418"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:33 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:33.220455+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.9–27.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.3–17.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 21.9–26.2%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 6.8–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.6–11.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-15-Ipsos.png"
+        length="267676"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:33 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:33.220455+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 December 2019 – Seat Projections for the Parties</title>
@@ -1109,6 +1169,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-12-28T12:24:05.413595+01:00</dc:date>
+    <dc:date>2019-12-28T23:38:33.220455+01:00</dc:date>
   </channel>
 </rss>
