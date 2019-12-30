@@ -10,7 +10,7 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.8–8.6% | 6.5–8.8% | 6.1–9.0% | 5.5–9.5% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.8–9.5% | 6.4–10.0% | 6.0–10.3% | 5.3–10.9% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 6.8% | 5.8–8.1% | 5.5–8.5% | 5.3–8.8% | 4.8–9.4% |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 8.3% | 7.8–8.9% | 7.6–9.1% | 7.5–9.2% | 7.2–9.5% |
 | [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
@@ -59,13 +59,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 5% | 99.4% | Last Result |
-| 6.5–7.5% | 33% | 94% |  |
-| 7.5–8.5% | 51% | 61% | Median |
-| 8.5–9.5% | 10% | 10% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 5% | 99.1% | Last Result |
+| 6.5–7.5% | 24% | 94% |  |
+| 7.5–8.5% | 44% | 70% | Median |
+| 8.5–9.5% | 17% | 26% |  |
+| 9.5–10.5% | 8% | 10% |  |
+| 10.5–11.5% | 1.4% | 1.5% |  |
+| 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,8 +128,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% | Last Result |
-| 2 | 70% | 70% | Median |
+| 1 | 22% | 100% | Last Result |
+| 2 | 78% | 78% | Median |
 | 3 | 0% | 0% |  |
 
 
