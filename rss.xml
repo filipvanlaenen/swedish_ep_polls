@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Dec 2019 16:30:09 +0100</pubDate>
+    <pubDate>Tue, 14 Jan 2020 06:41:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 30 December 2019–7 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop-seats.png"
+        length="130556"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:59 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:59.493111+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 30 December 2019–7 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop-coalitions-seats.png"
+        length="76039"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:59 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:59.493111+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 30 December 2019–7 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 21.6–25.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.6–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 22.7–26.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.3–10.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.0–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.4–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.9–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop.png"
+        length="262406"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:59 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:59.493111+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-12-18-Sentio.html#seats</link>
@@ -1189,6 +1219,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2019-12-30T16:30:09.683636+01:00</dc:date>
+    <dc:date>2020-01-14T06:41:59.493111+01:00</dc:date>
   </channel>
 </rss>
