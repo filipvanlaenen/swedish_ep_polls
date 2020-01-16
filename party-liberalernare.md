@@ -119,7 +119,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
