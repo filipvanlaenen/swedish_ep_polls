@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 14 Jan 2020 06:41:59 +0100</pubDate>
+    <pubDate>Thu, 16 Jan 2020 13:27:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 30 December 2019–7 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-07-Demoskop.html#seats</link>
@@ -1180,14 +1180,34 @@
       <dc:date>2019-06-30T17:21:07.331056+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB-seats.png"
+        length="156181"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 13:27:06 +0100</pubDate>
+      <dc:date>2020-01-16T13:27:06.33659+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB-coalitions-seats.png"
+        length="109735"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 13:27:06 +0100</pubDate>
+      <dc:date>2020-01-16T13:27:06.33659+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.7–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.3–16.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.3–17.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 6.4–7.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.1–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 12.3–13.7%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.3–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.png"
-        length="226389"
+        length="226457"
         type="image/png"/>
-      <pubDate>Thu, 24 Oct 2019 22:42:18 +0200</pubDate>
-      <dc:date>2019-10-24T22:42:18.163821+02:00</dc:date>
+      <pubDate>Thu, 16 Jan 2020 13:27:06 +0100</pubDate>
+      <dc:date>2020-01-16T13:27:06.33659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–28 May 2019 – Seat Projections for the Parties</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Sun, 16 Jun 2019 15:47:29 +0200</pubDate>
       <dc:date>2019-06-16T15:47:29.35806+02:00</dc:date>
     </item>
-    <dc:date>2020-01-14T06:41:59.493111+01:00</dc:date>
+    <dc:date>2020-01-16T13:27:06.33659+01:00</dc:date>
   </channel>
 </rss>
