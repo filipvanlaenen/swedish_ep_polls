@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.8–10.8% | 8.5–11.2% | 8.2–11.6% | 7.8–12.4% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.7–10.9% | 8.4–11.3% | 8.1–11.7% | 7.7–12.5% |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 10.2% | N/A | N/A | N/A | N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 10.1% | 8.8–11.6% | 8.5–12.0% | 8.2–12.4% | 7.6–13.1% |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 9.9% | 9.3–10.5% | 9.1–10.7% | 9.0–10.9% | 8.7–11.2% |
@@ -60,14 +61,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% | Last Result |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 6% | 99.8% |  |
-| 8.5–9.5% | 32% | 94% |  |
-| 9.5–10.5% | 48% | 62% | Median |
-| 10.5–11.5% | 12% | 14% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.4% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 7% | 99.7% |  |
+| 8.5–9.5% | 32% | 92% |  |
+| 9.5–10.5% | 43% | 60% | Median |
+| 10.5–11.5% | 14% | 18% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.4% | 0.5% |  |
 | 13.5–14.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,6 +81,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo |  |  |  |  |  |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
