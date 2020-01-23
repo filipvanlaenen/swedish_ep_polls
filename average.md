@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | Poll Average | 19–26% <br> 4–5 | 4–6% <br> 0–1 | 14–19% <br> 3–4 | 2–6% <br> 0–1 | 22–31% <br> 5–7 | 6–10% <br> 1–2 | 8–12% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
-| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 20–26% <br> 4–5 | 4–6% <br> 0–1 | 15–19% <br> 3–4 | 2–6% <br> 0–1 | 23–31% <br> 5–7 | 6–10% <br> 1–2 | 8–12% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23–24% <br> 5 | 4–5% <br> 1 | 17–18% <br> 3–4 | 3–4% <br> 0–1 | 23–25% <br> 5 | 8–9% <br> 2 | 10–11% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 22–25% <br> 5 | 4–6% <br> 1 | 17–20% <br> 4 | 2–4% <br> 0 | 23–26% <br> 5–6 | 8–11% <br> 2 | 8–10% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 18–24% <br> 4–5 | 3–6% <br> 0–1 | 14–19% <br> 3–4 | 2–5% <br> 0–1 | 26–32% <br> 5–7 | 5–9% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 22–25% <br> 5 | 4–6% <br> 1 | 17–19% <br> 4 | 3–4% <br> 0–1 | 23–25% <br> 5 | 7–9% <br> 2 | 9–11% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
@@ -42,14 +42,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 24.2% | 23.6% | 20.7–25.4% |19.9–26.0% | 19.3–26.4% | 18.2–27.3% |
-| <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 15.4% | 4.9% | 4.2–5.6% |3.9–5.8% | 3.7–6.0% | 3.2–6.5% |
-| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 13.6% | 17.4% | 15.4–18.8% |14.9–19.1% | 14.5–19.4% | 13.8–20.1% |
-| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 9.9% | 3.5% | 2.8–5.2% |2.6–5.5% | 2.4–5.8% | 2.1–6.3% |
-| <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 9.7% | 24.5% | 23.2–29.6% |22.8–30.5% | 22.5–31.3% | 21.8–32.5% |
-| <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 6.5% | 8.3% | 6.6–9.7% |6.1–10.1% | 5.8–10.4% | 5.2–10.9% |
-| <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 6.3% | 9.8% | 8.7–10.9% |8.4–11.3% | 8.1–11.7% | 7.7–12.5% |
-| <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 5.9% | 6.1% | 5.4–6.9% |5.2–7.3% | 5.0–7.6% | 4.6–8.3% |
+| <a href="#sveriges-socialdemokratiska-arbetareparti-(s&d)">Sveriges socialdemokratiska arbetareparti (S&D)</a> | 24.2% | 23.5% | 21.1–25.2% |20.1–25.8% | 19.5–26.3% | 18.4–27.2% |
+| <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 15.4% | 4.8% | 4.2–5.5% |4.0–5.7% | 3.8–6.0% | 3.3–6.4% |
+| <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 13.6% | 17.4% | 15.5–18.6% |15.1–19.0% | 14.7–19.3% | 13.9–20.0% |
+| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 9.9% | 3.7% | 2.8–5.1% |2.6–5.4% | 2.5–5.7% | 2.1–6.2% |
+| <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 9.7% | 24.3% | 23.2–29.2% |22.9–30.3% | 22.6–31.0% | 21.9–32.4% |
+| <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 6.5% | 8.4% | 6.8–9.6% |6.3–10.0% | 5.9–10.3% | 5.3–10.8% |
+| <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 6.3% | 9.9% | 8.8–10.8% |8.5–11.2% | 8.2–11.6% | 7.8–12.4% |
+| <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 5.9% | 6.3% | 5.5–7.0% |5.2–7.2% | 5.0–7.5% | 4.7–8.2% |
 | <a href="#feministiskt-initiativ-(s&d)">Feministiskt initiativ (S&D)</a> | 5.5% | N/A | N/A |N/A | N/A | N/A |
 
 ### Sveriges socialdemokratiska arbetareparti (S&D)
@@ -60,17 +60,17 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.7% | 99.9% |  |
-| 18.5–19.5% | 3% | 99.1% |  |
-| 19.5–20.5% | 5% | 97% |  |
-| 20.5–21.5% | 7% | 91% |  |
-| 21.5–22.5% | 11% | 84% |  |
-| 22.5–23.5% | 23% | 73% |  |
-| 23.5–24.5% | 28% | 50% | Last Result, Median |
-| 24.5–25.5% | 14% | 22% |  |
-| 25.5–26.5% | 6% | 8% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 2% | 99.3% |  |
+| 19.5–20.5% | 4% | 97% |  |
+| 20.5–21.5% | 6% | 93% |  |
+| 21.5–22.5% | 9% | 87% |  |
+| 22.5–23.5% | 29% | 78% |  |
+| 23.5–24.5% | 31% | 49% | Last Result, Median |
+| 24.5–25.5% | 12% | 18% |  |
+| 25.5–26.5% | 5% | 7% |  |
+| 26.5–27.5% | 1.4% | 2% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -80,11 +80,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 24% | 98% |  |
-| 4.5–5.5% | 63% | 75% | Median |
-| 5.5–6.5% | 11% | 11% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 1.2% | 100% |  |
+| 3.5–4.5% | 30% | 98.7% |  |
+| 4.5–5.5% | 59% | 68% | Median |
+| 5.5–6.5% | 9% | 9% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -103,12 +103,12 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
 | 13.5–14.5% | 2% | 99.8% | Last Result |
-| 14.5–15.5% | 10% | 97% |  |
-| 15.5–16.5% | 18% | 87% |  |
-| 16.5–17.5% | 24% | 69% | Median |
-| 17.5–18.5% | 31% | 45% |  |
-| 18.5–19.5% | 12% | 14% |  |
-| 19.5–20.5% | 2% | 2% |  |
+| 14.5–15.5% | 8% | 98% |  |
+| 15.5–16.5% | 15% | 90% |  |
+| 16.5–17.5% | 30% | 75% | Median |
+| 17.5–18.5% | 34% | 46% |  |
+| 18.5–19.5% | 10% | 12% |  |
+| 19.5–20.5% | 1.4% | 2% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -119,12 +119,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 48% | 96% |  |
-| 3.5–4.5% | 26% | 47% | Median |
-| 4.5–5.5% | 17% | 21% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 40% | 96% |  |
+| 3.5–4.5% | 40% | 57% | Median |
+| 4.5–5.5% | 13% | 17% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
@@ -147,18 +147,18 @@ Only polls for which at least the sample size has been published are included in
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 3% | 99.7% |  |
-| 22.5–23.5% | 15% | 97% |  |
-| 23.5–24.5% | 32% | 82% |  |
-| 24.5–25.5% | 19% | 50% | Median |
-| 25.5–26.5% | 6% | 30% |  |
-| 26.5–27.5% | 3% | 24% |  |
-| 27.5–28.5% | 5% | 21% |  |
-| 28.5–29.5% | 6% | 16% |  |
-| 29.5–30.5% | 5% | 10% |  |
-| 30.5–31.5% | 3% | 5% |  |
-| 31.5–32.5% | 1.3% | 2% |  |
-| 32.5–33.5% | 0.4% | 0.5% |  |
+| 21.5–22.5% | 2% | 99.8% |  |
+| 22.5–23.5% | 18% | 98% |  |
+| 23.5–24.5% | 38% | 79% | Median |
+| 24.5–25.5% | 17% | 41% |  |
+| 25.5–26.5% | 5% | 24% |  |
+| 26.5–27.5% | 3% | 20% |  |
+| 27.5–28.5% | 4% | 17% |  |
+| 28.5–29.5% | 5% | 13% |  |
+| 29.5–30.5% | 4% | 8% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 1.1% | 1.5% |  |
+| 32.5–33.5% | 0.3% | 0.4% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -169,13 +169,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 8% | 98.6% | Last Result |
-| 6.5–7.5% | 16% | 91% |  |
-| 7.5–8.5% | 36% | 74% | Median |
-| 8.5–9.5% | 25% | 38% |  |
-| 9.5–10.5% | 11% | 13% |  |
-| 10.5–11.5% | 2% | 2% |  |
+| 4.5–5.5% | 1.1% | 100% |  |
+| 5.5–6.5% | 6% | 98.9% | Last Result |
+| 6.5–7.5% | 13% | 93% |  |
+| 7.5–8.5% | 40% | 80% | Median |
+| 8.5–9.5% | 29% | 39% |  |
+| 9.5–10.5% | 9% | 10% |  |
+| 10.5–11.5% | 1.3% | 1.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -185,15 +185,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% | Last Result |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 7% | 99.7% |  |
-| 8.5–9.5% | 32% | 92% |  |
-| 9.5–10.5% | 43% | 60% | Median |
-| 10.5–11.5% | 14% | 18% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.4% | 0.5% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 6% | 99.8% |  |
+| 8.5–9.5% | 26% | 94% |  |
+| 9.5–10.5% | 50% | 68% | Median |
+| 10.5–11.5% | 15% | 17% |  |
+| 11.5–12.5% | 2% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
-| 14.5–15.5% | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP)
 
@@ -202,12 +201,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 15% | 99.6% |  |
-| 5.5–6.5% | 61% | 85% | Last Result, Median |
-| 6.5–7.5% | 21% | 23% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 12% | 99.7% |  |
+| 5.5–6.5% | 58% | 88% | Last Result, Median |
+| 6.5–7.5% | 28% | 30% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -225,7 +224,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 4 | 1 | 1 |0–1 | 0–1 | 0–1 |
 | <a href="#moderata-samlingspartiet-(epp)">Moderata samlingspartiet (EPP)</a> | 3 | 4 | 3–4 |3–4 | 3–4 | 3–4 |
 | <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 2 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 2 | 5 | 5–6 |5–7 | 5–7 | 4–7 |
+| <a href="#sverigedemokraterna-(ecr)">Sverigedemokraterna (ECR)</a> | 2 | 5 | 5–6 |5–6 | 5–7 | 4–7 |
 | <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 1 | 2 | 2 |2 | 2 | 2–3 |
 | <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 1 | 1 | 1 |1–2 | 1–2 | 1–2 |
@@ -239,8 +238,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 12% | 100% |  |
-| 5 | 86% | 88% | Last Result, Median |
+| 4 | 10% | 100% |  |
+| 5 | 88% | 90% | Last Result, Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -252,8 +251,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 93% | 93% | Median |
+| 0 | 6% | 100% |  |
+| 1 | 94% | 94% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -266,8 +265,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 34% | 100% | Last Result |
-| 4 | 66% | 66% | Median |
+| 3 | 32% | 100% | Last Result |
+| 4 | 68% | 68% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -279,8 +278,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Median |
-| 1 | 28% | 28% |  |
+| 0 | 71% | 100% | Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Sverigedemokraterna (ECR)
@@ -293,10 +292,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 74% | 98.8% | Median |
-| 6 | 19% | 25% |  |
-| 7 | 6% | 6% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 78% | 98.6% | Median |
+| 6 | 16% | 20% |  |
+| 7 | 5% | 5% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -308,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% | Last Result |
-| 2 | 83% | 83% | Median |
+| 1 | 14% | 100% | Last Result |
+| 2 | 86% | 86% | Median |
 | 3 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -333,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Last Result, Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -346,10 +345,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sverigedemokraterna (ECR) | 2 | 5 | 0% | 5–6 | 5–7 | 5–7 | 4–7 |
-| Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP) | 4 | 5 | 0% | 4–5 | 4–5 | 4–6 | 4–6 |
+| Sverigedemokraterna (ECR) | 2 | 5 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
 | Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D) | 6 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
-| Liberalerna (RE) – Centerpartiet (RE) | 3 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP) | 4 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
+| Liberalerna (RE) – Centerpartiet (RE) | 3 | 2 | 0% | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet (GUE/NGL) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Miljöpartiet de gröna (Greens/EFA) | 4 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
 
@@ -361,23 +360,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 74% | 98.8% | Median |
-| 6 | 19% | 25% |  |
-| 7 | 6% | 6% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 78% | 98.6% | Median |
+| 6 | 16% | 20% |  |
+| 7 | 5% | 5% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
-
-### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 29% | 100% | Last Result |
-| 5 | 68% | 71% | Median |
-| 6 | 3% | 3% |  |
-| 7 | 0% | 0% |  |
 
 ### Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D)
 
@@ -385,9 +373,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 12% | 100% |  |
-| 5 | 86% | 88% | Median |
+| 4 | 10% | 100% |  |
+| 5 | 88% | 90% | Median |
 | 6 | 2% | 2% | Last Result |
+| 7 | 0% | 0% |  |
+
+### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 28% | 100% | Last Result |
+| 5 | 69% | 72% | Median |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
 ### Liberalerna (RE) – Centerpartiet (RE)
@@ -396,9 +395,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% |  |
-| 2 | 64% | 88% | Median |
-| 3 | 23% | 23% | Last Result |
+| 1 | 10% | 100% |  |
+| 2 | 66% | 90% | Median |
+| 3 | 25% | 25% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -418,8 +417,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 93% | 93% | Median |
+| 0 | 6% | 100% |  |
+| 1 | 94% | 94% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -428,6 +427,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.40%
