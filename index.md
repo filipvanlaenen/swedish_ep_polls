@@ -5,12 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 19–25% <br> 4–5 | 4–6% <br> 0–1 | 15–20% <br> 3–4 | 2–4% <br> 0–1 | 23–32% <br> 5–7 | 6–10% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–25% <br> 5 | 4–6% <br> 1 | 17–20% <br> 3–4 | 2–4% <br> 0–1 | 23–26% <br> 5 | 8–11% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23–24% <br> 5 | 4–5% <br> 1 | 17–18% <br> 3–4 | 3–4% <br> 0–1 | 23–25% <br> 5 | 8–9% <br> 2 | 10–11% <br> 2 | 6–7% <br> 1 | N/A <br> N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 22–25% <br> 5 | 4–6% <br> 1 | 17–20% <br> 4 | 2–4% <br> 0 | 23–26% <br> 5–6 | 8–11% <br> 2 | 8–10% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
-| [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 18–24% <br> 4–5 | 3–6% <br> 0–1 | 14–19% <br> 3–4 | 2–5% <br> 0–1 | 26–32% <br> 5–7 | 5–9% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
