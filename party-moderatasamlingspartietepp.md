@@ -10,12 +10,12 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 17.0–18.1% | 16.8–18.2% | 16.7–18.4% | 16.4–18.6% |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 18.9% | N/A | N/A | N/A | N/A |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 16.6% | N/A | N/A | N/A | N/A |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.0% | N/A | N/A | N/A | N/A |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 18.3% | N/A | N/A | N/A | N/A |
-| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 17.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 17.7% | 16.1–19.2% | 15.6–19.6% | 15.2–20.1% | 14.4–20.8% |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 18.9% | 17.6–20.2% | 17.3–20.5% | 17.0–20.9% | 16.5–21.5% |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.7–19.6% |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 18.3% | 17.6–19.1% | 17.4–19.3% | 17.2–19.5% | 16.8–19.9% |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 17.4% | 16.0–19.1% | 15.6–19.5% | 15.2–19.9% | 14.5–20.7% |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 17.5% | 16.9–18.1% | 16.8–18.2% | 16.7–18.4% | 16.4–18.6% |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 18.2% | 17.1–19.3% | 16.8–19.6% | 16.6–19.9% | 16.1–20.4% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 16.5% | 14.9–18.3% | 14.5–18.8% | 14.1–19.3% | 13.4–20.2% |
@@ -53,10 +53,10 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 18.8% | 17.9–19.8% | 17.6–20.1% | 17.4–20.3% | 16.9–20.8% |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.0% | 15.8–18.2% | 15.5–18.6% | 15.2–18.9% | 14.7–19.5% |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 18.4% | 17.9–18.9% | 17.7–19.1% | 17.6–19.2% | 17.4–19.5% |
-| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 17.2% | 15.4–18.8% | 14.9–19.3% | 14.5–19.8% | 13.8–20.7% |
-| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 18.2% | 17.0–19.4% | 16.6–19.8% | 16.3–20.1% | 15.8–20.7% |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 17.7% | 16.9–18.5% | 16.7–18.8% | 16.5–19.0% | 16.1–19.4% |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 16.0% | 15.5–16.5% | 15.4–16.7% | 15.3–16.8% | 15.0–17.0% |
+| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 17.2% | 15.6–19.1% | 15.2–19.6% | 14.8–20.0% | 14.0–20.9% |
+| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 18.2% | N/A | N/A | N/A | N/A |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 17.7% | N/A | N/A | N/A | N/A |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 16.0% | N/A | N/A | N/A | N/A |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 18.2% | 17.2–19.3% | 16.9–19.6% | 16.6–19.9% | 16.1–20.5% |
 
 ### Probability Mass Function
@@ -65,13 +65,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% | Last Result |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 1.2% | 100% |  |
-| 16.5–17.5% | 52% | 98.8% |  |
-| 17.5–18.5% | 46% | 47% | Median |
-| 18.5–19.5% | 0.9% | 0.9% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.6% | 100% | Last Result |
+| 14.5–15.5% | 4% | 99.3% |  |
+| 15.5–16.5% | 12% | 95% |  |
+| 16.5–17.5% | 28% | 83% |  |
+| 17.5–18.5% | 33% | 55% | Median |
+| 18.5–19.5% | 16% | 22% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 0.9% | 1.0% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -82,54 +86,54 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop |  |  |  |  |  |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP |  |  |  |  |  |
-| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4 | 3–4 |
-| [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4–5 | 4–5 |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
+| [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4–5 | 4–5 |
+| [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
 | [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 4 | 4 | 4 | 3–4 | 3–4 |
-| [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
-| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
+| [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 4 | 4 | 4 | 4 | 4 |
+| [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4 |
+| [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 4 | 4 | 4 | 3–4 | 3–4 |
+| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4 |
-| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 3–4 |
-| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 4–5 | 4–5 |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4 | 3–5 |
-| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 4–5 | 3–5 |
-| [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4–5 | 4–5 |
+| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 3–5 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 3–4 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4 | 3–5 |
-| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 3–4 | 3–4 |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 3–4 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 3–4 | 3–4 |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
-| [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4 | 4 | 4 | 3–4 | 3–4 |
-| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 3 | 3 | 3 | 3–4 | 3–4 |
-| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 4 | 4 | 4 | 4 | 3–4 |
+| [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 4 |
+| [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
+| [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen |  |  |  |  |  |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB |  |  |  |  |  |
+| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4 | 4 | 4 |
 
 ### Probability Mass Function
 
@@ -139,8 +143,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 25% | 100% | Last Result |
-| 4 | 75% | 75% | Median |
-| 5 | 0% | 0% |  |
+| 3 | 10% | 100% | Last Result |
+| 4 | 85% | 90% | Median |
+| 5 | 5% | 5% |  |
+| 6 | 0% | 0% |  |
 
 
