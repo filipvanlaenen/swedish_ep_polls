@@ -55,7 +55,7 @@ Last result: **5.9%** (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 9.5% | 9.1–9.9% | 9.0–10.0% | 8.9–10.1% | 8.7–10.3% |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 7.5% | 6.7–8.4% | 6.5–8.7% | 6.3–8.9% | 5.9–9.3% |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 10.0% | N/A | N/A | N/A | N/A |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 10.0% | 9.4–10.7% | 9.2–10.9% | 9.1–11.0% | 8.8–11.3% |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 13.0% | N/A | N/A | N/A | N/A |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 
@@ -128,7 +128,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB |  |  |  |  |  |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 
