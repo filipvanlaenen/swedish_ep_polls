@@ -10,8 +10,9 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 9.0–11.4% | 8.6–11.8% | 8.3–12.2% | 7.8–12.9% |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 9.3% | 8.4–10.3% | 8.2–10.6% | 7.9–10.8% | 7.5–11.3% |
+| N/A | [Poll Average](average.html) | 10.5% | 9.3–11.7% | 8.9–12.0% | 8.5–12.4% | 7.9–13.0% |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 11.4% | N/A | N/A | N/A | N/A |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 9.3% | N/A | N/A | N/A | N/A |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 10.4% | 9.8–11.0% | 9.7–11.2% | 9.5–11.3% | 9.3–11.6% |
@@ -56,7 +57,7 @@ Last result: **6.3%** (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 8.9% | 7.7–10.3% | 7.4–10.7% | 7.1–11.1% | 6.6–11.8% |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 9.0% | 8.4–9.6% | 8.2–9.8% | 8.1–10.0% | 7.8–10.3% |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 8.7% | N/A | N/A | N/A | N/A |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 8.7% | 8.3–9.1% | 8.2–9.2% | 8.1–9.3% | 8.0–9.5% |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 8.3% | 7.6–9.1% | 7.4–9.3% | 7.2–9.5% | 6.9–9.9% |
 
 ### Probability Mass Function
@@ -66,13 +67,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% | Last Result |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 4% | 99.8% |  |
-| 8.5–9.5% | 17% | 96% |  |
-| 9.5–10.5% | 45% | 79% | Median |
-| 10.5–11.5% | 26% | 35% |  |
-| 11.5–12.5% | 7% | 8% |  |
-| 12.5–13.5% | 1.1% | 1.2% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 2% | 99.9% |  |
+| 8.5–9.5% | 12% | 97% |  |
+| 9.5–10.5% | 39% | 85% | Median |
+| 10.5–11.5% | 34% | 47% |  |
+| 11.5–12.5% | 10% | 12% |  |
+| 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -86,7 +87,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2–3 |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo |  |  |  |  |  |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop |  |  |  |  |  |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -123,7 +125,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 1–2 |
-| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
+| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
@@ -131,7 +133,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 2 | 2 | 1–3 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB |  |  |  |  |  |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 2 | 2 | 2 | 2 | 2 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 
 ### Probability Mass Function
@@ -143,8 +145,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 86% | 100% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 
