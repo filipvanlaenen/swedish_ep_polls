@@ -8,37 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 17 Feb 2020 20:01:20 +0100</pubDate>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop-seats.png"
-        length="162707"
-        type="image/png"/>
-      <pubDate>Tue, 11 Feb 2020 06:44:08 +0100</pubDate>
-      <dc:date>2020-02-11T06:44:08.272882+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop-coalitions-seats.png"
-        length="125409"
-        type="image/png"/>
-      <pubDate>Tue, 11 Feb 2020 06:44:08 +0100</pubDate>
-      <dc:date>2020-02-11T06:44:08.272882+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.6–26.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.0–20.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 21.5–25.7%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.6–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.9–10.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.2–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.4–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.0–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-05-Demoskop.png"
-        length="266854"
-        type="image/png"/>
-      <pubDate>Tue, 11 Feb 2020 06:44:08 +0100</pubDate>
-      <dc:date>2020-02-11T06:44:08.272882+01:00</dc:date>
-    </item>
+    <pubDate>Tue, 18 Feb 2020 17:26:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-28-Sentio.html#seats</link>
@@ -826,8 +796,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-01-Demoskop.png"
         length="265342"
         type="image/png"/>
-      <pubDate>Sat, 13 Jul 2019 14:38:06 +0200</pubDate>
-      <dc:date>2019-07-13T14:38:06.625576+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 16:58:10 +0100</pubDate>
+      <dc:date>2020-02-18T16:58:10.027189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Voting Intentions</title>
@@ -846,8 +816,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-23-Novus.png"
         length="251543"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 22:38:44 +0200</pubDate>
-      <dc:date>2019-07-14T22:38:44.956127+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 17:19:09 +0100</pubDate>
+      <dc:date>2020-02-18T17:19:09.110344+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Voting Intentions</title>
@@ -856,8 +826,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-18-Ipsos.png"
         length="266636"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2019 11:57:34 +0200</pubDate>
-      <dc:date>2019-06-22T11:57:34.088376+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 17:26:40 +0100</pubDate>
+      <dc:date>2020-02-18T17:26:40.087493+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 3–13 June 2019 – Voting Intentions</title>
@@ -900,6 +870,16 @@
       <dc:date>2020-02-17T20:01:20.130593+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 26.7–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 15.3–16.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.3–17.9%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 6.4–7.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.1–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 12.3–13.7%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.3–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-SCB.png"
+        length="226457"
+        type="image/png"/>
+      <pubDate>Mon, 17 Feb 2020 21:35:53 +0100</pubDate>
+      <dc:date>2020-02-17T21:35:53.693484+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–28 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-05-28-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 24.3–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.6–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 16.8–20.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 8.9–11.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.2–9.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -909,6 +889,6 @@
       <pubDate>Sun, 16 Jun 2019 16:32:44 +0200</pubDate>
       <dc:date>2019-06-16T16:32:44.799458+02:00</dc:date>
     </item>
-    <dc:date>2020-02-17T20:01:20.130593+01:00</dc:date>
+    <dc:date>2020-02-18T17:26:40.087493+01:00</dc:date>
   </channel>
 </rss>
