@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Feb 2020 06:41:23 +0100</pubDate>
+    <pubDate>Thu, 27 Feb 2020 17:03:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 27 January–16 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-02-16-Novus.html#seats</link>
@@ -226,8 +226,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-16-Sifo-seats.png"
         length="136914"
         type="image/png"/>
-      <pubDate>Thu, 23 Jan 2020 14:24:19 +0100</pubDate>
-      <dc:date>2020-01-23T14:24:19.771515+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 17:03:49 +0100</pubDate>
+      <dc:date>2020-02-27T17:03:49.19639+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–16 January 2020 – Seat Projections for a Selection of Coalitions</title>
@@ -236,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-16-Sifo-coalitions-seats.png"
         length="106936"
         type="image/png"/>
-      <pubDate>Thu, 23 Jan 2020 14:24:19 +0100</pubDate>
-      <dc:date>2020-01-23T14:24:19.771515+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 17:03:49 +0100</pubDate>
+      <dc:date>2020-02-27T17:03:49.19639+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–16 January 2020 – Voting Intentions</title>
@@ -246,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-01-16-Sifo.png"
         length="232030"
         type="image/png"/>
-      <pubDate>Thu, 23 Jan 2020 14:24:19 +0100</pubDate>
-      <dc:date>2020-01-23T14:24:19.771515+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 17:03:49 +0100</pubDate>
+      <dc:date>2020-02-27T17:03:49.19639+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 30 December 2019–7 January 2020 – Seat Projections for the Parties</title>
@@ -979,6 +979,6 @@
       <pubDate>Wed, 19 Feb 2020 08:30:25 +0100</pubDate>
       <dc:date>2020-02-19T08:30:25.522899+01:00</dc:date>
     </item>
-    <dc:date>2020-02-25T06:41:23.631685+01:00</dc:date>
+    <dc:date>2020-02-27T17:03:49.19639+01:00</dc:date>
   </channel>
 </rss>
