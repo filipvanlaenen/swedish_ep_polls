@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 7.2–9.9% | 6.6–10.3% | 6.3–10.7% | 5.6–11.5% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.0–9.8% | 6.5–10.3% | 6.2–10.8% | 5.6–11.6% |
+| [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | N/A | N/A | N/A | N/A |
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 8.1% | 7.5–8.8% | 7.3–9.0% | 7.2–9.1% | 6.9–9.4% |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 8.1% | 7.7–8.5% | 7.6–8.6% | 7.5–8.7% | 7.3–8.9% |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 8.9% | 8.1–9.7% | 7.9–10.0% | 7.8–10.2% | 7.4–10.6% |
@@ -69,13 +70,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.4% | 100% |  |
-| 5.5–6.5% | 4% | 99.6% | Last Result |
-| 6.5–7.5% | 11% | 96% |  |
-| 7.5–8.5% | 40% | 85% | Median |
-| 8.5–9.5% | 29% | 45% |  |
-| 9.5–10.5% | 13% | 16% |  |
+| 5.5–6.5% | 5% | 99.6% | Last Result |
+| 6.5–7.5% | 12% | 95% |  |
+| 7.5–8.5% | 44% | 82% | Median |
+| 8.5–9.5% | 24% | 38% |  |
+| 9.5–10.5% | 10% | 14% |  |
 | 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.4% | 0.5% |  |
+| 11.5–12.5% | 0.5% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -88,6 +89,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
@@ -146,9 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% | Last Result |
-| 2 | 92% | 94% | Median |
-| 3 | 1.3% | 1.3% |  |
+| 1 | 8% | 100% | Last Result |
+| 2 | 91% | 92% | Median |
+| 3 | 1.5% | 1.5% |  |
 | 4 | 0% | 0% |  |
 
 
