@@ -17,7 +17,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.3–19.9% |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 17.5% | 16.9–18.0% | 16.8–18.2% | 16.7–18.3% | 16.4–18.6% |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 18.9% | 17.8–20.0% | 17.5–20.3% | 17.3–20.6% | 16.8–21.2% |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 16.6% | N/A | N/A | N/A | N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 16.6% | 15.0–18.4% | 14.6–18.9% | 14.2–19.4% | 13.4–20.3% |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.7–19.6% |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 18.3% | 17.6–19.1% | 17.4–19.3% | 17.2–19.5% | 16.8–19.9% |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 17.4% | 16.0–19.1% | 15.6–19.5% | 15.2–19.9% | 14.5–20.7% |
@@ -99,7 +99,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–5 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 3–4 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4–5 | 4–5 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 4 | 4 | 3–4 | 3–5 | 3–5 |
