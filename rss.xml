@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Mar 2020 16:32:38 +0100</pubDate>
+    <pubDate>Mon, 16 Mar 2020 19:24:54 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 2–12 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 5 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 2 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo-seats.png"
+        length="177440"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 19:24:54 +0100</pubDate>
+      <dc:date>2020-03-16T19:24:54.888136+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 2–12 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo-coalitions-seats.png"
+        length="145898"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 19:24:54 +0100</pubDate>
+      <dc:date>2020-03-16T19:24:54.888136+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 2–12 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 22.8–24.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.1–18.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 21.3–23.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 7.8–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 10.5–11.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.2–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 3.7–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.6–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-12-Sifo.png"
+        length="230020"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 19:24:54 +0100</pubDate>
+      <dc:date>2020-03-16T19:24:54.888136+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 25 February–3 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-03-03-Demoskop.html#seats</link>
@@ -1049,6 +1079,6 @@
       <pubDate>Wed, 19 Feb 2020 08:30:25 +0100</pubDate>
       <dc:date>2020-02-19T08:30:25.522899+01:00</dc:date>
     </item>
-    <dc:date>2020-03-13T16:32:38.220903+01:00</dc:date>
+    <dc:date>2020-03-16T19:24:54.888136+01:00</dc:date>
   </channel>
 </rss>
