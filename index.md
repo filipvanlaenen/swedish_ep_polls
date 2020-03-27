@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 20–25% <br> 4–6 | 3–6% <br> 0–1 | 17–22% <br> 3–5 | 1–5% <br> 0–1 | 21–30% <br> 5–7 | 7–10% <br> 1–2 | 9–13% <br> 2–3 | 4–9% <br> 1–2 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–27% <br> 4–6 | 3–5% <br> 0–1 | 17–22% <br> 4–5 | 1–6% <br> 0–1 | 21–30% <br> 4–7 | 6–10% <br> 1–2 | 9–13% <br> 2–3 | 4–8% <br> 1–2 | N/A <br> N/A |
+| [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 24–27% <br> 5–6 | 4–5% <br> 1 | 17–19% <br> 4 | 3–4% <br> 0–1 | 21–23% <br> 4–5 | 7–9% <br> 2 | 9–11% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
+| [10–20 March 2020](2020-03-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23–27% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 4–6% <br> 1 | 20–24% <br> 4–5 | 6–8% <br> 1–2 | 10–14% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [2–12 March 2020](2020-03-12-Sifo.html) | Sifo | 23–25% <br> 5–6 | 4% <br> 0–1 | 17–19% <br> 4 | 4–5% <br> 0–1 | 21–23% <br> 5 | 8–9% <br> 2 | 11–12% <br> 2–3 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [25 February–3 March 2020](2020-03-03-Demoskop.html) | Demoskop | 21–24% <br> 5–6 | 2–4% <br> 0 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 20–24% <br> 5 | 8–11% <br> 2 | 9–12% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A |
 | [21–24 February 2020](2020-02-24-Sentio.html) | Sentio <br> Nyheter Idag | 19–25% <br> 4–6 | 2–5% <br> 0–1 | 17–23% <br> 4–5 | 1–3% <br> 0 | 25–31% <br> 5–7 | 6–10% <br> 1–2 | 9–14% <br> 2–3 | 4–7% <br> 0–2 | N/A <br> N/A |
-| [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20–24% <br> 4–5 | 4–6% <br> 1 | 16–20% <br> 3–4 | 3–5% <br> 0–1 | 21–25% <br> 4–5 | 7–9% <br> 1–2 | 10–13% <br> 2–3 | 7–9% <br> 1–2 | N/A <br> N/A |
-| [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 22–25% <br> 5–6 | 4–5% <br> 0–1 | 17–19% <br> 4 | 3–5% <br> 0–1 | 22–25% <br> 5–6 | 7–9% <br> 2 | 10–12% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
