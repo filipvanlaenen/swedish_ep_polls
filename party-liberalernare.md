@@ -20,8 +20,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 3.9% | 3.5–4.4% | 3.4–4.5% | 3.3–4.6% | 3.1–4.9% |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 4.4% | 4.1–4.7% | 4.0–4.8% | 4.0–4.9% | 3.8–5.0% |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 3.2% | 2.8–3.8% | 2.7–3.9% | 2.5–4.1% | 2.3–4.3% |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 2.4% | N/A | N/A | N/A | N/A |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | N/A | N/A | N/A | N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 2.4% | 1.8–3.3% | 1.7–3.5% | 1.5–3.7% | 1.3–4.2% |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.8–4.3% |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 3.9% | 3.6–4.2% | 3.6–4.3% | 3.5–4.4% | 3.4–4.5% |
@@ -104,8 +104,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 1 | 1 | 1 | 0–1 | 0–1 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0–1 | 0–1 |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0–1 |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

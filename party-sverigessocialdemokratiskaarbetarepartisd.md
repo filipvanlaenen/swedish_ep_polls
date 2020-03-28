@@ -20,8 +20,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 23.2% | 22.3–24.2% | 22.0–24.5% | 21.7–24.7% | 21.3–25.2% |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 23.6% | 23.0–24.2% | 22.8–24.4% | 22.7–24.5% | 22.4–24.8% |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 24.7% | 23.5–26.0% | 23.2–26.3% | 22.9–26.6% | 22.4–27.2% |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 22.1% | N/A | N/A | N/A | N/A |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22.8% | N/A | N/A | N/A | N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 22.1% | 20.2–24.0% | 19.7–24.6% | 19.3–25.1% | 18.5–26.1% |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22.8% | 21.4–24.2% | 21.1–24.6% | 20.7–25.0% | 20.1–25.7% |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 24.2% | 23.4–25.0% | 23.2–25.3% | 23.0–25.5% | 22.6–25.9% |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23.5% | 22.9–24.1% | 22.7–24.3% | 22.6–24.5% | 22.3–24.8% |
@@ -106,8 +106,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5–6 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 5 | 5 | 5–6 | 5–6 | 5–6 |
