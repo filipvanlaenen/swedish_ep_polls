@@ -234,3 +234,210 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#feministiskt-initiativ-(s&d)">Feministiskt initiativ (S&D)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 
+### Sveriges socialdemokratiska arbetareparti (S&D)
+
+*For a full overview of the results for this party, see the [Sveriges socialdemokratiska arbetareparti (S&D)](party-sverigessocialdemokratiskaarbetarepartisd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-sverigessocialdemokratiskaarbetarepartisd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 4% | 100% |  |
+| 5 | 74% | 96% | Last Result, Median |
+| 6 | 22% | 22% |  |
+| 7 | 0% | 0% |  |
+
+### Miljöpartiet de gröna (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Miljöpartiet de gröna (Greens/EFA)](party-miljöpartietdegrönagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-miljöpartietdegrönagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 51% | 100% | Median |
+| 1 | 49% | 49% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% | Last Result |
+
+### Moderata samlingspartiet (EPP)
+
+*For a full overview of the results for this party, see the [Moderata samlingspartiet (EPP)](party-moderatasamlingspartietepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-moderatasamlingspartietepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0.3% | 100% | Last Result |
+| 4 | 88% | 99.7% | Median |
+| 5 | 12% | 12% |  |
+| 6 | 0% | 0% |  |
+
+### Liberalerna (RE)
+
+*For a full overview of the results for this party, see the [Liberalerna (RE)](party-liberalernare.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalernare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 47% | 100% |  |
+| 1 | 53% | 53% | Median |
+| 2 | 0% | 0% | Last Result |
+
+### Sverigedemokraterna (ECR)
+
+*For a full overview of the results for this party, see the [Sverigedemokraterna (ECR)](party-sverigedemokraternaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-sverigedemokraternaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 0% | 100% | Last Result |
+| 3 | 0% | 100% |  |
+| 4 | 4% | 100% |  |
+| 5 | 76% | 96% | Median |
+| 6 | 15% | 19% |  |
+| 7 | 4% | 4% |  |
+| 8 | 0% | 0% |  |
+
+### Centerpartiet (RE)
+
+*For a full overview of the results for this party, see the [Centerpartiet (RE)](party-centerpartietre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-centerpartietre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 12% | 100% | Last Result |
+| 2 | 88% | 88% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
+
+### Vänsterpartiet (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Vänsterpartiet (GUE/NGL)](party-vänsterpartietguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-vänsterpartietguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 69% | 100% | Median |
+| 3 | 31% | 31% |  |
+| 4 | 0% | 0% |  |
+
+### Kristdemokraterna (EPP)
+
+*For a full overview of the results for this party, see the [Kristdemokraterna (EPP)](party-kristdemokraternaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kristdemokraternaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.6% | 100% |  |
+| 1 | 68% | 99.4% | Last Result, Median |
+| 2 | 31% | 31% |  |
+| 3 | 0% | 0% |  |
+
+### Feministiskt initiativ (S&D)
+
+*For a full overview of the results for this party, see the [Feministiskt initiativ (S&D)](party-feministisktinitiativsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-feministisktinitiativsd.png "Seats Probability Mass Function")
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP) | 4 | 5 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
+| Sverigedemokraterna (ECR) | 2 | 5 | 0% | 5–6 | 5–6 | 4–7 | 4–7 |
+| Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D) | 6 | 5 | 0% | 5–6 | 5–6 | 4–6 | 4–6 |
+| Liberalerna (RE) – Centerpartiet (RE) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
+| Vänsterpartiet (GUE/NGL) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Miljöpartiet de gröna (Greens/EFA) | 4 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+
+### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0.5% | 100% | Last Result |
+| 5 | 61% | 99.5% | Median |
+| 6 | 34% | 39% |  |
+| 7 | 4% | 4% |  |
+| 8 | 0% | 0% |  |
+
+### Sverigedemokraterna (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 0% | 100% | Last Result |
+| 3 | 0% | 100% |  |
+| 4 | 4% | 100% |  |
+| 5 | 76% | 96% | Median |
+| 6 | 15% | 19% |  |
+| 7 | 4% | 4% |  |
+| 8 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti (S&D) – Feministiskt initiativ (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–fi.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 4% | 100% |  |
+| 5 | 74% | 96% | Median |
+| 6 | 22% | 22% | Last Result |
+| 7 | 0% | 0% |  |
+
+### Liberalerna (RE) – Centerpartiet (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-l–c.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 2% | 100% |  |
+| 2 | 55% | 98% |  |
+| 3 | 43% | 43% | Last Result, Median |
+| 4 | 0% | 0% |  |
+
+### Vänsterpartiet (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 69% | 100% | Median |
+| 3 | 31% | 31% |  |
+| 4 | 0% | 0% |  |
+
+### Miljöpartiet de gröna (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 51% | 100% | Median |
+| 1 | 49% | 49% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% | Last Result |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 5
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 2.07%
