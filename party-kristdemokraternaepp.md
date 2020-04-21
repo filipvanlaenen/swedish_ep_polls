@@ -109,8 +109,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
