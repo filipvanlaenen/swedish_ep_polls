@@ -19,7 +19,7 @@ The table below lists all polls registered and analyzed so far.
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 23–27% <br> 5–6 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 3–4% <br> 0–1 | 22–25% <br> 5–6 | 8–10% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 19–25% <br> 4–6 | 3–6% <br> 0–1 | 14–19% <br> 3–4 | 2–4% <br> 0 | 26–32% <br> 6–7 | 5–9% <br> 1–2 | 8–12% <br> 2–3 | 6–10% <br> 1–2 | N/A <br> N/A |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21–25% <br> 4–6 | 3–5% <br> 0–1 | 15–19% <br> 3–4 | 3–5% <br> 0–1 | 22–26% <br> 5–6 | 8–10% <br> 2 | 9–13% <br> 2–3 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 23–25% <br> 5–6 | 4–5% <br> 1 | 17–19% <br> 4–5 | 3–4% <br> 0–1 | 21–24% <br> 5 | 8–10% <br> 2 | 10–11% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 23–25% <br> 5–6 | 4–5% <br> 1 | 17–19% <br> 4–5 | 3–4% <br> 0–1 | 21–24% <br> 5–6 | 8–10% <br> 2 | 10–11% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 21–26% <br> 4–6 | 3–5% <br> 0–1 | 15–20% <br> 3–5 | 3–5% <br> 0–1 | 21–26% <br> 5–6 | 8–12% <br> 2–3 | 9–13% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23–24% <br> 5–6 | 4–5% <br> 1 | 17–18% <br> 4 | 3–4% <br> 0–1 | 23–25% <br> 5–6 | 8–9% <br> 2 | 10–11% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 22–25% <br> 5–6 | 4–6% <br> 1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 23–26% <br> 5–6 | 8–11% <br> 2 | 8–10% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
