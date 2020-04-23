@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 Apr 2020 20:12:09 +0200</pubDate>
+    <pubDate>Wed, 22 Apr 2020 21:25:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo, 30 March–8 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-04-08-Sifo.html#seats</link>
@@ -1224,10 +1224,10 @@
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-13-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 23.2–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 14.8–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 19.3–25.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 5.8–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.1–11.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 6.3–10.1%&lt;/li&gt;&lt;li&gt;Liberalerna (RE): 2.7–5.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 3.5–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2019-06-13-Sentio.png"
-        length="290884"
+        length="0"
         type="image/png"/>
-      <pubDate>Fri, 14 Feb 2020 21:19:07 +0100</pubDate>
-      <dc:date>2020-02-14T21:19:07.694033+01:00</dc:date>
+      <pubDate>Wed, 22 Apr 2020 21:25:51 +0200</pubDate>
+      <dc:date>2020-04-22T21:25:51.913512+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 May–3 June 2019 – Voting Intentions</title>
@@ -1269,6 +1269,6 @@
       <pubDate>Wed, 19 Feb 2020 08:30:25 +0100</pubDate>
       <dc:date>2020-02-19T08:30:25.522899+01:00</dc:date>
     </item>
-    <dc:date>2020-04-22T20:12:09.184207+02:00</dc:date>
+    <dc:date>2020-04-22T21:25:51.913512+02:00</dc:date>
   </channel>
 </rss>
