@@ -11,6 +11,7 @@ Last result: **9.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.9% | 18.6–24.3% | 18.2–25.3% | 17.9–26.0% | 17.3–27.3% |
+| [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP | 16.3% | N/A | N/A | N/A | N/A |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 18.8% | 17.8–19.9% | 17.5–20.2% | 17.3–20.5% | 16.8–21.0% |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [17–21 April 2020](2020-04-21-Sentio.html) | Sentio <br> Nyheter Idag | 24.2% | 22.3–26.2% | 21.8–26.8% | 21.3–27.3% | 20.5–28.3% |
@@ -112,6 +113,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP |  |  |  |  |  |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–21 April 2020](2020-04-21-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
