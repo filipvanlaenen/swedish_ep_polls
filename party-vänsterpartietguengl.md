@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.3–10.2% | 6.9–10.6% | 6.7–11.0% | 6.2–11.7% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.3–10.2% | 6.9–10.6% | 6.7–11.0% | 6.2–11.7% |
+| [4–14 May 2020](2020-05-14-Sifo.html) | Sifo | 9.0% | 8.6–9.4% | 8.4–9.5% | 8.3–9.7% | 8.1–9.9% |
 | [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 7.2% | 6.5–7.9% | 6.3–8.1% | 6.2–8.3% | 5.9–8.7% |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
@@ -84,9 +85,9 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 2% | 100% | Last Result |
 | 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 14% | 87% |  |
-| 8.5–9.5% | 40% | 72% | Median |
-| 9.5–10.5% | 27% | 33% |  |
+| 7.5–8.5% | 16% | 87% |  |
+| 8.5–9.5% | 43% | 71% | Median |
+| 9.5–10.5% | 22% | 28% |  |
 | 10.5–11.5% | 5% | 6% |  |
 | 11.5–12.5% | 0.7% | 0.8% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
@@ -102,6 +103,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| [4–14 May 2020](2020-05-14-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2 |
