@@ -171,7 +171,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 4–5 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4–5 | 4–5 | 4–5 |
