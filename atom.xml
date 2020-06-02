@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-06-01T13:40:45.36466+02:00</updated>
+  <updated>2020-06-02T18:21:53.202419+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 30.5–32.7%, 7–8 seats</li><li>Moderata samlingspartiet (EPP): 17.7–19.5%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 18.0–19.8%, 4–5 seats</li><li>Centerpartiet (RE): 6.6–7.8%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 8.3–9.7%, 2 seats</li><li>Kristdemokraterna (EPP): 5.5–6.7%, 1–2 seats</li><li>Liberalerna (RE): 3.0–3.8%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.5–4.4%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-14-Sifo.html</id>
@@ -336,6 +336,14 @@
     <dc:date>2020-04-22T20:12:09.184207+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.7–28.0%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 17.1–20.0%, 4 seats</li><li>Sverigedemokraterna (ECR): 16.9–19.9%, 4 seats</li><li>Centerpartiet (RE): 8.3–10.6%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 8.0–10.1%, 2 seats</li><li>Kristdemokraterna (EPP): 6.3–8.3%, 1–2 seats</li><li>Liberalerna (RE): 3.0–4.5%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.8–6.6%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2019-08-25-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 5–25 August 2019</title>
+    <updated>2020-06-02T18:21:53.202419+02:00</updated>
+    <dc:date>2020-06-02T18:21:53.202419+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.0–28.3%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 14.8–19.4%, 3–4 seats</li><li>Sverigedemokraterna (ECR): 15.8–20.5%, 3–4 seats</li><li>Centerpartiet (RE): 7.9–11.5%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.3–10.8%, 2 seats</li><li>Kristdemokraterna (EPP): 7.6–11.1%, 2 seats</li><li>Liberalerna (RE): 4.5–7.3%, 1–2 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.6–6.1%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-16-SKOP.html</id>
     <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2019-07-16-SKOP.html"/>
@@ -359,5 +367,5 @@
     <updated>2020-06-01T09:30:18.650161+02:00</updated>
     <dc:date>2020-06-01T09:30:18.650161+02:00</dc:date>
   </entry>
-  <dc:date>2020-06-01T13:40:45.36466+02:00</dc:date>
+  <dc:date>2020-06-02T18:21:53.202419+02:00</dc:date>
 </feed>
