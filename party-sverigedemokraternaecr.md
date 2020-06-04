@@ -10,7 +10,9 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.4% | 16.6–23.9% | 15.7–25.0% | 15.2–25.9% | 14.2–27.2% |
+| N/A | [Poll Average](average.html) | 18.5% | 16.3–20.0% | 15.6–20.6% | 15.0–21.0% | 14.2–21.9% |
+| [27 April–24 May 2020](2020-05-24-Novus.html) | Novus <br> SVT | 18.0% | 17.2–18.8% | 17.0–19.0% | 16.8–19.2% | 16.5–19.6% |
+| [12–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.8% | 18.5–21.2% | 18.2–21.6% | 17.9–21.9% | 17.3–22.5% |
 | [4–14 May 2020](2020-05-14-Sifo.html) | Sifo | 18.8% | 18.3–19.4% | 18.1–19.6% | 18.0–19.8% | 17.7–20.0% |
 | [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 18.8% | 17.8–19.9% | 17.5–20.2% | 17.3–20.5% | 16.8–21.0% |
@@ -86,23 +88,17 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 3% | 99.1% |  |
-| 15.5–16.5% | 6% | 96% |  |
-| 16.5–17.5% | 5% | 90% |  |
-| 17.5–18.5% | 12% | 85% |  |
-| 18.5–19.5% | 27% | 73% | Median |
-| 19.5–20.5% | 16% | 46% |  |
-| 20.5–21.5% | 9% | 30% |  |
-| 21.5–22.5% | 5% | 21% |  |
-| 22.5–23.5% | 4% | 16% |  |
-| 23.5–24.5% | 4% | 11% |  |
-| 24.5–25.5% | 4% | 7% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.9% | 1.2% |  |
-| 27.5–28.5% | 0.2% | 0.3% |  |
-| 28.5–29.5% | 0% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 13.5–14.5% | 1.0% | 99.9% |  |
+| 14.5–15.5% | 4% | 98.9% |  |
+| 15.5–16.5% | 7% | 95% |  |
+| 16.5–17.5% | 11% | 88% |  |
+| 17.5–18.5% | 27% | 77% |  |
+| 18.5–19.5% | 33% | 50% | Median |
+| 19.5–20.5% | 12% | 17% |  |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 0.9% | 1.0% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,7 +109,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [27 April–24 May 2020](2020-05-24-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
+| [12–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–14 May 2020](2020-05-14-Sifo.html) | Sifo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [30 April–8 May 2020](2020-05-08-SKOP.html) | SKOP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -174,7 +172,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 4–5 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 4 | 4 | 4 | 4 | 3–4 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -188,11 +186,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 5% | 100% |  |
-| 4 | 55% | 95% | Median |
-| 5 | 31% | 40% |  |
-| 6 | 9% | 9% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 6% | 100% |  |
+| 4 | 81% | 94% | Median |
+| 5 | 13% | 13% |  |
+| 6 | 0% | 0% |  |
 
 
