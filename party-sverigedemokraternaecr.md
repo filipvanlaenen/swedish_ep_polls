@@ -155,7 +155,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 5 | 5 | 5 | 4–6 | 4–6 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 3–5 | 3–5 |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 3–5 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 4 | 4 | 4 | 4–5 | 4–5 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -173,7 +173,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4 | 4 | 4 | 4 | 4 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 4 | 4 | 4 | 4 | 3–4 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
 
