@@ -11,6 +11,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.3% | 28.6–33.7% | 27.5–34.1% | 26.7–34.4% | 25.3–35.3% |
+| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 30.0% | 29.3–30.7% | 29.1–30.9% | 29.0–31.0% | 28.7–31.4% |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 27.8% | 26.6–29.0% | 26.3–29.3% | 26.0–29.6% | 25.5–30.2% |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 31.3% | 29.5–33.2% | 29.0–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [29 April–27 May 2020](2020-05-27-SCB.html) | SCB | 33.7% | 33.1–34.3% | 32.9–34.5% | 32.7–34.7% | 32.4–35.0% |
@@ -115,6 +116,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 7 | 7 | 7 | 6–7 | 6–7 |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [29 April–27 May 2020](2020-05-27-SCB.html) | SCB | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
