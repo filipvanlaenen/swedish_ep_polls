@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 29–31% <br> 6–7 | 3–4% <br> 0 | 19–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 6–8% <br> 1–2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
+| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 29–31% <br> 7 | 3–4% <br> 0 | 19–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 6–8% <br> 1–2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 26–30% <br> 6–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 29–34% <br> 6–8 | 3–5% <br> 0–1 | 18–23% <br> 4–5 | 3–5% <br> 0–1 | 15–19% <br> 3–4 | 5–8% <br> 1–2 | 9–13% <br> 2–3 | 4–7% <br> 1–2 | N/A <br> N/A |
 | [29 April–27 May 2020](2020-05-27-SCB.html) | SCB | 33–35% <br> 7–8 | 4–5% <br> 0–1 | 19–21% <br> 4–5 | 3–4% <br> 0 | 16–18% <br> 4 | 6–7% <br> 1 | 8–9% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
