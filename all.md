@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 29–32% <br> 7 | 3–4% <br> 0 | 19–22% <br> 5 | 2–4% <br> 0 | 17–20% <br> 4 | 7–9% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 29–31% <br> 7 | 3–4% <br> 0 | 19–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 6–8% <br> 1–2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 26–30% <br> 6–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
