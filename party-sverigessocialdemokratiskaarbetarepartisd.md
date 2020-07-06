@@ -116,7 +116,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 7 | 7 | 7 | 7 | 6–7 |
-| [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 7 | 7 | 7 | 7 | 6–7 |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -198,8 +198,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% | Last Result |
-| 6 | 17% | 99.9% |  |
-| 7 | 69% | 83% | Median |
+| 6 | 18% | 99.9% |  |
+| 7 | 67% | 81% | Median |
 | 8 | 14% | 14% |  |
 | 9 | 0% | 0% |  |
 
