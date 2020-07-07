@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 27–34% <br> 6–8 | 3–5% <br> 0–1 | 16–22% <br> 3–5 | 2–5% <br> 0–1 | 16–21% <br> 4–5 | 6–10% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
-| [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 29–32% <br> 7 | 3–4% <br> 0 | 19–22% <br> 5 | 2–4% <br> 0 | 17–20% <br> 4 | 7–9% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
+| [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 29–32% <br> 7 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 2–4% <br> 0 | 17–20% <br> 4 | 7–9% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29–33% <br> 6–8 | 2–4% <br> 0–1 | 15–19% <br> 3–4 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 6–8% <br> 1–2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 29–31% <br> 7 | 3–4% <br> 0 | 19–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 6–8% <br> 1–2 | 9–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 26–30% <br> 6–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
@@ -231,7 +231,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% | Last Result |
 | 6 | 18% | 99.9% |  |
-| 7 | 67% | 81% | Median |
+| 7 | 67% | 82% | Median |
 | 8 | 14% | 14% |  |
 | 9 | 0% | 0% |  |
 
@@ -243,8 +243,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -259,7 +259,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% | Last Result |
 | 4 | 45% | 97% |  |
-| 5 | 53% | 53% | Median |
+| 5 | 52% | 52% | Median |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
@@ -285,7 +285,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 2% | 100% |  |
-| 4 | 86% | 98% | Median |
+| 4 | 85% | 98% | Median |
 | 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
@@ -358,7 +358,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 18% | 99.9% | Last Result |
-| 7 | 67% | 81% | Median |
+| 7 | 67% | 82% | Median |
 | 8 | 14% | 14% |  |
 | 9 | 0% | 0% |  |
 
@@ -369,7 +369,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% | Last Result |
-| 5 | 20% | 99.8% |  |
+| 5 | 21% | 99.8% |  |
 | 6 | 73% | 79% | Median |
 | 7 | 6% | 6% |  |
 | 8 | 0% | 0% |  |
@@ -382,7 +382,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 2% | 100% |  |
-| 4 | 86% | 98% | Median |
+| 4 | 85% | 98% | Median |
 | 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
@@ -414,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -424,6 +424,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.65%
