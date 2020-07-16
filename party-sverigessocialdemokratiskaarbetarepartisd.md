@@ -10,8 +10,10 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.6% | 28.0–33.7% | 27.3–34.0% | 26.8–34.3% | 26.1–34.7% |
+| N/A | [Poll Average](average.html) | 29.7% | 25.5–31.4% | 24.5–32.0% | 23.8–32.4% | 22.6–33.4% |
+| [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 25.5% | 23.6–27.5% | 23.0–28.1% | 22.6–28.6% | 21.7–29.6% |
 | [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 30.6% | 29.6–31.6% | 29.4–31.8% | 29.1–32.1% | 28.7–32.6% |
+| [12–15 June 2020](2020-06-15-Sentio.html) | Sentio <br> Nyheter Idag | 28.8% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.1% |
 | [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 31.0% | 29.5–32.5% | 29.1–33.0% | 28.7–33.4% | 28.0–34.1% |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 30.0% | 29.3–30.7% | 29.1–30.9% | 29.0–31.0% | 28.7–31.4% |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 27.8% | 26.6–29.0% | 26.3–29.3% | 26.0–29.6% | 25.5–30.2% |
@@ -91,19 +93,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 23.5–24.5% | 0% | 100% | Last Result |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 1.3% | 99.9% |  |
-| 26.5–27.5% | 5% | 98.6% |  |
-| 27.5–28.5% | 7% | 93% |  |
-| 28.5–29.5% | 10% | 86% |  |
-| 29.5–30.5% | 25% | 76% |  |
-| 30.5–31.5% | 19% | 51% | Median |
-| 31.5–32.5% | 10% | 31% |  |
-| 32.5–33.5% | 10% | 22% |  |
-| 33.5–34.5% | 11% | 12% |  |
-| 34.5–35.5% | 0.9% | 1.0% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.4% | 99.9% |  |
+| 22.5–23.5% | 1.5% | 99.5% |  |
+| 23.5–24.5% | 3% | 98% | Last Result |
+| 24.5–25.5% | 5% | 95% |  |
+| 25.5–26.5% | 6% | 90% |  |
+| 26.5–27.5% | 9% | 83% |  |
+| 27.5–28.5% | 10% | 74% |  |
+| 28.5–29.5% | 11% | 64% |  |
+| 29.5–30.5% | 26% | 53% | Median |
+| 30.5–31.5% | 18% | 27% |  |
+| 31.5–32.5% | 6% | 9% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.3% | 0.4% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -114,8 +119,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 7 | 7 | 7 | 7 | 6–7 |
+| [12–15 June 2020](2020-06-15-Sentio.html) | Sentio <br> Nyheter Idag | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 7 | 7 | 7 | 7 | 6–7 |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -197,10 +204,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% | Last Result |
-| 6 | 18% | 99.9% |  |
-| 7 | 67% | 82% | Median |
-| 8 | 14% | 14% |  |
+| 5 | 6% | 100% | Last Result |
+| 6 | 33% | 94% |  |
+| 7 | 59% | 60% | Median |
+| 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
 
