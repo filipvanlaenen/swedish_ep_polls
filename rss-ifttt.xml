@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:09:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by SKOP, 23–28 July 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SKOP, 23–28 July 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP-seating-plan.png" length="413234" type="image/png"/>
+      <pubDate>Fri, 7 Aug 2020 20:38:17 +0200</pubDate>
+      <dc:date>2020-08-07T20:38:17.67418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 23–28 July 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SKOP, 23–28 July 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP-seats.png" length="254627" type="image/png"/>
+      <pubDate>Fri, 7 Aug 2020 20:38:17 +0200</pubDate>
+      <dc:date>2020-08-07T20:38:17.67418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 23–28 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SKOP, 23–28 July 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-28-SKOP.png" length="295557" type="image/png"/>
+      <pubDate>Fri, 7 Aug 2020 20:38:17 +0200</pubDate>
+      <dc:date>2020-08-07T20:38:17.67418+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 10–12 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-12-Sentio.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 10–12 July 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-12-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-07-12-Sentio-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-27-SCB.png" length="255778" type="image/png"/>
       <pubDate>Fri, 12 Jun 2020 20:26:06 +0200</pubDate>
       <dc:date>2020-06-12T20:26:06.488644+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–24 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos-seating-plan.png" length="422725" type="image/png"/>
-      <pubDate>Wed, 3 Jun 2020 21:49:24 +0200</pubDate>
-      <dc:date>2020-06-03T21:49:24.149754+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–24 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos-seats.png" length="248616" type="image/png"/>
-      <pubDate>Wed, 3 Jun 2020 21:49:24 +0200</pubDate>
-      <dc:date>2020-06-03T21:49:24.149754+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–24 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-05-24-Ipsos.png" length="288583" type="image/png"/>
-      <pubDate>Wed, 3 Jun 2020 21:49:24 +0200</pubDate>
-      <dc:date>2020-06-03T21:49:24.149754+02:00</dc:date>
     </item>
   </channel>
 </rss>
