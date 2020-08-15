@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.1% | 25.4–31.5% | 24.5–32.0% | 23.8–32.4% | 22.6–33.4% |
+| N/A | [Poll Average](average.html) | 28.5% | 25.4–31.4% | 24.5–32.0% | 23.8–32.4% | 22.6–33.4% |
+| [28 July–4 August 2020](2020-08-04-Demoskop.html) | Demoskop | 27.3% | 26.2–28.4% | 25.9–28.7% | 25.6–29.0% | 25.1–29.5% |
 | [23–28 July 2020](2020-07-28-SKOP.html) | SKOP | 28.2% | 26.4–30.1% | 26.0–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 25.5% | 23.6–27.5% | 23.0–28.1% | 22.6–28.6% | 21.7–29.6% |
 | [30 June–7 July 2020](2020-07-07-Demoskop.html) | Demoskop | 28.5% | 27.3–29.7% | 26.9–30.1% | 26.6–30.4% | 26.1–31.0% |
@@ -100,12 +101,12 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.4% | 99.9% |  |
 | 22.5–23.5% | 1.5% | 99.5% |  |
 | 23.5–24.5% | 3% | 98% | Last Result |
-| 24.5–25.5% | 5% | 95% |  |
-| 25.5–26.5% | 7% | 89% |  |
-| 26.5–27.5% | 10% | 82% |  |
-| 27.5–28.5% | 14% | 72% |  |
-| 28.5–29.5% | 15% | 58% | Median |
-| 29.5–30.5% | 18% | 43% |  |
+| 24.5–25.5% | 6% | 95% |  |
+| 25.5–26.5% | 10% | 89% |  |
+| 26.5–27.5% | 16% | 79% |  |
+| 27.5–28.5% | 13% | 63% |  |
+| 28.5–29.5% | 10% | 50% | Median |
+| 29.5–30.5% | 15% | 40% |  |
 | 30.5–31.5% | 16% | 25% |  |
 | 31.5–32.5% | 7% | 9% |  |
 | 32.5–33.5% | 2% | 2% |  |
@@ -122,6 +123,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [28 July–4 August 2020](2020-08-04-Demoskop.html) | Demoskop | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23–28 July 2020](2020-07-28-SKOP.html) | SKOP | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [30 June–7 July 2020](2020-07-07-Demoskop.html) | Demoskop | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
