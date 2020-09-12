@@ -10,10 +10,10 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 19.3–21.8% | 19.0–22.2% | 18.8–22.6% | 18.4–23.4% |
-| [25 August–1 September 2020](2020-09-01-Demoskop.html) | Demoskop | 21.6% | N/A | N/A | N/A | N/A |
-| [20–25 August 2020](2020-08-25-Sentio.html) | Sentio <br> Nyheter Idag | 22.4% | N/A | N/A | N/A | N/A |
-| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT | 19.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.3% | 19.1–22.7% | 18.8–23.5% | 18.6–24.2% | 18.1–25.5% |
+| [25 August–1 September 2020](2020-09-01-Demoskop.html) | Demoskop | 21.6% | 20.5–22.7% | 20.2–23.0% | 20.0–23.3% | 19.5–23.9% |
+| [20–25 August 2020](2020-08-25-Sentio.html) | Sentio <br> Nyheter Idag | 22.4% | 20.6–24.4% | 20.1–25.0% | 19.7–25.5% | 18.8–26.5% |
+| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT | 19.4% | 18.6–20.3% | 18.4–20.5% | 18.2–20.7% | 17.8–21.1% |
 | [11–23 August 2020](2020-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [10–20 August 2020](2020-08-20-Sifo.html) | Sifo | 19.7% | 19.0–20.4% | 18.8–20.6% | 18.7–20.7% | 18.3–21.1% |
 | [28 July–4 August 2020](2020-08-04-Demoskop.html) | Demoskop | 20.5% | 19.5–21.6% | 19.3–21.8% | 19.0–22.1% | 18.6–22.6% |
@@ -109,14 +109,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.9% | 100% |  |
-| 18.5–19.5% | 18% | 99.1% |  |
-| 19.5–20.5% | 40% | 81% | Median |
-| 20.5–21.5% | 27% | 41% |  |
-| 21.5–22.5% | 11% | 14% |  |
-| 22.5–23.5% | 2% | 3% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 17.5–18.5% | 2% | 100% |  |
+| 18.5–19.5% | 21% | 98% |  |
+| 19.5–20.5% | 33% | 76% | Median |
+| 20.5–21.5% | 21% | 43% |  |
+| 21.5–22.5% | 12% | 23% |  |
+| 22.5–23.5% | 6% | 11% |  |
+| 23.5–24.5% | 3% | 5% |  |
+| 24.5–25.5% | 1.3% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.5% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -127,10 +130,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [25 August–1 September 2020](2020-09-01-Demoskop.html) | Demoskop |  |  |  |  |  |
-| [20–25 August 2020](2020-08-25-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [25 August–1 September 2020](2020-09-01-Demoskop.html) | Demoskop | 5 | 5 | 5 | 5 | 4–5 |
+| [20–25 August 2020](2020-08-25-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–23 August 2020](2020-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [10–20 August 2020](2020-08-20-Sifo.html) | Sifo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 July–4 August 2020](2020-08-04-Demoskop.html) | Demoskop | 5 | 5 | 4–5 | 4–5 | 4–5 |
@@ -222,9 +225,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 35% | 100% |  |
-| 5 | 64% | 65% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 36% | 100% |  |
+| 5 | 61% | 64% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 
