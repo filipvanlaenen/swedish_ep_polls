@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | [Poll Average](average.html) | 23–28% <br> 5–6 | 3–6% <br> 0–1 | 19–24% <br> 4–5 | 3–5% <br> 0–1 | 16–22% <br> 4–5 | 7–10% <br> 2 | 8–13% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 22–26% <br> 5–6 | 3–4% <br> 0–1 | 21–24% <br> 5–6 | 2–4% <br> 0 | 18–22% <br> 4–5 | 8–10% <br> 2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 23–29% <br> 5–7 | 2–4% <br> 0–1 | 19–24% <br> 4–6 | 2–5% <br> 0–1 | 16–20% <br> 3–5 | 7–11% <br> 2 | 10–14% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 23–29% <br> 5–7 | 2–4% <br> 0–1 | 19–24% <br> 4–5 | 2–5% <br> 0–1 | 16–20% <br> 3–5 | 7–11% <br> 2 | 10–14% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 25–27% <br> 6 | 4–5% <br> 0–1 | 20–22% <br> 4–5 | 3–4% <br> 0 | 19–21% <br> 4–5 | 7–8% <br> 2 | 9–11% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 25–28% <br> 6 | 5–6% <br> 1 | 19–22% <br> 4–5 | 3–4% <br> 0–1 | 18–20% <br> 4–5 | 8–9% <br> 2 | 9–11% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 7–9% <br> 1–2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
