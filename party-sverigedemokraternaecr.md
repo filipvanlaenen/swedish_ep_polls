@@ -136,7 +136,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -236,9 +236,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 1.2% | 100% |  |
-| 4 | 66% | 98.8% | Median |
-| 5 | 33% | 33% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 70% | 99.4% | Median |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 

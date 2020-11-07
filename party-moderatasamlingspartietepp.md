@@ -133,8 +133,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 5 | 5 | 4–5 | 4–5 | 4–5 |
@@ -235,8 +235,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 26% | 100% |  |
-| 5 | 72% | 74% | Median |
-| 6 | 2% | 2% |  |
+| 5 | 73% | 74% | Median |
+| 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 
 
