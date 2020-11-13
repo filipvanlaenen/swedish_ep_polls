@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:09:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Novus for SVT, 12 October–8 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 12 October–8 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus-seating-plan.png" length="416902" type="image/png"/>
+      <pubDate>Fri, 13 Nov 2020 16:46:29 +0100</pubDate>
+      <dc:date>2020-11-13T16:46:29.851202+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 12 October–8 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 12 October–8 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus-seats.png" length="202316" type="image/png"/>
+      <pubDate>Fri, 13 Nov 2020 16:46:29 +0100</pubDate>
+      <dc:date>2020-11-13T16:46:29.851202+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 12 October–8 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Novus for SVT, 12 October–8 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.png" length="279604" type="image/png"/>
+      <pubDate>Fri, 13 Nov 2020 16:46:29 +0100</pubDate>
+      <dc:date>2020-11-13T16:46:29.851202+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop, 27 October–4 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-04-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop, 27 October–4 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-04-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-04-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.png" length="285121" type="image/png"/>
       <pubDate>Sat, 12 Sep 2020 14:06:15 +0200</pubDate>
       <dc:date>2020-09-12T14:06:15.580494+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 20–25 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio-seating-plan.png" length="428751" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 09:14:29 +0200</pubDate>
-      <dc:date>2020-09-12T09:14:29.885587+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 20–25 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio-seats.png" length="296680" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 09:14:29 +0200</pubDate>
-      <dc:date>2020-09-12T09:14:29.885587+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sentio for Nyheter Idag, 20–25 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-08-25-Sentio.png" length="308824" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 09:14:29 +0200</pubDate>
-      <dc:date>2020-09-12T09:14:29.885587+02:00</dc:date>
     </item>
   </channel>
 </rss>
