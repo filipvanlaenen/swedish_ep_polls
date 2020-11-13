@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.7–12.2% | 8.4–12.9% | 8.2–13.4% | 7.7–14.3% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.8–12.2% | 8.4–12.9% | 8.2–13.4% | 7.7–14.3% |
+| [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 10.6% | 10.0–11.3% | 9.8–11.5% | 9.6–11.6% | 9.4–11.9% |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.1% |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 10.0% | 9.6–10.5% | 9.4–10.6% | 9.3–10.7% | 9.1–10.9% |
@@ -112,10 +113,10 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% | Last Result |
 | 6.5–7.5% | 0.3% | 100% |  |
 | 7.5–8.5% | 6% | 99.7% |  |
-| 8.5–9.5% | 31% | 93% |  |
-| 9.5–10.5% | 40% | 62% | Median |
-| 10.5–11.5% | 8% | 22% |  |
-| 11.5–12.5% | 7% | 14% |  |
+| 8.5–9.5% | 23% | 94% |  |
+| 9.5–10.5% | 38% | 71% | Median |
+| 10.5–11.5% | 18% | 33% |  |
+| 11.5–12.5% | 8% | 15% |  |
 | 12.5–13.5% | 5% | 7% |  |
 | 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.3% |  |
@@ -131,6 +132,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2–3 |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
@@ -232,8 +234,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 82% | 100% | Median |
-| 3 | 17% | 18% |  |
+| 2 | 77% | 100% | Median |
+| 3 | 23% | 23% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

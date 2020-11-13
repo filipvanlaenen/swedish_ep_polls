@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 7.5–9.7% | 7.3–10.1% | 7.1–10.4% | 6.7–11.1% |
+| N/A | [Poll Average](average.html) | 8.5% | 7.5–9.7% | 7.3–10.1% | 7.1–10.4% | 6.7–11.1% |
+| [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 8.6% | 8.0–9.2% | 7.9–9.4% | 7.7–9.5% | 7.5–9.8% |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 9.2% | 8.4–10.0% | 8.2–10.3% | 8.0–10.5% | 7.7–10.9% |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 7.7% | 7.3–8.1% | 7.2–8.2% | 7.1–8.3% | 6.9–8.6% |
@@ -112,8 +113,8 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% | Last Result |
 | 6.5–7.5% | 11% | 99.8% |  |
-| 7.5–8.5% | 43% | 88% | Median |
-| 8.5–9.5% | 32% | 45% |  |
+| 7.5–8.5% | 40% | 89% |  |
+| 8.5–9.5% | 35% | 48% | Median |
 | 9.5–10.5% | 11% | 13% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -129,6 +130,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2–3 |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 2 | 2 | 2 | 2 | 2–3 |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
