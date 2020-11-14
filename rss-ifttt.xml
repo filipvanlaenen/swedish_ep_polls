@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:09:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 2–12 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-12-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo, 2–12 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-12-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-12-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-12-Sifo.png" length="288670" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 18:13:30 +0100</pubDate>
+      <dc:date>2020-11-14T18:13:30.180964+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 12 October–8 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 12 October–8 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-11-08-Novus-seating-plan.png"/>]]></description>
@@ -76,6 +84,14 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-10-26-SKOP.png" length="297868" type="image/png"/>
       <pubDate>Sat, 7 Nov 2020 17:57:20 +0100</pubDate>
       <dc:date>2020-11-07T17:57:20.80729+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-10-25-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 October 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-10-25-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-10-25-Ipsos.png" length="297868" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 18:52:32 +0100</pubDate>
+      <dc:date>2020-11-14T18:52:32.228655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 5–15 October 2020 – Seating Plan Projection</title>
@@ -196,54 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-17-Sifo.png" length="267585" type="image/png"/>
       <pubDate>Mon, 28 Sep 2020 18:37:10 +0200</pubDate>
       <dc:date>2020-09-28T18:37:10.478279+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 24 August–13 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 24 August–13 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus-seating-plan.png" length="421000" type="image/png"/>
-      <pubDate>Mon, 28 Sep 2020 18:49:16 +0200</pubDate>
-      <dc:date>2020-09-28T18:49:16.861255+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 24 August–13 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 24 August–13 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus-seats.png" length="231033" type="image/png"/>
-      <pubDate>Mon, 28 Sep 2020 18:49:16 +0200</pubDate>
-      <dc:date>2020-09-28T18:49:16.861255+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 24 August–13 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Novus for SVT, 24 August–13 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-13-Novus.png" length="281343" type="image/png"/>
-      <pubDate>Mon, 28 Sep 2020 18:49:16 +0200</pubDate>
-      <dc:date>2020-09-28T18:49:16.861255+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 August–1 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop, 25 August–1 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop-seating-plan.png" length="300283" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 14:06:15 +0200</pubDate>
-      <dc:date>2020-09-12T14:06:15.580494+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 August–1 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop, 25 August–1 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop-seats.png" length="193328" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 14:06:15 +0200</pubDate>
-      <dc:date>2020-09-12T14:06:15.580494+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 August–1 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop, 25 August–1 September 2020<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2020-09-01-Demoskop.png" length="285121" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 14:06:15 +0200</pubDate>
-      <dc:date>2020-09-12T14:06:15.580494+02:00</dc:date>
     </item>
   </channel>
 </rss>
