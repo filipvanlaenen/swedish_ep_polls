@@ -131,7 +131,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–12 November 2020](2020-11-12-Sifo.html) | Sifo | 1 | 1 | 1 | 1–2 | 1–2 |
+| [2–12 November 2020](2020-11-12-Sifo.html) | Sifo | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -235,8 +235,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 79% | 99.9% | Last Result, Median |
-| 2 | 21% | 21% |  |
+| 1 | 78% | 99.9% | Last Result, Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 
