@@ -5,15 +5,18 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [2–12 November 2020](2020-11-12-Sifo.html) | Sifo | 25–29% <br> 5–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 6–9% <br> 1–2 | 9–12% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [12–16 November 2020](2020-11-16-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 5–6 | 2–5% <br> 0–1 | 17–23% <br> 4–5 | 2–5% <br> 0–1 | 22–28% <br> 5–7 | 4–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [2–11 November 2020](2020-11-11-Sifo.html) | Sifo | 25–29% <br> 5–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 6–9% <br> 1–2 | 9–12% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 25–28% <br> 6–7 | 3–5% <br> 0–1 | 21–23% <br> 5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 8–10% <br> 2 | 10–12% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
 | [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 22–26% <br> 5–6 | 3–4% <br> 0–1 | 21–24% <br> 5–6 | 2–4% <br> 0 | 18–22% <br> 4–5 | 8–10% <br> 2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 23–29% <br> 5–7 | 2–4% <br> 0–1 | 19–24% <br> 4–5 | 2–5% <br> 0–1 | 16–20% <br> 3–5 | 7–11% <br> 2 | 10–14% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [13–25 October 2020](2020-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23–27% <br> 5–6 | 4–6% <br> 0–1 | 19–23% <br> 4–5 | 2–4% <br> 0 | 18–22% <br> 4–5 | 8–11% <br> 2 | 9–13% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [15–18 October 2020](2020-10-18-Sentio.html) | Sentio <br> Nyheter Idag | 22–28% <br> 5–6 | 3–6% <br> 0–1 | 16–22% <br> 4–5 | 2–4% <br> 0–1 | 21–27% <br> 5–6 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 25–27% <br> 6 | 4–5% <br> 0–1 | 20–22% <br> 4–5 | 3–4% <br> 0 | 19–21% <br> 4–5 | 7–8% <br> 2 | 9–11% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 25–28% <br> 6 | 5–6% <br> 1 | 19–22% <br> 4–5 | 3–4% <br> 0–1 | 18–20% <br> 4–5 | 8–9% <br> 2 | 9–11% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 23–27% <br> 5–6 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 3–4% <br> 0–1 | 18–21% <br> 4–5 | 8–11% <br> 2 | 8–10% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 7–9% <br> 1–2 | 8–11% <br> 2 | 6–8% <br> 1–2 | N/A <br> N/A |
+| [17–20 September 2020](2020-09-20-Sentio.html) | Sentio <br> Nyheter Idag | 22–28% <br> 4–6 | 3–5% <br> 0–1 | 19–25% <br> 4–6 | 2–4% <br> 0–1 | 21–27% <br> 4–6 | 6–9% <br> 1–2 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A |
 | [7–17 September 2020](2020-09-17-Sifo.html) | Sifo | 26–29% <br> 6–7 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 3–4% <br> 0–1 | 19–21% <br> 4–5 | 7–9% <br> 2 | 8–10% <br> 2 | 6–7% <br> 1–2 | N/A <br> N/A |
 | [24 August–13 September 2020](2020-09-13-Novus.html) | Novus <br> SVT | 25–29% <br> 6–7 | 4–5% <br> 0–1 | 20–23% <br> 4–5 | 3–4% <br> 0 | 18–21% <br> 4–5 | 7–9% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [25 August–1 September 2020](2020-09-01-Demoskop.html) | Demoskop | 24–28% <br> 6 | 3–4% <br> 0–1 | 21–24% <br> 5 | 2–4% <br> 0 | 20–23% <br> 5 | 8–10% <br> 2 | 6–9% <br> 2 | 4–6% <br> 1 | N/A <br> N/A |
