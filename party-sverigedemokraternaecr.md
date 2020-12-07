@@ -10,7 +10,10 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 17.9–24.9% | 17.2–26.1% | 16.6–26.9% | 15.6–28.2% |
+| N/A | [Poll Average](average.html) | 19.7% | 17.7–24.9% | 17.3–26.1% | 17.0–26.9% | 16.6–28.2% |
+| [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 19.6% | 18.5–20.7% | 18.2–21.0% | 18.0–21.3% | 17.5–21.8% |
+| [2–26 November 2020](2020-11-26-SCB.html) | SCB | 17.6% | 16.9–18.3% | 16.7–18.5% | 16.5–18.7% | 16.2–19.1% |
+| [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.7–21.4% | 18.3–21.8% | 18.0–22.1% | 17.4–22.8% |
 | [12–16 November 2020](2020-11-16-Sentio.html) | Sentio <br> Nyheter Idag | 25.2% | 23.3–27.3% | 22.8–27.9% | 22.3–28.4% | 21.4–29.4% |
 | [2–11 November 2020](2020-11-11-Sifo.html) | Sifo | 19.9% | 18.6–21.3% | 18.3–21.7% | 18.0–22.0% | 17.4–22.6% |
 | [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 19.4% | 18.6–20.3% | 18.4–20.5% | 18.2–20.7% | 17.8–21.1% |
@@ -120,13 +123,13 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 2% | 99.6% |  |
-| 16.5–17.5% | 5% | 98% |  |
-| 17.5–18.5% | 10% | 93% |  |
-| 18.5–19.5% | 25% | 83% |  |
-| 19.5–20.5% | 27% | 58% | Median |
-| 20.5–21.5% | 12% | 31% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.5% | 100% |  |
+| 16.5–17.5% | 8% | 99.5% |  |
+| 17.5–18.5% | 14% | 92% |  |
+| 18.5–19.5% | 24% | 78% |  |
+| 19.5–20.5% | 25% | 54% | Median |
+| 20.5–21.5% | 10% | 29% |  |
 | 21.5–22.5% | 3% | 19% |  |
 | 22.5–23.5% | 2% | 16% |  |
 | 23.5–24.5% | 3% | 15% |  |
@@ -147,7 +150,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [2–26 November 2020](2020-11-26-SCB.html) | SCB | 4 | 4 | 4 | 4 | 4 |
+| [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–16 November 2020](2020-11-16-Sentio.html) | Sentio <br> Nyheter Idag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [2–11 November 2020](2020-11-11-Sifo.html) | Sifo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -255,9 +261,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.5% | 100% |  |
-| 4 | 53% | 99.5% | Median |
-| 5 | 34% | 47% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 52% | 99.9% | Median |
+| 5 | 35% | 48% |  |
 | 6 | 12% | 12% |  |
 | 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
