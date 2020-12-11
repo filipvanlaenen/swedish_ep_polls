@@ -6,12 +6,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | [Poll Average](average.html) | 22–30% <br> 5–7 | 3–5% <br> 0–1 | 18–24% <br> 4–6 | 2–4% <br> 0–1 | 17–27% <br> 4–6 | 5–10% <br> 1–2 | 8–12% <br> 2–3 | 4–7% <br> 1–2 | N/A <br> N/A |
+| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 27–29% <br> 6–7 | 4–5% <br> 0–1 | 20–23% <br> 5 | 2–3% <br> 0 | 17–20% <br> 4–5 | 7–9% <br> 2 | 9–11% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 23–27% <br> 5–6 | 3–4% <br> 0–1 | 21–25% <br> 5–6 | 2–4% <br> 0 | 18–21% <br> 4–5 | 8–11% <br> 2 | 8–11% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [2–26 November 2020](2020-11-26-SCB.html) | SCB | 28–31% <br> 6–7 | 4–5% <br> 0–1 | 21–23% <br> 5 | 3–4% <br> 0 | 17–19% <br> 4 | 7–8% <br> 2 | 8–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–4% <br> 0 | 18–22% <br> 4–5 | 8–11% <br> 2 | 9–13% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
 | [12–16 November 2020](2020-11-16-Sentio.html) | Sentio <br> Nyheter Idag | 20–26% <br> 5–6 | 2–5% <br> 0–1 | 17–23% <br> 4–5 | 2–5% <br> 0–1 | 22–28% <br> 5–7 | 4–8% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [2–11 November 2020](2020-11-11-Sifo.html) | Sifo | 25–29% <br> 5–7 | 3–5% <br> 0–1 | 19–23% <br> 4–5 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 6–9% <br> 1–2 | 9–12% <br> 2–3 | 5–7% <br> 1–2 | N/A <br> N/A |
-| [12 October–8 November 2020](2020-11-08-Novus.html) | Novus <br> SVT | 25–28% <br> 6–7 | 3–5% <br> 0–1 | 21–23% <br> 5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 8–10% <br> 2 | 10–12% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
