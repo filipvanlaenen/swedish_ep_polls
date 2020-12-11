@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 6.1–9.6% | 5.5–10.0% | 5.1–10.3% | 4.5–10.8% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.1–9.6% | 5.5–10.0% | 5.1–10.3% | 4.5–10.8% |
+| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 8.2% | 7.7–8.8% | 7.5–9.0% | 7.4–9.1% | 7.1–9.4% |
 | [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 9.4% | 8.6–10.2% | 8.4–10.5% | 8.3–10.7% | 7.9–11.1% |
 | [2–26 November 2020](2020-11-26-SCB.html) | SCB | 7.6% | 7.1–8.1% | 7.0–8.3% | 6.9–8.4% | 6.6–8.6% |
 | [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
@@ -123,8 +124,8 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 5% | 99.3% |  |
 | 5.5–6.5% | 8% | 94% | Last Result |
 | 6.5–7.5% | 18% | 86% |  |
-| 7.5–8.5% | 30% | 69% | Median |
-| 8.5–9.5% | 28% | 39% |  |
+| 7.5–8.5% | 34% | 68% | Median |
+| 8.5–9.5% | 23% | 34% |  |
 | 9.5–10.5% | 10% | 11% |  |
 | 10.5–11.5% | 1.1% | 1.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -139,6 +140,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2–3 |
 | [2–26 November 2020](2020-11-26-SCB.html) | SCB | 2 | 2 | 2 | 2 | 1–2 |
 | [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
