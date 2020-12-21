@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-12-17T18:48:16.359035+01:00</updated>
+  <updated>2020-12-21T12:53:00.909631+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 21.2–27.2%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 19.3–25.1%, 4–6 seats</li><li>Sverigedemokraterna (ECR): 20.4–26.3%, 5–6 seats</li><li>Centerpartiet (RE): 4.5–7.8%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.3–13.7%, 2–3 seats</li><li>Kristdemokraterna (EPP): 3.5–6.6%, 0–2 seats</li><li>Liberalerna (RE): 1.8–4.0%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.1–4.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2020-12-14-Sentio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2020-12-14-Sentio.html"/>
+    <title>Opinion Poll by Sentio for Nyheter Idag, 11–14 December 2020</title>
+    <updated>2020-12-21T12:53:00.909631+01:00</updated>
+    <dc:date>2020-12-21T12:53:00.909631+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.9–28.3%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 20.9–25.2%, 4–6 seats</li><li>Sverigedemokraterna (ECR): 18.1–22.1%, 4–5 seats</li><li>Centerpartiet (RE): 5.8–8.4%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.5–12.7%, 2–3 seats</li><li>Kristdemokraterna (EPP): 4.0–6.2%, 0–1 seats</li><li>Liberalerna (RE): 2.3–4.0%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.0–6.2%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2020-12-13-Ipsos.html</id>
@@ -30,6 +38,14 @@
     <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020</title>
     <updated>2020-12-11T18:26:10.02228+01:00</updated>
     <dc:date>2020-12-11T18:26:10.02228+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.5–28.9%, 5–7 seats</li><li>Moderata samlingspartiet (EPP): 19.4–24.5%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 16.0–20.7%, 3–5 seats</li><li>Centerpartiet (RE): 6.9–10.4%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.3–13.3%, 2–3 seats</li><li>Kristdemokraterna (EPP): 5.1–8.2%, 1–2 seats</li><li>Liberalerna (RE): 1.8–3.9%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.9–5.4%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2020-12-03-SKOP.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2020-12-03-SKOP.html"/>
+    <title>Opinion Poll by SKOP, 30 November–3 December 2020</title>
+    <updated>2020-12-21T12:40:07.980411+01:00</updated>
+    <dc:date>2020-12-21T12:40:07.980411+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.2–26.8%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 21.5–25.0%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 18.0–21.3%, 4–5 seats</li><li>Centerpartiet (RE): 8.3–10.7%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 8.2–10.6%, 2 seats</li><li>Kristdemokraterna (EPP): 4.8–6.7%, 1–2 seats</li><li>Liberalerna (RE): 2.2–3.6%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.9–4.5%, 0–1 seats</li></ul></div></content>
@@ -831,5 +847,5 @@
     <updated>2020-06-01T09:30:18.650161+02:00</updated>
     <dc:date>2020-06-01T09:30:18.650161+02:00</dc:date>
   </entry>
-  <dc:date>2020-12-17T18:48:16.359035+01:00</dc:date>
+  <dc:date>2020-12-21T12:53:00.909631+01:00</dc:date>
 </feed>
