@@ -10,7 +10,8 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 21.0–24.0% | 20.6–24.4% | 20.2–24.8% | 19.3–25.6% |
+| N/A | [Poll Average](average.html) | 22.5% | 21.1–24.0% | 20.7–24.4% | 20.2–24.8% | 19.3–25.6% |
+| [11–21 January 2021](2021-01-21-Sifo.html) | Sifo | 22.4% | 21.7–23.0% | 21.6–23.2% | 21.4–23.4% | 21.1–23.7% |
 | [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 23.2% | 22.0–24.4% | 21.7–24.8% | 21.4–25.1% | 20.9–25.7% |
 | [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 21.8% | 20.8–22.8% | 20.5–23.2% | 20.3–23.4% | 19.8–23.9% |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 22.1% | 20.2–24.0% | 19.7–24.6% | 19.3–25.1% | 18.5–26.1% |
@@ -132,9 +133,9 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.1% | 100% |  |
 | 18.5–19.5% | 0.7% | 99.9% |  |
 | 19.5–20.5% | 3% | 99.2% |  |
-| 20.5–21.5% | 20% | 96% |  |
-| 21.5–22.5% | 35% | 75% | Median |
-| 22.5–23.5% | 23% | 40% |  |
+| 20.5–21.5% | 14% | 96% |  |
+| 21.5–22.5% | 35% | 82% | Median |
+| 22.5–23.5% | 30% | 47% |  |
 | 23.5–24.5% | 13% | 17% |  |
 | 24.5–25.5% | 4% | 4% |  |
 | 25.5–26.5% | 0.5% | 0.6% |  |
@@ -151,6 +152,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [11–21 January 2021](2021-01-21-Sifo.html) | Sifo | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 4–5 | 4–6 |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -269,8 +271,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 2% | 100% |  |
-| 5 | 90% | 98% | Median |
-| 6 | 8% | 8% |  |
+| 5 | 89% | 98% | Median |
+| 6 | 9% | 9% |  |
 | 7 | 0% | 0% |  |
 
 
