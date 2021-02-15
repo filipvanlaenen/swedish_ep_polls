@@ -11,6 +11,7 @@ Last result: **6.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.2% | 5.9–9.7% | 5.4–10.1% | 5.0–10.4% | 4.5–10.9% |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 8.1% | 7.7–8.6% | 7.6–8.7% | 7.5–8.8% | 7.3–9.0% |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 9.6% | 8.8–10.5% | 8.6–10.7% | 8.4–10.9% | 8.1–11.4% |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 8.5% | 7.8–9.2% | 7.7–9.4% | 7.5–9.6% | 7.2–9.9% |
@@ -152,6 +153,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2–3 | 2–3 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
