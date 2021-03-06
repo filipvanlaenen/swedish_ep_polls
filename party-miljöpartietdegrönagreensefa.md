@@ -10,7 +10,10 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.6–5.2% |
+| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.7–5.0% | 2.4–5.5% |
+| [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 3.1% | 2.7–3.6% | 2.6–3.8% | 2.5–3.9% | 2.3–4.2% |
+| [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
+| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 3.6% | 3.3–3.9% | 3.2–4.0% | 3.2–4.1% | 3.0–4.2% |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 3.5% | 3.0–4.0% | 2.9–4.2% | 2.8–4.3% | 2.6–4.6% |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -132,11 +135,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 32% | 99.6% |  |
-| 3.5–4.5% | 61% | 68% | Median |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 1.2% | 100% |  |
+| 2.5–3.5% | 37% | 98.8% |  |
+| 3.5–4.5% | 50% | 62% | Median |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -157,6 +160,9 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–1 |
+| [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0–1 | 0–1 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -279,8 +285,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 32% | 32% |  |
+| 0 | 65% | 100% | Median |
+| 1 | 35% | 35% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
