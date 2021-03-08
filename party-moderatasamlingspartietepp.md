@@ -163,7 +163,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -289,8 +289,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 5% | 100% |  |
 | 5 | 52% | 95% | Median |
-| 6 | 43% | 43% |  |
-| 7 | 0.1% | 0.1% |  |
+| 6 | 43% | 44% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 
