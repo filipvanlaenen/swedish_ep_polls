@@ -156,7 +156,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2–3 |
-| [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
+| [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2–3 |
 | [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 2 | 2 | 2 | 2–3 | 2–3 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2–3 | 2–3 |
