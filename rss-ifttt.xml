@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 1–11 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-11-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo, 1–11 March 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-11-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-11-Sifo.png" length="260484" type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 08:06:28 +0100</pubDate>
+      <dc:date>2021-03-18T08:06:28.509582+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop, 26 February–3 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-03-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop, 26 February–3 March 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-03-03-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-31-Novus.png" length="278210" type="image/png"/>
       <pubDate>Mon, 8 Feb 2021 09:19:41 +0100</pubDate>
       <dc:date>2021-02-08T09:19:41.545444+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos-seating-plan.png" length="419654" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 09:45:37 +0100</pubDate>
-      <dc:date>2021-02-08T09:45:37.489643+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos-seats.png" length="239287" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 09:45:37 +0100</pubDate>
-      <dc:date>2021-02-08T09:45:37.489643+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-01-25-Ipsos.png" length="291703" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 09:45:37 +0100</pubDate>
-      <dc:date>2021-02-08T09:45:37.489643+01:00</dc:date>
     </item>
   </channel>
 </rss>
