@@ -11,6 +11,7 @@ Last result: **5.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.8% | 4.0–6.3% | 3.8–6.7% | 3.7–7.0% | 3.4–7.8% |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 4.4% | 4.1–4.7% | 4.0–4.8% | 3.9–4.9% | 3.8–5.0% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.8% | 4.6–7.2% |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 6.0% | 5.0–7.2% | 4.7–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 4.1% | 3.7–4.5% | 3.6–4.7% | 3.5–4.8% | 3.3–5.0% |
@@ -138,8 +139,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 1.2% | 100% |  |
-| 3.5–4.5% | 39% | 98.8% |  |
-| 4.5–5.5% | 31% | 60% | Median |
+| 3.5–4.5% | 37% | 98.8% |  |
+| 4.5–5.5% | 33% | 61% | Median |
 | 5.5–6.5% | 23% | 29% | Last Result |
 | 6.5–7.5% | 5% | 6% |  |
 | 7.5–8.5% | 0.7% | 0.8% |  |
@@ -156,6 +157,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -283,8 +285,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% |  |
-| 1 | 83% | 88% | Last Result, Median |
+| 0 | 10% | 100% |  |
+| 1 | 84% | 90% | Last Result, Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
