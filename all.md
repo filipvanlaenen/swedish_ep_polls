@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 26–28% <br> 6–7 | 4–5% <br> 0–1 | 22–24% <br> 5–6 | 3% <br> 0 | 18–19% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 23–26% <br> 5–6 | 2–4% <br> 0 | 23–26% <br> 5–6 | 2–3% <br> 0 | 17–20% <br> 4–5 | 9–11% <br> 2–3 | 8–11% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 22–29% <br> 5–7 | 2–5% <br> 0–1 | 19–25% <br> 4–6 | 2–4% <br> 0–1 | 18–24% <br> 4–5 | 6–9% <br> 1–2 | 8–12% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 26–28% <br> 6–7 | 4–5% <br> 0–1 | 23–25% <br> 5–6 | 3–4% <br> 0 | 17–19% <br> 4 | 7–9% <br> 2 | 9–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
