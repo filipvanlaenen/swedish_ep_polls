@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.6–4.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.6% | 2.1–3.8% | 1.9–4.0% | 1.6–4.5% |
+| [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 2.9% | 2.7–3.2% | 2.6–3.2% | 2.5–3.3% | 2.4–3.4% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 2.0–3.7% |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 3.0% | 2.4–4.0% | 2.2–4.3% | 2.1–4.5% | 1.8–5.0% |
@@ -139,10 +140,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 18% | 99.7% |  |
+| 1.5–2.5% | 19% | 99.7% |  |
 | 2.5–3.5% | 70% | 81% | Median |
-| 3.5–4.5% | 11% | 11% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 10% | 11% |  |
+| 4.5–5.5% | 0.3% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -159,6 +160,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 0 | 0 | 0–1 | 0–1 | 0–1 |
