@@ -10,7 +10,10 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 15.8–21.0% | 14.9–21.7% | 14.4–22.3% | 13.5–23.5% |
+| N/A | [Poll Average](average.html) | 18.8% | 18.0–20.6% | 17.8–21.1% | 17.6–21.5% | 17.3–22.3% |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 19.2% | N/A | N/A | N/A | N/A |
+| [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 18.7% | 18.0–19.4% | 17.8–19.6% | 17.6–19.8% | 17.3–20.2% |
+| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 22.2% | N/A | N/A | N/A | N/A |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.7–21.4% | 18.4–21.7% | 18.1–22.1% | 17.5–22.7% |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 18.4% | 17.8–19.0% | 17.7–19.1% | 17.5–19.3% | 17.3–19.6% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 18.2% | 17.2–19.3% | 16.9–19.6% | 16.7–19.9% | 16.2–20.4% |
@@ -141,20 +144,18 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 3% | 99.4% |  |
-| 14.5–15.5% | 5% | 97% |  |
-| 15.5–16.5% | 6% | 92% |  |
-| 16.5–17.5% | 10% | 86% |  |
-| 17.5–18.5% | 30% | 76% | Median |
-| 18.5–19.5% | 20% | 46% |  |
-| 19.5–20.5% | 11% | 26% |  |
-| 20.5–21.5% | 8% | 14% |  |
-| 21.5–22.5% | 4% | 6% |  |
-| 22.5–23.5% | 1.4% | 2% |  |
-| 23.5–24.5% | 0.4% | 0.5% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 2% | 100% |  |
+| 17.5–18.5% | 35% | 98% |  |
+| 18.5–19.5% | 39% | 64% | Median |
+| 19.5–20.5% | 15% | 25% |  |
+| 20.5–21.5% | 8% | 10% |  |
+| 21.5–22.5% | 2% | 2% |  |
+| 22.5–23.5% | 0.2% | 0.3% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -165,7 +166,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio |  |  |  |  |  |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 4 | 4 | 4 | 4–5 | 4–5 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -296,10 +300,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 8% | 100% |  |
-| 4 | 68% | 92% | Median |
+| 3 | 0% | 100% |  |
+| 4 | 76% | 100% | Median |
 | 5 | 24% | 24% |  |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
 
 
