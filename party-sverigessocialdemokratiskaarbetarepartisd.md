@@ -10,10 +10,10 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 26.3–28.3% | 25.8–28.6% | 25.4–28.9% | 24.6–29.5% |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 25.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.9% | 25.0–28.2% | 24.5–28.6% | 24.1–29.0% | 23.3–29.9% |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 25.4% | 24.3–26.5% | 24.0–26.8% | 23.8–27.1% | 23.3–27.6% |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 27.6% | 26.8–28.4% | 26.6–28.7% | 26.4–28.9% | 26.0–29.3% |
-| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 26.5% | N/A | N/A | N/A | N/A |
+| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 26.5% | 24.5–28.6% | 24.0–29.2% | 23.5–29.7% | 22.6–30.7% |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.2–30.0% |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 27.2% | 26.6–27.9% | 26.4–28.0% | 26.2–28.2% | 25.9–28.5% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 24.2% | 23.1–25.4% | 22.8–25.7% | 22.5–26.0% | 22.0–26.6% |
@@ -141,15 +141,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.4% | 100% | Last Result |
-| 24.5–25.5% | 3% | 99.6% |  |
-| 25.5–26.5% | 13% | 97% |  |
-| 26.5–27.5% | 48% | 84% | Median |
-| 27.5–28.5% | 31% | 36% |  |
-| 28.5–29.5% | 5% | 5% |  |
-| 29.5–30.5% | 0.5% | 0.5% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.7% | 99.9% |  |
+| 23.5–24.5% | 5% | 99.2% | Last Result |
+| 24.5–25.5% | 13% | 95% |  |
+| 25.5–26.5% | 20% | 81% |  |
+| 26.5–27.5% | 35% | 62% | Median |
+| 27.5–28.5% | 22% | 27% |  |
+| 28.5–29.5% | 4% | 5% |  |
+| 29.5–30.5% | 0.7% | 0.9% |  |
+| 30.5–31.5% | 0.1% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -160,10 +163,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio |  |  |  |  |  |
+| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -293,9 +296,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.0% | 100% | Last Result |
-| 6 | 83% | 99.0% | Median |
-| 7 | 16% | 16% |  |
+| 5 | 6% | 100% | Last Result |
+| 6 | 79% | 94% | Median |
+| 7 | 15% | 15% |  |
 | 8 | 0% | 0% |  |
 
 
