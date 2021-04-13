@@ -164,7 +164,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
-| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
