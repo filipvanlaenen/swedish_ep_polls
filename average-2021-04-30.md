@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 24–29% <br> 5–7 | 3–6% <br> 0–1 | 19–24% <br> 4–6 | 2–4% <br> 0–1 | 18–24% <br> 4–5 | 5–11% <br> 1–2 | 8–12% <br> 2–3 | 4–7% <br> 0–2 | N/A <br> N/A |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 24–27% <br> 5–6 | 3–4% <br> 0 | 21–24% <br> 5–6 | 3–4% <br> 0–1 | 18–21% <br> 4–5 | 9–11% <br> 2–3 | 7–10% <br> 2 | 4–6% <br> 1 | N/A <br> N/A |
-| [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 26–29% <br> 6–7 | 4–5% <br> 0–1 | 21–24% <br> 5 | 2–3% <br> 0 | 18–20% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 26–29% <br> 6–7 | 4–5% <br> 0–1 | 21–24% <br> 5–6 | 2–3% <br> 0 | 18–20% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 24–30% <br> 5–7 | 4–7% <br> 0–1 | 17–23% <br> 4–5 | 2–4% <br> 0–1 | 19–25% <br> 4–6 | 5–8% <br> 1–2 | 7–11% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25–29% <br> 5–7 | 3–5% <br> 0–1 | 20–24% <br> 4–6 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 8–11% <br> 2 | 9–13% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 26–28% <br> 6–7 | 4–5% <br> 0–1 | 22–24% <br> 5–6 | 3% <br> 0 | 18–19% <br> 4–5 | 8–9% <br> 2 | 9–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
@@ -237,8 +237,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% | Last Result |
-| 6 | 84% | 96% | Median |
-| 7 | 12% | 12% |  |
+| 6 | 85% | 96% | Median |
+| 7 | 10% | 10% |  |
 | 8 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna (Greens/EFA)
@@ -250,7 +250,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 37% | 100% |  |
-| 1 | 62% | 63% | Median |
+| 1 | 63% | 63% | Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -265,8 +265,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 10% | 100% |  |
-| 5 | 78% | 90% | Median |
-| 6 | 12% | 12% |  |
+| 5 | 77% | 90% | Median |
+| 6 | 13% | 13% |  |
 | 7 | 0% | 0% |  |
 
 ### Liberalerna (RE)
@@ -291,8 +291,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 63% | 100% | Median |
-| 5 | 35% | 37% |  |
+| 4 | 64% | 100% | Median |
+| 5 | 34% | 36% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -331,8 +331,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 77% | 82% | Last Result, Median |
+| 0 | 16% | 100% |  |
+| 1 | 79% | 84% | Last Result, Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -365,8 +365,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
-| 6 | 84% | 96% | Last Result, Median |
-| 7 | 12% | 12% |  |
+| 6 | 85% | 96% | Last Result, Median |
+| 7 | 10% | 10% |  |
 | 8 | 0% | 0% |  |
 
 ### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
@@ -376,8 +376,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% | Last Result |
-| 5 | 24% | 99.8% |  |
-| 6 | 63% | 76% | Median |
+| 5 | 22% | 99.8% |  |
+| 6 | 66% | 78% | Median |
 | 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
@@ -389,8 +389,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 63% | 100% | Median |
-| 5 | 35% | 37% |  |
+| 4 | 64% | 100% | Median |
+| 5 | 34% | 36% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -424,7 +424,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 37% | 100% |  |
-| 1 | 62% | 63% | Median |
+| 1 | 63% | 63% | Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -434,5 +434,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
++ **Total number of simulations done in the polls included in this average:** 4,325,376
 + **Error estimate:** 1.43%
