@@ -175,8 +175,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
+| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 4 | 4 | 4 | 4–5 | 4–5 |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | 4 | 4 | 4 | 4–5 | 4–5 |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -313,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 72% | 100% | Median |
-| 5 | 25% | 28% |  |
+| 4 | 73% | 100% | Median |
+| 5 | 25% | 27% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
