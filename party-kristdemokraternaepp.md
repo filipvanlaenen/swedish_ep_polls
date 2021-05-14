@@ -10,7 +10,8 @@ Last result: **5.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.6–6.1% | 4.5–6.6% | 4.3–7.0% | 4.1–7.8% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.7–6.1% | 4.6–6.6% | 4.4–7.0% | 4.1–7.8% |
+| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 5.2% | 4.9–5.5% | 4.8–5.6% | 4.8–5.7% | 4.6–5.8% |
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 5.2% | 4.7–5.8% | 4.5–6.0% | 4.4–6.1% | 4.2–6.4% |
 | [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 5.3% | 4.9–5.8% | 4.7–6.0% | 4.6–6.1% | 4.4–6.3% |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
@@ -146,9 +147,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 8% | 100% |  |
-| 4.5–5.5% | 64% | 92% | Median |
-| 5.5–6.5% | 22% | 28% | Last Result |
+| 3.5–4.5% | 5% | 100% |  |
+| 4.5–5.5% | 66% | 95% | Median |
+| 5.5–6.5% | 24% | 29% | Last Result |
 | 6.5–7.5% | 5% | 6% |  |
 | 7.5–8.5% | 0.9% | 1.0% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -164,6 +165,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 1 | 1 | 1 | 1 | 1 |
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 1 | 1 | 1 | 1 | 1 |
 | [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 0–1 |
