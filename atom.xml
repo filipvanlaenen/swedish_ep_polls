@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-05-12T07:37:40.272218+02:00</updated>
+  <updated>2021-05-17T10:16:39.130665+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 26.0–27.8%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 20.9–22.6%, 5 seats</li><li>Sverigedemokraterna (ECR): 18.0–19.6%, 4–5 seats</li><li>Centerpartiet (RE): 8.7–9.9%, 2 seats</li><li>Vänsterpartiet (GUE/NGL): 9.0–10.2%, 2 seats</li><li>Kristdemokraterna (EPP): 4.8–5.7%, 1 seats</li><li>Liberalerna (RE): 2.6–3.3%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.6–4.4%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-13-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-13-Sifo.html"/>
+    <title>Opinion Poll by Sifo, 3–13 May 2021</title>
+    <updated>2021-05-17T10:16:39.130665+02:00</updated>
+    <dc:date>2021-05-17T10:16:39.130665+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 23.8–27.1%, 5–6 seats</li><li>Moderata samlingspartiet (EPP): 21.5–24.7%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 17.6–20.6%, 4–5 seats</li><li>Centerpartiet (RE): 10.6–13.1%, 2–3 seats</li><li>Vänsterpartiet (GUE/NGL): 6.0–7.9%, 1–2 seats</li><li>Kristdemokraterna (EPP): 4.4–6.1%, 1 seats</li><li>Liberalerna (RE): 2.6–4.0%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.4–4.9%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-05-Demoskop.html</id>
@@ -1023,5 +1031,5 @@
     <updated>2020-06-01T09:30:18.650161+02:00</updated>
     <dc:date>2020-06-01T09:30:18.650161+02:00</dc:date>
   </entry>
-  <dc:date>2021-05-12T07:37:40.272218+02:00</dc:date>
+  <dc:date>2021-05-17T10:16:39.130665+02:00</dc:date>
 </feed>
