@@ -245,8 +245,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 49% | 50% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 49% | 49% |  |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -287,8 +287,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 64% | 100% | Median |
-| 5 | 36% | 36% |  |
+| 4 | 63% | 100% | Median |
+| 5 | 37% | 37% |  |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 64% | 100% | Median |
-| 5 | 36% | 36% |  |
+| 4 | 63% | 100% | Median |
+| 5 | 37% | 37% |  |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -418,8 +418,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 49% | 50% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 49% | 49% |  |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -428,6 +428,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.34%

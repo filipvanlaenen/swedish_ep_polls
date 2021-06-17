@@ -175,7 +175,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 6 | 6 | 6 | 6 | 5–7 |
+| [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 6 | 6 | 6 | 6 | 6 |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [21–24 May 2021](2021-05-24-Sentio.html) | Sentio | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
