@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 7–17 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-17-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo, 7–17 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-17-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-17-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-17-Sifo.png" length="263946" type="image/png"/>
+      <pubDate>Sat, 19 Jun 2021 15:20:32 +0200</pubDate>
+      <dc:date>2021-06-19T15:20:32.821175+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 3 May–6 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-06-Novus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 3 May–6 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-06-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-06-Novus-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-26-Sentio.png" length="305587" type="image/png"/>
       <pubDate>Fri, 4 Jun 2021 07:25:53 +0200</pubDate>
       <dc:date>2021-06-04T07:25:53.543803+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 April 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos-seating-plan.png" length="419729" type="image/png"/>
-      <pubDate>Mon, 10 May 2021 21:40:29 +0200</pubDate>
-      <dc:date>2021-05-10T21:40:29.935644+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 April 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos-seats.png" length="222195" type="image/png"/>
-      <pubDate>Mon, 10 May 2021 21:40:29 +0200</pubDate>
-      <dc:date>2021-05-10T21:40:29.935644+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 April 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-04-25-Ipsos.png" length="286010" type="image/png"/>
-      <pubDate>Mon, 10 May 2021 21:40:29 +0200</pubDate>
-      <dc:date>2021-05-10T21:40:29.935644+02:00</dc:date>
     </item>
   </channel>
 </rss>
