@@ -11,6 +11,7 @@ Last result: **6.3%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.4% | 8.5–10.6% | 8.2–11.1% | 7.9–11.6% | 7.5–12.5% |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 9.6% | 9.1–10.1% | 9.0–10.2% | 8.9–10.3% | 8.7–10.6% |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 9.6% | 9.1–10.2% | 8.9–10.3% | 8.8–10.5% | 8.6–10.7% |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 8.5% | 7.8–9.2% | 7.7–9.4% | 7.5–9.6% | 7.2–10.0% |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 8.9% | 8.5–9.3% | 8.4–9.4% | 8.3–9.5% | 8.1–9.7% |
@@ -173,6 +174,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 2 | 2 | 2 | 2 | 2 |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 2 | 2 | 2 | 2 | 2 |

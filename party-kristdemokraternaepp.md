@@ -10,7 +10,8 @@ Last result: **5.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.4–5.9% | 4.3–6.1% | 4.1–6.4% | 3.8–6.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.4–5.9% | 4.3–6.1% | 4.1–6.4% | 3.8–6.9% |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 5.1% | 4.8–5.5% | 4.7–5.6% | 4.6–5.7% | 4.4–5.8% |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 5.3% | 4.9–5.7% | 4.8–5.9% | 4.7–6.0% | 4.5–6.2% |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 5.6% | 5.1–6.2% | 4.9–6.4% | 4.8–6.5% | 4.6–6.8% |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 4.5% | 4.2–4.8% | 4.1–4.9% | 4.1–4.9% | 4.0–5.1% |
@@ -154,9 +155,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 16% | 99.9% |  |
+| 3.5–4.5% | 17% | 99.9% |  |
 | 4.5–5.5% | 60% | 83% | Median |
-| 5.5–6.5% | 22% | 24% | Last Result |
+| 5.5–6.5% | 22% | 23% | Last Result |
 | 6.5–7.5% | 1.5% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -171,6 +172,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 1 | 1 | 1 | 1 | 1 |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 1 | 1 | 1 | 1 | 1–2 |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 1 | 1 | 1 | 1 | 0–1 |
