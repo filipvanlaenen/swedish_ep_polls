@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 25–27% <br> 6 | 3–4% <br> 0–1 | 21–23% <br> 5 | 2–3% <br> 0 | 19–21% <br> 4–5 | 9–11% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
+| [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 25–27% <br> 6 | 3–4% <br> 0 | 21–23% <br> 5 | 2–3% <br> 0 | 19–21% <br> 4–5 | 9–11% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 25–27% <br> 6 | 4–5% <br> 0–1 | 21–24% <br> 5–6 | 2–3% <br> 0 | 18–20% <br> 4–5 | 9–10% <br> 2 | 9–10% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 23–26% <br> 5–6 | 3–4% <br> 0–1 | 21–24% <br> 5–6 | 3–4% <br> 0–1 | 18–21% <br> 4–5 | 10–12% <br> 2–3 | 7–10% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 27–29% <br> 6–7 | 3–4% <br> 0–1 | 22–23% <br> 5 | 2–3% <br> 0 | 18–20% <br> 4–5 | 9–10% <br> 2 | 8–9% <br> 2 | 4–5% <br> 1 | N/A <br> N/A |
