@@ -180,7 +180,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
-| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 2 | 2 | 2 | 2 | 2 |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
@@ -327,7 +327,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 91% | 98% | Median |
+| 2 | 92% | 98% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
