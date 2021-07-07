@@ -10,7 +10,10 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 19.6–23.3% | 18.6–23.6% | 17.9–23.9% | 16.8–24.5% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.5–23.1% | 20.0–23.5% | 19.5–23.8% | 18.4–24.6% |
+| [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 22.1% | 21.0–23.3% | 20.7–23.6% | 20.4–23.9% | 19.9–24.5% |
+| [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 21.7% | 20.7–22.8% | 20.4–23.2% | 20.1–23.4% | 19.6–24.0% |
+| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 21.2% | 19.4–23.1% | 18.9–23.7% | 18.5–24.2% | 17.6–25.1% |
 | [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.1% | 19.4–24.8% |
 | [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 22.4% | 21.7–23.1% | 21.6–23.3% | 21.4–23.4% | 21.1–23.8% |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 22.6% | 21.8–23.4% | 21.6–23.6% | 21.4–23.8% | 21.1–24.2% |
@@ -156,17 +159,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% | Last Result |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 1.3% | 99.7% |  |
-| 17.5–18.5% | 3% | 98% |  |
-| 18.5–19.5% | 5% | 95% |  |
-| 19.5–20.5% | 5% | 90% |  |
-| 20.5–21.5% | 9% | 85% |  |
-| 21.5–22.5% | 39% | 76% | Median |
-| 22.5–23.5% | 31% | 37% |  |
-| 23.5–24.5% | 5% | 6% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.5% | 99.9% |  |
+| 18.5–19.5% | 2% | 99.4% |  |
+| 19.5–20.5% | 8% | 97% |  |
+| 20.5–21.5% | 23% | 90% |  |
+| 21.5–22.5% | 40% | 67% | Median |
+| 22.5–23.5% | 23% | 27% |  |
+| 23.5–24.5% | 4% | 4% |  |
 | 24.5–25.5% | 0.5% | 0.5% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -177,7 +181,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5 | 5 | 5 | 4–6 |
+| [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 4–5 | 4–5 |
+| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 5 | 5–6 | 4–6 |
 | [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5–6 |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5–6 | 5–6 |
@@ -323,10 +330,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% | Last Result |
-| 4 | 12% | 99.8% |  |
-| 5 | 83% | 88% | Median |
-| 6 | 4% | 4% |  |
+| 3 | 0% | 100% | Last Result |
+| 4 | 7% | 100% |  |
+| 5 | 91% | 93% | Median |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
 
