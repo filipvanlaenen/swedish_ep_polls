@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seating-plan.png" length="396997" type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
+      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seats.png" length="226941" type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
+      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.png" length="282496" type="image/png"/>
+      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
+      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 23–28 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-28-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 23–28 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-28-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-06-28-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-24-Sentio.png" length="302436" type="image/png"/>
       <pubDate>Fri, 4 Jun 2021 07:53:22 +0200</pubDate>
       <dc:date>2021-06-04T07:53:22.332386+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 11–23 May 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos-seating-plan.png" length="403558" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 07:41:28 +0200</pubDate>
-      <dc:date>2021-06-04T07:41:28.281952+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 11–23 May 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos-seats.png" length="269168" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 07:41:28 +0200</pubDate>
-      <dc:date>2021-06-04T07:41:28.281952+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 11–23 May 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-05-23-Ipsos.png" length="294065" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 07:41:28 +0200</pubDate>
-      <dc:date>2021-06-04T07:41:28.281952+02:00</dc:date>
     </item>
   </channel>
 </rss>
