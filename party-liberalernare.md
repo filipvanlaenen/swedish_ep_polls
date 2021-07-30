@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–4.4% | 1.8–4.9% | 1.7–5.3% | 1.4–6.0% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–4.4% | 1.8–4.9% | 1.6–5.3% | 1.4–6.0% |
+| [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 3.5% | 3.1–3.9% | 3.0–4.1% | 2.9–4.2% | 2.7–4.4% |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 4.3% | 3.5–5.4% | 3.3–5.7% | 3.1–6.0% | 2.8–6.5% |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 3.4% | 2.9–4.0% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% |
@@ -160,9 +161,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 45% | 98.6% |  |
-| 2.5–3.5% | 27% | 53% | Median |
+| 0.5–1.5% | 1.5% | 100% |  |
+| 1.5–2.5% | 51% | 98.5% | Median |
+| 2.5–3.5% | 21% | 47% |  |
 | 3.5–4.5% | 19% | 27% |  |
 | 4.5–5.5% | 7% | 8% |  |
 | 5.5–6.5% | 1.3% | 1.4% |  |
@@ -181,6 +182,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0–1 | 0–1 | 0–1 |

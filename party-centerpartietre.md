@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 6.4–10.7% | 5.8–11.0% | 5.5–11.3% | 4.8–11.8% |
+| N/A | [Poll Average](average.html) | 9.7% | 6.4–10.7% | 5.8–11.0% | 5.5–11.3% | 4.8–11.8% |
+| [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 8.9% | 8.2–9.7% | 8.0–9.9% | 7.8–10.1% | 7.5–10.5% |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 10.4% | 9.7–11.1% | 9.6–11.3% | 9.4–11.5% | 9.1–11.9% |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 6.3% | 5.3–7.6% | 5.1–8.0% | 4.8–8.3% | 4.4–8.9% |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 10.6% | 9.8–11.5% | 9.6–11.8% | 9.4–12.0% | 9.0–12.4% |
@@ -163,10 +164,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
 | 5.5–6.5% | 8% | 97% | Last Result |
-| 6.5–7.5% | 12% | 89% |  |
-| 7.5–8.5% | 15% | 77% |  |
-| 8.5–9.5% | 12% | 62% |  |
-| 9.5–10.5% | 36% | 51% | Median |
+| 6.5–7.5% | 7% | 89% |  |
+| 7.5–8.5% | 7% | 82% |  |
+| 8.5–9.5% | 21% | 75% |  |
+| 9.5–10.5% | 39% | 53% | Median |
 | 10.5–11.5% | 13% | 14% |  |
 | 11.5–12.5% | 1.0% | 1.0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -181,6 +182,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -332,7 +334,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 14% | 100% | Last Result |
-| 2 | 79% | 86% | Median |
+| 2 | 80% | 86% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
