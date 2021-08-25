@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–4.2% | 1.7–4.6% | 1.6–5.0% | 1.4–5.7% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.1–4.2% | 1.9–4.6% | 1.8–5.0% | 1.7–5.7% |
+| [9–18 August 2021](2021-08-18-Sifo.html) | Sifo | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.3–3.2% | 2.1–3.4% |
 | [2–5 August 2021](2021-08-05-Demoskop.html) | Demoskop <br> Aftonbladet | 2.3% | 1.9–2.7% | 1.8–2.9% | 1.8–3.0% | 1.6–3.2% |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% |
 | [19–23 July 2021](2021-07-23-SKOP.html) | SKOP | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
@@ -163,10 +164,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 53% | 98% | Median |
-| 2.5–3.5% | 27% | 45% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 41% | 99.8% |  |
+| 2.5–3.5% | 40% | 59% | Median |
 | 3.5–4.5% | 13% | 19% |  |
 | 4.5–5.5% | 5% | 6% |  |
 | 5.5–6.5% | 0.7% | 0.7% |  |
@@ -185,6 +185,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–18 August 2021](2021-08-18-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [2–5 August 2021](2021-08-05-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [19–23 July 2021](2021-07-23-SKOP.html) | SKOP | 0 | 0 | 0 | 0–1 | 0–1 |
