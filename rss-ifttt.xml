@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 6–16 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-16-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo, 6–16 September 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-16-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-16-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-16-Sifo.png" length="266156" type="image/png"/>
+      <pubDate>Sat, 18 Sep 2021 18:30:38 +0200</pubDate>
+      <dc:date>2021-09-18T18:30:38.110128+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 31 August–8 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-08-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 31 August–8 September 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-08-Demoskop-seating-plan.png"/>]]></description>
@@ -196,54 +204,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-19-Sentio.png" length="312245" type="image/png"/>
       <pubDate>Fri, 6 Aug 2021 13:57:51 +0200</pubDate>
       <dc:date>2021-08-06T13:57:51.434868+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seating-plan.png" length="396997" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
-      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop-seats.png" length="226941" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
-      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-07-Demoskop.png" length="282496" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 21:38:33 +0200</pubDate>
-      <dc:date>2021-07-10T21:38:33.797393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 2–5 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio-seating-plan.png" length="425112" type="image/png"/>
-      <pubDate>Tue, 13 Jul 2021 12:16:26 +0200</pubDate>
-      <dc:date>2021-07-13T12:16:26.28238+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 2–5 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio-seats.png" length="264595" type="image/png"/>
-      <pubDate>Tue, 13 Jul 2021 12:16:26 +0200</pubDate>
-      <dc:date>2021-07-13T12:16:26.28238+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sentio for Nyheter Idag, 2–5 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-07-05-Sentio.png" length="311691" type="image/png"/>
-      <pubDate>Tue, 13 Jul 2021 12:16:26 +0200</pubDate>
-      <dc:date>2021-07-13T12:16:26.28238+02:00</dc:date>
     </item>
   </channel>
 </rss>
