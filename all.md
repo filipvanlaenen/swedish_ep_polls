@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 25–27% <br> 6 | 4–5% <br> 0–1 | 21–23% <br> 5 | 3% <br> 0 | 19–21% <br> 4–5 | 8–10% <br> 2 | 10–11% <br> 2–3 | 4–5% <br> 1 | N/A <br> N/A |
-| [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 23–29% <br> 5–7 | 2–5% <br> 0–1 | 19–24% <br> 4–5 | 2–4% <br> 0 | 16–21% <br> 4–5 | 8–12% <br> 2–3 | 11–15% <br> 2–3 | 4–6% <br> 0–1 | N/A <br> N/A |
 | [31 August–8 September 2021](2021-09-08-Demoskop.html) | Demoskop <br> Aftonbladet | 25–29% <br> 5–7 | 3–4% <br> 0–1 | 20–24% <br> 5 | 2–3% <br> 0 | 19–22% <br> 4–5 | 9–11% <br> 2 | 7–9% <br> 2 | 5–7% <br> 1 | N/A <br> N/A |
 | [2–29 August 2021](2021-08-29-Novus.html) | Novus <br> SVT | 25–27% <br> 5–6 | 4–5% <br> 0–1 | 21–23% <br> 4–5 | 2–3% <br> 0 | 18–21% <br> 4–5 | 8–10% <br> 2 | 10–12% <br> 2–3 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [10–23 August 2021](2021-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23–28% <br> 5–6 | 4–6% <br> 1 | 19–23% <br> 4–5 | 2–4% <br> 0 | 18–22% <br> 4–5 | 7–10% <br> 2 | 10–13% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
