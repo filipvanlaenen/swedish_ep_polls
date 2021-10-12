@@ -10,7 +10,9 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.5–21.5% | 17.8–22.0% | 17.2–22.4% | 16.3–23.2% |
+| N/A | [Poll Average](average.html) | 19.8% | 18.4–21.6% | 17.8–22.1% | 17.2–22.5% | 16.3–23.2% |
+| [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 20.9% | 19.9–22.0% | 19.6–22.3% | 19.4–22.6% | 18.9–23.1% |
+| [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 19.4% | 18.7–20.1% | 18.5–20.4% | 18.3–20.5% | 18.0–20.9% |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 19.6% | 19.0–20.3% | 18.8–20.4% | 18.7–20.6% | 18.4–20.9% |
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 18.5% | 17.1–20.2% | 16.6–20.6% | 16.3–21.0% | 15.6–21.8% |
@@ -178,11 +180,11 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 0.8% | 99.9% |  |
 | 16.5–17.5% | 3% | 99.2% |  |
-| 17.5–18.5% | 7% | 96% |  |
-| 18.5–19.5% | 26% | 89% |  |
-| 19.5–20.5% | 35% | 63% | Median |
-| 20.5–21.5% | 18% | 28% |  |
-| 21.5–22.5% | 8% | 10% |  |
+| 17.5–18.5% | 8% | 96% |  |
+| 18.5–19.5% | 28% | 89% |  |
+| 19.5–20.5% | 31% | 61% | Median |
+| 20.5–21.5% | 19% | 30% |  |
+| 21.5–22.5% | 9% | 11% |  |
 | 22.5–23.5% | 2% | 2% |  |
 | 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
@@ -197,6 +199,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5 | 5 | 4–5 | 4–5 |
+| [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -360,9 +364,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0.2% | 100% |  |
-| 4 | 61% | 99.8% | Median |
-| 5 | 39% | 39% |  |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 54% | 99.8% | Median |
+| 5 | 46% | 46% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
