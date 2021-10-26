@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.png" length="295363" type="image/png"/>
+      <pubDate>Tue, 26 Oct 2021 18:00:36 +0200</pubDate>
+      <dc:date>2021-10-26T18:00:36.156688+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo, 4–14 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-14-Sifo.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sifo, 4–14 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-14-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-14-Sifo-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.png" length="297299" type="image/png"/>
       <pubDate>Fri, 27 Aug 2021 21:21:12 +0200</pubDate>
       <dc:date>2021-08-27T21:21:12.346428+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 9–18 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sifo, 9–18 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo-seating-plan.png" length="416263" type="image/png"/>
-      <pubDate>Sun, 22 Aug 2021 13:55:07 +0200</pubDate>
-      <dc:date>2021-08-22T13:55:07.654383+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 9–18 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sifo, 9–18 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo-seats.png" length="252560" type="image/png"/>
-      <pubDate>Sun, 22 Aug 2021 13:55:07 +0200</pubDate>
-      <dc:date>2021-08-22T13:55:07.654383+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 9–18 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo, 9–18 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-18-Sifo.png" length="271798" type="image/png"/>
-      <pubDate>Sun, 22 Aug 2021 13:55:07 +0200</pubDate>
-      <dc:date>2021-08-22T13:55:07.654383+02:00</dc:date>
     </item>
   </channel>
 </rss>
