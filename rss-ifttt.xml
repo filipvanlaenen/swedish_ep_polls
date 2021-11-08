@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Novus for SVT, 4–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-31-Novus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Novus for SVT, 4–31 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-31-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-31-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-31-Novus.png" length="278403" type="image/png"/>
+      <pubDate>Mon, 8 Nov 2021 07:45:33 +0100</pubDate>
+      <dc:date>2021-11-08T07:45:33.095731+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos-seating-plan.png"/>]]></description>
@@ -28,6 +36,30 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.png" length="295363" type="image/png"/>
       <pubDate>Tue, 26 Oct 2021 20:21:50 +0200</pubDate>
       <dc:date>2021-10-26T20:21:50.895762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Skop, 15–17 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Skop, 15–17 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop-seating-plan.png" length="401604" type="image/png"/>
+      <pubDate>Mon, 8 Nov 2021 18:09:02 +0100</pubDate>
+      <dc:date>2021-11-08T18:09:02.910701+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Skop, 15–17 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Skop, 15–17 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop-seats.png" length="298882" type="image/png"/>
+      <pubDate>Mon, 8 Nov 2021 18:09:02 +0100</pubDate>
+      <dc:date>2021-11-08T18:09:02.910701+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Skop, 15–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Skop, 15–17 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-17-Skop.png" length="302605" type="image/png"/>
+      <pubDate>Mon, 8 Nov 2021 18:09:02 +0100</pubDate>
+      <dc:date>2021-11-08T18:09:02.910701+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 4–14 October 2021 – Seating Plan Projection</title>
@@ -196,54 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-09-08-Demoskop.png" length="289015" type="image/png"/>
       <pubDate>Sun, 12 Sep 2021 09:06:59 +0200</pubDate>
       <dc:date>2021-09-12T09:06:59.679567+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus-seating-plan.png" length="423465" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 14:29:29 +0200</pubDate>
-      <dc:date>2021-09-05T14:29:29.913818+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus-seats.png" length="274685" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 14:29:29 +0200</pubDate>
-      <dc:date>2021-09-05T14:29:29.913818+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-29-Novus.png" length="271889" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 14:29:29 +0200</pubDate>
-      <dc:date>2021-09-05T14:29:29.913818+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos-seating-plan.png" length="424010" type="image/png"/>
-      <pubDate>Fri, 27 Aug 2021 21:21:12 +0200</pubDate>
-      <dc:date>2021-08-27T21:21:12.346428+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos-seats.png" length="272768" type="image/png"/>
-      <pubDate>Fri, 27 Aug 2021 21:21:12 +0200</pubDate>
-      <dc:date>2021-08-27T21:21:12.346428+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-08-23-Ipsos.png" length="297299" type="image/png"/>
-      <pubDate>Fri, 27 Aug 2021 21:21:12 +0200</pubDate>
-      <dc:date>2021-08-27T21:21:12.346428+02:00</dc:date>
     </item>
   </channel>
 </rss>
