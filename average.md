@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 23–28% <br> 5–6 | 3–6% <br> 0–1 | 19–24% <br> 4–6 | 2–5% <br> 0–1 | 18–22% <br> 4–5 | 7–11% <br> 2 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | N/A <br> N/A |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 24–27% <br> 5–6 | 4–6% <br> 1 | 22–24% <br> 5–6 | 2–3% <br> 0 | 18–20% <br> 4–5 | 8–9% <br> 2 | 10–12% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 24–27% <br> 5–6 | 4–6% <br> 1 | 22–24% <br> 5 | 2–3% <br> 0 | 18–20% <br> 4–5 | 8–9% <br> 2 | 10–12% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 5–6 | 4–6% <br> 1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 7–9% <br> 1–2 | 10–13% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [15–17 October 2021](2021-10-17-Skop.html) | Skop | 22–27% <br> 5–6 | 3–6% <br> 0–1 | 20–25% <br> 4–6 | 2–4% <br> 0–1 | 18–22% <br> 4–5 | 8–11% <br> 2–3 | 10–14% <br> 2–3 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 25–28% <br> 6 | 3–4% <br> 0–1 | 21–23% <br> 5 | 2–3% <br> 0 | 19–21% <br> 4–5 | 7–9% <br> 2 | 10–11% <br> 2–3 | 4–6% <br> 1 | N/A <br> N/A |
@@ -233,8 +233,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 18% | 99.9% | Last Result |
-| 6 | 81% | 82% | Median |
+| 5 | 17% | 99.9% | Last Result |
+| 6 | 82% | 83% | Median |
 | 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 47% | 100% |  |
-| 5 | 53% | 53% | Median |
+| 4 | 46% | 100% |  |
+| 5 | 54% | 54% | Median |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -361,8 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 18% | 99.9% |  |
-| 6 | 81% | 82% | Last Result, Median |
+| 5 | 17% | 99.9% |  |
+| 6 | 82% | 83% | Last Result, Median |
 | 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -373,9 +373,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% | Last Result |
-| 5 | 31% | 95% |  |
-| 6 | 64% | 64% | Median |
-| 7 | 0.5% | 0.5% |  |
+| 5 | 32% | 95% |  |
+| 6 | 63% | 64% | Median |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -386,8 +386,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 47% | 100% |  |
-| 5 | 53% | 53% | Median |
+| 4 | 46% | 100% |  |
+| 5 | 54% | 54% | Median |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -429,6 +429,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.36%
