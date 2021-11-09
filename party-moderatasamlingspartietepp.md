@@ -175,7 +175,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5–6 | 5–6 |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5–6 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–17 October 2021](2021-10-17-Skop.html) | Skop | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 5 | 5 | 5 | 5 | 5 |
