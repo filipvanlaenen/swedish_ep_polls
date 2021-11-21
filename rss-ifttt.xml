@@ -77,5 +77,29 @@
       <pubDate>Sun, 21 Nov 2021 12:52:50 +0100</pubDate>
       <dc:date>2021-11-21T12:52:50.101955+01:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos-seating-plan.png" length="415019" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 20:21:58 +0100</pubDate>
+      <dc:date>2021-11-21T20:21:58.880552+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos-seats.png" length="282260" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 20:21:58 +0100</pubDate>
+      <dc:date>2021-11-21T20:21:58.880552+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2021-10-25-Ipsos.png" length="295347" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 20:21:58 +0100</pubDate>
+      <dc:date>2021-11-21T20:21:58.880552+01:00</dc:date>
+    </item>
   </channel>
 </rss>
