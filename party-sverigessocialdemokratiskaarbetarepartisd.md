@@ -10,10 +10,12 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.6% | 24.7–26.5% | 24.4–26.8% | 24.2–27.0% | 23.8–27.5% |
+| N/A | [Poll Average](average.html) | 27.1% | 25.2–29.3% | 24.8–29.6% | 24.6–29.8% | 24.1–30.2% |
+| [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 28.9% | 28.2–29.7% | 28.0–29.9% | 27.8–30.1% | 27.4–30.5% |
+| [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 27.0% | 25.8–28.2% | 25.5–28.5% | 25.2–28.8% | 24.7–29.4% |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 25.6% | 24.7–26.6% | 24.4–26.8% | 24.2–27.1% | 23.8–27.5% |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | N/A | N/A | N/A | N/A |
-| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 24.3% | N/A | N/A | N/A | N/A |
+| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 24.3% | N/A | N/A | N/A | N/A |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 26.6% | N/A | N/A | N/A | N/A |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 26.7% | N/A | N/A | N/A | N/A |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 26.0% | N/A | N/A | N/A | N/A |
@@ -150,14 +152,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 7% | 99.8% | Last Result |
-| 24.5–25.5% | 39% | 93% |  |
-| 25.5–26.5% | 44% | 54% | Median |
-| 26.5–27.5% | 9% | 10% |  |
-| 27.5–28.5% | 0.4% | 0.4% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 2% | 99.9% | Last Result |
+| 24.5–25.5% | 15% | 98% |  |
+| 25.5–26.5% | 23% | 83% |  |
+| 26.5–27.5% | 17% | 60% | Median |
+| 27.5–28.5% | 16% | 42% |  |
+| 28.5–29.5% | 21% | 26% |  |
+| 29.5–30.5% | 5% | 5% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,10 +172,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
-| [15–17 October 2021](2021-10-17-Skop.html) | Skop |  |  |  |  |  |
+| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP |  |  |  |  |  |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo |  |  |  |  |  |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT |  |  |  |  |  |
@@ -310,8 +316,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 21% | 100% | Last Result |
-| 6 | 79% | 79% | Median |
-| 7 | 0% | 0% |  |
+| 5 | 7% | 100% | Last Result |
+| 6 | 76% | 93% | Median |
+| 7 | 17% | 17% |  |
+| 8 | 0% | 0% |  |
 
 
