@@ -10,12 +10,12 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 19.7–24.0% | 19.2–24.4% | 18.7–24.8% | 18.0–25.5% |
+| N/A | [Poll Average](average.html) | 22.0% | 19.9–24.0% | 19.3–24.4% | 18.8–24.8% | 18.1–25.5% |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 21.0% | 20.3–21.7% | 20.1–21.9% | 20.0–22.1% | 19.6–22.4% |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 23.6% | 22.5–24.8% | 22.2–25.1% | 21.9–25.4% | 21.4–25.9% |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 22.9% | 22.0–23.8% | 21.8–24.1% | 21.6–24.3% | 21.1–24.7% |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
-| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 22.1% | N/A | N/A | N/A | N/A |
+| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 22.1% | 20.5–23.8% | 20.0–24.3% | 19.6–24.7% | 18.9–25.6% |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 21.9% | N/A | N/A | N/A | N/A |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 22.2% | N/A | N/A | N/A | N/A |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 22.6% | N/A | N/A | N/A | N/A |
@@ -156,14 +156,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 14% | 92% |  |
-| 20.5–21.5% | 23% | 78% |  |
-| 21.5–22.5% | 15% | 55% | Median |
-| 22.5–23.5% | 22% | 40% |  |
-| 23.5–24.5% | 14% | 18% |  |
-| 24.5–25.5% | 4% | 4% |  |
+| 17.5–18.5% | 1.4% | 99.9% |  |
+| 18.5–19.5% | 6% | 98.5% |  |
+| 19.5–20.5% | 13% | 93% |  |
+| 20.5–21.5% | 23% | 80% |  |
+| 21.5–22.5% | 18% | 57% | Median |
+| 22.5–23.5% | 22% | 39% |  |
+| 23.5–24.5% | 13% | 17% |  |
+| 24.5–25.5% | 3% | 4% |  |
 | 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -181,7 +181,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 5 | 5 | 5 | 5 | 5–6 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP |  |  |  |  |  |
+| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo |  |  |  |  |  |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT |  |  |  |  |  |
@@ -321,8 +321,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 16% | 100% |  |
-| 5 | 72% | 84% | Median |
+| 4 | 15% | 100% |  |
+| 5 | 74% | 85% | Median |
 | 6 | 11% | 11% |  |
 | 7 | 0% | 0% |  |
 
