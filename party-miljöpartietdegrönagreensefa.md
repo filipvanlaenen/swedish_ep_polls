@@ -10,7 +10,8 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 3.0–4.2% | 2.9–4.4% | 2.8–4.6% | 2.6–5.1% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.1% |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 2.8% | 2.4–3.3% | 2.3–3.4% | 2.2–3.5% | 2.0–3.8% |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.7–4.3% | 2.5–4.6% |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.2% | 2.9–3.5% | 2.9–3.6% | 2.8–3.7% | 2.7–3.8% |
@@ -160,9 +161,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 48% | 99.7% |  |
-| 3.5–4.5% | 48% | 51% | Median |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 50% | 96% | Median |
+| 3.5–4.5% | 43% | 46% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -185,6 +186,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |

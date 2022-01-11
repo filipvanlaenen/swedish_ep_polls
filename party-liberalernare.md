@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.2–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.1% |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 3.2% | 2.8–3.7% | 2.7–3.9% | 2.6–4.0% | 2.4–4.2% |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–2.9% | 1.5–3.2% |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 2.8% | 2.5–3.1% | 2.5–3.2% | 2.4–3.2% | 2.3–3.4% |
@@ -160,10 +161,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 51% | 99.1% |  |
-| 2.5–3.5% | 46% | 48% | Median |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 33% | 99.8% |  |
+| 2.5–3.5% | 61% | 67% | Median |
+| 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -180,7 +181,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–1 |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–1 |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -331,8 +333,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.3% | 100% | Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% | Last Result |
 
 
