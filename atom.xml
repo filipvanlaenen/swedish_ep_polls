@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-05-09T19:17:50.569971+02:00</updated>
+  <updated>2022-05-19T22:04:56.545526+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 31.5–33.7%, 7–8 seats</li><li>Moderata samlingspartiet (EPP): 19.8–21.8%, 5 seats</li><li>Sverigedemokraterna (ECR): 17.2–19.0%, 4 seats</li><li>Centerpartiet (RE): 5.7–6.9%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.6–8.9%, 2 seats</li><li>Kristdemokraterna (EPP): 5.1–6.2%, 1 seats</li><li>Liberalerna (RE): 3.2–4.1%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.3–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-12-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-12-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 2–12 May 2022</title>
+    <updated>2022-05-19T21:59:09.578734+02:00</updated>
+    <dc:date>2022-05-19T21:59:09.578734+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 25.6–29.9%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 19.4–23.3%, 4–6 seats</li><li>Sverigedemokraterna (ECR): 19.1–23.0%, 4–5 seats</li><li>Centerpartiet (RE): 4.9–7.1%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.0–9.6%, 2 seats</li><li>Kristdemokraterna (EPP): 4.9–7.2%, 1–2 seats</li><li>Liberalerna (RE): 2.7–4.5%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.9–4.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html"/>
+    <title>Opinion Poll by Infostat, 4–10 May 2022</title>
+    <updated>2022-05-19T22:04:56.545526+02:00</updated>
+    <dc:date>2022-05-19T22:04:56.545526+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 29.1–33.1%, 6–7 seats</li><li>Moderata samlingspartiet (EPP): 21.1–24.6%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 15.3–18.5%, 3–4 seats</li><li>Centerpartiet (RE): 6.8–9.1%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.2–8.4%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.9–8.0%, 1–2 seats</li><li>Liberalerna (RE): 2.2–3.7%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.3–3.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-04-Demoskop.html</id>
@@ -1207,5 +1223,5 @@
     <updated>2020-06-01T09:30:18+02:00</updated>
     <dc:date>2020-06-01T09:30:18+02:00</dc:date>
   </entry>
-  <dc:date>2022-05-09T19:17:50.569971+02:00</dc:date>
+  <dc:date>2022-05-19T22:04:56.545526+02:00</dc:date>
 </feed>
