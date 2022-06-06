@@ -11,6 +11,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.6% | 27.7–33.0% | 27.0–33.4% | 26.5–33.7% | 25.6–34.4% |
+| [28 April–25 May 2022](2022-05-25-SCB.html) | SCB | 33.3% | N/A | N/A | N/A | N/A |
 | [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 32.0% | 30.5–33.5% | 30.1–34.0% | 29.7–34.4% | 29.0–35.1% |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 32.6% | 31.9–33.3% | 31.7–33.5% | 31.5–33.7% | 31.2–34.1% |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 27.7% | 26.3–29.1% | 25.9–29.5% | 25.6–29.9% | 25.0–30.6% |
@@ -205,6 +206,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [28 April–25 May 2022](2022-05-25-SCB.html) | SCB |  |  |  |  |  |
 | [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
