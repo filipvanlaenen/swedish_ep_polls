@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 | N/A | Poll Average | 26–34% <br> 6–8 | 2–4% <br> 0–1 | 20–24% <br> 4–6 | 2–4% <br> 0–1 | 16–22% <br> 3–5 | 4–9% <br> 1–2 | 7–10% <br> 1–2 | 4–8% <br> 1–2 | N/A <br> N/A |
+| [28 April–25 May 2022](2022-05-25-SCB.html) | SCB | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30–34% <br> 7–8 | 2–4% <br> 0 | 20–24% <br> 5–6 | 2–4% <br> 0 | 16–20% <br> 4–5 | 4–6% <br> 1 | 8–11% <br> 2–3 | 4–6% <br> 0–1 | N/A <br> N/A |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 31–34% <br> 7–8 | 2–3% <br> 0 | 20–22% <br> 5 | 3–4% <br> 0–1 | 17–19% <br> 4 | 6–7% <br> 1–2 | 8–9% <br> 2 | 5–6% <br> 1 | N/A <br> N/A |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 26–30% <br> 6–7 | 3–5% <br> 0–1 | 19–23% <br> 4–6 | 3–4% <br> 0–1 | 19–23% <br> 4–5 | 5–7% <br> 1–2 | 7–10% <br> 2 | 5–7% <br> 1–2 | N/A <br> N/A |
@@ -430,7 +431,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Number of polls included in this average:** 6
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.04%
