@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.0% | 28.0–33.5% | 27.1–33.8% | 26.6–34.0% | 25.7–34.5% |
+| N/A | [Poll Average](average.html) | 31.8% | 27.7–33.5% | 27.0–33.8% | 26.5–34.0% | 25.6–34.5% |
+| [9 May–5 June 2022](2022-06-05-Novus.html) | Novus <br> SVT | 30.2% | 29.3–31.2% | 29.0–31.5% | 28.8–31.7% | 28.3–32.2% |
 | [28 April–25 May 2022](2022-05-25-SCB.html) | SCB | 33.3% | 32.7–34.0% | 32.5–34.2% | 32.4–34.3% | 32.1–34.6% |
 | [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 32.0% | 30.5–33.5% | 30.1–34.0% | 29.7–34.4% | 29.0–35.1% |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 32.6% | 31.9–33.3% | 31.7–33.5% | 31.5–33.7% | 31.2–34.1% |
@@ -183,17 +184,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% | Last Result |
-| 24.5–25.5% | 0.3% | 100% |  |
+| 24.5–25.5% | 0.4% | 100% |  |
 | 25.5–26.5% | 2% | 99.6% |  |
-| 26.5–27.5% | 5% | 98% |  |
-| 27.5–28.5% | 6% | 93% |  |
-| 28.5–29.5% | 4% | 87% |  |
-| 29.5–30.5% | 7% | 83% |  |
-| 30.5–31.5% | 16% | 76% |  |
-| 31.5–32.5% | 25% | 59% | Median |
-| 32.5–33.5% | 26% | 34% |  |
-| 33.5–34.5% | 8% | 8% |  |
-| 34.5–35.5% | 0.4% | 0.4% |  |
+| 26.5–27.5% | 6% | 97% |  |
+| 27.5–28.5% | 7% | 91% |  |
+| 28.5–29.5% | 7% | 84% |  |
+| 29.5–30.5% | 12% | 77% |  |
+| 30.5–31.5% | 11% | 65% |  |
+| 31.5–32.5% | 17% | 53% | Median |
+| 32.5–33.5% | 26% | 36% |  |
+| 33.5–34.5% | 9% | 10% |  |
+| 34.5–35.5% | 0.4% | 0.5% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -206,6 +207,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [9 May–5 June 2022](2022-06-05-Novus.html) | Novus <br> SVT | 7 | 7 | 7–8 | 7–8 | 6–8 |
 | [28 April–25 May 2022](2022-05-25-SCB.html) | SCB | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -381,8 +383,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% | Last Result |
 | 6 | 13% | 99.9% |  |
-| 7 | 54% | 87% | Median |
-| 8 | 33% | 33% |  |
+| 7 | 49% | 87% | Median |
+| 8 | 38% | 38% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
