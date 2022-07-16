@@ -11,7 +11,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.2% | 29.9–33.9% | 29.4–34.1% | 29.0–34.3% | 28.3–34.7% |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 30.3% | 29.1–31.6% | 28.7–32.0% | 28.4–32.3% | 27.8–32.9% |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 30.3% | 29.1–31.6% | 28.7–32.0% | 28.4–32.3% | 27.8–32.9% |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 31.7% | 30.6–32.9% | 30.3–33.2% | 30.0–33.5% | 29.5–34.0% |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 31.0% | 29.6–32.5% | 29.2–32.9% | 28.8–33.3% | 28.1–34.0% |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 33.7% | 33.0–34.3% | 32.8–34.5% | 32.7–34.7% | 32.4–35.0% |
@@ -212,7 +212,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 7 | 7 | 7–8 | 7–8 | 6–8 |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
