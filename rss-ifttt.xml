@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by SKOP, 8–11 July 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SKOP, 8–11 July 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP-seating-plan.png" length="388762" type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:19:28 +0200</pubDate>
+      <dc:date>2022-07-26T21:19:28.388024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8–11 July 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SKOP, 8–11 July 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP-seats.png" length="232919" type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:19:28 +0200</pubDate>
+      <dc:date>2022-07-26T21:19:28.388024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8–11 July 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SKOP, 8–11 July 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-07-11-SKOP.png" length="289147" type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:19:28 +0200</pubDate>
+      <dc:date>2022-07-26T21:19:28.388024+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 22–30 June 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-06-30-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 22–30 June 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-06-30-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-06-30-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-12-Sifo.png" length="262986" type="image/png"/>
       <pubDate>Thu, 19 May 2022 21:59:09 +0200</pubDate>
       <dc:date>2022-05-19T21:59:09.578734+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Infostat, 4–10 May 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Infostat, 4–10 May 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat-seating-plan.png" length="374225" type="image/png"/>
-      <pubDate>Thu, 19 May 2022 22:04:56 +0200</pubDate>
-      <dc:date>2022-05-19T22:04:56.545526+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Infostat, 4–10 May 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Infostat, 4–10 May 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat-seats.png" length="234951" type="image/png"/>
-      <pubDate>Thu, 19 May 2022 22:04:56 +0200</pubDate>
-      <dc:date>2022-05-19T22:04:56.545526+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Infostat, 4–10 May 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Infostat, 4–10 May 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-05-10-Infostat.png" length="281864" type="image/png"/>
-      <pubDate>Thu, 19 May 2022 22:04:56 +0200</pubDate>
-      <dc:date>2022-05-19T22:04:56.545526+02:00</dc:date>
     </item>
   </channel>
 </rss>
