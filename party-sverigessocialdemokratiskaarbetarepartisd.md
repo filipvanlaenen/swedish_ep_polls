@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.7% | 28.6–32.5% | 28.0–33.1% | 27.6–33.5% | 26.9–34.5% |
+| N/A | [Poll Average](average.html) | 30.7% | 28.6–32.5% | 28.0–33.0% | 27.6–33.5% | 26.9–34.5% |
+| [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 31.1% | 29.8–32.5% | 29.4–32.9% | 29.1–33.2% | 28.4–33.9% |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 31.2% | 29.8–32.6% | 29.4–33.0% | 29.1–33.4% | 28.4–34.1% |
 | [1–7 August 2022](2022-08-07-Novus.html) | Novus <br> SVT | 30.6% | 29.2–32.0% | 28.9–32.4% | 28.5–32.7% | 27.9–33.4% |
 | [24 July–2 August 2022](2022-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 28.7% | 27.5–30.0% | 27.2–30.3% | 26.9–30.6% | 26.3–31.2% |
@@ -200,8 +201,8 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 14% | 90% |  |
 | 29.5–30.5% | 22% | 76% |  |
 | 30.5–31.5% | 26% | 54% | Median |
-| 31.5–32.5% | 18% | 28% |  |
-| 32.5–33.5% | 7% | 10% |  |
+| 31.5–32.5% | 18% | 27% |  |
+| 32.5–33.5% | 7% | 9% |  |
 | 33.5–34.5% | 2% | 2% |  |
 | 34.5–35.5% | 0.4% | 0.5% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
@@ -217,6 +218,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [1–7 August 2022](2022-08-07-Novus.html) | Novus <br> SVT | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24 July–2 August 2022](2022-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 6 | 6 | 6–7 | 6–7 | 5–7 |
