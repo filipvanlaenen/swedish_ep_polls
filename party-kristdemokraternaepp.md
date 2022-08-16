@@ -10,7 +10,8 @@ Last result: **5.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.3% | 5.1–7.6% | 4.9–7.8% | 4.5–8.2% |
+| N/A | [Poll Average](average.html) | 6.3% | 5.4–7.2% | 5.1–7.5% | 4.9–7.7% | 4.5–8.1% |
+| [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.5% | 5.8–7.3% | 5.6–7.5% | 5.5–7.7% | 5.2–8.0% |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.4% |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.7–7.9% | 5.4–8.3% |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.0–7.3% | 4.7–7.7% |
@@ -196,10 +197,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.7% | 100% |  |
-| 4.5–5.5% | 12% | 99.3% |  |
-| 5.5–6.5% | 44% | 87% | Last Result, Median |
-| 6.5–7.5% | 37% | 43% |  |
-| 7.5–8.5% | 6% | 6% |  |
+| 4.5–5.5% | 13% | 99.3% |  |
+| 5.5–6.5% | 48% | 86% | Last Result, Median |
+| 6.5–7.5% | 34% | 38% |  |
+| 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -213,6 +214,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -399,8 +401,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 81% | 99.9% | Last Result, Median |
-| 2 | 19% | 19% |  |
+| 1 | 79% | 99.9% | Last Result, Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
