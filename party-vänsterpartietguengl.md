@@ -10,12 +10,13 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 7.4–10.6% | 7.0–11.1% | 6.8–11.5% | 6.4–12.3% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.3–10.6% | 7.0–11.1% | 6.7–11.5% | 6.3–12.3% |
+| [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.4% | 7.7–9.2% | 7.4–9.5% | 7.3–9.7% | 6.9–10.1% |
 | [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 7.4% | 6.7–8.2% | 6.5–8.4% | 6.4–8.6% | 6.1–8.9% |
 | [13–15 August 2022](2022-08-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.5% | 6.8–8.3% | 6.6–8.6% | 6.4–8.7% | 6.1–9.2% |
-| [8–15 August 2022](2022-08-15-Novus.html) | Novus <br> SVT | 9.7% | 8.9–10.6% | 8.7–10.8% | 8.5–11.0% | 8.1–11.5% |
 | [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
+| [8–14 August 2022](2022-08-14-Novus.html) | Novus <br> SVT | 9.7% | 8.9–10.6% | 8.7–10.8% | 8.5–11.0% | 8.1–11.5% |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.7% | 7.0–8.6% | 6.8–8.8% | 6.6–9.0% | 6.3–9.4% |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.6% | 6.8–8.4% | 6.6–8.7% | 6.4–8.9% | 6.1–9.3% |
@@ -200,10 +201,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.1% | 100% | Last Result |
-| 6.5–7.5% | 13% | 98.9% |  |
-| 7.5–8.5% | 24% | 86% |  |
-| 8.5–9.5% | 30% | 63% | Median |
+| 5.5–6.5% | 1.2% | 100% | Last Result |
+| 6.5–7.5% | 15% | 98.8% |  |
+| 7.5–8.5% | 25% | 84% |  |
+| 8.5–9.5% | 26% | 58% | Median |
 | 9.5–10.5% | 22% | 33% |  |
 | 10.5–11.5% | 9% | 11% |  |
 | 11.5–12.5% | 2% | 2% |  |
@@ -220,11 +221,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 1–2 |
 | [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 August 2022](2022-08-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [8–15 August 2022](2022-08-15-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2–3 |
 | [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 1–2 |
+| [8–14 August 2022](2022-08-14-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 2–3 |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 1–2 | 1–2 |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 1–2 | 1–2 |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 1–2 | 1–2 | 1–2 |
