@@ -11,6 +11,7 @@ Last result: **9.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 4.6–6.5% | 4.4–6.9% | 4.2–7.2% | 3.9–7.8% |
+| [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.5% | 4.9–6.3% | 4.7–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.5% | 4.9–6.3% | 4.7–6.5% | 4.5–6.7% | 4.2–7.1% |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.6% | 4.9–6.4% | 4.7–6.6% | 4.6–6.8% | 4.3–7.2% |
 | [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.9% | 5.3–6.6% | 5.1–6.8% | 5.0–7.0% | 4.7–7.3% |
@@ -203,8 +204,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 8% | 100% |  |
-| 4.5–5.5% | 45% | 92% | Median |
+| 3.5–4.5% | 9% | 100% |  |
+| 4.5–5.5% | 45% | 91% | Median |
 | 5.5–6.5% | 37% | 46% |  |
 | 6.5–7.5% | 8% | 9% |  |
 | 7.5–8.5% | 0.9% | 1.0% |  |
@@ -221,6 +222,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1–2 | 1–2 |
