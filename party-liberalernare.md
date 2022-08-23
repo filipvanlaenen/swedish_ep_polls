@@ -10,7 +10,13 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.6–6.5% | 4.4–6.9% | 4.2–7.2% | 3.9–7.8% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.1–6.5% | 3.9–6.9% | 3.7–7.3% | 3.4–7.9% |
+| [20–22 August 2022](2022-08-22-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.4% | 4.8–6.1% | 4.6–6.2% | 4.5–6.4% | 4.2–6.8% |
+| [20–22 August 2022](2022-08-22-Novus.html) | Novus <br> SVT | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
+| [19–21 August 2022](2022-08-21-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.8% | N/A | N/A | N/A | N/A |
+| [18–21 August 2022](2022-08-21-SKOP.html) | SKOP | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–7.9% | 4.6–8.5% |
+| [19–21 August 2022](2022-08-21-Novus.html) | Novus <br> SVT | 4.4% | N/A | N/A | N/A | N/A |
+| [16–21 August 2022](2022-08-21-Demoskop.html) | Demoskop <br> Aftonbladet | 4.2% | 3.7–4.8% | 3.5–5.0% | 3.4–5.1% | 3.2–5.4% |
 | [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.5% | 4.9–6.3% | 4.7–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.5% | 4.9–6.3% | 4.7–6.5% | 4.5–6.7% | 4.2–7.1% |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.6% | 4.9–6.4% | 4.7–6.6% | 4.6–6.8% | 4.3–7.2% |
@@ -203,12 +209,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 9% | 100% |  |
-| 4.5–5.5% | 45% | 91% | Median |
-| 5.5–6.5% | 37% | 46% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 0.9% | 1.0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 1.1% | 100% |  |
+| 3.5–4.5% | 23% | 98.9% |  |
+| 4.5–5.5% | 43% | 76% | Median |
+| 5.5–6.5% | 24% | 32% |  |
+| 6.5–7.5% | 7% | 9% |  |
+| 7.5–8.5% | 1.3% | 1.3% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
 
@@ -221,7 +228,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [20–22 August 2022](2022-08-22-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1 |
+| [20–22 August 2022](2022-08-22-Novus.html) | Novus <br> SVT | 1 | 1 | 1 | 1 | 1 |
+| [19–21 August 2022](2022-08-21-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [18–21 August 2022](2022-08-21-SKOP.html) | SKOP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–21 August 2022](2022-08-21-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [16–21 August 2022](2022-08-21-Demoskop.html) | Demoskop <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 1–2 |
@@ -416,9 +429,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 93% | 99.2% | Median |
-| 2 | 7% | 7% | Last Result |
+| 0 | 6% | 100% |  |
+| 1 | 90% | 94% | Median |
+| 2 | 4% | 4% | Last Result |
 | 3 | 0% | 0% |  |
 
 
