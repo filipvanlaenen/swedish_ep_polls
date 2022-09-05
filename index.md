@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 5–7 | 4–7% <br> 1 | 14–20% <br> 3–4 | 4–8% <br> 0–2 | 17–24% <br> 4–5 | 5–9% <br> 1–2 | 7–10% <br> 1–2 | 5–8% <br> 1–2 | N/A <br> N/A |
-| [31 August–2 September 2022](2022-09-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 26–31% <br> 6–7 | 4–6% <br> 0–1 | 16–19% <br> 3–4 | 5–7% <br> 1 | 18–22% <br> 4–5 | 7–9% <br> 1–2 | 6–9% <br> 1–2 | 6–8% <br> 1–2 | N/A <br> N/A |
-| [29 August–2 September 2022](2022-09-02-SKOP.html) | SKOP | 28–33% <br> 6–7 | 5–7% <br> 1–2 | 13–17% <br> 3–4 | 6–9% <br> 1–2 | 16–21% <br> 3–4 | 7–10% <br> 1–2 | 7–11% <br> 2 | 4–7% <br> 1–2 | N/A <br> N/A |
-| [31 August–2 September 2022](2022-09-02-Novus.html) | Novus <br> SVT | 24–29% <br> 5–6 | 4–7% <br> 1 | 17–21% <br> 4 | 4–6% <br> 1 | 19–23% <br> 4–5 | 6–8% <br> 1–2 | 7–10% <br> 2 | 6–9% <br> 1–2 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 27–32% <br> 6–7 | 4–9% <br> 1–2 | 15–20% <br> 3–4 | 4–6% <br> 0–1 | 18–24% <br> 4–5 | 5–10% <br> 1–2 | 6–10% <br> 1–2 | 5–8% <br> 1–2 | N/A <br> N/A |
+| [2–4 September 2022](2022-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 27–31% <br> 6–7 | 4–6% <br> 1 | 16–19% <br> 3–4 | 4–6% <br> 1 | 18–21% <br> 4–5 | 7–9% <br> 2 | 6–9% <br> 1–2 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [1 August–4 September 2022](2022-09-04-SKOP.html) | SKOP | 27–33% <br> 6–7 | 6–9% <br> 1–2 | 16–20% <br> 3–4 | 4–6% <br> 0–1 | 17–21% <br> 3–5 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 5–7% <br> 1–2 | N/A <br> N/A |
+| [2–4 September 2022](2022-09-04-Novus.html) | Novus <br> SVT | 27–31% <br> 6–7 | 4–7% <br> 1 | 16–19% <br> 3–4 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 7–10% <br> 2 | 7–9% <br> 1–2 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [26–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 5–7 | 5–7% <br> 1–2 | 15–19% <br> 3–4 | 4–6% <br> 0–1 | 20–25% <br> 4–5 | 5–8% <br> 1–2 | 7–10% <br> 2 | 5–8% <br> 1–2 | N/A <br> N/A |
 | [21–29 August 2022](2022-08-29-Demoskop.html) | Demoskop <br> Aftonbladet | 28–32% <br> 6–7 | 4–6% <br> 1 | 16–20% <br> 3–4 | 4–6% <br> 0–1 | 19–22% <br> 4–5 | 6–9% <br> 1–2 | 7–9% <br> 1–2 | 5–6% <br> 1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
