@@ -10,7 +10,11 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 19.1–22.0% | 18.6–22.4% | 18.3–22.7% | 17.6–23.5% |
+| N/A | [Poll Average](average.html) | 19.9% | 18.6–21.1% | 18.3–21.5% | 17.9–21.8% | 17.4–22.4% |
+| [3–13 October 2022](2022-10-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.8% | 19.2–20.5% | 19.0–20.7% | 18.8–20.8% | 18.5–21.2% |
+| [26 September–4 October 2022](2022-10-04-Demoskop.html) | Demoskop <br> Aftonbladet | 19.3% | 18.3–20.4% | 18.0–20.8% | 17.7–21.0% | 17.2–21.6% |
+| [12 September–2 October 2022](2022-10-02-Novus.html) | Novus <br> SVT | 20.8% | 19.9–21.8% | 19.6–22.0% | 19.4–22.3% | 19.0–22.7% |
+| [13–25 September 2022](2022-09-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.3% | 18.5–21.7% | 18.2–22.0% | 17.6–22.6% |
 | [6–9 September 2022](2022-09-09-SKOP.html) | SKOP | 19.3% | 18.2–20.5% | 17.8–20.8% | 17.6–21.1% | 17.0–21.7% |
 | [6–9 September 2022](2022-09-09-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.8–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
 | [1–9 September 2022](2022-09-09-Demoskop.html) | Demoskop <br> Aftonbladet | 20.5% | 19.5–21.6% | 19.2–21.9% | 18.9–22.2% | 18.4–22.7% |
@@ -275,15 +279,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.4% | 100% |  |
-| 17.5–18.5% | 4% | 99.5% |  |
-| 18.5–19.5% | 14% | 96% |  |
-| 19.5–20.5% | 30% | 82% |  |
-| 20.5–21.5% | 33% | 52% | Median |
-| 21.5–22.5% | 15% | 19% |  |
-| 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.4% | 0.4% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.8% | 100% |  |
+| 17.5–18.5% | 8% | 99.2% |  |
+| 18.5–19.5% | 29% | 91% |  |
+| 19.5–20.5% | 39% | 63% | Median |
+| 20.5–21.5% | 19% | 24% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 0.3% | 0.3% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -295,6 +298,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–13 October 2022](2022-10-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4–5 | 4–5 |
+| [26 September–4 October 2022](2022-10-04-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12 September–2 October 2022](2022-10-02-Novus.html) | Novus <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [13–25 September 2022](2022-09-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–9 September 2022](2022-09-09-SKOP.html) | SKOP | 4 | 4 | 4 | 4 | 4–5 |
 | [6–9 September 2022](2022-09-09-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–9 September 2022](2022-09-09-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -556,8 +563,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0.1% | 100% |  |
-| 4 | 63% | 99.9% | Median |
-| 5 | 37% | 37% |  |
+| 4 | 80% | 99.9% | Median |
+| 5 | 20% | 20% |  |
 | 6 | 0% | 0% |  |
 
 

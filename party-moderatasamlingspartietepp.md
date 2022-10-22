@@ -10,7 +10,11 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.6–19.1% | 15.3–19.5% | 15.0–19.8% | 14.5–20.5% |
+| N/A | [Poll Average](average.html) | 19.4% | 16.3–21.0% | 15.7–21.5% | 15.3–21.9% | 14.7–22.6% |
+| [3–13 October 2022](2022-10-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.6% | 19.0–20.3% | 18.8–20.5% | 18.6–20.6% | 18.3–21.0% |
+| [26 September–4 October 2022](2022-10-04-Demoskop.html) | Demoskop <br> Aftonbladet | 20.8% | 19.7–22.0% | 19.4–22.3% | 19.2–22.6% | 18.7–23.1% |
+| [12 September–2 October 2022](2022-10-02-Novus.html) | Novus <br> SVT | 19.6% | 18.7–20.5% | 18.4–20.8% | 18.2–21.0% | 17.8–21.5% |
+| [13–25 September 2022](2022-09-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.3% | 17.5–20.7% | 17.2–21.0% | 16.6–21.6% |
 | [6–9 September 2022](2022-09-09-SKOP.html) | SKOP | 16.3% | 15.2–17.4% | 14.9–17.7% | 14.7–18.0% | 14.2–18.5% |
 | [6–9 September 2022](2022-09-09-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.2% | 17.1–19.4% | 16.8–19.7% | 16.6–20.0% | 16.1–20.5% |
 | [1–9 September 2022](2022-09-09-Demoskop.html) | Demoskop <br> Aftonbladet | 18.7% | 17.7–19.8% | 17.4–20.1% | 17.2–20.3% | 16.7–20.9% |
@@ -269,15 +273,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.6% | 100% | Last Result |
-| 14.5–15.5% | 8% | 99.4% |  |
-| 15.5–16.5% | 23% | 92% |  |
-| 16.5–17.5% | 25% | 68% | Median |
-| 17.5–18.5% | 23% | 44% |  |
-| 18.5–19.5% | 16% | 21% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.3% | 100% | Last Result |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 9% | 96% |  |
+| 16.5–17.5% | 7% | 87% |  |
+| 17.5–18.5% | 8% | 80% |  |
+| 18.5–19.5% | 26% | 72% | Median |
+| 19.5–20.5% | 30% | 46% |  |
+| 20.5–21.5% | 12% | 17% |  |
+| 21.5–22.5% | 4% | 4% |  |
+| 22.5–23.5% | 0.5% | 0.5% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -288,7 +294,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [3–13 October 2022](2022-10-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 4 | 4 | 4 | 4–5 | 4–5 |
+| [26 September–4 October 2022](2022-10-04-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12 September–2 October 2022](2022-10-02-Novus.html) | Novus <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [13–25 September 2022](2022-09-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [6–9 September 2022](2022-09-09-SKOP.html) | SKOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–9 September 2022](2022-09-09-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 3–4 | 3–5 |
 | [1–9 September 2022](2022-09-09-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4 | 4 | 4 | 4–5 |
@@ -548,9 +558,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 26% | 100% | Last Result |
-| 4 | 74% | 74% | Median |
-| 5 | 0.4% | 0.4% |  |
+| 3 | 12% | 100% | Last Result |
+| 4 | 69% | 88% | Median |
+| 5 | 18% | 18% |  |
 | 6 | 0% | 0% |  |
 
 
