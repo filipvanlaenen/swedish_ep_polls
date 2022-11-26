@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-11-13T13:14:31.032697+01:00</updated>
+  <updated>2022-11-26T12:16:35.150322+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 32.1–34.8%, 7–8 seats</li><li>Moderata samlingspartiet (EPP): 19.0–21.2%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 16.6–18.8%, 4 seats</li><li>Centerpartiet (RE): 4.9–6.2%, 1 seats</li><li>Vänsterpartiet (GUE/NGL): 7.5–9.0%, 2 seats</li><li>Kristdemokraterna (EPP): 4.2–5.4%, 1 seats</li><li>Liberalerna (RE): 3.1–4.2%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.4–5.7%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 November 2022</title>
+    <updated>2022-11-26T12:16:35.150322+01:00</updated>
+    <dc:date>2022-11-26T12:16:35.150322+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 29.3–33.2%, 6–8 seats</li><li>Moderata samlingspartiet (EPP): 19.7–23.0%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 18.0–21.3%, 4–5 seats</li><li>Centerpartiet (RE): 5.1–7.0%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 7.7–10.0%, 2 seats</li><li>Kristdemokraterna (EPP): 3.8–5.5%, 0–1 seats</li><li>Liberalerna (RE): 3.3–4.9%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.6–4.0%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-01-Demoskop.html</id>
@@ -1759,5 +1767,5 @@
     <updated>2020-06-01T09:30:18+02:00</updated>
     <dc:date>2020-06-01T09:30:18+02:00</dc:date>
   </entry>
-  <dc:date>2022-11-13T13:14:31.032697+01:00</dc:date>
+  <dc:date>2022-11-26T12:16:35.150322+01:00</dc:date>
 </feed>
