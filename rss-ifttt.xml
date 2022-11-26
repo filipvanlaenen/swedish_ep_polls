@@ -4,7 +4,31 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Oct 2022 21:42:57 +0200</pubDate>
+    <pubDate>Sat, 26 Nov 2022 12:05:16 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 November 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sifo for Svenska Dagbladet, 7–17 November 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo-seating-plan.png" length="398537" type="image/png"/>
+      <pubDate>Sat, 26 Nov 2022 12:16:35 +0100</pubDate>
+      <dc:date>2022-11-26T12:16:35.150322+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 November 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Sifo for Svenska Dagbladet, 7–17 November 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo-seats.png" length="211654" type="image/png"/>
+      <pubDate>Sat, 26 Nov 2022 12:16:35 +0100</pubDate>
+      <dc:date>2022-11-26T12:16:35.150322+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sifo for Svenska Dagbladet, 7–17 November 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-17-Sifo.png" length="267648" type="image/png"/>
+      <pubDate>Sat, 26 Nov 2022 12:16:35 +0100</pubDate>
+      <dc:date>2022-11-26T12:16:35.150322+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 23 October–1 November 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-11-01-Demoskop.html#seating-plan</link>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-SKOP.png" length="280439" type="image/png"/>
       <pubDate>Sat, 10 Sep 2022 11:35:00 +0200</pubDate>
       <dc:date>2022-09-10T11:35:00.620025+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 September 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 1–9 September 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop-seating-plan.png" length="408565" type="image/png"/>
-      <pubDate>Sat, 10 Sep 2022 11:43:50 +0200</pubDate>
-      <dc:date>2022-09-10T11:43:50.481057+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 September 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 1–9 September 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop-seats.png" length="216242" type="image/png"/>
-      <pubDate>Sat, 10 Sep 2022 11:43:50 +0200</pubDate>
-      <dc:date>2022-09-10T11:43:50.481057+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 September 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop for Aftonbladet, 1–9 September 2022<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2022-09-09-Demoskop.png" length="282086" type="image/png"/>
-      <pubDate>Sat, 10 Sep 2022 11:43:50 +0200</pubDate>
-      <dc:date>2022-09-10T11:43:50.481057+02:00</dc:date>
     </item>
   </channel>
 </rss>
