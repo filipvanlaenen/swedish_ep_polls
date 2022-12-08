@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 61 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 30–36% <br> 7–8 | 3–6% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 17–21% <br> 4–5 | 5–7% <br> 1–2 | 7–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 32–36% <br> 7–8 | 3–6% <br> 0–1 | 18–22% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 5–7% <br> 1–2 | 7–10% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
+| [28 November–6 December 2022](2022-12-06-Demoskop.html) | Demoskop <br> Aftonbladet | 31–35% <br> 7–8 | 3–4% <br> 0–1 | 19–22% <br> 4–5 | 3–5% <br> 0–1 | 16–19% <br> 4 | 5–7% <br> 1–2 | 8–10% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
 | [15–28 November 2022](2022-11-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 32–36% <br> 7–9 | 4–6% <br> 1 | 17–21% <br> 4–5 | 2–4% <br> 0 | 17–21% <br> 4–5 | 5–7% <br> 1–2 | 7–9% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
+| [31 October–27 November 2022](2022-11-27-Novus.html) | Novus <br> SVT | 33–36% <br> 7–8 | 3–5% <br> 0–1 | 18–21% <br> 4–5 | 3–4% <br> 0–1 | 18–20% <br> 4–5 | 5–7% <br> 1–2 | 7–8% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [27 October–24 November 2022](2022-11-24-SCB.html) | SCB | 34–36% <br> 7–8 | 4–5% <br> 1 | 18–20% <br> 4 | 4–5% <br> 0–1 | 17–19% <br> 4 | 5–6% <br> 1 | 7–8% <br> 2 | 4–5% <br> 1 | N/A <br> N/A |
 | [7–17 November 2022](2022-11-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 32–35% <br> 7–8 | 4–6% <br> 1 | 19–21% <br> 4–5 | 3–4% <br> 0–1 | 17–19% <br> 4 | 5–6% <br> 1 | 7–9% <br> 2 | 4–5% <br> 1 | N/A <br> N/A |
-| [23 October–1 November 2022](2022-11-01-Demoskop.html) | Demoskop <br> Aftonbladet | 29–33% <br> 6–8 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 3–5% <br> 0–1 | 18–21% <br> 4–5 | 5–7% <br> 1–2 | 8–10% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
-| [3–30 October 2022](2022-10-30-Novus.html) | Novus <br> SVT | 31–34% <br> 7–8 | 4–5% <br> 0–1 | 19–22% <br> 4–5 | 3–5% <br> 0–1 | 18–21% <br> 4–5 | 5–7% <br> 1 | 7–9% <br> 1–2 | 4–5% <br> 1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
