@@ -4,7 +4,7 @@
 
 ## Summary
 
-The table below lists the polls on which the average is based. They are the most recent polls (less than 61 days old) registered and analyzed so far.
+The table below lists the polls on which the average is based. They are the most recent polls (less than 81 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
