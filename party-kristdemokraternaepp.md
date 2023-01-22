@@ -10,7 +10,10 @@ Last result: **5.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 4.1–5.3% | 4.0–5.5% | 3.9–5.8% | 3.7–6.2% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.8–4.7% | 3.6–4.9% | 3.5–5.1% | 3.3–5.3% |
+| [9–19 January 2023](2023-01-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.1% | 3.7–4.6% | 3.6–4.7% | 3.5–4.8% | 3.4–5.0% |
+| [31 December 2022–9 January 2023](2023-01-09-Demoskop.html) | Demoskop <br> Aftonbladet | 4.2% | 3.7–4.8% | 3.6–5.0% | 3.4–5.2% | 3.2–5.5% |
+| [28 November 2022–1 January 2023](2023-01-01-Novus.html) | Novus <br> SVT | 4.3% | 3.9–4.8% | 3.7–5.0% | 3.6–5.1% | 3.4–5.4% |
 | [6–18 December 2022](2022-12-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [5–12 December 2022](2022-12-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.3% | 3.9–4.7% | 3.9–4.8% | 3.8–4.9% | 3.6–5.1% |
 | [28 November–6 December 2022](2022-12-06-Demoskop.html) | Demoskop <br> Aftonbladet | 4.8% | 4.2–5.4% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
@@ -282,12 +285,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 37% | 99.9% |  |
-| 4.5–5.5% | 57% | 62% | Median |
-| 5.5–6.5% | 5% | 5% | Last Result |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 77% | 97% | Median |
+| 4.5–5.5% | 20% | 20% |  |
+| 5.5–6.5% | 0.1% | 0.1% | Last Result |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -298,7 +301,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–19 January 2023](2023-01-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 December 2022–9 January 2023](2023-01-09-Demoskop.html) | Demoskop <br> Aftonbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 November 2022–1 January 2023](2023-01-01-Novus.html) | Novus <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–18 December 2022](2022-12-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 1 | 0–1 |
 | [5–12 December 2022](2022-12-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 November–6 December 2022](2022-12-06-Demoskop.html) | Demoskop <br> Aftonbladet | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -572,9 +578,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 30% | 100% |  |
+| 1 | 70% | 70% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
