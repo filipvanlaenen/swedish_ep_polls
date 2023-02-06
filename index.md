@@ -5,10 +5,11 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| N/A | [Poll Average](average.html) | 31–37% <br> 7–9 | 2–5% <br> 0–1 | 18–22% <br> 4–5 | 3–4% <br> 0–1 | 17–21% <br> 4–5 | 5–7% <br> 1–2 | 7–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 31–39% <br> 7–9 | 2–6% <br> 0–1 | 17–22% <br> 4–5 | 3–5% <br> 0–1 | 16–21% <br> 4–5 | 4–7% <br> 1–2 | 7–10% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
+| [2–29 January 2023](2023-01-29-Novus.html) | Novus <br> SVT | 36–39% <br> 8–9 | 4–6% <br> 1 | 18–21% <br> 4–5 | 2–4% <br> 0 | 16–18% <br> 3–4 | 4–6% <br> 1 | 7–8% <br> 1–2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| [17–29 January 2023](2023-01-29-Ipsos.html) | Ipsos <br> Dagens Nyheter | 35–39% <br> 7–9 | 3–5% <br> 0–1 | 16–20% <br> 4–5 | 3–5% <br> 0–1 | 16–20% <br> 4–5 | 4–6% <br> 1 | 7–9% <br> 1–2 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [9–19 January 2023](2023-01-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 35–38% <br> 8–9 | 4–5% <br> 0–1 | 17–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 5–6% <br> 1 | 7–9% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [31 December 2022–9 January 2023](2023-01-09-Demoskop.html) | Demoskop <br> Aftonbladet | 31–35% <br> 7–8 | 2–3% <br> 0 | 19–23% <br> 4–5 | 3–4% <br> 0–1 | 18–22% <br> 4–5 | 5–7% <br> 1–2 | 8–10% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
-| [28 November 2022–1 January 2023](2023-01-01-Novus.html) | Novus <br> SVT | 33–36% <br> 7–8 | 4–5% <br> 0–1 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 5–6% <br> 1 | 7–9% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
