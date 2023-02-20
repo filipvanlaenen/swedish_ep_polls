@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-02-06T17:07:28.86931+01:00</updated>
+  <updated>2023-02-20T20:49:51.619637+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 35.4–37.8%, 8–9 seats</li><li>Moderata samlingspartiet (EPP): 18.4–20.3%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 17.5–19.4%, 4 seats</li><li>Centerpartiet (RE): 3.8–4.8%, 0–1 seats</li><li>Vänsterpartiet (GUE/NGL): 6.9–8.2%, 2 seats</li><li>Kristdemokraterna (EPP): 3.8–4.8%, 0–1 seats</li><li>Liberalerna (RE): 3.1–4.0%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.8–4.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-02-16-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2023-02-16-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 6–16 February 2023</title>
+    <updated>2023-02-20T20:31:49.053979+01:00</updated>
+    <dc:date>2023-02-20T20:31:49.053979+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 32.0–36.1%, 7–9 seats</li><li>Moderata samlingspartiet (EPP): 19.4–22.9%, 5 seats</li><li>Sverigedemokraterna (ECR): 17.0–20.4%, 4–5 seats</li><li>Centerpartiet (RE): 4.6–6.6%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.8–9.1%, 2 seats</li><li>Kristdemokraterna (EPP): 3.2–4.9%, 0–1 seats</li><li>Liberalerna (RE): 2.4–3.9%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.5–4.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-02-06-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2023-02-06-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Aftonbladet, 27 January–6 February 2023</title>
+    <updated>2023-02-20T20:49:51.619637+01:00</updated>
+    <dc:date>2023-02-20T20:49:51.619637+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 35.5–38.7%, 8–9 seats</li><li>Moderata samlingspartiet (EPP): 18.4–21.0%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 15.7–18.2%, 3–4 seats</li><li>Centerpartiet (RE): 4.3–5.8%, 1 seats</li><li>Vänsterpartiet (GUE/NGL): 6.6–8.3%, 1–2 seats</li><li>Kristdemokraterna (EPP): 3.7–5.0%, 0–1 seats</li><li>Liberalerna (RE): 2.5–3.6%, 0 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.3–5.8%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-01-29-Novus.html</id>
@@ -1855,5 +1871,5 @@
     <updated>2020-06-01T09:30:18+02:00</updated>
     <dc:date>2020-06-01T09:30:18+02:00</dc:date>
   </entry>
-  <dc:date>2023-02-06T17:07:28.86931+01:00</dc:date>
+  <dc:date>2023-02-20T20:49:51.619637+01:00</dc:date>
 </feed>
