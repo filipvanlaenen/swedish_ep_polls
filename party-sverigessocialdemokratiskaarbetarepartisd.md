@@ -10,7 +10,10 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.5% | 33.8–37.9% | 33.2–38.3% | 32.7–38.7% | 32.0–39.5% |
+| N/A | [Poll Average](average.html) | 36.4% | 33.9–38.4% | 33.4–38.9% | 33.0–39.3% | 32.2–39.9% |
+| [24 February–6 March 2023](2023-03-06-Demoskop.html) | Demoskop <br> Aftonbladet | 34.3% | 33.0–35.6% | 32.6–36.0% | 32.3–36.3% | 31.7–37.0% |
+| [30 January–26 February 2023](2023-02-26-Novus.html) | Novus <br> SVT | 38.2% | 37.1–39.3% | 36.8–39.6% | 36.6–39.9% | 36.0–40.4% |
+| [14–26 February 2023](2023-02-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 36.0% | 34.5–37.5% | 34.1–37.9% | 33.7–38.3% | 33.0–39.0% |
 | [6–16 February 2023](2023-02-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 36.6% | 35.8–37.4% | 35.6–37.6% | 35.4–37.8% | 35.0–38.1% |
 | [27 January–6 February 2023](2023-02-06-Demoskop.html) | Demoskop <br> Aftonbladet | 34.0% | 32.7–35.4% | 32.4–35.8% | 32.0–36.1% | 31.4–36.8% |
 | [2–29 January 2023](2023-01-29-Novus.html) | Novus <br> SVT | 37.1% | 36.1–38.1% | 35.8–38.5% | 35.5–38.7% | 35.0–39.2% |
@@ -296,17 +299,18 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.2% | 100% |  |
-| 31.5–32.5% | 2% | 99.8% |  |
-| 32.5–33.5% | 6% | 98% |  |
-| 33.5–34.5% | 10% | 92% |  |
-| 34.5–35.5% | 10% | 82% |  |
-| 35.5–36.5% | 24% | 73% | Median |
-| 36.5–37.5% | 32% | 48% |  |
-| 37.5–38.5% | 13% | 17% |  |
-| 38.5–39.5% | 3% | 3% |  |
-| 39.5–40.5% | 0.4% | 0.5% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 30.5–31.5% | 0.1% | 100% |  |
+| 31.5–32.5% | 1.0% | 99.9% |  |
+| 32.5–33.5% | 5% | 98.9% |  |
+| 33.5–34.5% | 11% | 94% |  |
+| 34.5–35.5% | 14% | 82% |  |
+| 35.5–36.5% | 22% | 68% | Median |
+| 36.5–37.5% | 23% | 46% |  |
+| 37.5–38.5% | 14% | 23% |  |
+| 38.5–39.5% | 7% | 9% |  |
+| 39.5–40.5% | 1.3% | 1.4% |  |
+| 40.5–41.5% | 0.1% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -317,7 +321,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [24 February–6 March 2023](2023-03-06-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [30 January–26 February 2023](2023-02-26-Novus.html) | Novus <br> SVT | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [14–26 February 2023](2023-02-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [6–16 February 2023](2023-02-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [27 January–6 February 2023](2023-02-06-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [2–29 January 2023](2023-01-29-Novus.html) | Novus <br> SVT | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -600,10 +607,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 80% | 96% | Median |
-| 9 | 16% | 16% |  |
-| 10 | 0.4% | 0.4% |  |
+| 7 | 6% | 100% |  |
+| 8 | 67% | 94% | Median |
+| 9 | 27% | 27% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% | Majority |
 
 
