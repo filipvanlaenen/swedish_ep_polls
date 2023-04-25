@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 7.2–8.6% | 7.0–8.8% | 6.9–9.1% | 6.6–9.5% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.9–8.6% | 6.7–8.8% | 6.5–9.1% | 6.3–9.5% |
+| [3–13 April 2023](2023-04-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.1% | 6.6–7.7% | 6.4–7.8% | 6.3–8.0% | 6.1–8.3% |
 | [24 March–3 April 2023](2023-04-03-Demoskop.html) | Demoskop <br> Aftonbladet | 7.9% | 7.2–8.8% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [27 February–2 April 2023](2023-04-02-Novus.html) | Novus <br> SVT | 7.7% | 7.2–8.3% | 7.0–8.5% | 6.9–8.6% | 6.6–8.9% |
 | [14–26 March 2023](2023-03-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.4–9.8% |
@@ -297,10 +298,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% | Last Result |
-| 6.5–7.5% | 26% | 99.5% |  |
-| 7.5–8.5% | 63% | 74% | Median |
-| 8.5–9.5% | 11% | 11% |  |
+| 5.5–6.5% | 3% | 100% | Last Result |
+| 6.5–7.5% | 39% | 97% |  |
+| 7.5–8.5% | 48% | 59% | Median |
+| 8.5–9.5% | 10% | 11% |  |
 | 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -314,6 +315,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [3–13 April 2023](2023-04-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [24 March–3 April 2023](2023-04-03-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2 | 2 | 2 | 2 |
 | [27 February–2 April 2023](2023-04-02-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
 | [14–26 March 2023](2023-03-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 1–2 |
@@ -601,8 +603,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.7% | 100% | Last Result |
-| 2 | 99.3% | 99.3% | Median |
+| 1 | 2% | 100% | Last Result |
+| 2 | 98% | 98% | Median |
 | 3 | 0% | 0% |  |
 
 
