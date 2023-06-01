@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 7.3–9.1% | 7.0–9.5% | 6.9–9.8% | 6.6–10.4% |
+| N/A | [Poll Average](average.html) | 7.9% | 7.1–9.1% | 6.9–9.5% | 6.8–9.8% | 6.6–10.4% |
+| [27 April–25 May 2023](2023-05-25-SCB.html) | SCB | 7.3% | 7.0–7.7% | 6.9–7.8% | 6.8–7.8% | 6.6–8.0% |
 | [9–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.8% | 8.0–9.8% | 7.8–10.1% | 7.6–10.3% | 7.2–10.8% |
 | [1–10 May 2023](2023-05-10-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.2% | 7.7–8.7% | 7.6–8.9% | 7.5–9.0% | 7.3–9.2% |
 | [13–30 April 2023](2023-04-30-Novus.html) | Novus <br> SVT | 7.5% | 6.9–8.1% | 6.8–8.3% | 6.6–8.5% | 6.4–8.8% |
@@ -303,10 +304,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% | Last Result |
-| 6.5–7.5% | 19% | 99.5% |  |
-| 7.5–8.5% | 54% | 80% | Median |
-| 8.5–9.5% | 22% | 27% |  |
+| 5.5–6.5% | 0.4% | 100% | Last Result |
+| 6.5–7.5% | 35% | 99.6% |  |
+| 7.5–8.5% | 43% | 65% | Median |
+| 8.5–9.5% | 18% | 22% |  |
 | 9.5–10.5% | 4% | 4% |  |
 | 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -321,6 +322,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [27 April–25 May 2023](2023-05-25-SCB.html) | SCB | 2 | 2 | 2 | 2 | 2 |
 | [9–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [1–10 May 2023](2023-05-10-Sifo.html) | Sifo <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [13–30 April 2023](2023-04-30-Novus.html) | Novus <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
