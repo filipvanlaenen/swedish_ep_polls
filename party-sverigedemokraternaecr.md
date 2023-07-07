@@ -10,7 +10,10 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 17.6–19.9% | 17.4–20.2% | 17.2–20.5% | 16.7–21.0% |
+| N/A | [Poll Average](average.html) | 18.3% | 16.6–19.8% | 16.2–20.2% | 15.8–20.4% | 15.1–21.0% |
+| [13–25 June 2023](2023-06-25-Demoskop.html) | Demoskop <br> Aftonbladet | 19.1% | 18.1–20.2% | 17.8–20.5% | 17.6–20.7% | 17.1–21.2% |
+| [29 May–21 June 2023](2023-06-21-Novus.html) | Novus <br> Svenska Dagbladet | 17.6% | 16.8–18.5% | 16.5–18.8% | 16.3–19.0% | 15.9–19.4% |
+| [8–18 June 2023](2023-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.6–19.6% |
 | [25 May–7 June 2023](2023-06-07-Demoskop.html) | Demoskop <br> Aftonbladet | 18.9% | 17.9–20.0% | 17.6–20.3% | 17.4–20.5% | 16.9–21.0% |
 | [22 May–4 June 2023](2023-06-04-Sifo.html) | Sifo <br> SVT | 19.2% | 18.3–20.1% | 18.1–20.4% | 17.8–20.6% | 17.4–21.1% |
 | [27 April–25 May 2023](2023-05-25-SCB.html) | SCB | 18.0% | 17.5–18.5% | 17.3–18.7% | 17.2–18.8% | 17.0–19.0% |
@@ -309,13 +312,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 7% | 99.7% |  |
-| 17.5–18.5% | 39% | 93% |  |
-| 18.5–19.5% | 36% | 53% | Median |
-| 19.5–20.5% | 16% | 18% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 1.4% | 99.9% |  |
+| 15.5–16.5% | 8% | 98.5% |  |
+| 16.5–17.5% | 20% | 91% |  |
+| 17.5–18.5% | 27% | 70% | Median |
+| 18.5–19.5% | 28% | 44% |  |
+| 19.5–20.5% | 14% | 15% |  |
 | 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -329,7 +332,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [13–25 June 2023](2023-06-25-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [29 May–21 June 2023](2023-06-21-Novus.html) | Novus <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
+| [8–18 June 2023](2023-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [25 May–7 June 2023](2023-06-07-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22 May–4 June 2023](2023-06-04-Sifo.html) | Sifo <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 April–25 May 2023](2023-05-25-SCB.html) | SCB | 4 | 4 | 4 | 4 | 4–5 |
@@ -627,9 +633,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0% | 100% |  |
-| 4 | 76% | 100% | Median |
-| 5 | 24% | 24% |  |
+| 3 | 6% | 100% |  |
+| 4 | 77% | 94% | Median |
+| 5 | 17% | 17% |  |
 | 6 | 0% | 0% |  |
 
 
