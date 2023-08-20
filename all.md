@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 33–36% <br> 7–8 | 2–3% <br> 0 | 19–22% <br> 4–5 | 3–4% <br> 0 | 18–21% <br> 4–5 | 4–6% <br> 1 | 7–9% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 36–40% <br> 8–9 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–4% <br> 0 | 17–19% <br> 4–5 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0 | N/A <br> N/A |
 | [26 June–16 July 2023](2023-07-16-Novus.html) | Novus <br> Svenska Dagbladet | 35–39% <br> 8–9 | 4–5% <br> 0–1 | 18–22% <br> 4–5 | 2–4% <br> 0 | 17–21% <br> 4–5 | 4–5% <br> 0–1 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [13–25 June 2023](2023-06-25-Demoskop.html) | Demoskop <br> Aftonbladet | 32–36% <br> 7–9 | 2–4% <br> 0 | 20–23% <br> 5–6 | 2–4% <br> 0 | 18–21% <br> 4–5 | 4–6% <br> 0–1 | 8–10% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
