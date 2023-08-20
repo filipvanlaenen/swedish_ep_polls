@@ -10,7 +10,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.5% | 36.1–38.8% | 35.7–39.2% | 35.4–39.5% | 34.7–40.0% |
+| N/A | [Poll Average](average.html) | 36.8% | 34.0–38.6% | 33.5–39.0% | 33.1–39.3% | 32.4–39.9% |
+| [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 34.5% | 33.3–35.7% | 32.9–36.1% | 32.6–36.4% | 32.1–37.0% |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 38.0% | 36.8–39.1% | 36.5–39.4% | 36.3–39.7% | 35.7–40.2% |
 | [26 June–16 July 2023](2023-07-16-Novus.html) | Novus <br> Svenska Dagbladet | 37.0% | 35.8–38.3% | 35.4–38.7% | 35.1–39.0% | 34.5–39.6% |
 | [13–25 June 2023](2023-06-25-Demoskop.html) | Demoskop <br> Aftonbladet | 34.1% | 32.9–35.4% | 32.5–35.7% | 32.2–36.0% | 31.6–36.6% |
@@ -25,14 +26,14 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [14–24 April 2023](2023-04-24-Demoskop.html) | Demoskop <br> Aftonbladet | 35.3% | 34.0–36.6% | 33.6–37.0% | 33.3–37.3% | 32.7–38.0% |
 | [11–23 April 2023](2023-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 36.0% | 34.5–37.6% | 34.1–38.0% | 33.7–38.4% | 33.0–39.2% |
 | [3–13 April 2023](2023-04-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 36.9% | 35.9–38.0% | 35.6–38.2% | 35.4–38.5% | 34.9–39.0% |
-| [24 March–3 April 2023](2023-04-03-Demoskop.html) | Demoskop <br> Aftonbladet | 35.4% | 34.0–36.8% | 33.7–37.2% | 33.3–37.5% | 32.7–38.2% |
+| [24 March–3 April 2023](2023-04-03-Demoskop.html) | Demoskop <br> Aftonbladet | 35.3% | 34.0–36.8% | 33.7–37.2% | 33.3–37.5% | 32.7–38.2% |
 | [27 February–2 April 2023](2023-04-02-Novus.html) | Novus <br> SVT | 37.6% | 36.5–38.7% | 36.3–39.0% | 36.0–39.2% | 35.5–39.7% |
 | [14–26 March 2023](2023-03-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 37.0% | 35.5–38.5% | 35.1–39.0% | 34.7–39.3% | 34.0–40.1% |
 | [6–16 March 2023](2023-03-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 37.0% | 36.1–37.9% | 35.9–38.1% | 35.7–38.3% | 35.3–38.7% |
 | [24 February–6 March 2023](2023-03-06-Demoskop.html) | Demoskop <br> Aftonbladet | 34.3% | 33.0–35.6% | 32.6–36.0% | 32.3–36.3% | 31.7–37.0% |
 | [30 January–26 February 2023](2023-02-26-Novus.html) | Novus <br> SVT | 38.2% | 37.1–39.3% | 36.8–39.6% | 36.6–39.9% | 36.0–40.4% |
 | [14–26 February 2023](2023-02-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 36.0% | 34.5–37.5% | 34.1–37.9% | 33.7–38.3% | 33.0–39.0% |
-| [6–16 February 2023](2023-02-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 36.6% | 35.8–37.4% | 35.6–37.6% | 35.4–37.8% | 35.0–38.1% |
+| [6–16 February 2023](2023-02-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 36.5% | 35.8–37.4% | 35.6–37.6% | 35.4–37.8% | 35.0–38.1% |
 | [27 January–6 February 2023](2023-02-06-Demoskop.html) | Demoskop <br> Aftonbladet | 34.0% | 32.7–35.4% | 32.4–35.8% | 32.0–36.1% | 31.4–36.8% |
 | [2–29 January 2023](2023-01-29-Novus.html) | Novus <br> SVT | 37.1% | 36.1–38.1% | 35.8–38.5% | 35.5–38.7% | 35.0–39.2% |
 | [17–29 January 2023](2023-01-29-Ipsos.html) | Ipsos <br> Dagens Nyheter | 37.0% | 35.5–38.6% | 35.1–39.0% | 34.7–39.4% | 34.0–40.1% |
@@ -56,8 +57,8 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [6–9 September 2022](2022-09-09-SKOP.html) | SKOP | 28.6% | 27.3–29.9% | 26.9–30.3% | 26.6–30.6% | 26.0–31.3% |
 | [6–9 September 2022](2022-09-09-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28.8% | 27.5–30.1% | 27.2–30.5% | 26.9–30.8% | 26.3–31.5% |
 | [1–9 September 2022](2022-09-09-Demoskop.html) | Demoskop <br> Aftonbladet | 29.5% | 28.3–30.8% | 28.0–31.1% | 27.7–31.4% | 27.1–32.0% |
-| [6–8 September 2022](2022-09-08-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.1% | 27.9–30.3% | 27.5–30.6% | 27.3–30.9% | 26.7–31.5% |
-| [5–8 September 2022](2022-09-08-SKOP.html) | SKOP | 28.1% | 26.6–29.5% | 26.2–29.9% | 25.9–30.3% | 25.3–31.0% |
+| [6–8 September 2022](2022-09-08-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.0% | 27.9–30.3% | 27.5–30.6% | 27.3–30.9% | 26.7–31.5% |
+| [5–8 September 2022](2022-09-08-SKOP.html) | SKOP | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.9–30.3% | 25.3–31.0% |
 | [6–8 September 2022](2022-09-08-Novus.html) | Novus <br> SVT | 30.3% | 28.8–31.8% | 28.3–32.3% | 28.0–32.6% | 27.3–33.4% |
 | [5–7 September 2022](2022-09-07-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.5% | N/A | N/A | N/A | N/A |
 | [4–7 September 2022](2022-09-07-SKOP.html) | SKOP | 26.4% | N/A | N/A | N/A | N/A |
@@ -77,7 +78,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [31 August–3 September 2022](2022-09-03-SKOP.html) | SKOP | 31.0% | N/A | N/A | N/A | N/A |
 | [1–3 September 2022](2022-09-03-Novus.html) | Novus <br> SVT | 29.8% | N/A | N/A | N/A | N/A |
 | [31 August–2 September 2022](2022-09-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 28.5% | 27.2–29.8% | 26.8–30.2% | 26.5–30.6% | 25.9–31.2% |
-| [30 August–2 September 2022](2022-09-02-SKOP.html) | SKOP | 31.0% | N/A | N/A | N/A | N/A |
+| [30 August–2 September 2022](2022-09-02-SKOP.html) | SKOP | 30.9% | N/A | N/A | N/A | N/A |
 | [31 August–2 September 2022](2022-09-02-Novus.html) | Novus <br> SVT | 28.4% | N/A | N/A | N/A | N/A |
 | [30 August–1 September 2022](2022-09-01-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.0% | N/A | N/A | N/A | N/A |
 | [29 August–1 September 2022](2022-09-01-SKOP.html) | SKOP | 30.4% | N/A | N/A | N/A | N/A |
@@ -97,7 +98,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [24–28 August 2022](2022-08-28-SKOP.html) | SKOP | 27.2% | N/A | N/A | N/A | N/A |
 | [26–28 August 2022](2022-08-28-Novus.html) | Novus <br> SVT | 30.3% | N/A | N/A | N/A | N/A |
 | [25–27 August 2022](2022-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 31.2% | N/A | N/A | N/A | N/A |
-| [23–27 August 2022](2022-08-27-SKOP.html) | SKOP | 28.6% | N/A | N/A | N/A | N/A |
+| [23–27 August 2022](2022-08-27-SKOP.html) | SKOP | 28.5% | N/A | N/A | N/A | N/A |
 | [25–27 August 2022](2022-08-27-Novus.html) | Novus <br> SVT | 30.2% | N/A | N/A | N/A | N/A |
 | [24–26 August 2022](2022-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 31.8% | N/A | N/A | N/A | N/A |
 | [22–26 August 2022](2022-08-26-SKOP.html) | SKOP | 27.9% | N/A | N/A | N/A | N/A |
@@ -168,7 +169,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [30 November–8 December 2021](2021-12-08-Demoskop.html) | Demoskop <br> Aftonbladet | 29.1% | 27.9–30.3% | 27.6–30.6% | 27.3–30.9% | 26.7–31.5% |
 | [8 November–5 December 2021](2021-12-05-Novus.html) | Novus <br> SVT | 29.3% | 28.4–30.2% | 28.2–30.5% | 27.9–30.7% | 27.5–31.1% |
 | [28 October–25 November 2021](2021-11-25-SCB.html) | SCB | 29.1% | 28.5–29.7% | 28.3–29.9% | 28.2–30.0% | 27.9–30.3% |
-| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.2% | 23.9–26.7% | 23.5–27.1% | 23.2–27.4% | 22.5–28.1% |
+| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.0% | 23.9–26.7% | 23.5–27.1% | 23.2–27.4% | 22.5–28.1% |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 28.9% | 28.2–29.7% | 28.0–29.9% | 27.8–30.1% | 27.4–30.5% |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 27.0% | 25.8–28.2% | 25.5–28.5% | 25.2–28.8% | 24.7–29.4% |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 25.6% | 24.7–26.6% | 24.4–26.8% | 24.2–27.1% | 23.8–27.5% |
@@ -182,7 +183,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 25.8% | N/A | N/A | N/A | N/A |
 | [31 August–8 September 2021](2021-09-08-Demoskop.html) | Demoskop <br> Aftonbladet | 26.7% | N/A | N/A | N/A | N/A |
 | [2–29 August 2021](2021-08-29-Novus.html) | Novus <br> SVT | 25.9% | N/A | N/A | N/A | N/A |
-| [10–23 August 2021](2021-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.3% | N/A | N/A | N/A | N/A |
+| [10–23 August 2021](2021-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.0% | N/A | N/A | N/A | N/A |
 | [9–18 August 2021](2021-08-18-Sifo.html) | Sifo | 24.1% | N/A | N/A | N/A | N/A |
 | [2–5 August 2021](2021-08-05-Demoskop.html) | Demoskop <br> Aftonbladet | 24.6% | 23.5–25.8% | 23.2–26.1% | 22.9–26.4% | 22.4–26.9% |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 23.8% | 22.7–24.9% | 22.4–25.2% | 22.1–25.5% | 21.6–26.1% |
@@ -198,7 +199,7 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [11–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25.7% | 24.3–27.2% | 23.9–27.6% | 23.6–28.0% | 22.9–28.7% |
 | [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 26.9% | 26.3–27.5% | 26.1–27.7% | 26.0–27.8% | 25.7–28.1% |
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 25.4% | 24.3–26.5% | 24.0–26.8% | 23.8–27.1% | 23.3–27.6% |
-| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 27.6% | 26.6–28.6% | 26.4–28.8% | 26.2–29.1% | 25.7–29.5% |
+| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 27.5% | 26.6–28.6% | 26.4–28.8% | 26.2–29.1% | 25.7–29.5% |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.5–28.5% |
 | [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | 27.8% | 27.1–28.5% | 26.9–28.7% | 26.7–28.9% | 26.4–29.2% |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 25.4% | 24.3–26.5% | 24.0–26.8% | 23.8–27.1% | 23.3–27.6% |
@@ -283,11 +284,11 @@ Last result: **24.2%** (General Election of 26 May 2019)
 | [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 25.5% | 24.8–26.1% | 24.7–26.3% | 24.5–26.4% | 24.2–26.8% |
 | [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 24.7% | 23.5–26.0% | 23.2–26.3% | 22.9–26.6% | 22.4–27.2% |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 23.1% | 21.8–24.5% | 21.4–24.9% | 21.1–25.3% | 20.5–25.9% |
-| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 24.0% | 22.8–25.2% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
+| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 23.9% | 22.8–25.2% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 24.7% | 23.7–25.6% | 23.5–25.8% | 23.3–26.1% | 22.9–26.5% |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 25.8% | 25.2–26.4% | 25.0–26.6% | 24.9–26.7% | 24.6–27.0% |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24.1% | 22.8–25.6% | 22.4–26.0% | 22.1–26.3% | 21.5–27.0% |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24.2% | 22.8–25.6% | 22.4–26.0% | 22.1–26.3% | 21.5–27.0% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 25.5% | 24.2–26.7% | 23.9–27.1% | 23.6–27.4% | 23.0–28.0% |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 26.3% | 25.2–27.4% | 24.9–27.8% | 24.7–28.0% | 24.2–28.6% |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
@@ -318,15 +319,15 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.3% | 100% |  |
-| 34.5–35.5% | 3% | 99.7% |  |
-| 35.5–36.5% | 15% | 97% |  |
-| 36.5–37.5% | 33% | 82% |  |
-| 37.5–38.5% | 33% | 49% | Median |
-| 38.5–39.5% | 14% | 16% |  |
-| 39.5–40.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.7% | 100% |  |
+| 32.5–33.5% | 5% | 99.3% |  |
+| 33.5–34.5% | 12% | 95% |  |
+| 34.5–35.5% | 13% | 82% |  |
+| 35.5–36.5% | 14% | 69% |  |
+| 36.5–37.5% | 22% | 55% | Median |
+| 37.5–38.5% | 22% | 33% |  |
+| 38.5–39.5% | 9% | 11% |  |
+| 39.5–40.5% | 1.3% | 1.4% |  |
 | 40.5–41.5% | 0.1% | 0.1% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
@@ -339,7 +340,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [26 June–16 July 2023](2023-07-16-Novus.html) | Novus <br> Svenska Dagbladet | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–25 June 2023](2023-06-25-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 8 | 7–9 | 7–9 | 7–9 |
@@ -643,10 +645,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 35% | 100% |  |
-| 9 | 64% | 65% | Median |
-| 10 | 1.0% | 1.0% |  |
+| 7 | 4% | 100% |  |
+| 8 | 53% | 96% | Median |
+| 9 | 43% | 44% |  |
+| 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% | Majority |
 
 
