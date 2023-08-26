@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.4–4.2% |
+| [1–20 August 2023](2023-08-20-Novus.html) | Novus <br> Svenska Dagbladet | 3.3% | 2.9–3.7% | 2.8–3.9% | 2.7–4.0% | 2.6–4.2% |
 | [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–4.0% | 2.4–4.2% |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 3.2% | 2.8–3.6% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% |
 | [26 June–16 July 2023](2023-07-16-Novus.html) | Novus <br> Svenska Dagbladet | 2.8% | 2.4–3.3% | 2.3–3.4% | 2.2–3.6% | 2.0–3.8% |
@@ -312,9 +313,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 81% | 92% | Median |
-| 3.5–4.5% | 12% | 12% |  |
+| 1.5–2.5% | 1.2% | 100% |  |
+| 2.5–3.5% | 80% | 98.8% | Median |
+| 3.5–4.5% | 19% | 19% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -332,6 +333,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [1–20 August 2023](2023-08-20-Novus.html) | Novus <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0–1 |
 | [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–1 |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 0 | 0 | 0 | 0 | 0–1 |
 | [26 June–16 July 2023](2023-07-16-Novus.html) | Novus <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -634,8 +636,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 98.6% | 100% | Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% | Last Result |
 
 
