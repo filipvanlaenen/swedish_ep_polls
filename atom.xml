@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-08-25T20:26:24.327815+02:00</updated>
+  <updated>2023-09-09T23:03:02.310015+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vänsterpartiet (GUE/NGL): 6.2–8.3%, 1–2 seats</li><li>Kristdemokraterna (EPP): 3.0–4.5%, 0–1 seats</li><li>Sverigedemokraterna (ECR): 17.5–20.6%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 19.2–22.5%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 2.5–3.9%, 0 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 35.0–38.8%, 8–9 seats</li><li>Centerpartiet (RE): 3.6–5.2%, 0–1 seats</li><li>Liberalerna (RE): 2.0–3.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-09-05-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2023-09-05-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Aftonbladet, 21 August–5 September 2023</title>
+    <updated>2023-09-09T17:55:41.726505+02:00</updated>
+    <dc:date>2023-09-09T17:55:41.726505+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vänsterpartiet (GUE/NGL): 6.7–8.6%, 2 seats</li><li>Kristdemokraterna (EPP): 2.5–3.8%, 0 seats</li><li>Sverigedemokraterna (ECR): 18.3–21.1%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 17.6–20.4%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.6–5.1%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 35.9–39.3%, 8–9 seats</li><li>Centerpartiet (RE): 3.3–4.6%, 0–1 seats</li><li>Liberalerna (RE): 2.4–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-09-04-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2023-09-04-Sifo.html"/>
+    <title>Opinion Poll by Sifo for SVT, 22 August–4 September 2023</title>
+    <updated>2023-09-09T18:05:13.81903+02:00</updated>
+    <dc:date>2023-09-09T18:05:13.81903+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vänsterpartiet (GUE/NGL): 5.8–8.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 3.0–5.2%, 0–1 seats</li><li>Sverigedemokraterna (ECR): 16.0–20.2%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 16.9–21.2%, 4–5 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 3.9–6.3%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 33.4–38.6%, 7–9 seats</li><li>Centerpartiet (RE): 4.8–7.5%, 1–2 seats</li><li>Liberalerna (RE): 2.2–4.1%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-08-27-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2023-08-27-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Dagens Nyheter, 15–27 August 2023</title>
+    <updated>2023-09-09T23:03:02.310015+02:00</updated>
+    <dc:date>2023-09-09T23:03:02.310015+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Centerpartiet (RE): 3.9–5.4%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.1–5.6%, 1 seats</li><li>Kristdemokraterna (EPP): 3.0–4.3%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 36.8–40.1%, 8–9 seats</li><li>Sverigedemokraterna (ECR): 16.1–18.6%, 4 seats</li><li>Liberalerna (RE): 2.7–4.0%, 0 seats</li><li>Moderata samlingspartiet (EPP): 17.7–20.3%, 4–5 seats</li><li>Vänsterpartiet (GUE/NGL): 6.9–8.7%, 2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2023-08-20-Novus.html</id>
@@ -2055,5 +2079,5 @@
     <updated>2020-06-01T09:30:18+02:00</updated>
     <dc:date>2020-06-01T09:30:18+02:00</dc:date>
   </entry>
-  <dc:date>2023-08-25T20:26:24.327815+02:00</dc:date>
+  <dc:date>2023-09-09T23:03:02.310015+02:00</dc:date>
 </feed>
