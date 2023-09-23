@@ -10,7 +10,8 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.9–20.1% | 16.6–20.5% | 16.3–20.7% | 15.7–21.3% |
+| N/A | [Poll Average](average.html) | 18.8% | 17.4–20.1% | 17.0–20.5% | 16.6–20.7% | 15.9–21.3% |
+| [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 18.2% | 17.3–19.1% | 17.0–19.4% | 16.8–19.6% | 16.4–20.1% |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 19.0% | 18.0–20.1% | 17.7–20.4% | 17.5–20.6% | 17.0–21.1% |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 19.7% | 18.8–20.6% | 18.5–20.9% | 18.3–21.1% | 17.9–21.6% |
 | [15–27 August 2023](2023-08-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.3–20.9% |
@@ -66,7 +67,7 @@ Last result: **9.7%** (General Election of 26 May 2019)
 | [6–8 September 2022](2022-09-08-Novus.html) | Novus <br> SVT | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.0% |
 | [5–7 September 2022](2022-09-07-Sifo.html) | Sifo <br> Svenska Dagbladet | 20.2% | N/A | N/A | N/A | N/A |
 | [4–7 September 2022](2022-09-07-SKOP.html) | SKOP | 19.8% | N/A | N/A | N/A | N/A |
-| [5–7 September 2022](2022-09-07-Novus.html) | Novus <br> SVT | 20.9% | N/A | N/A | N/A | N/A |
+| [5–7 September 2022](2022-09-07-Novus.html) | Novus <br> SVT | 20.8% | N/A | N/A | N/A | N/A |
 | [4–6 September 2022](2022-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 21.0% | 20.0–22.2% | 19.6–22.5% | 19.4–22.8% | 18.9–23.3% |
 | [3–6 September 2022](2022-09-06-SKOP.html) | SKOP | 19.7% | 18.4–21.1% | 18.0–21.5% | 17.7–21.9% | 17.1–22.6% |
 | [4–6 September 2022](2022-09-06-Novus.html) | Novus <br> SVT | 20.6% | 19.3–22.0% | 18.9–22.4% | 18.6–22.7% | 18.0–23.4% |
@@ -320,12 +321,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 5% | 99.7% |  |
-| 16.5–17.5% | 20% | 95% |  |
-| 17.5–18.5% | 25% | 75% |  |
-| 18.5–19.5% | 28% | 50% | Median |
-| 19.5–20.5% | 19% | 23% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 2% | 99.8% |  |
+| 16.5–17.5% | 11% | 98% |  |
+| 17.5–18.5% | 29% | 87% |  |
+| 18.5–19.5% | 34% | 58% | Median |
+| 19.5–20.5% | 20% | 24% |  |
 | 20.5–21.5% | 4% | 4% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -340,6 +341,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–27 August 2023](2023-08-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4–5 | 4–5 | 3–5 |
@@ -647,9 +649,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.5% | 100% |  |
-| 4 | 71% | 99.5% | Median |
-| 5 | 29% | 29% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 68% | 99.7% | Median |
+| 5 | 31% | 31% |  |
 | 6 | 0% | 0% |  |
 
 
