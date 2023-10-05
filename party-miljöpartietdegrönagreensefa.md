@@ -10,11 +10,13 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.0–5.9% | 2.8–6.2% | 2.7–6.4% | 2.4–6.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.1–5.9% | 2.9–6.1% | 2.7–6.3% | 2.5–6.7% |
+| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.4–6.2% | 4.1–6.5% |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 5.7% | 5.2–6.3% | 5.0–6.5% | 4.9–6.6% | 4.7–6.9% |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% | 2.3–4.1% |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 4.3% | 3.8–4.8% | 3.7–4.9% | 3.6–5.1% | 3.4–5.3% |
 | [15–27 August 2023](2023-08-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
+| [21 September–24 August 2023](2023-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | N/A | N/A | N/A | N/A |
 | [1–20 August 2023](2023-08-20-Novus.html) | Novus <br> Svenska Dagbladet | 4.8% | 4.4–5.3% | 4.2–5.5% | 4.1–5.6% | 3.9–5.8% |
 | [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 2.6% | 2.2–3.0% | 2.1–3.2% | 2.0–3.3% | 1.9–3.5% |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 4.8% | 4.3–5.3% | 4.2–5.5% | 4.1–5.6% | 3.9–5.9% |
@@ -317,12 +319,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 22% | 99.0% |  |
-| 3.5–4.5% | 26% | 77% |  |
-| 4.5–5.5% | 29% | 51% | Median |
-| 5.5–6.5% | 21% | 22% |  |
-| 6.5–7.5% | 1.1% | 1.1% |  |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 17% | 99.2% |  |
+| 3.5–4.5% | 22% | 82% |  |
+| 4.5–5.5% | 37% | 60% | Median |
+| 5.5–6.5% | 22% | 23% |  |
+| 6.5–7.5% | 1.0% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -342,10 +344,12 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 1 | 1 | 1 | 1 | 1–2 |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–1 |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–27 August 2023](2023-08-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [21 September–24 August 2023](2023-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [1–20 August 2023](2023-08-20-Novus.html) | Novus <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 1 | 1 | 1 | 1 | 0–1 |
@@ -649,8 +653,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 67% | 69% | Median |
+| 0 | 25% | 100% |  |
+| 1 | 73% | 75% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
