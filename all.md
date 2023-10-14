@@ -5,12 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33–39% <br> 7–9 | 4–6% <br> 0–1 | 15–19% <br> 3–4 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 4–6% <br> 0–1 | 7–10% <br> 2 | 2–4% <br> 0–1 | N/A <br> N/A |
 | [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 37–41% <br> 8–10 | 4–6% <br> 1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 17–21% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 35–39% <br> 8–9 | 5–7% <br> 1–2 | 18–21% <br> 4–5 | 2–4% <br> 0 | 17–20% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 35–39% <br> 8–9 | 2–4% <br> 0 | 19–22% <br> 4–5 | 2–3% <br> 0 | 17–21% <br> 4–5 | 4–5% <br> 0–1 | 6–8% <br> 1–2 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 36–39% <br> 8–9 | 4–5% <br> 0–1 | 18–20% <br> 4–5 | 2–4% <br> 0 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0 | N/A <br> N/A |
 | [15–27 August 2023](2023-08-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33–39% <br> 7–9 | 4–6% <br> 0–1 | 17–21% <br> 4–5 | 2–4% <br> 0–1 | 16–20% <br> 4–5 | 5–7% <br> 1–2 | 6–9% <br> 1–2 | 3–5% <br> 0–1 | N/A <br> N/A |
-| [21 September–24 August 2023](2023-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–20 August 2023](2023-08-20-Novus.html) | Novus <br> Svenska Dagbladet | 37–40% <br> 8–9 | 4–6% <br> 1 | 18–20% <br> 4–5 | 3–4% <br> 0 | 16–19% <br> 4 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [15 July–2 August 2023](2023-08-02-Demoskop.html) | Demoskop <br> Aftonbladet | 33–36% <br> 7–8 | 2–3% <br> 0 | 19–22% <br> 4–5 | 3–4% <br> 0 | 18–21% <br> 4–5 | 4–6% <br> 1 | 7–9% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [17–30 July 2023](2023-07-30-Sifo.html) | Sifo <br> SVT | 36–40% <br> 8–9 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–4% <br> 0 | 17–19% <br> 4–5 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0 | N/A <br> N/A |
