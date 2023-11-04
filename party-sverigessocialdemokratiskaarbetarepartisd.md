@@ -10,11 +10,11 @@ Last result: **24.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.9% | 36.6–39.2% | 36.2–39.6% | 35.9–39.9% | 35.3–40.5% |
+| N/A | [Poll Average](average.html) | 37.4% | 35.9–38.8% | 35.5–39.2% | 35.1–39.6% | 34.4–40.2% |
 | [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Ekot | 37.9% | 36.6–39.2% | 36.2–39.6% | 35.9–39.9% | 35.3–40.5% |
-| [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | 37.8% | N/A | N/A | N/A | N/A |
-| [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | 36.5% | N/A | N/A | N/A | N/A |
-| [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | 37.4% | N/A | N/A | N/A | N/A |
+| [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | 37.8% | 36.5–39.1% | 36.1–39.5% | 35.8–39.8% | 35.2–40.5% |
+| [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | 36.5% | 35.2–37.8% | 34.8–38.2% | 34.5–38.5% | 33.9–39.2% |
+| [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | 37.4% | 36.3–38.5% | 36.0–38.9% | 35.7–39.1% | 35.2–39.7% |
 | [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 36.0% | 34.3–37.7% | 33.8–38.2% | 33.4–38.6% | 32.6–39.5% |
 | [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 38.6% | 37.3–39.9% | 36.9–40.3% | 36.6–40.6% | 36.0–41.3% |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 37.0% | 35.9–38.2% | 35.5–38.5% | 35.3–38.8% | 34.7–39.4% |
@@ -332,14 +332,14 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.9% | 100% |  |
-| 35.5–36.5% | 8% | 99.1% |  |
-| 36.5–37.5% | 28% | 91% |  |
-| 37.5–38.5% | 37% | 63% | Median |
-| 38.5–39.5% | 21% | 26% |  |
-| 39.5–40.5% | 5% | 5% |  |
-| 40.5–41.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.7% | 100% |  |
+| 34.5–35.5% | 5% | 99.2% |  |
+| 35.5–36.5% | 17% | 95% |  |
+| 36.5–37.5% | 33% | 78% | Median |
+| 37.5–38.5% | 30% | 45% |  |
+| 38.5–39.5% | 13% | 15% |  |
+| 39.5–40.5% | 2% | 3% |  |
+| 40.5–41.5% | 0.2% | 0.2% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
 
@@ -353,9 +353,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Ekot | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet |  |  |  |  |  |
-| [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
-| [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT |  |  |  |  |  |
+| [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -667,10 +667,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 42% | 100% |  |
-| 9 | 57% | 58% | Median |
-| 10 | 1.0% | 1.0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 48% | 99.8% |  |
+| 9 | 51% | 52% | Median |
+| 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% | Majority |
 
 
