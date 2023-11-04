@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Ekot | 36–40% <br> 8–9 | 4–6% <br> 0–1 | 15–18% <br> 3–4 | 2–3% <br> 0 | 20–24% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 2–4% <br> 0 | N/A <br> N/A |
+| [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33–39% <br> 7–9 | 4–6% <br> 0–1 | 15–19% <br> 3–4 | 3–5% <br> 0–1 | 18–22% <br> 4–5 | 4–6% <br> 0–1 | 7–10% <br> 2 | 2–4% <br> 0–1 | N/A <br> N/A |
 | [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 37–41% <br> 8–10 | 4–6% <br> 1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 17–21% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 35–39% <br> 8–9 | 5–7% <br> 1–2 | 18–21% <br> 4–5 | 2–4% <br> 0 | 17–20% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
