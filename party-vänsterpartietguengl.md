@@ -10,15 +10,21 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.9–9.0% | 6.7–9.5% | 6.5–9.9% | 6.1–10.6% |
+| N/A | [Poll Average](average.html) | 9.0% | 8.1–9.9% | 7.9–10.2% | 7.7–10.4% | 7.3–10.9% |
+| [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–9.9% | 7.9–10.2% | 7.7–10.4% | 7.3–10.9% |
+| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 7.8% | N/A | N/A | N/A | N/A |
+| [3–27 November 2023](2023-11-27-Indikator.html) | Indikator <br> Sveriges Radio | 7.3% | N/A | N/A | N/A | N/A |
+| [13–26 November 2023](2023-11-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | N/A | N/A | N/A | N/A |
+| [16 October–12 November 2023](2023-11-12-Novus.html) | Novus | 7.7% | N/A | N/A | N/A | N/A |
 | [16–30 October 2023](2023-10-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
 | [16–29 October 2023](2023-10-29-Verian.html) | Verian <br> SVT | 7.3% | 6.7–7.9% | 6.6–8.1% | 6.4–8.3% | 6.2–8.6% |
-| [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Ekot | 8.1% | 7.4–8.9% | 7.2–9.1% | 7.1–9.3% | 6.8–9.7% |
+| [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 8.1% | 7.4–8.9% | 7.2–9.1% | 7.1–9.3% | 6.8–9.7% |
+| [9–22 October 2023](2023-10-22-SKOP.html) | SKOP | 7.0% | N/A | N/A | N/A | N/A |
 | [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | 7.4% | 6.7–8.1% | 6.5–8.4% | 6.4–8.5% | 6.1–8.9% |
 | [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.2–8.4% | 5.9–8.7% |
 | [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | 8.1% | 7.5–8.8% | 7.3–9.0% | 7.2–9.1% | 6.9–9.4% |
 | [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.2–10.1% |
-| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 7.6% | 6.9–8.4% | 6.7–8.6% | 6.6–8.8% | 6.3–9.1% |
+| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 7.6% | 6.9–8.4% | 6.7–8.6% | 6.6–8.8% | 6.3–9.1% |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 7.8% | 7.2–8.5% | 7.0–8.7% | 6.9–8.9% | 6.6–9.2% |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 7.2% | 6.6–7.9% | 6.4–8.1% | 6.2–8.3% | 5.9–8.6% |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 7.6% | 7.0–8.3% | 6.9–8.4% | 6.7–8.6% | 6.4–8.9% |
@@ -324,13 +330,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 4% | 100% | Last Result |
-| 6.5–7.5% | 35% | 96% |  |
-| 7.5–8.5% | 42% | 62% | Median |
-| 8.5–9.5% | 16% | 20% |  |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.5% |  |
+| 5.5–6.5% | 0% | 100% | Last Result |
+| 6.5–7.5% | 1.3% | 100% |  |
+| 7.5–8.5% | 24% | 98.7% |  |
+| 8.5–9.5% | 53% | 75% | Median |
+| 9.5–10.5% | 20% | 22% |  |
+| 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -342,15 +347,21 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
+| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT |  |  |  |  |  |
+| [3–27 November 2023](2023-11-27-Indikator.html) | Indikator <br> Sveriges Radio |  |  |  |  |  |
+| [13–26 November 2023](2023-11-26-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [16 October–12 November 2023](2023-11-12-Novus.html) | Novus |  |  |  |  |  |
 | [16–30 October 2023](2023-10-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [16–29 October 2023](2023-10-29-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 1–2 | 1–2 |
-| [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Ekot | 2 | 2 | 2 | 2 | 2 |
+| [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 2 | 2 |
+| [9–22 October 2023](2023-10-22-SKOP.html) | SKOP |  |  |  |  |  |
 | [18 September–15 October 2023](2023-10-15-Novus.html) | Novus <br> Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 September–7 October 2023](2023-10-07-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18 September–1 October 2023](2023-10-01-Sifo.html) | Sifo <br> SVT | 2 | 2 | 2 | 2 | 2 |
 | [12–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 1–2 |
-| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Ekot | 2 | 2 | 2 | 2 | 1–2 |
+| [1–22 September 2023](2023-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 2 | 1–2 |
 | [21 August–17 September 2023](2023-09-17-Novus.html) | Novus <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [21 August–5 September 2023](2023-09-05-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [22 August–4 September 2023](2023-09-04-Sifo.html) | Sifo <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
@@ -658,9 +669,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 95% | 95% | Median |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
