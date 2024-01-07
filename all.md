@@ -5,11 +5,15 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 35–39% <br> 8–9 | 4–6% <br> 1 | 16–19% <br> 4 | 2–3% <br> 0 | 21–25% <br> 5–6 | 3–4% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
 | [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33–37% <br> 8–9 | 3–5% <br> 0–1 | 13–17% <br> 3–4 | 2–4% <br> 0 | 22–26% <br> 5–6 | 4–6% <br> 1 | 8–10% <br> 2 | 2–4% <br> 0 | N/A <br> N/A |
 | [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 34–37% <br> 7–9 | 4–5% <br> 0–1 | 16–18% <br> 3–4 | 2–3% <br> 0 | 21–24% <br> 5–6 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
+| [13 November–10 December 2023](2023-12-10-Novus.html) | Novus | 35–39% <br> 8–9 | 4–6% <br> 0–1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 19–22% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0 | N/A <br> N/A |
+| [18 November–4 December 2023](2023-12-04-Demoskop.html) | Demoskop <br> Aftonbladet | 35–39% <br> 8–9 | 3–5% <br> 0–1 | 16–19% <br> 4 | 2–4% <br> 0 | 21–25% <br> 5–6 | 3–5% <br> 0–1 | 6–9% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [3–27 November 2023](2023-11-27-Indikator.html) | Indikator <br> Sveriges Radio | 36–40% <br> 8–10 | 4–5% <br> 0–1 | 15–18% <br> 3–4 | 3–4% <br> 0 | 21–24% <br> 5–6 | 3–5% <br> 0–1 | 6–8% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A |
 | [13–26 November 2023](2023-11-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 34–38% <br> 7–9 | 4–6% <br> 1 | 14–18% <br> 3–4 | 2–4% <br> 0 | 19–23% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [16 October–12 November 2023](2023-11-12-Novus.html) | Novus | 36–40% <br> 8–9 | 4–5% <br> 0–1 | 16–19% <br> 4 | 2–3% <br> 0 | 21–24% <br> 5–6 | 4–5% <br> 0–1 | 7–9% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
+| [22 October–5 November 2023](2023-11-05-Demoskop.html) | Demoskop <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–30 October 2023](2023-10-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 32–38% <br> 7–9 | 4–6% <br> 0–1 | 17–21% <br> 4–5 | 1–3% <br> 0 | 19–23% <br> 4–6 | 3–5% <br> 0–1 | 8–11% <br> 2 | 2–4% <br> 0–1 | N/A <br> N/A |
 | [16–29 October 2023](2023-10-29-Verian.html) | Verian <br> SVT | 36–39% <br> 8–9 | 4–6% <br> 0–1 | 16–19% <br> 4 | 2–4% <br> 0 | 20–23% <br> 4–5 | 3–4% <br> 0–1 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 36–40% <br> 8–9 | 4–6% <br> 0–1 | 15–18% <br> 3–4 | 2–3% <br> 0 | 20–24% <br> 4–5 | 3–5% <br> 0–1 | 7–9% <br> 2 | 2–4% <br> 0 | N/A <br> N/A |
