@@ -10,12 +10,16 @@ Last result: **9.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 21.7–24.6% | 21.4–25.1% | 21.2–25.5% | 20.7–26.3% |
+| N/A | [Poll Average](average.html) | 22.7% | 20.6–24.3% | 20.1–24.8% | 19.7–25.2% | 19.0–26.1% |
+| [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 23.0% | 21.9–24.1% | 21.6–24.4% | 21.4–24.7% | 20.9–25.3% |
 | [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24.0% | 22.7–25.4% | 22.3–25.7% | 22.0–26.1% | 21.4–26.7% |
-| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 22.5% | 21.5–23.5% | 21.3–23.8% | 21.0–24.0% | 20.6–24.5% |
+| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 22.5% | 21.6–23.5% | 21.3–23.7% | 21.1–24.0% | 20.6–24.4% |
+| [13 November–10 December 2023](2023-12-10-Novus.html) | Novus | 20.6% | 19.6–21.7% | 19.3–22.0% | 19.0–22.3% | 18.5–22.8% |
+| [18 November–4 December 2023](2023-12-04-Demoskop.html) | Demoskop <br> Aftonbladet | 22.9% | 21.8–24.0% | 21.5–24.3% | 21.3–24.6% | 20.8–25.1% |
 | [3–27 November 2023](2023-11-27-Indikator.html) | Indikator <br> Sveriges Radio | 22.6% | 21.6–23.7% | 21.3–24.0% | 21.0–24.3% | 20.5–24.8% |
 | [13–26 November 2023](2023-11-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.8–22.3% | 19.4–22.7% | 19.1–23.0% | 18.5–23.7% |
 | [16 October–12 November 2023](2023-11-12-Novus.html) | Novus | 22.1% | 21.1–23.2% | 20.8–23.4% | 20.6–23.7% | 20.1–24.2% |
+| [22 October–5 November 2023](2023-11-05-Demoskop.html) | Demoskop <br> Aftonbladet | 19.3% | N/A | N/A | N/A | N/A |
 | [16–30 October 2023](2023-10-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.6–22.5% | 19.3–22.9% | 18.9–23.3% | 18.3–24.0% |
 | [16–29 October 2023](2023-10-29-Verian.html) | Verian <br> SVT | 21.2% | 20.3–22.2% | 20.0–22.4% | 19.8–22.7% | 19.3–23.1% |
 | [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 22.0% | 20.9–23.1% | 20.6–23.4% | 20.3–23.7% | 19.8–24.3% |
@@ -81,7 +85,7 @@ Last result: **9.7%** (General Election of 26 May 2019)
 | [6–8 September 2022](2022-09-08-Novus.html) | Novus <br> SVT | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.0% |
 | [5–7 September 2022](2022-09-07-Sifo.html) | Sifo <br> Svenska Dagbladet | 20.2% | N/A | N/A | N/A | N/A |
 | [4–7 September 2022](2022-09-07-SKOP.html) | SKOP | 19.8% | N/A | N/A | N/A | N/A |
-| [5–7 September 2022](2022-09-07-Novus.html) | Novus <br> SVT | 20.9% | N/A | N/A | N/A | N/A |
+| [5–7 September 2022](2022-09-07-Novus.html) | Novus <br> SVT | 20.8% | N/A | N/A | N/A | N/A |
 | [4–6 September 2022](2022-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 21.0% | 20.0–22.2% | 19.6–22.5% | 19.4–22.8% | 18.9–23.3% |
 | [3–6 September 2022](2022-09-06-SKOP.html) | SKOP | 19.7% | 18.4–21.1% | 18.0–21.5% | 17.7–21.9% | 17.1–22.6% |
 | [4–6 September 2022](2022-09-06-Novus.html) | Novus <br> SVT | 20.6% | 19.3–22.0% | 18.9–22.4% | 18.6–22.7% | 18.0–23.4% |
@@ -338,16 +342,16 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
-| 20.5–21.5% | 6% | 99.7% |  |
-| 21.5–22.5% | 29% | 93% |  |
-| 22.5–23.5% | 35% | 64% | Median |
-| 23.5–24.5% | 19% | 30% |  |
-| 24.5–25.5% | 8% | 10% |  |
-| 25.5–26.5% | 2% | 2% |  |
-| 26.5–27.5% | 0.3% | 0.3% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 2% | 99.9% |  |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 12% | 91% |  |
+| 21.5–22.5% | 23% | 79% |  |
+| 22.5–23.5% | 31% | 55% | Median |
+| 23.5–24.5% | 18% | 25% |  |
+| 24.5–25.5% | 6% | 7% |  |
+| 25.5–26.5% | 1.3% | 1.5% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -359,12 +363,16 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [13 November–10 December 2023](2023-12-10-Novus.html) | Novus | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [18 November–4 December 2023](2023-12-04-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [3–27 November 2023](2023-11-27-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–26 November 2023](2023-11-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [16 October–12 November 2023](2023-11-12-Novus.html) | Novus | 5 | 5 | 5 | 5–6 | 4–6 |
+| [22 October–5 November 2023](2023-11-05-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
 | [16–30 October 2023](2023-10-30-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [16–29 October 2023](2023-10-29-Verian.html) | Verian <br> SVT | 5 | 5 | 5 | 4–5 | 4–6 |
 | [3–25 October 2023](2023-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -683,10 +691,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 70% | 99.7% | Median |
-| 6 | 30% | 30% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 4 | 2% | 100% |  |
+| 5 | 70% | 98% | Median |
+| 6 | 28% | 28% |  |
+| 7 | 0% | 0% |  |
 
 
