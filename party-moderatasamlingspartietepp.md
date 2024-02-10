@@ -10,7 +10,9 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 15.0–19.0% | 14.5–19.4% | 14.1–19.7% | 13.4–20.3% |
+| N/A | [Poll Average](average.html) | 17.8% | 16.7–19.3% | 16.4–19.9% | 16.1–20.3% | 15.7–21.3% |
+| [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 18.6% | 17.1–20.3% | 16.7–20.8% | 16.4–21.2% | 15.7–22.0% |
+| [22 December 2023–21 January 2024](2024-01-21-Novus.html) | Novus | 18.5% | N/A | N/A | N/A | N/A |
 | [22 December 2023–8 January 2024](2024-01-08-Demoskop.html) | Demoskop <br> Aftonbladet | 18.3% | 17.3–19.3% | 17.1–19.6% | 16.8–19.9% | 16.4–20.4% |
 | [25 December 2023–7 January 2024](2024-01-07-Verian.html) | Verian <br> SVT | 17.2% | 16.4–18.1% | 16.1–18.3% | 15.9–18.5% | 15.5–19.0% |
 | [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 17.5% | 16.6–18.5% | 16.3–18.8% | 16.0–19.1% | 15.6–19.6% |
@@ -336,17 +338,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.7% | 100% |  |
-| 13.5–14.5% | 5% | 99.2% | Last Result |
-| 14.5–15.5% | 9% | 94% |  |
-| 15.5–16.5% | 10% | 85% |  |
-| 16.5–17.5% | 24% | 75% |  |
-| 17.5–18.5% | 30% | 51% | Median |
-| 18.5–19.5% | 17% | 21% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% | Last Result |
+| 14.5–15.5% | 0.3% | 100% |  |
+| 15.5–16.5% | 7% | 99.7% |  |
+| 16.5–17.5% | 31% | 92% |  |
+| 17.5–18.5% | 36% | 62% | Median |
+| 18.5–19.5% | 18% | 26% |  |
+| 19.5–20.5% | 6% | 8% |  |
+| 20.5–21.5% | 1.5% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.3% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -357,7 +358,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [22 December 2023–21 January 2024](2024-01-21-Novus.html) | Novus |  |  |  |  |  |
 | [22 December 2023–8 January 2024](2024-01-08-Demoskop.html) | Demoskop <br> Aftonbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [25 December 2023–7 January 2024](2024-01-07-Verian.html) | Verian <br> SVT | 4 | 4 | 4 | 4 | 3–4 |
 | [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 4 | 4–5 |
@@ -685,9 +688,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 10% | 100% | Last Result |
-| 4 | 85% | 90% | Median |
-| 5 | 5% | 5% |  |
+| 3 | 0.8% | 100% | Last Result |
+| 4 | 93% | 99.2% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
 
