@@ -5,8 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
-| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 35–39% <br> 8–9 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 20–23% <br> 5–6 | 3–5% <br> 0–1 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | N/A <br> N/A |
-| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 34–37% <br> 7–9 | 4–5% <br> 0–1 | 16–19% <br> 4 | 3–4% <br> 0–1 | 20–23% <br> 4–5 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
+| [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 30–35% <br> 6–8 | 7–10% <br> 1–2 | 16–21% <br> 3–5 | 2–5% <br> 0–1 | 18–23% <br> 4–5 | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 35–39% <br> 8–9 | 4–5% <br> 0–1 | 16–19% <br> 4 | 2–4% <br> 0 | 20–23% <br> 4–5 | 4–5% <br> 0–1 | 7–9% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 32–36% <br> 7–9 | 3–5% <br> 0–1 | 16–20% <br> 4–5 | 2–4% <br> 0 | 19–23% <br> 4–6 | 4–6% <br> 1 | 8–10% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 31–36% <br> 7–8 | 3–6% <br> 0–1 | 16–21% <br> 4–5 | 4–7% <br> 0–1 | 21–26% <br> 5–6 | 3–6% <br> 0–1 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A |
