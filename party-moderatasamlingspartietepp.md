@@ -10,9 +10,8 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 16.8–19.4% | 16.5–19.8% | 16.2–20.2% | 15.7–21.1% |
-| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 18.6% | 17.6–19.6% | 17.3–19.9% | 17.1–20.2% | 16.7–20.7% |
-| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 17.5% | 16.6–18.4% | 16.4–18.6% | 16.2–18.9% | 15.8–19.3% |
+| N/A | [Poll Average](average.html) | 18.2% | 16.7–19.7% | 16.3–20.1% | 16.0–20.5% | 15.3–21.3% |
+| [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 18.1% | 16.7–19.7% | 16.3–20.1% | 16.0–20.5% | 15.3–21.3% |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 17.3% | 16.4–18.3% | 16.1–18.6% | 15.9–18.9% | 15.4–19.3% |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.0% | 16.8–19.3% | 16.5–19.6% | 16.2–19.9% | 15.7–20.5% |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 18.6% | 17.1–20.3% | 16.7–20.8% | 16.4–21.2% | 15.7–22.0% |
@@ -343,14 +342,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% | Last Result |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 5% | 99.7% |  |
-| 16.5–17.5% | 24% | 95% |  |
-| 17.5–18.5% | 38% | 70% | Median |
-| 18.5–19.5% | 25% | 33% |  |
-| 19.5–20.5% | 7% | 8% |  |
-| 20.5–21.5% | 1.2% | 1.4% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0.9% | 99.9% |  |
+| 15.5–16.5% | 7% | 99.0% |  |
+| 16.5–17.5% | 22% | 92% |  |
+| 17.5–18.5% | 33% | 70% | Median |
+| 18.5–19.5% | 25% | 37% |  |
+| 19.5–20.5% | 10% | 12% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.2% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -362,9 +361,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 4 | 4 | 4 | 4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
+| [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 4 | 4 | 4 | 3–5 | 3–5 |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 4 | 3–5 |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -696,9 +694,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.7% | 100% | Last Result |
-| 4 | 88% | 99.3% | Median |
-| 5 | 12% | 12% |  |
+| 3 | 5% | 100% | Last Result |
+| 4 | 90% | 95% | Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 
