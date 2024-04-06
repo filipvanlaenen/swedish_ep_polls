@@ -10,7 +10,8 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.1–9.3% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.3–9.1% | 4.1–9.5% | 4.0–9.8% | 3.7–10.5% |
+| [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 4.6% | 4.1–5.2% | 3.9–5.4% | 3.8–5.6% | 3.6–5.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.7–10.2% | 6.3–10.8% |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.3% |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.8–5.4% | 3.5–5.7% |
@@ -342,13 +343,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 20% | 98% |  |
-| 7.5–8.5% | 44% | 78% | Median |
-| 8.5–9.5% | 28% | 34% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 21% | 99.8% |  |
+| 4.5–5.5% | 28% | 79% |  |
+| 5.5–6.5% | 2% | 51% | Median |
+| 6.5–7.5% | 8% | 49% |  |
+| 7.5–8.5% | 21% | 41% |  |
+| 8.5–9.5% | 16% | 20% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -363,7 +367,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 1–2 | 1–2 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -697,9 +702,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% |  |
-| 2 | 94% | 94% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 3% | 100% |  |
+| 1 | 49% | 97% | Median |
+| 2 | 48% | 48% |  |
+| 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
 
