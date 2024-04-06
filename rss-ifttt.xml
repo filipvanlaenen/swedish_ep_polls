@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 21 Jan 2023 17:59:04 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Novus, 19 February–17 March 2024 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus, 19 February–17 March 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus-seating-plan.png" length="380487" type="image/png"/>
+      <pubDate>Sat, 6 Apr 2024 22:14:35 +0200</pubDate>
+      <dc:date>2024-04-06T22:14:35.259011016+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus, 19 February–17 March 2024 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Novus, 19 February–17 March 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus-seats.png" length="226410" type="image/png"/>
+      <pubDate>Sat, 6 Apr 2024 22:14:35 +0200</pubDate>
+      <dc:date>2024-04-06T22:14:35.259011016+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus, 19 February–17 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Novus, 19 February–17 March 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-17-Novus.png" length="271600" type="image/png"/>
+      <pubDate>Sat, 6 Apr 2024 22:14:35 +0200</pubDate>
+      <dc:date>2024-04-06T22:14:35.259011016+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-05-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Euronews, 23 February–5 March 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-05-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-03-05-Ipsos-seating-plan.png"/>]]></description>
@@ -196,30 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-01-07-Verian.png" length="271439" type="image/png"/>
       <pubDate>Sun, 10 Mar 2024 14:06:40 +0100</pubDate>
       <dc:date>2024-03-10T14:06:40.741197414+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–17 December 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 5–17 December 2023<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos-seating-plan.png" length="384102" type="image/png"/>
-      <pubDate>Fri, 22 Dec 2023 18:47:45 +0100</pubDate>
-      <dc:date>2023-12-22T18:47:45.778369378+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–17 December 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 5–17 December 2023<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos-seats.png" length="236023" type="image/png"/>
-      <pubDate>Fri, 22 Dec 2023 18:47:45 +0100</pubDate>
-      <dc:date>2023-12-22T18:47:45.778369378+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–17 December 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 5–17 December 2023<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2023-12-17-Ipsos.png" length="278597" type="image/png"/>
-      <pubDate>Fri, 22 Dec 2023 18:47:45 +0100</pubDate>
-      <dc:date>2023-12-22T18:47:45.778369378+01:00</dc:date>
     </item>
   </channel>
 </rss>
