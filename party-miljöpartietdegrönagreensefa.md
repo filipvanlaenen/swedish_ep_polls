@@ -369,7 +369,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 1–2 | 1–2 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -704,7 +704,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
 | 1 | 49% | 96% | Median |
-| 2 | 48% | 48% |  |
+| 2 | 47% | 47% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
