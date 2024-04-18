@@ -371,7 +371,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22 December 2023–21 January 2024](2024-01-21-Novus.html) | Novus | 5 | 5 | 4–5 | 4–5 | 4–5 |
