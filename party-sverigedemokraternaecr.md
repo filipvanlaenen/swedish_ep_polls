@@ -375,8 +375,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22 December 2023–21 January 2024](2024-01-21-Novus.html) | Novus | 5 | 5 | 4–5 | 4–5 | 4–5 |
-| [22 December 2023–8 January 2024](2024-01-08-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5 | 5 | 4–5 | 4–6 |
-| [25 December 2023–7 January 2024](2024-01-07-Verian.html) | Verian <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [22 December 2023–8 January 2024](2024-01-08-Demoskop.html) | Demoskop <br> Aftonbladet | 5 | 5 | 5 | 4–6 | 4–6 |
+| [25 December 2023–7 January 2024](2024-01-07-Verian.html) | Verian <br> SVT | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [7 December 2023–2 January 2024](2024-01-02-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–17 December 2023](2023-12-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 November–10 December 2023](2023-12-10-Verian.html) | Verian <br> SVT | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
