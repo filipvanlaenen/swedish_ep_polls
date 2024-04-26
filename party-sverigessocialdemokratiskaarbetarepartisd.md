@@ -383,7 +383,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [24 March–8 April 2024](2024-04-08-Demoskop.html) | Demoskop <br> Aftonbladet | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [25 March–7 April 2024](2024-04-07-Verian.html) | Verian <br> SVT | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [22 February–11 March 2024](2024-03-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [22 February–11 March 2024](2024-03-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [19 February–3 March 2024](2024-03-03-Verian.html) | Verian <br> SVT | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
