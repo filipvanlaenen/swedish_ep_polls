@@ -10,19 +10,15 @@ Last result: **6.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 7.1–8.5% | 7.0–8.7% | 6.8–8.9% | 6.5–9.3% |
-| [24 March–8 April 2024](2024-04-08-Demoskop.html) | Demoskop <br> Aftonbladet | 7.8% | 7.1–8.6% | 7.0–8.8% | 6.8–8.9% | 6.5–9.3% |
-| [25 March–7 April 2024](2024-04-07-Verian.html) | Verian <br> SVT | 7.7% | 7.1–8.3% | 7.0–8.5% | 6.8–8.7% | 6.5–9.0% |
-| [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 7.8% | 7.1–8.6% | 6.9–8.8% | 6.8–9.0% | 6.4–9.4% |
-| [22 February–11 March 2024](2024-03-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 7.6% | 6.9–8.3% | 6.7–8.5% | 6.6–8.7% | 6.3–9.1% |
+| N/A | [Poll Average](average.html) | 8.1% | 7.7–8.5% | 7.6–8.6% | 7.5–8.8% | 7.3–9.0% |
+| [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 8.1% | 7.7–8.5% | 7.6–8.7% | 7.5–8.8% | 7.3–9.0% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
-| [19 February–3 March 2024](2024-03-03-Verian.html) | Verian <br> SVT | 8.4% | 7.8–9.1% | 7.6–9.3% | 7.5–9.4% | 7.2–9.8% |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.5% |
 | [4–26 February 2024](2024-02-26-Indikator.html) | Indikator <br> Sveriges Radio | 7.3% | 6.6–8.0% | 6.5–8.2% | 6.3–8.4% | 6.0–8.8% |
 | [13–25 February 2024](2024-02-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | N/A | N/A | N/A | N/A |
 | [22 January–18 February 2024](2024-02-18-Novus.html) | Novus <br> Göteborgs Posten | 8.9% | N/A | N/A | N/A | N/A |
-| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 6.6% | N/A | N/A | N/A | N/A |
-| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 7.8% | N/A | N/A | N/A | N/A |
+| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 6.6% | 6.0–7.3% | 5.8–7.5% | 5.7–7.7% | 5.4–8.0% |
+| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 7.8% | 7.2–8.5% | 7.1–8.6% | 6.9–8.8% | 6.7–9.1% |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 8.2% | 7.5–8.9% | 7.3–9.2% | 7.2–9.3% | 6.9–9.7% |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
@@ -352,13 +348,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% | Last Result |
-| 6.5–7.5% | 32% | 99.3% |  |
-| 7.5–8.5% | 59% | 68% | Median |
-| 8.5–9.5% | 8% | 8% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% | Last Result |
+| 6.5–7.5% | 4% | 100% |  |
+| 7.5–8.5% | 87% | 96% | Median |
+| 8.5–9.5% | 9% | 9% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -369,19 +363,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
-| [24 March–8 April 2024](2024-04-08-Demoskop.html) | Demoskop <br> Aftonbladet | 2 | 2 | 2 | 2 | 1–2 |
-| [25 March–7 April 2024](2024-04-07-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
-| [19 February–17 March 2024](2024-03-17-Novus.html) | Novus | 2 | 2 | 2 | 2 | 1–2 |
-| [22 February–11 March 2024](2024-03-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 1–2 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 2–3 | 2–3 |
-| [19 February–3 March 2024](2024-03-03-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 2 | 2 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 2 | 2–3 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–26 February 2024](2024-02-26-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–25 February 2024](2024-02-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [22 January–18 February 2024](2024-02-18-Novus.html) | Novus <br> Göteborgs Posten |  |  |  |  |  |
-| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet |  |  |  |  |  |
-| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT |  |  |  |  |  |
+| [27 January–11 February 2024](2024-02-11-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22 January–4 February 2024](2024-02-04-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
 | [5–29 January 2024](2024-01-29-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 2 | 2 |
 | [16–28 January 2024](2024-01-28-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 2 | 2–3 |
 | [21 December 2023–22 January 2024](2024-01-22-SKOP.html) | SKOP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -713,8 +703,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% | Last Result |
-| 2 | 98.9% | 98.9% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 100% | 100% | Median |
 
 
