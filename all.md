@@ -5,8 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | MP | M | L | SD | C | V | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.2% <br> 5 | 15.4% <br> 4 | 13.6% <br> 3 | 9.9% <br> 2 | 9.7% <br> 2 | 6.5% <br> 1 | 6.3% <br> 1 | 5.9% <br> 1 | 5.5% <br> 1 |
+| [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 27–30% <br> 6–7 | 8–10% <br> 2 | 16–19% <br> 4 | 3–4% <br> 0 | 19–21% <br> 4–5 | 4–5% <br> 0–1 | 8–10% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 28–32% <br> 6–8 | 8–11% <br> 2 | 17–20% <br> 3–5 | 3–5% <br> 0–1 | 16–19% <br> 3–4 | 4–6% <br> 0–1 | 8–10% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A |
+| [1–28 April 2024](2024-04-28-Novus.html) | Novus | 29–33% <br> 7–8 | 9–12% <br> 2–3 | 16–19% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 3–4% <br> 0–1 | 7–10% <br> 2 | 3–4% <br> 0–1 | N/A <br> N/A |
 | [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 31–33% <br> 7–8 | 9–10% <br> 2 | 18–20% <br> 4–5 | 3–4% <br> 0 | 18–20% <br> 4–5 | 4–5% <br> 1 | 7–9% <br> 2 | 2–3% <br> 0 | N/A <br> N/A |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28–33% <br> 6–7 | 7–10% <br> 1–2 | 14–19% <br> 3–4 | 4–6% <br> 0–1 | 15–20% <br> 3–4 | 6–9% <br> 1–2 | 8–12% <br> 2 | 3–6% <br> 0–1 | N/A <br> N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28–33% <br> 6–7 | 7–10% <br> 1–2 | 14–19% <br> 3–4 | 4–6% <br> 0–1 | 15–20% <br> 3–4 | 6–9% <br> 1–2 | 8–12% <br> 2–3 | 3–6% <br> 0–1 | N/A <br> N/A |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 30–35% <br> 6–8 | 7–10% <br> 1–2 | 16–21% <br> 3–5 | 2–5% <br> 0–1 | 18–23% <br> 4–5 | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A |
 | [4–26 February 2024](2024-02-26-Indikator.html) | Indikator <br> Sveriges Radio | 34–38% <br> 8–9 | 4–6% <br> 0–1 | 17–20% <br> 4–5 | 2–4% <br> 0 | 20–24% <br> 5–6 | 3–5% <br> 0–1 | 6–8% <br> 1–2 | 3–4% <br> 0 | N/A <br> N/A |
 | [13–25 February 2024](2024-02-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
