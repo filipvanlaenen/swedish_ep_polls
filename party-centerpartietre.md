@@ -10,7 +10,10 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 4.3–4.9% | 4.2–5.0% | 4.1–5.1% | 4.0–5.3% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.0% | 3.3–5.1% | 3.1–5.3% | 2.9–5.6% |
+| [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4.6% | 4.2–5.1% | 4.1–5.2% | 4.0–5.3% | 3.8–5.5% |
+| [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.6–5.5% | 3.4–5.8% |
+| [1–28 April 2024](2024-04-28-Novus.html) | Novus | 3.6% | 3.1–4.1% | 3.0–4.3% | 2.9–4.4% | 2.7–4.7% |
 | [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 4.6% | 4.3–4.9% | 4.2–5.0% | 4.1–5.1% | 4.0–5.3% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.1–9.3% |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.6–6.1% | 3.2–6.5% |
@@ -348,10 +351,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 43% | 100% |  |
-| 4.5–5.5% | 57% | 57% | Median |
-| 5.5–6.5% | 0% | 0% | Last Result |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 11% | 100% |  |
+| 3.5–4.5% | 48% | 89% | Median |
+| 4.5–5.5% | 40% | 41% |  |
+| 5.5–6.5% | 0.6% | 0.6% | Last Result |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -362,7 +367,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 1 | 1 | 1 | 0–1 | 0–1 |
+| [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–28 April 2024](2024-04-28-Novus.html) | Novus | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 1 | 1 | 0–1 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -702,8 +710,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 99.4% | 99.4% | Last Result, Median |
+| 0 | 26% | 100% |  |
+| 1 | 74% | 74% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 

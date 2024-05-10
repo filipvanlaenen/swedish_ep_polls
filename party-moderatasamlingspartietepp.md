@@ -10,7 +10,10 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.0% | 18.4–19.6% | 18.2–19.8% | 18.1–19.9% | 17.8–20.2% |
+| N/A | [Poll Average](average.html) | 18.1% | 16.8–19.3% | 16.6–19.6% | 16.3–19.8% | 15.9–20.3% |
+| [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 17.3% | 16.6–18.1% | 16.3–18.3% | 16.2–18.5% | 15.8–18.9% |
+| [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 18.3% | 17.2–19.4% | 16.9–19.8% | 16.6–20.1% | 16.1–20.7% |
+| [1–28 April 2024](2024-04-28-Novus.html) | Novus | 17.7% | 16.7–18.8% | 16.4–19.1% | 16.2–19.3% | 15.7–19.8% |
 | [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 19.0% | 18.4–19.6% | 18.2–19.8% | 18.1–20.0% | 17.8–20.2% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16.4% | 14.9–17.9% | 14.5–18.4% | 14.2–18.8% | 13.5–19.6% |
 | [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 18.1% | 16.7–19.7% | 16.3–20.1% | 16.0–20.5% | 15.3–21.3% |
@@ -349,13 +352,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% | Last Result |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 16% | 99.9% |  |
-| 18.5–19.5% | 71% | 83% | Median |
-| 19.5–20.5% | 12% | 12% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 5% | 99.9% |  |
+| 16.5–17.5% | 27% | 95% |  |
+| 17.5–18.5% | 34% | 69% | Median |
+| 18.5–19.5% | 29% | 35% |  |
+| 19.5–20.5% | 5% | 5% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -367,10 +370,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–4 |
+| [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [1–28 April 2024](2024-04-28-Novus.html) | Novus | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [28 March–22 April 2024](2024-04-22-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 4 | 4 | 4 | 3–5 | 3–5 |
+| [19 February–3 March 2024](2024-03-03-Novus.html) | Novus | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [4–26 February 2024](2024-02-26-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13–25 February 2024](2024-02-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
 | [22 January–18 February 2024](2024-02-18-Novus.html) | Novus <br> Göteborgs Posten |  |  |  |  |  |
@@ -707,9 +713,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 72% | 100% | Median |
-| 5 | 28% | 28% |  |
+| 3 | 1.0% | 100% | Last Result |
+| 4 | 88% | 99.0% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 
