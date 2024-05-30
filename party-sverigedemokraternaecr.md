@@ -379,7 +379,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–19 May 2024](2024-05-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 3–5 |
+| [7–19 May 2024](2024-05-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–30 April 2024](2024-04-30-Verian.html) | Verian <br> SVT | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–28 April 2024](2024-04-28-Novus.html) | Novus | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -724,8 +724,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0.8% | 100% |  |
-| 4 | 68% | 99.2% | Median |
-| 5 | 31% | 31% |  |
+| 4 | 69% | 99.2% | Median |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 
