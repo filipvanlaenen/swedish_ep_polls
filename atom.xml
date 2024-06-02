@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-05-30T12:44:15.925803+02:00</updated>
+  <updated>2024-06-02T12:42:54.423857+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Centerpartiet (RE): 3.9–5.6%, 0–1 seats</li><li>Liberalerna (RE): 4.3–6.1%, 1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 27.6–31.3%, 6–7 seats</li><li>Vänsterpartiet (GUE/NGL): 8.9–11.3%, 2–3 seats</li><li>Sverigedemokraterna (ECR): 17.5–20.8%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 14.1–17.0%, 3–4 seats</li><li>Kristdemokraterna (EPP): 3.1–4.6%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 9.8–12.4%, 2–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2024-05-29-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2024-05-29-Novus.html"/>
+    <title>Opinion Poll by Novus for Göteborgs Posten, 2–29 May 2024</title>
+    <updated>2024-06-02T12:01:15.848901+02:00</updated>
+    <dc:date>2024-06-02T12:01:15.848901+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Centerpartiet (RE): 3.7–6.4%, 0–1 seats</li><li>Liberalerna (RE): 3.6–6.2%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 22.5–27.9%, 5–6 seats</li><li>Vänsterpartiet (GUE/NGL): 7.8–11.5%, 2–3 seats</li><li>Sverigedemokraterna (ECR): 17.3–22.2%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 15.0–19.7%, 3–4 seats</li><li>Kristdemokraterna (EPP): 4.2–7.0%, 1–2 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 8.8–12.7%, 2–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2024-05-28-Verian.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2024-05-28-Verian.html"/>
+    <title>Opinion Poll by Verian for SVT, 22–28 May 2024</title>
+    <updated>2024-06-02T12:42:54.423857+02:00</updated>
+    <dc:date>2024-06-02T12:42:54.423857+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Centerpartiet (RE): 3.9–5.4%, 0–1 seats</li><li>Liberalerna (RE): 2.2–3.4%, 0 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 25.9–29.2%, 6–7 seats</li><li>Vänsterpartiet (GUE/NGL): 7.7–9.8%, 2 seats</li><li>Sverigedemokraterna (ECR): 18.5–21.4%, 4–5 seats</li><li>Moderata samlingspartiet (EPP): 17.1–20.0%, 4–5 seats</li><li>Kristdemokraterna (EPP): 3.3–4.7%, 0–1 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 8.8–11.0%, 2–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2024-05-20-Demoskop.html</id>
@@ -2351,5 +2367,5 @@
     <updated>2020-06-01T09:30:18+02:00</updated>
     <dc:date>2020-06-01T09:30:18+02:00</dc:date>
   </entry>
-  <dc:date>2024-05-30T12:44:15.925803+02:00</dc:date>
+  <dc:date>2024-06-02T12:42:54.423857+02:00</dc:date>
 </feed>
