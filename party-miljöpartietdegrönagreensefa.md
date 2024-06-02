@@ -10,7 +10,9 @@ Last result: **15.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 9.3–11.5% | 9.1–11.9% | 8.9–12.2% | 8.6–12.7% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.5–11.8% | 9.2–12.1% | 9.0–12.4% | 8.6–12.9% |
+| [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 11.0% | 10.2–11.9% | 10.0–12.1% | 9.8–12.4% | 9.4–12.8% |
+| [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 9.8% | 9.1–10.6% | 8.9–10.8% | 8.8–11.0% | 8.5–11.3% |
 | [7–19 May 2024](2024-05-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.8% | 9.9–11.9% | 9.6–12.2% | 9.4–12.4% | 9.0–12.9% |
 | [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 9.2% | 8.6–9.8% | 8.5–10.0% | 8.3–10.1% | 8.1–10.4% |
@@ -354,13 +356,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 17% | 99.6% |  |
-| 9.5–10.5% | 45% | 83% | Median |
-| 10.5–11.5% | 29% | 38% |  |
-| 11.5–12.5% | 8% | 9% |  |
-| 12.5–13.5% | 0.8% | 0.8% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.5% | 100% |  |
+| 8.5–9.5% | 11% | 99.5% |  |
+| 9.5–10.5% | 36% | 88% |  |
+| 10.5–11.5% | 37% | 52% | Median |
+| 11.5–12.5% | 13% | 15% |  |
+| 12.5–13.5% | 1.5% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% | Last Result |
 
 
@@ -373,6 +375,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 2 | 2 | 2 | 2–3 | 2–3 |
 | [7–19 May 2024](2024-05-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24 April–7 May 2024](2024-05-07-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
@@ -717,8 +721,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 79% | 100% | Median |
-| 3 | 21% | 21% |  |
+| 2 | 73% | 100% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% | Last Result |
 
 
