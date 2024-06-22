@@ -10,7 +10,8 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 15.2–19.6% | 14.8–20.0% | 14.5–20.4% | 14.0–21.2% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.2–19.5% | 14.8–20.0% | 14.5–20.4% | 14.0–21.2% |
+| [23 May–1 June 2024](2024-06-01-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 18.0% | 17.1–18.9% | 16.9–19.1% | 16.7–19.3% | 16.3–19.8% |
 | [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 15.5% | 14.6–16.5% | 14.3–16.8% | 14.1–17.0% | 13.6–17.5% |
 | [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 18.5% | 17.6–19.5% | 17.4–19.7% | 17.1–20.0% | 16.7–20.4% |
@@ -360,10 +361,10 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 3% | 99.9% | Last Result |
 | 14.5–15.5% | 12% | 97% |  |
 | 15.5–16.5% | 15% | 85% |  |
-| 16.5–17.5% | 13% | 70% |  |
-| 17.5–18.5% | 23% | 57% | Median |
-| 18.5–19.5% | 23% | 34% |  |
-| 19.5–20.5% | 9% | 11% |  |
+| 16.5–17.5% | 17% | 70% |  |
+| 17.5–18.5% | 26% | 52% | Median |
+| 18.5–19.5% | 17% | 27% |  |
+| 19.5–20.5% | 7% | 9% |  |
 | 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -378,6 +379,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [23 May–1 June 2024](2024-06-01-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4 | 4 | 4 | 4–5 |
 | [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -725,8 +727,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 17% | 100% | Last Result |
-| 4 | 73% | 83% | Median |
-| 5 | 10% | 10% |  |
+| 4 | 75% | 83% | Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 

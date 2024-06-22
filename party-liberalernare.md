@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 2.7–5.5% | 2.6–5.8% | 2.4–6.0% | 2.2–6.4% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.0–5.5% | 2.9–5.8% | 2.8–6.0% | 2.5–6.4% |
+| [23 May–1 June 2024](2024-06-01-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 3.1% | 2.7–3.5% | 2.6–3.7% | 2.5–3.8% | 2.4–4.0% |
 | [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 5.1% | 4.6–5.8% | 4.4–5.9% | 4.3–6.1% | 4.0–6.4% |
 | [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 2.8% | 2.4–3.2% | 2.3–3.3% | 2.2–3.4% | 2.1–3.7% |
@@ -356,9 +357,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 21% | 95% |  |
-| 3.5–4.5% | 21% | 74% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 23% | 99.4% |  |
+| 3.5–4.5% | 23% | 76% |  |
 | 4.5–5.5% | 44% | 54% | Median |
 | 5.5–6.5% | 10% | 10% |  |
 | 6.5–7.5% | 0.3% | 0.3% |  |
@@ -376,6 +377,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 May–1 June 2024](2024-06-01-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [2–29 May 2024](2024-05-29-Novus.html) | Novus <br> Göteborgs Posten | 1 | 1 | 1 | 1 | 1 |
 | [22–28 May 2024](2024-05-28-Verian.html) | Verian <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–20 May 2024](2024-05-20-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
