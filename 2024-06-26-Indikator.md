@@ -16,8 +16,8 @@
 | Vänsterpartiet (GUE/NGL) | 0.0% | 9.9% | 9.1–10.8% |8.9–11.1% |8.7–11.3% |8.3–11.7% |
 | Miljöpartiet de gröna (Greens/EFA) | 0.0% | 7.2% | 6.5–8.0% |6.3–8.2% |6.2–8.4% |5.9–8.8% |
 | Centerpartiet (RE) | 0.0% | 5.3% | 4.7–6.0% |4.5–6.2% |4.4–6.3% |4.1–6.7% |
-| Liberalerna (RE) | 0.0% | 3.7% | 3.2–4.3% |3.1–4.5% |3.0–4.6% |2.8–4.9% |
 | Kristdemokraterna (EPP) | 0.0% | 3.7% | 3.2–4.3% |3.1–4.5% |3.0–4.6% |2.8–4.9% |
+| Liberalerna (RE) | 0.0% | 3.7% | 3.2–4.3% |3.1–4.5% |3.0–4.6% |2.8–4.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -37,8 +37,8 @@
 | <a href="#vänsterpartiet-(gue/ngl)">Vänsterpartiet (GUE/NGL)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#miljöpartiet-de-gröna-(greens/efa)">Miljöpartiet de gröna (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#centerpartiet-(re)">Centerpartiet (RE)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#kristdemokraterna-(epp)">Kristdemokraterna (EPP)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#liberalerna-(re)">Liberalerna (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Sveriges socialdemokratiska arbetareparti (S&D)
 
@@ -54,8 +54,8 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 7% | 100% |  |
-| 7 | 84% | 93% | Median |
+| 6 | 6% | 100% |  |
+| 7 | 86% | 94% | Median |
 | 8 | 9% | 9% |  |
 | 9 | 0% | 0% |  |
 
@@ -71,8 +71,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 75% | 99.9% | Median |
-| 5 | 25% | 25% |  |
+| 4 | 71% | 99.9% | Median |
+| 5 | 29% | 29% |  |
 | 6 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -87,8 +87,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 88% | 99.9% | Median |
-| 5 | 12% | 12% |  |
+| 4 | 89% | 99.9% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -114,8 +114,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 13% | 100% |  |
-| 2 | 87% | 87% | Median |
+| 1 | 14% | 100% |  |
+| 2 | 86% | 86% | Median |
 | 3 | 0% | 0% |  |
 
 ### Centerpartiet (RE)
@@ -127,21 +127,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 98% | 99.8% | Median |
-| 2 | 1.5% | 1.5% |  |
+| 1 | 98.7% | 99.8% | Median |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
-
-### Liberalerna (RE)
-
-*For a full overview of the results for this party, see the [Liberalerna (RE)](party-liberalernare.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-06-26-Indikator-seats-pmf-liberalernare.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 38% | 38% |  |
-| 2 | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP)
 
@@ -153,6 +141,18 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 72% | 100% | Last Result, Median |
 | 1 | 28% | 28% |  |
+| 2 | 0% | 0% |  |
+
+### Liberalerna (RE)
+
+*For a full overview of the results for this party, see the [Liberalerna (RE)](party-liberalernare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2024-06-26-Indikator-seats-pmf-liberalernare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 36% | 36% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -180,8 +180,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 49% | 100% | Median |
-| 5 | 49% | 51% |  |
+| 4 | 45% | 100% | Median |
+| 5 | 52% | 55% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -195,8 +195,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 88% | 99.9% | Median |
-| 5 | 12% | 12% |  |
+| 4 | 89% | 99.9% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -218,8 +218,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 61% | 99.9% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 63% | 99.9% | Median |
+| 2 | 37% | 37% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -230,8 +230,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 13% | 100% |  |
-| 2 | 87% | 87% | Median |
+| 1 | 14% | 100% |  |
+| 2 | 86% | 86% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -246,6 +246,6 @@
 ### Calculations
 
 + **Sample size:** 2098
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.78%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.93%
 
