@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Sep 2024 16:33:37 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for SVT, 26 August–8 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-09-08-Verian.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-26-Indikator-seats.png"
         length="233975"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:06:02 +0200</pubDate>
-      <dc:date>2024-07-24T22:06:02.240899+02:00</dc:date>
+      <pubDate>Thu, 26 Sep 2024 22:32:52 +0200</pubDate>
+      <dc:date>2024-09-26T22:32:52.545737+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 5–26 June 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-26-Indikator-coalitions-seats.png"
         length="140850"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:06:02 +0200</pubDate>
-      <dc:date>2024-07-24T22:06:02.240899+02:00</dc:date>
+      <pubDate>Thu, 26 Sep 2024 22:32:52 +0200</pubDate>
+      <dc:date>2024-09-26T22:32:52.545737+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 5–26 June 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-26-Indikator.png"
         length="276341"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:06:02 +0200</pubDate>
-      <dc:date>2024-07-24T22:06:02.240899+02:00</dc:date>
+      <pubDate>Thu, 26 Sep 2024 22:32:52 +0200</pubDate>
+      <dc:date>2024-09-26T22:32:52.545737+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 3–16 June 2024 – Seat Projections for the Parties</title>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-11-Demoskop-seats.png"
         length="228937"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:53:49 +0200</pubDate>
-      <dc:date>2024-07-24T22:53:49.939241+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
+      <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 2–11 June 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -146,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-11-Demoskop-coalitions-seats.png"
         length="127086"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:53:49 +0200</pubDate>
-      <dc:date>2024-07-24T22:53:49.939241+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
+      <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 2–11 June 2024 – Voting Intentions</title>
@@ -156,9 +156,9 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-06-11-Demoskop.png"
         length="275743"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2024 22:53:49 +0200</pubDate>
-      <dc:date>2024-07-24T22:53:49.939241+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
+      <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2024-09-22T16:33:37.058658+02:00</dc:date>
+    <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
   </channel>
 </rss>
