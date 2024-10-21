@@ -5,10 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 8–11% <br> 2–3 | 5–8% <br> 1–2 | 30–35% <br> 7–8 | N/A <br> N/A | 2–4% <br> 0–1 | 4–6% <br> 0–1 | 17–21% <br> 4–5 | 3–4% <br> 0–1 | 17–22% <br> 4–5 |
+| N/A | [Poll Average](average.html) | 7–10% <br> 2 | 5–8% <br> 1–2 | 32–35% <br> 7–8 | N/A <br> N/A | 3–4% <br> 0–1 | 4–6% <br> 1 | 18–22% <br> 4–5 | 3–4% <br> 0–1 | 18–20% <br> 4–5 |
+| [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 7–9% <br> 2 | 6–8% <br> 1–2 | 32–35% <br> 7–8 | N/A <br> N/A | 3–4% <br> 0–1 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–4% <br> 0–1 | 18–21% <br> 4–5 |
 | [26 August–8 September 2024](2024-09-08-Verian.html) | Verian <br> SVT | 8–10% <br> 2 | 5–7% <br> 1–2 | 31–35% <br> 7–8 | N/A <br> N/A | 3–4% <br> 0 | 4–6% <br> 1 | 19–22% <br> 4–5 | 3–4% <br> 0 | 17–20% <br> 4–5 |
-| [5–26 June 2024](2024-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 9–11% <br> 2–3 | 6–8% <br> 1–2 | 29–33% <br> 6–8 | N/A <br> N/A | 3–5% <br> 0–1 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 |
-| [2–11 June 2024](2024-06-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 8–10% <br> 2 | 5–7% <br> 1–2 | 31–35% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 4–5% <br> 0–1 | 17–20% <br> 4–5 | 3–4% <br> 0–1 | 20–23% <br> 5 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
