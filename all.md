@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 7–9% <br> 2 | 6–8% <br> 1–2 | 32–35% <br> 7–8 | N/A <br> N/A | 3–4% <br> 0–1 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–4% <br> 0–1 | 18–21% <br> 4–5 |
 | [26 August–8 September 2024](2024-09-08-Verian.html) | Verian <br> SVT | 8–10% <br> 2 | 5–7% <br> 1–2 | 31–35% <br> 7–8 | N/A <br> N/A | 3–4% <br> 0 | 4–6% <br> 1 | 19–22% <br> 4–5 | 3–4% <br> 0 | 17–20% <br> 4–5 |
 | [29 July–11 August 2024](2024-08-11-Verian.html) | Verian <br> SVT | 7–9% <br> 2 | 5–7% <br> 1–2 | 31–34% <br> 7–8 | N/A <br> N/A | 2–4% <br> 0 | 4–6% <br> 1 | 19–21% <br> 4–5 | 3–4% <br> 0–1 | 19–21% <br> 4–5 |
 | [5–26 June 2024](2024-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 9–11% <br> 2–3 | 6–8% <br> 1–2 | 29–33% <br> 6–8 | N/A <br> N/A | 3–5% <br> 0–1 | 4–6% <br> 1 | 18–21% <br> 4–5 | 3–5% <br> 0–1 | 17–20% <br> 4–5 |
