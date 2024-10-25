@@ -42,7 +42,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 August–8 September 2024](2024-09-08-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0–1 |
 | [29 July–11 August 2024](2024-08-11-Verian.html) | Verian <br> SVT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–26 June 2024](2024-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
