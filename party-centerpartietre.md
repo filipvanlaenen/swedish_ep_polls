@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 4.2–5.4% | 4.1–5.6% | 4.0–5.7% | 3.7–6.1% |
+| N/A | [Poll Average](average.html) | 4.9% | 4.3–5.6% | 4.1–5.9% | 4.0–6.1% | 3.7–6.6% |
+| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs Posten | 5.2% | 4.6–5.9% | 4.5–6.0% | 4.3–6.2% | 4.1–6.5% |
+| [7–20 October 2024](2024-10-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [22 September–8 October 2024](2024-10-08-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4.8% | 4.3–5.4% | 4.2–5.5% | 4.0–5.7% | 3.8–6.0% |
 | [23 September–6 October 2024](2024-10-06-Verian.html) | Verian <br> SVT | 4.5% | 4.0–5.0% | 3.9–5.2% | 3.8–5.3% | 3.6–5.6% |
 | [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
@@ -29,11 +31,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 31% | 99.9% |  |
-| 4.5–5.5% | 63% | 69% | Median |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 25% | 99.8% |  |
+| 4.5–5.5% | 62% | 75% | Median |
+| 5.5–6.5% | 12% | 13% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -44,7 +47,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
+| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs Posten | 1 | 1 | 1 | 1 | 1 |
+| [7–20 October 2024](2024-10-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1 | 0–1 | 0–2 |
 | [22 September–8 October 2024](2024-10-08-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 1 | 1 | 1 | 1 | 0–1 |
 | [23 September–6 October 2024](2024-10-06-Verian.html) | Verian <br> SVT | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [26 August–22 September 2024](2024-09-22-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 1 | 1 | 0–1 |
@@ -64,6 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
 | 1 | 97% | 97% | Median |
-| 2 | 0% | 0% |  |
+| 2 | 0.5% | 0.5% |  |
+| 3 | 0% | 0% |  |
 
 
