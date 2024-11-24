@@ -82,9 +82,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [5–18 November 2024](2024-11-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 7 | 7–8 | 6–8 | 6–8 |
-| [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 8 | 8 | 7–8 | 7–8 | 7–9 |
+| [5–18 November 2024](2024-11-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [7–29 October 2024](2024-10-29-Indikator.html) | Indikator <br> Sveriges Radio | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs Posten | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [7–20 October 2024](2024-10-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -111,10 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.7% | 100% |  |
-| 7 | 41% | 99.3% |  |
-| 8 | 58% | 58% | Median |
-| 9 | 0.5% | 0.5% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 42% | 99.4% |  |
+| 8 | 57% | 57% | Median |
+| 9 | 0.6% | 0.6% |  |
 | 10 | 0% | 0% |  |
 
 
