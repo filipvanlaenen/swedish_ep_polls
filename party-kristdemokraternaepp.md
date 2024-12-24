@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.3–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.1% | 2.7–4.3% | 2.6–4.4% | 2.3–4.7% |
+| [2–16 December 2024](2024-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.0–4.2% |
+| [23 November–9 December 2024](2024-12-09-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 3.5% | 3.1–4.0% | 2.9–4.2% | 2.8–4.3% | 2.6–4.6% |
+| [25 November–8 December 2024](2024-12-08-Verian.html) | Verian <br> SVT | 3.8% | 3.4–4.3% | 3.3–4.4% | 3.2–4.5% | 3.0–4.8% |
 | [5–18 November 2024](2024-11-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.5% |
 | [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4.0% | 3.5–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
 | [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 4.1% | 3.7–4.6% | 3.6–4.8% | 3.4–4.9% | 3.2–5.1% |
@@ -34,12 +37,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 25% | 100% |  |
-| 3.5–4.5% | 67% | 75% | Median |
-| 4.5–5.5% | 8% | 8% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 48% | 98% |  |
+| 3.5–4.5% | 48% | 49% | Median |
+| 4.5–5.5% | 1.1% | 1.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,6 +53,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–16 December 2024](2024-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–1 |
+| [23 November–9 December 2024](2024-12-09-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25 November–8 December 2024](2024-12-08-Verian.html) | Verian <br> SVT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–18 November 2024](2024-11-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,8 +79,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 38% | 38% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 
