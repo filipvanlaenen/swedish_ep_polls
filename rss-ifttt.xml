@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 24 Jul 2024 21:53:01 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Verian for SVT, 30 December 2024–12 January 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Verian for SVT, 30 December 2024–12 January 2025<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian-seating-plan.png" length="291306" type="image/png"/>
+      <pubDate>Fri, 24 Jan 2025 23:04:05 +0100</pubDate>
+      <dc:date>2025-01-24T23:04:05.218666178+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for SVT, 30 December 2024–12 January 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Verian for SVT, 30 December 2024–12 January 2025<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian-seats.png" length="268928" type="image/png"/>
+      <pubDate>Fri, 24 Jan 2025 23:04:05 +0100</pubDate>
+      <dc:date>2025-01-24T23:04:05.218666178+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for SVT, 30 December 2024–12 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian for SVT, 30 December 2024–12 January 2025<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-12-Verian.png" length="267939" type="image/png"/>
+      <pubDate>Fri, 24 Jan 2025 23:04:05 +0100</pubDate>
+      <dc:date>2025-01-24T23:04:05.218666178+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 2–16 December 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-12-16-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 2–16 December 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-12-16-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-12-16-Ipsos-seating-plan.png"/>]]></description>
@@ -196,54 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Novus.png" length="275239" type="image/png"/>
       <pubDate>Sun, 27 Oct 2024 15:23:45 +0100</pubDate>
       <dc:date>2024-10-27T15:23:45.531957559+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 October 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 7–20 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos-seating-plan.png" length="310462" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 15:36:20 +0100</pubDate>
-      <dc:date>2024-10-27T15:36:20.195375124+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 October 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 7–20 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos-seats.png" length="285410" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 15:36:20 +0100</pubDate>
-      <dc:date>2024-10-27T15:36:20.195375124+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 October 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Dagens Nyheter, 7–20 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-20-Ipsos.png" length="286567" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 15:36:20 +0100</pubDate>
-      <dc:date>2024-10-27T15:36:20.195375124+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop-seating-plan.png" length="292320" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 11:52:41 +0100</pubDate>
-      <dc:date>2024-10-27T11:52:41.100790074+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop-seats.png" length="235147" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 11:52:41 +0100</pubDate>
-      <dc:date>2024-10-27T11:52:41.100790074+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop for Svenska Dagbladet, 22 September–8 October 2024<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2024-10-08-Demoskop.png" length="276830" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 11:52:41 +0100</pubDate>
-      <dc:date>2024-10-27T11:52:41.100790074+01:00</dc:date>
     </item>
   </channel>
 </rss>
