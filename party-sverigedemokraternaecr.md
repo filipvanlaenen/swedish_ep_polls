@@ -81,7 +81,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [10–27 January 2025](2025-01-27-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [10–27 January 2025](2025-01-27-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–26 January 2025](2025-01-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13–24 January 2025](2025-01-24-Novus.html) | Novus <br> Göteborgs Posten | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [30 December 2024–12 January 2025](2025-01-12-Verian.html) | Verian <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
