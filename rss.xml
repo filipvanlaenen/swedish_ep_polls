@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Feb 2025 11:19:48 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2025 12:20:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Verian for SVT, 27 January–9 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-02-09-Verian.html#seats</link>
@@ -74,20 +74,20 @@
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-27-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-27-Demoskop-seats.png"
-        length="245819"
+        length="257097"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:43:32 +0100</pubDate>
-      <dc:date>2025-02-21T13:43:32.751635+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:20:02 +0100</pubDate>
+      <dc:date>2025-02-22T12:20:02.350209+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Svenska Dagbladet, 10–27 January 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-27-Demoskop.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-27-Demoskop-coalitions-seats.png"
-        length="136308"
+        length="144123"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:43:32 +0100</pubDate>
-      <dc:date>2025-02-21T13:43:32.751635+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:20:02 +0100</pubDate>
+      <dc:date>2025-02-22T12:20:02.350209+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Svenska Dagbladet, 10–27 January 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-01-27-Demoskop.png"
         length="273346"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:43:32 +0100</pubDate>
-      <dc:date>2025-02-21T13:43:32.751635+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:20:02 +0100</pubDate>
+      <dc:date>2025-02-22T12:20:02.350209+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 14–26 January 2025 – Seat Projections for the Parties</title>
@@ -729,6 +729,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-02-22T11:19:48.156263+01:00</dc:date>
+    <dc:date>2025-02-22T12:20:02.350209+01:00</dc:date>
   </channel>
 </rss>
