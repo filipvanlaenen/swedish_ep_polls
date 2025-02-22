@@ -56,8 +56,8 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 1.0% | 100% |  |
-| 8 | 91% | 99.0% | Median |
-| 9 | 8% | 8% |  |
+| 8 | 90% | 99.0% | Median |
+| 9 | 9% | 9% |  |
 | 10 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -88,8 +88,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 85% | 100% | Median |
-| 5 | 15% | 15% |  |
+| 4 | 88% | 100% | Median |
+| 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -114,8 +114,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Centerpartiet (RE)
@@ -126,8 +126,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 87% | 87% | Median |
+| 0 | 10% | 100% | Last Result |
+| 1 | 90% | 90% | Median |
 | 2 | 0% | 0% |  |
 
 ### Liberalerna (RE)
@@ -167,7 +167,7 @@
 | Sverigedemokraterna (ECR) | 0 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Vänsterpartiet (GUE/NGL) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Miljöpartiet de gröna (Greens/EFA) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Centerpartiet (RE) – Liberalerna (RE) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
+| Centerpartiet (RE) – Liberalerna (RE) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–2 |
 
 ### Moderata samlingspartiet (EPP) – Kristdemokraterna (EPP)
 
@@ -179,8 +179,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 85% | 100% | Median |
-| 5 | 15% | 15% |  |
+| 4 | 87% | 100% | Median |
+| 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -215,8 +215,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Centerpartiet (RE) – Liberalerna (RE)
@@ -225,8 +225,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 85% | 87% | Median |
+| 0 | 10% | 100% | Last Result |
+| 1 | 88% | 90% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -242,6 +242,6 @@
 ### Calculations
 
 + **Sample size:** 2941
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.96%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.91%
 
