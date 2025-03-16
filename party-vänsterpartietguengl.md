@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 7.1–8.7% | 6.9–9.0% | 6.7–9.2% | 6.3–9.8% |
+| N/A | [Poll Average](average.html) | 7.9% | 7.1–8.7% | 6.9–9.0% | 6.7–9.2% | 6.4–9.8% |
+| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 7.6% | 7.0–8.2% | 6.9–8.4% | 6.7–8.6% | 6.5–8.9% |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 7.4% | 6.8–8.0% | 6.7–8.2% | 6.5–8.4% | 6.3–8.7% |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -49,10 +50,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 31% | 98% |  |
-| 7.5–8.5% | 54% | 68% | Median |
-| 8.5–9.5% | 12% | 13% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 28% | 98.9% |  |
+| 7.5–8.5% | 57% | 71% | Median |
+| 8.5–9.5% | 13% | 14% |  |
 | 9.5–10.5% | 1.0% | 1.0% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 2 | 1–2 |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2 | 2 | 2 | 2 | 2 |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 2 | 2 | 2 | 2 |

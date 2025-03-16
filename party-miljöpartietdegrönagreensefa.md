@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 5.4–6.9% | 5.2–7.2% | 5.0–7.4% | 4.6–7.8% |
+| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 6.2% | 5.7–6.8% | 5.5–7.0% | 5.4–7.1% | 5.2–7.4% |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6.6% | 6.0–7.3% | 5.8–7.5% | 5.7–7.7% | 5.4–8.0% |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 6.2% | 5.7–6.8% | 5.5–7.0% | 5.4–7.1% | 5.2–7.4% |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.7% | 4.8–7.0% |
@@ -64,6 +65,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 1–2 | 1–2 | 1–2 |
