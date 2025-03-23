@@ -10,14 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 18.1–20.7% | 17.7–21.0% | 17.4–21.4% | 16.7–22.0% |
+| N/A | [Poll Average](average.html) | 19.4% | 18.3–20.6% | 18.1–21.0% | 17.8–21.3% | 17.4–22.0% |
+| [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.3% | 18.4–21.6% | 18.2–22.0% | 17.6–22.6% |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 19.2% | 18.3–20.1% | 18.1–20.4% | 17.9–20.6% | 17.5–21.0% |
+| [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 18.9% | 18.0–19.8% | 17.8–20.1% | 17.5–20.3% | 17.1–20.8% |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 19.7% | 18.7–20.7% | 18.4–21.0% | 18.2–21.3% | 17.7–21.8% |
+| [10–21 February 2025](2025-02-21-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 19.4% | 18.3–20.6% | 18.0–20.9% | 17.8–21.2% | 17.3–21.7% |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 19.7% | 18.8–20.6% | 18.6–20.9% | 18.4–21.1% | 17.9–21.6% |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 18.6% | 17.7–19.6% | 17.5–19.8% | 17.2–20.1% | 16.8–20.5% |
 | [10–27 January 2025](2025-01-27-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 20.0% | 19.0–21.0% | 18.7–21.3% | 18.5–21.6% | 18.0–22.1% |
 | [14–26 January 2025](2025-01-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.5–20.7% | 17.1–21.2% | 16.7–21.6% | 16.0–22.4% |
-| [13–24 January 2025](2025-01-24-Novus.html) | Novus <br> Göteborgs Posten | 20.1% | 19.1–21.2% | 18.8–21.5% | 18.5–21.8% | 18.0–22.3% |
+| [13–24 January 2025](2025-01-24-Novus.html) | Novus <br> Göteborgs-Posten | 20.1% | 19.1–21.2% | 18.8–21.5% | 18.5–21.8% | 18.0–22.3% |
 | [30 December 2024–12 January 2025](2025-01-12-Verian.html) | Verian <br> SVT | 19.3% | 18.4–20.2% | 18.2–20.5% | 18.0–20.7% | 17.6–21.2% |
 | [5 December 2024–6 January 2025](2025-01-06-Indikator.html) | Indikator <br> Sveriges Radio | 18.6% | 17.5–19.8% | 17.2–20.1% | 16.9–20.4% | 16.4–20.9% |
 | [2–16 December 2024](2024-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.3% | 17.5–20.7% | 17.2–21.0% | 16.6–21.6% |
@@ -27,7 +30,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 19.5% | 19.2–21.3% | 18.9–21.6% | 18.7–21.8% | 18.2–22.4% |
 | [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 19.1% | 18.2–20.1% | 17.9–20.3% | 17.7–20.6% | 17.3–21.0% |
 | [7–29 October 2024](2024-10-29-Indikator.html) | Indikator <br> Sveriges Radio | 18.3% | 17.7–18.9% | 17.5–19.1% | 17.4–19.2% | 17.1–19.5% |
-| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs Posten | 19.3% | 18.2–20.4% | 17.9–20.8% | 17.7–21.0% | 17.2–21.6% |
+| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs-Posten | 19.3% | 18.2–20.4% | 17.9–20.8% | 17.7–21.0% | 17.2–21.6% |
 | [7–20 October 2024](2024-10-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.0% | 16.6–19.7% | 16.1–20.1% | 15.8–20.6% | 15.1–21.4% |
 | [22 September–8 October 2024](2024-10-08-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 20.2% | 19.2–21.2% | 18.9–21.5% | 18.7–21.8% | 18.2–22.3% |
 | [23 September–6 October 2024](2024-10-06-Verian.html) | Verian <br> SVT | 19.7% | 18.8–20.7% | 18.5–20.9% | 18.3–21.2% | 17.9–21.6% |
@@ -60,13 +63,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 3% | 99.6% |  |
-| 17.5–18.5% | 18% | 96% |  |
-| 18.5–19.5% | 37% | 79% | Median |
-| 19.5–20.5% | 29% | 42% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 1.0% | 100% |  |
+| 17.5–18.5% | 14% | 99.0% |  |
+| 18.5–19.5% | 41% | 85% | Median |
+| 19.5–20.5% | 32% | 44% |  |
 | 20.5–21.5% | 10% | 12% |  |
-| 21.5–22.5% | 2% | 2% |  |
+| 21.5–22.5% | 1.5% | 2% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -80,13 +83,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [10–21 February 2025](2025-02-21-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 January–9 February 2025](2025-02-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13 January–2 February 2025](2025-02-02-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–27 January 2025](2025-01-27-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–26 January 2025](2025-01-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [13–24 January 2025](2025-01-24-Novus.html) | Novus <br> Göteborgs Posten | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [13–24 January 2025](2025-01-24-Novus.html) | Novus <br> Göteborgs-Posten | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [30 December 2024–12 January 2025](2025-01-12-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5 December 2024–6 January 2025](2025-01-06-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–16 December 2024](2024-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -96,7 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26 October–11 November 2024](2024-11-11-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 October–10 November 2024](2024-11-10-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–29 October 2024](2024-10-29-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 4–5 | 4–5 |
-| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs Posten | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–20 October 2024](2024-10-20-Novus.html) | Novus <br> Göteborgs-Posten | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–20 October 2024](2024-10-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [22 September–8 October 2024](2024-10-08-Demoskop.html) | Demoskop <br> Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23 September–6 October 2024](2024-10-06-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -119,8 +125,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 66% | 100% | Median |
-| 5 | 34% | 34% |  |
+| 4 | 60% | 100% | Median |
+| 5 | 40% | 40% |  |
 | 6 | 0% | 0% |  |
 
 
