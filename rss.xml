@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Mar 2025 19:57:18 +0100</pubDate>
+    <pubDate>Thu, 27 Mar 2025 13:47:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for Aftonbladet and Svenska Dagbladet, 7–21 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus-seats.png"
+        length="234968"
+        type="image/png"/>
+      <pubDate>Thu, 27 Mar 2025 13:47:11 +0100</pubDate>
+      <dc:date>2025-03-27T13:47:11.991908+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for Aftonbladet and Svenska Dagbladet, 7–21 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus-coalitions-seats.png"
+        length="135581"
+        type="image/png"/>
+      <pubDate>Thu, 27 Mar 2025 13:47:11 +0100</pubDate>
+      <dc:date>2025-03-27T13:47:11.991908+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for Aftonbladet and Svenska Dagbladet, 7–21 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 2.0–3.3%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 32.7–36.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.5–6.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.6–4.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 3.6–5.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 18.7–22.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 7.5–9.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.9–21.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-21-Novus.png"
+        length="274874"
+        type="image/png"/>
+      <pubDate>Thu, 27 Mar 2025 13:47:11 +0100</pubDate>
+      <dc:date>2025-03-27T13:47:11.991908+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–16 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-16-Ipsos.html#seats</link>
@@ -879,6 +909,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-03-23T19:57:18.469937+01:00</dc:date>
+    <dc:date>2025-03-27T13:47:11.991908+01:00</dc:date>
   </channel>
 </rss>
