@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 18.4–20.9% | 18.1–21.3% | 17.9–21.6% | 17.4–22.3% |
+| N/A | [Poll Average](average.html) | 19.5% | 18.4–21.0% | 18.1–21.4% | 17.9–21.7% | 17.4–22.3% |
+| [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 18.8% | N/A | N/A | N/A | N/A |
 | [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 20.3% | 19.3–21.4% | 19.0–21.7% | 18.7–22.0% | 18.2–22.5% |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.3% | 18.4–21.6% | 18.2–22.0% | 17.6–22.6% |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 19.2% | 18.3–20.1% | 18.1–20.4% | 17.9–20.6% | 17.5–21.0% |
@@ -65,10 +66,10 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.8% | 100% |  |
-| 17.5–18.5% | 12% | 99.2% |  |
-| 18.5–19.5% | 36% | 87% |  |
-| 19.5–20.5% | 34% | 51% | Median |
+| 16.5–17.5% | 0.9% | 100% |  |
+| 17.5–18.5% | 13% | 99.1% |  |
+| 18.5–19.5% | 36% | 86% |  |
+| 19.5–20.5% | 32% | 50% | Median |
 | 20.5–21.5% | 15% | 18% |  |
 | 21.5–22.5% | 3% | 3% |  |
 | 22.5–23.5% | 0.2% | 0.2% |  |
@@ -84,6 +85,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet |  |  |  |  |  |
 | [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
