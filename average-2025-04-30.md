@@ -305,8 +305,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 13% | 100% |  |
-| 8 | 77% | 87% | Median |
+| 7 | 12% | 100% |  |
+| 8 | 78% | 88% | Median |
 | 9 | 10% | 10% |  |
 | 10 | 0% | 0% |  |
 
@@ -380,8 +380,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 55% | 100% | Median |
-| 5 | 45% | 45% |  |
+| 4 | 56% | 100% | Median |
+| 5 | 44% | 44% |  |
 | 6 | 0% | 0% |  |
 
 
@@ -413,8 +413,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 13% | 100% |  |
-| 8 | 77% | 87% | Median |
+| 7 | 12% | 100% |  |
+| 8 | 78% | 88% | Median |
 | 9 | 10% | 10% |  |
 | 10 | 0% | 0% |  |
 
@@ -428,8 +428,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 27% | 100% | Median |
-| 5 | 68% | 73% |  |
+| 4 | 28% | 100% | Median |
+| 5 | 67% | 72% |  |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -443,8 +443,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 55% | 100% | Median |
-| 5 | 45% | 45% |  |
+| 4 | 56% | 100% | Median |
+| 5 | 44% | 44% |  |
 | 6 | 0% | 0% |  |
 
 ### Vänsterpartiet (GUE/NGL)
@@ -484,6 +484,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 1.20%
