@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Apr 2025 20:29:08 +0200</pubDate>
+    <pubDate>Sat, 05 Apr 2025 13:49:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 13–24 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-24-Demoskop.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-24-Demoskop-seats.png"
         length="261684"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 20:29:08 +0200</pubDate>
-      <dc:date>2025-04-04T20:29:08.269814+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 13:49:43 +0200</pubDate>
+      <dc:date>2025-04-05T13:49:43.068022+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 13–24 March 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-24-Demoskop-coalitions-seats.png"
         length="151129"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 20:29:08 +0200</pubDate>
-      <dc:date>2025-04-04T20:29:08.269814+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 13:49:43 +0200</pubDate>
+      <dc:date>2025-04-05T13:49:43.068022+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 13–24 March 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-03-24-Demoskop.png"
         length="278449"
         type="image/png"/>
-      <pubDate>Fri, 04 Apr 2025 20:29:08 +0200</pubDate>
-      <dc:date>2025-04-04T20:29:08.269814+02:00</dc:date>
+      <pubDate>Sat, 05 Apr 2025 13:49:43 +0200</pubDate>
+      <dc:date>2025-04-05T13:49:43.068022+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for Aftonbladet and Svenska Dagbladet, 7–21 March 2025 – Seat Projections for the Parties</title>
@@ -939,6 +939,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-04-04T20:29:08.269814+02:00</dc:date>
+    <dc:date>2025-04-05T13:49:43.068022+02:00</dc:date>
   </channel>
 </rss>
