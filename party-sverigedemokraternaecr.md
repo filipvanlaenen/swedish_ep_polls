@@ -13,9 +13,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 19.5% | 18.3–20.7% | 18.0–21.1% | 17.8–21.4% | 17.3–22.0% |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 18.7% | 17.8–19.6% | 17.6–19.9% | 17.4–20.1% | 17.0–20.5% |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 19.7% | 18.7–20.8% | 18.4–21.1% | 18.2–21.4% | 17.7–21.9% |
-| [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 19.4% | 18.4–20.5% | 18.1–20.8% | 17.9–21.1% | 17.4–21.6% |
+| [7–21 March 2025](2025-03-21-Novus.html) | Novus | 19.4% | 18.4–20.5% | 18.1–20.8% | 17.9–21.1% | 17.4–21.6% |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.3% | 18.4–21.6% | 18.2–22.0% | 17.6–22.6% |
-| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 19.1% | 18.2–20.0% | 18.0–20.3% | 17.8–20.5% | 17.4–20.9% |
+| [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 19.2% | 18.3–20.1% | 18.1–20.4% | 17.9–20.6% | 17.5–21.0% |
 | [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 19.6% | 18.7–20.6% | 18.5–20.8% | 18.2–21.1% | 17.8–21.5% |
 | [9–24 February 2025](2025-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 19.2% | 18.2–20.3% | 17.9–20.5% | 17.7–20.8% | 17.2–21.3% |
 | [10–21 February 2025](2025-02-21-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 20.5% | 19.4–21.7% | 19.1–22.0% | 18.8–22.3% | 18.3–22.9% |
@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–21 March 2025](2025-03-21-Novus.html) | Novus | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 4–5 | 4–5 | 4–5 | 4–5 |

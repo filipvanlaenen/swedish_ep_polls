@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2.9% | 2.4–3.4% | 2.3–3.6% | 2.2–3.7% | 2.0–4.0% |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 2.8% | 2.4–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.7% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% | 2.0–3.7% |
-| [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% | 1.9–3.6% |
+| [7–21 March 2025](2025-03-21-Novus.html) | Novus | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% | 1.9–3.6% |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 2.8% | 2.4–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
 | [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 3.2% | 2.8–3.6% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% |
@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
-| [7–21 March 2025](2025-03-21-Novus.html) | Novus <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
+| [7–21 March 2025](2025-03-21-Novus.html) | Novus | 0 | 0 | 0 | 0 | 0 |
 | [4–16 March 2025](2025-03-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–1 |
 | [24 February–9 March 2025](2025-03-09-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [3–25 February 2025](2025-02-25-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0–1 |
