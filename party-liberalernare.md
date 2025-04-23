@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.4–3.4% | 2.3–3.6% | 2.2–3.7% | 2.0–4.0% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.9–4.0% |
+| [7–21 April 2025](2025-04-21-Novus.html) | Novus <br> TV4 | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.5% |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 2.8% | 2.4–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.7% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% | 2.0–3.7% |
 | [7–21 March 2025](2025-03-21-Novus.html) | Novus | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% | 1.9–3.6% |
@@ -52,8 +53,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 20% | 100% |  |
-| 2.5–3.5% | 74% | 80% | Median |
+| 1.5–2.5% | 22% | 100% |  |
+| 2.5–3.5% | 72% | 78% | Median |
 | 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [7–21 April 2025](2025-04-21-Novus.html) | Novus <br> TV4 | 0 | 0 | 0 | 0 | 0 |
 | [24 March–6 April 2025](2025-04-06-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [13–24 March 2025](2025-03-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [7–21 March 2025](2025-03-21-Novus.html) | Novus | 0 | 0 | 0 | 0 | 0 |
