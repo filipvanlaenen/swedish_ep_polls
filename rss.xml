@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Apr 2025 19:37:22 +0200</pubDate>
+    <pubDate>Fri, 25 Apr 2025 18:50:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for TV4, 7–21 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Novus.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 23 Apr 2025 19:37:22 +0200</pubDate>
       <dc:date>2025-04-23T19:37:22.54095+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 8–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos-seats.png"
+        length="200227"
+        type="image/png"/>
+      <pubDate>Fri, 25 Apr 2025 18:50:24 +0200</pubDate>
+      <dc:date>2025-04-25T18:50:24.63615+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos-coalitions-seats.png"
+        length="107279"
+        type="image/png"/>
+      <pubDate>Fri, 25 Apr 2025 18:50:24 +0200</pubDate>
+      <dc:date>2025-04-25T18:50:24.63615+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 34.7–39.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.9–7.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 4.1–6.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.2–21.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.2–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-04-21-Ipsos.png"
+        length="269241"
+        type="image/png"/>
+      <pubDate>Fri, 25 Apr 2025 18:50:24 +0200</pubDate>
+      <dc:date>2025-04-25T18:50:24.63615+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 24 March–6 April 2025 – Seat Projections for the Parties</title>
@@ -999,6 +1029,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-04-23T19:37:22.54095+02:00</dc:date>
+    <dc:date>2025-04-25T18:50:24.63615+02:00</dc:date>
   </channel>
 </rss>
