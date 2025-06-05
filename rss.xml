@@ -8,7 +8,67 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 May 2025 22:47:12 +0200</pubDate>
+    <pubDate>Thu, 05 Jun 2025 22:31:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 8–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB-seats.png"
+        length="203341"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 21:05:35 +0200</pubDate>
+      <dc:date>2025-06-05T21:05:35.254368+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB-coalitions-seats.png"
+        length="105052"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 21:05:35 +0200</pubDate>
+      <dc:date>2025-06-05T21:05:35.254368+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 29 April–28 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 2.5–3.2%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 35.2–37.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 6.0–7.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.0–3.8%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 5.0–6.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.5–19.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.6–7.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.2–18.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-28-SCB.png"
+        length="248660"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 21:05:35 +0200</pubDate>
+      <dc:date>2025-06-05T21:05:35.254368+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 12–26 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop-seats.png"
+        length="245978"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 22:31:40 +0200</pubDate>
+      <dc:date>2025-06-05T22:31:40.846262+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 12–26 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop-coalitions-seats.png"
+        length="136514"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 22:31:40 +0200</pubDate>
+      <dc:date>2025-06-05T22:31:40.846262+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 12–26 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 1.5–2.6%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 32.9–36.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.5–7.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.6–5.2%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 4.9–6.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.5–19.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.0–7.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.1–21.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-26-Demoskop.png"
+        length="275341"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jun 2025 22:31:40 +0200</pubDate>
+      <dc:date>2025-06-05T22:31:40.846262+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for TV4, 5–18 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-05-18-Novus.html#seats</link>
@@ -1149,6 +1209,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-05-21T22:47:12.425373+02:00</dc:date>
+    <dc:date>2025-06-05T22:31:40.846262+02:00</dc:date>
   </channel>
 </rss>
