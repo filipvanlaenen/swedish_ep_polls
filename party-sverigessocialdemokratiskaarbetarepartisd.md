@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.5% | 33.9–36.7% | 33.5–37.0% | 33.1–37.3% | 32.4–37.9% |
+| N/A | [Poll Average](average.html) | 35.3% | 33.7–36.6% | 33.3–36.9% | 33.0–37.2% | 32.3–37.8% |
+| [26 May–8 June 2025](2025-06-08-Verian.html) | Verian <br> SVT | 34.7% | 33.6–35.8% | 33.3–36.1% | 33.1–36.4% | 32.6–36.9% |
 | [29 April–28 May 2025](2025-05-28-SCB.html) | SCB | 36.2% | 35.6–36.8% | 35.4–37.0% | 35.2–37.2% | 34.9–37.5% |
 | [12–26 May 2025](2025-05-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 34.7% | 33.5–35.9% | 33.2–36.3% | 32.9–36.6% | 32.3–37.2% |
 | [2–25 May 2025](2025-05-25-Indikator.html) | Indikator <br> Sveriges Radio | 36.0% | 34.8–37.2% | 34.5–37.5% | 34.2–37.8% | 33.7–38.3% |
@@ -91,13 +92,13 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.7% | 100% |  |
-| 32.5–33.5% | 5% | 99.2% |  |
-| 33.5–34.5% | 16% | 94% |  |
-| 34.5–35.5% | 28% | 78% |  |
-| 35.5–36.5% | 36% | 50% | Median |
-| 36.5–37.5% | 13% | 14% |  |
-| 37.5–38.5% | 1.1% | 1.2% |  |
+| 31.5–32.5% | 0.8% | 100% |  |
+| 32.5–33.5% | 6% | 99.1% |  |
+| 33.5–34.5% | 21% | 93% |  |
+| 34.5–35.5% | 29% | 72% | Median |
+| 35.5–36.5% | 31% | 42% |  |
+| 36.5–37.5% | 11% | 12% |  |
+| 37.5–38.5% | 0.9% | 1.0% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -111,6 +112,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [26 May–8 June 2025](2025-06-08-Verian.html) | Verian <br> SVT | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [29 April–28 May 2025](2025-05-28-SCB.html) | SCB | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [12–26 May 2025](2025-05-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [2–25 May 2025](2025-05-25-Indikator.html) | Indikator <br> Sveriges Radio | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -169,8 +171,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 6% | 100% |  |
-| 8 | 83% | 94% | Median |
-| 9 | 11% | 11% |  |
+| 8 | 82% | 94% | Median |
+| 9 | 12% | 12% |  |
 | 10 | 0% | 0% |  |
 
 
