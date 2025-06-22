@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Jun 2025 14:26:51 +0200</pubDate>
+    <pubDate>Sun, 22 Jun 2025 21:01:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for Göteborgs-Posten, 1–13 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus-seats.png"
-        length="238367"
+        length="235555"
         type="image/png"/>
-      <pubDate>Sun, 22 Jun 2025 14:26:51 +0200</pubDate>
-      <dc:date>2025-06-22T14:26:51.024176+02:00</dc:date>
+      <pubDate>Sun, 22 Jun 2025 21:01:59 +0200</pubDate>
+      <dc:date>2025-06-22T21:01:59.181437+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for Göteborgs-Posten, 1–13 June 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus-coalitions-seats.png"
-        length="133434"
+        length="131551"
         type="image/png"/>
-      <pubDate>Sun, 22 Jun 2025 14:26:51 +0200</pubDate>
-      <dc:date>2025-06-22T14:26:51.024176+02:00</dc:date>
+      <pubDate>Sun, 22 Jun 2025 21:01:59 +0200</pubDate>
+      <dc:date>2025-06-22T21:01:59.181437+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for Göteborgs-Posten, 1–13 June 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus.png"
         length="272694"
         type="image/png"/>
-      <pubDate>Sun, 22 Jun 2025 14:26:51 +0200</pubDate>
-      <dc:date>2025-06-22T14:26:51.024176+02:00</dc:date>
+      <pubDate>Sun, 22 Jun 2025 21:01:59 +0200</pubDate>
+      <dc:date>2025-06-22T21:01:59.181437+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 26 May–8 June 2025 – Seat Projections for the Parties</title>
@@ -1299,6 +1299,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-06-22T14:26:51.024176+02:00</dc:date>
+    <dc:date>2025-06-22T21:01:59.181437+02:00</dc:date>
   </channel>
 </rss>
