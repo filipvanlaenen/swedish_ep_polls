@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.0% | 1.8–3.1% | 1.7–3.2% | 1.5–3.5% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–2.9% | 1.7–3.1% | 1.7–3.2% | 1.5–3.4% |
+| [1–13 June 2025](2025-06-13-Novus.html) | Novus <br> Göteborgs-Posten | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% |
 | [26 May–8 June 2025](2025-06-08-Verian.html) | Verian <br> SVT | 2.4% | 2.1–2.8% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% |
 | [29 April–28 May 2025](2025-05-28-SCB.html) | SCB | 2.8% | 2.6–3.0% | 2.5–3.1% | 2.5–3.2% | 2.4–3.3% |
 | [12–26 May 2025](2025-05-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.9% |
@@ -61,10 +62,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 47% | 99.4% |  |
-| 2.5–3.5% | 52% | 53% | Median |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 1.1% | 100% |  |
+| 1.5–2.5% | 55% | 98.9% | Median |
+| 2.5–3.5% | 44% | 44% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–13 June 2025](2025-06-13-Novus.html) | Novus <br> Göteborgs-Posten | 0 | 0 | 0 | 0 | 0 |
 | [26 May–8 June 2025](2025-06-08-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [29 April–28 May 2025](2025-05-28-SCB.html) | SCB | 0 | 0 | 0 | 0 | 0 |
 | [12–26 May 2025](2025-05-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
