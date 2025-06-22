@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–13 June 2025](2025-06-13-Novus.html) | Novus <br> Göteborgs-Posten | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–13 June 2025](2025-06-13-Novus.html) | Novus <br> Göteborgs-Posten | 1 | 1 | 1 | 1 | 1–2 |
 | [26 May–8 June 2025](2025-06-08-Verian.html) | Verian <br> SVT | 1 | 1 | 1 | 1 | 1 |
 | [29 April–28 May 2025](2025-05-28-SCB.html) | SCB | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–26 May 2025](2025-05-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
