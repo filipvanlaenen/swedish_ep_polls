@@ -8,7 +8,67 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Jun 2025 21:01:59 +0200</pubDate>
+    <pubDate>Wed, 25 Jun 2025 22:34:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos-seats.png"
+        length="212396"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:26:02 +0200</pubDate>
+      <dc:date>2025-06-25T22:26:02.953865+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos-coalitions-seats.png"
+        length="125756"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:26:02 +0200</pubDate>
+      <dc:date>2025-06-25T22:26:02.953865+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–15 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 30.8–35.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.2–21.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 17.2–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Ipsos.png"
+        length="271727"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:26:02 +0200</pubDate>
+      <dc:date>2025-06-25T22:26:02.953865+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 1–15 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop-seats.png"
+        length="246852"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:34:18 +0200</pubDate>
+      <dc:date>2025-06-25T22:34:18.70398+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 1–15 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop-coalitions-seats.png"
+        length="137796"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:34:18 +0200</pubDate>
+      <dc:date>2025-06-25T22:34:18.70398+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 1–15 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 2.5–3.9%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 31.5–35.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.3–7.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 3.6–5.4%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 4.0–5.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.6–19.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.4–8.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.9–22.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-15-Demoskop.png"
+        length="277705"
+        type="image/png"/>
+      <pubDate>Wed, 25 Jun 2025 22:34:18 +0200</pubDate>
+      <dc:date>2025-06-25T22:34:18.70398+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for Göteborgs-Posten, 1–13 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-06-13-Novus.html#seats</link>
@@ -1299,6 +1359,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-06-22T21:01:59.181437+02:00</dc:date>
+    <dc:date>2025-06-25T22:34:18.70398+02:00</dc:date>
   </channel>
 </rss>
