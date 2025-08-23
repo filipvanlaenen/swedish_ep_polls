@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Aug 2025 18:47:18 +0200</pubDate>
+    <pubDate>Sat, 23 Aug 2025 22:46:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for SVT, 4–17 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-08-17-Verian.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-08-17-Verian-seats.png"
         length="238133"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:47:18 +0200</pubDate>
-      <dc:date>2025-08-23T18:47:18.928316+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 22:46:21 +0200</pubDate>
+      <dc:date>2025-08-23T22:46:21.019911+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 4–17 August 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-08-17-Verian-coalitions-seats.png"
         length="127760"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:47:18 +0200</pubDate>
-      <dc:date>2025-08-23T18:47:18.928316+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 22:46:21 +0200</pubDate>
+      <dc:date>2025-08-23T22:46:21.019911+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 4–17 August 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-08-17-Verian.png"
         length="263751"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:47:18 +0200</pubDate>
-      <dc:date>2025-08-23T18:47:18.928316+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 22:46:21 +0200</pubDate>
+      <dc:date>2025-08-23T22:46:21.019911+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 4–24 June 2025 – Seat Projections for the Parties</title>
@@ -1419,6 +1419,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-08-23T18:47:18.928316+02:00</dc:date>
+    <dc:date>2025-08-23T22:46:21.019911+02:00</dc:date>
   </channel>
 </rss>
