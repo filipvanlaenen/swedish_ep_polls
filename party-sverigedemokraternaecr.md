@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.4–21.3% | 17.9–21.6% | 17.6–21.9% | 17.0–22.5% |
+| N/A | [Poll Average](average.html) | 20.1% | 18.4–21.5% | 18.0–21.9% | 17.6–22.2% | 17.0–22.9% |
+| [11–24 August 2025](2025-08-24-Novus.html) | Novus <br> Göteborgs-Posten | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.4–22.8% | 18.9–23.3% |
 | [4–17 August 2025](2025-08-17-Verian.html) | Verian <br> SVT | 20.5% | 19.6–21.4% | 19.3–21.7% | 19.1–21.9% | 18.7–22.4% |
 | [4–24 June 2025](2025-06-24-Indikator.html) | Indikator <br> Sveriges Radio | 19.0% | 17.9–20.2% | 17.5–20.6% | 17.3–20.9% | 16.8–21.5% |
 | [3–15 June 2025](2025-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.3% | 17.5–20.7% | 17.2–21.0% | 16.6–21.7% |
@@ -83,13 +84,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
 | 16.5–17.5% | 2% | 99.9% |  |
-| 17.5–18.5% | 11% | 98% |  |
-| 18.5–19.5% | 24% | 87% |  |
-| 19.5–20.5% | 34% | 63% | Median |
-| 20.5–21.5% | 23% | 29% |  |
-| 21.5–22.5% | 5% | 6% |  |
-| 22.5–23.5% | 0.4% | 0.4% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 17.5–18.5% | 10% | 98% |  |
+| 18.5–19.5% | 21% | 88% |  |
+| 19.5–20.5% | 30% | 67% | Median |
+| 20.5–21.5% | 26% | 36% |  |
+| 21.5–22.5% | 9% | 10% |  |
+| 22.5–23.5% | 1.1% | 1.1% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,6 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [11–24 August 2025](2025-08-24-Novus.html) | Novus <br> Göteborgs-Posten | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–17 August 2025](2025-08-17-Verian.html) | Verian <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–24 June 2025](2025-06-24-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–15 June 2025](2025-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -161,8 +164,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 47% | 100% |  |
-| 5 | 53% | 53% | Median |
-| 6 | 0% | 0% |  |
+| 4 | 43% | 100% |  |
+| 5 | 57% | 57% | Median |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
