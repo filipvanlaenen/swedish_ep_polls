@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18 August–8 September 2025](2025-09-08-Indikator.html) | Indikator <br> Sveriges Radio | 6–8% <br> 1–2 | 5–7% <br> 1–2 | 34–38% <br> 7–9 | N/A <br> N/A | 2–3% <br> 0 | 4–6% <br> 1 | 16–20% <br> 4 | 3–4% <br> 0–1 | 19–23% <br> 4–5 |
+| [25 August–7 September 2025](2025-09-07-Verian.html) | Verian <br> SVT | 6–8% <br> 1–2 | 5–7% <br> 1–2 | 33–36% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 4–6% <br> 1 | 17–19% <br> 4 | 3–5% <br> 0–1 | 19–22% <br> 4–5 |
 | [14–25 August 2025](2025-08-25-Demoskop.html) | Demoskop <br> Aftonbladet | 5–7% <br> 1–2 | 6–9% <br> 1–2 | 32–36% <br> 7–8 | N/A <br> N/A | 2–4% <br> 0 | 4–6% <br> 0–1 | 16–20% <br> 4–5 | 4–5% <br> 0–1 | 19–23% <br> 4–5 |
 | [11–24 August 2025](2025-08-24-Novus.html) | Novus <br> Göteborgs-Posten | 7–10% <br> 2 | 4–6% <br> 1 | 32–36% <br> 7–8 | N/A <br> N/A | 2–4% <br> 0 | 4–6% <br> 1 | 16–19% <br> 4 | 3–5% <br> 0–1 | 19–23% <br> 4–5 |
 | [12–24 August 2025](2025-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6–8% <br> 1–2 | 4–6% <br> 1 | 32–36% <br> 7–8 | N/A <br> N/A | 3–5% <br> 0–1 | 4–6% <br> 1 | 15–19% <br> 3–4 | 4–6% <br> 1 | 18–22% <br> 4–5 |
