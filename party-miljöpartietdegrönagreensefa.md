@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.0–6.8% | 3.6–7.0% | 3.4–7.3% | 2.9–7.7% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.4–6.9% | 4.1–7.1% | 3.9–7.3% | 3.6–7.7% |
+| [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 4.4% | 3.9–5.0% | 3.7–5.1% | 3.6–5.3% | 3.4–5.6% |
+| [7–19 October 2025](2025-10-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.3–6.8% | 5.1–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [22 September–5 October 2025](2025-10-05-Verian.html) | Verian <br> SVT | 5.8% | 5.3–6.4% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% |
 | [11–22 September 2025](2025-09-22-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6.5% | 5.8–7.2% | 5.7–7.4% | 5.5–7.6% | 5.2–8.0% |
 | [9–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -76,13 +78,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 4% | 99.9% |  |
-| 3.5–4.5% | 20% | 96% |  |
-| 4.5–5.5% | 22% | 76% |  |
-| 5.5–6.5% | 37% | 54% | Median |
-| 6.5–7.5% | 16% | 17% |  |
-| 7.5–8.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 13% | 99.7% |  |
+| 4.5–5.5% | 18% | 87% |  |
+| 5.5–6.5% | 49% | 69% | Median |
+| 6.5–7.5% | 19% | 20% |  |
+| 7.5–8.5% | 1.0% | 1.0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -94,7 +96,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–19 October 2025](2025-10-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 September–5 October 2025](2025-10-05-Verian.html) | Verian <br> SVT | 1 | 1 | 1 | 1 | 1–2 |
 | [11–22 September 2025](2025-09-22-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -160,9 +164,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 76% | 89% | Median |
-| 2 | 13% | 13% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 82% | 97% | Median |
+| 2 | 16% | 16% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.5–24.0% | 19.1–24.5% | 18.8–25.0% | 18.2–25.7% |
+| N/A | [Poll Average](average.html) | 20.9% | 19.5–22.8% | 19.2–23.3% | 18.9–23.6% | 18.4–24.3% |
+| [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 22.6% | 21.6–23.7% | 21.2–24.1% | 21.0–24.3% | 20.5–24.9% |
+| [7–19 October 2025](2025-10-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.8–22.3% | 19.5–22.7% | 19.2–23.0% | 18.6–23.6% |
 | [22 September–5 October 2025](2025-10-05-Verian.html) | Verian <br> SVT | 20.1% | 19.2–21.0% | 19.0–21.3% | 18.8–21.5% | 18.3–22.0% |
 | [11–22 September 2025](2025-09-22-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.5% |
 | [9–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.4–22.8% | 19.0–23.2% | 18.6–23.7% | 17.9–24.5% |
@@ -91,18 +93,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.9% |  |
-| 18.5–19.5% | 11% | 98.8% |  |
-| 19.5–20.5% | 28% | 88% |  |
-| 20.5–21.5% | 26% | 60% | Median |
-| 21.5–22.5% | 12% | 34% |  |
-| 22.5–23.5% | 8% | 22% |  |
-| 23.5–24.5% | 9% | 14% |  |
-| 24.5–25.5% | 4% | 5% |  |
-| 25.5–26.5% | 0.7% | 0.8% |  |
-| 26.5–27.5% | 0% | 0% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.8% | 100% |  |
+| 18.5–19.5% | 10% | 99.1% |  |
+| 19.5–20.5% | 29% | 89% |  |
+| 20.5–21.5% | 29% | 60% | Median |
+| 21.5–22.5% | 18% | 31% |  |
+| 22.5–23.5% | 10% | 13% |  |
+| 23.5–24.5% | 3% | 3% |  |
+| 24.5–25.5% | 0.3% | 0.3% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,7 +113,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [7–19 October 2025](2025-10-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [22 September–5 October 2025](2025-10-05-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–22 September 2025](2025-09-22-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -183,9 +185,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 24% | 100% |  |
-| 5 | 65% | 76% | Median |
-| 6 | 11% | 11% |  |
+| 4 | 25% | 100% |  |
+| 5 | 74% | 75% | Median |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 
