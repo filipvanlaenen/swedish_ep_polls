@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 Oct 2025 22:48:11 +0200</pubDate>
+    <pubDate>Fri, 24 Oct 2025 22:24:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for TV4, 6–19 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-10-19-Novus.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-10-19-Ipsos-seats.png"
         length="247619"
         type="image/png"/>
-      <pubDate>Thu, 23 Oct 2025 22:48:11 +0200</pubDate>
-      <dc:date>2025-10-23T22:48:11.190108+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 22:24:45 +0200</pubDate>
+      <dc:date>2025-10-24T22:24:45.237162+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–19 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-10-19-Ipsos-coalitions-seats.png"
         length="142820"
         type="image/png"/>
-      <pubDate>Thu, 23 Oct 2025 22:48:11 +0200</pubDate>
-      <dc:date>2025-10-23T22:48:11.190108+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 22:24:45 +0200</pubDate>
+      <dc:date>2025-10-24T22:24:45.237162+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–19 October 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-10-19-Ipsos.png"
         length="273568"
         type="image/png"/>
-      <pubDate>Thu, 23 Oct 2025 22:48:11 +0200</pubDate>
-      <dc:date>2025-10-23T22:48:11.190108+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 22:24:45 +0200</pubDate>
+      <dc:date>2025-10-24T22:24:45.237162+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 22 September–5 October 2025 – Seat Projections for the Parties</title>
@@ -1749,6 +1749,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-10-23T22:48:11.190108+02:00</dc:date>
+    <dc:date>2025-10-24T22:24:45.237162+02:00</dc:date>
   </channel>
 </rss>
