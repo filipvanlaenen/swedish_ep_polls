@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 3–5 |
-| [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 3–4 | 3–4 |
+| [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 3–4 | 3–5 |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4 | 4 | 4–5 | 3–5 |
 | [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 4 | 4 | 4 | 4 | 3–5 |
 | [7–19 October 2025](2025-10-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
