@@ -307,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.7% | 100% |  |
-| 7 | 37% | 99.3% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 37% | 99.4% |  |
 | 8 | 60% | 62% | Median |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
@@ -355,8 +355,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 1.2% | 100% |  |
-| 4 | 94% | 98.8% | Median |
+| 3 | 1.3% | 100% |  |
+| 4 | 94% | 98.7% | Median |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
@@ -385,7 +385,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 19% | 100% |  |
-| 5 | 78% | 81% | Median |
+| 5 | 79% | 81% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -417,8 +417,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.7% | 100% |  |
-| 7 | 37% | 99.3% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 37% | 99.4% |  |
 | 8 | 60% | 62% | Median |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 34% | 100% |  |
-| 5 | 65% | 66% | Median |
-| 6 | 1.3% | 1.3% |  |
+| 5 | 64% | 66% | Median |
+| 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -449,7 +449,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 19% | 100% |  |
-| 5 | 78% | 81% | Median |
+| 5 | 79% | 81% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -490,6 +490,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
-+ **Error estimate:** 0.90%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Error estimate:** 1.63%
