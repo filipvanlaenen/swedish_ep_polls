@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 17.0–19.5% | 16.6–19.9% | 16.3–20.2% | 15.8–20.9% |
+| N/A | [Poll Average](average.html) | 18.3% | 17.0–19.5% | 16.7–19.9% | 16.4–20.3% | 15.8–20.9% |
+| [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 18.5% | 17.6–19.4% | 17.4–19.7% | 17.2–19.9% | 16.8–20.3% |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 17.4% | 16.4–18.5% | 16.1–18.8% | 15.8–19.1% | 15.3–19.6% |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 18.4% | 17.3–19.6% | 17.0–19.9% | 16.8–20.2% | 16.2–20.8% |
 | [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 18.0% | 17.0–19.0% | 16.7–19.3% | 16.5–19.6% | 16.0–20.1% |
@@ -95,10 +96,10 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.2% | 100% |  |
 | 15.5–16.5% | 4% | 99.8% |  |
-| 16.5–17.5% | 22% | 96% |  |
-| 17.5–18.5% | 40% | 74% | Median |
-| 18.5–19.5% | 25% | 33% |  |
-| 19.5–20.5% | 7% | 9% |  |
+| 16.5–17.5% | 18% | 96% |  |
+| 17.5–18.5% | 39% | 78% | Median |
+| 18.5–19.5% | 29% | 39% |  |
+| 19.5–20.5% | 8% | 10% |  |
 | 20.5–21.5% | 1.2% | 1.3% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -113,6 +114,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 3–5 |
+| [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 3–4 | 3–5 |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4 | 4 | 4–5 | 3–5 |
 | [6–19 October 2025](2025-10-19-Novus.html) | Novus <br> TV4 | 4 | 4 | 4 | 4 | 3–5 |
