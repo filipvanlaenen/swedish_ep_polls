@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.7% | 19.8–23.4% | 19.4–23.8% | 19.1–24.2% | 18.6–24.9% |
+| [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.8–22.3% | 19.5–22.7% | 19.2–23.0% | 18.6–23.6% |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 20.0% | 19.1–20.9% | 18.9–21.2% | 18.7–21.4% | 18.2–21.9% |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 22.9% | 21.7–24.1% | 21.4–24.4% | 21.1–24.8% | 20.6–25.3% |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 21.6% | 20.5–22.8% | 20.1–23.2% | 19.8–23.5% | 19.3–24.1% |
@@ -118,6 +119,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -192,8 +194,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 20% | 100% |  |
-| 5 | 77% | 80% | Median |
+| 4 | 21% | 100% |  |
+| 5 | 76% | 79% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
