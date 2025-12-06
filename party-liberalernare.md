@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% | 1.4–3.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
+| [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.3% |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.4% | 2.0–3.0% | 1.8–3.1% | 1.7–3.3% | 1.6–3.6% |
 | [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% |
@@ -83,8 +84,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 82% | 98% | Median |
-| 2.5–3.5% | 16% | 16% |  |
+| 1.5–2.5% | 80% | 98% | Median |
+| 2.5–3.5% | 19% | 19% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -98,6 +99,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
