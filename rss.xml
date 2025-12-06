@@ -8,26 +8,56 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Dec 2025 22:03:59 +0100</pubDate>
+    <pubDate>Sat, 06 Dec 2025 10:35:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Indikator for Sveriges Radio, 5–24 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 8–9 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator-seats.png"
+        length="223502"
+        type="image/png"/>
+      <pubDate>Sat, 06 Dec 2025 10:35:57 +0100</pubDate>
+      <dc:date>2025-12-06T10:35:57.683338+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Indikator for Sveriges Radio, 5–24 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator-coalitions-seats.png"
+        length="127177"
+        type="image/png"/>
+      <pubDate>Sat, 06 Dec 2025 10:35:57 +0100</pubDate>
+      <dc:date>2025-12-06T10:35:57.683338+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Indikator for Sveriges Radio, 5–24 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 1.6–3.0%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 34.1–38.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 4.3–6.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.5–6.6%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 3.4–5.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.4–19.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 5.2–7.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.5–22.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Indikator.png"
+        length="272838"
+        type="image/png"/>
+      <pubDate>Sat, 06 Dec 2025 10:35:57 +0100</pubDate>
+      <dc:date>2025-12-06T10:35:57.683338+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 15–24 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Demoskop-seats.png"
-        length="236833"
+        length="250296"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:03:59 +0100</pubDate>
-      <dc:date>2025-12-03T22:03:59.929344+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 19:43:48 +0100</pubDate>
+      <dc:date>2025-12-05T19:43:48.892142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 15–24 November 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Demoskop.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Demoskop-coalitions-seats.png"
-        length="134467"
+        length="143612"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:03:59 +0100</pubDate>
-      <dc:date>2025-12-03T22:03:59.929344+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 19:43:48 +0100</pubDate>
+      <dc:date>2025-12-05T19:43:48.892142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 15–24 November 2025 – Voting Intentions</title>
@@ -36,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2025-11-24-Demoskop.png"
         length="287039"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:03:59 +0100</pubDate>
-      <dc:date>2025-12-03T22:03:59.929344+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 19:43:48 +0100</pubDate>
+      <dc:date>2025-12-05T19:43:48.892142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–17 November 2025 – Seat Projections for the Parties</title>
@@ -1899,6 +1929,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2025-12-03T22:03:59.929344+01:00</dc:date>
+    <dc:date>2025-12-06T10:35:57.683338+01:00</dc:date>
   </channel>
 </rss>
