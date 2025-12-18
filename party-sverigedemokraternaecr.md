@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 19.7–22.9% | 19.3–23.3% | 19.0–23.7% | 18.4–24.4% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.7–23.8% | 19.3–24.3% | 19.0–24.7% | 18.4–25.4% |
+| [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 23.7% | 22.6–24.8% | 22.3–25.1% | 22.1–25.4% | 21.6–25.9% |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 20.4% | 19.5–21.4% | 19.2–21.6% | 19.0–21.9% | 18.5–22.4% |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 20.3% | 19.1–21.6% | 18.8–21.9% | 18.5–22.2% | 18.0–22.8% |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 21.3% | 20.0–22.7% | 19.7–23.1% | 19.4–23.4% | 18.8–24.1% |
 | [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.8–22.3% | 19.5–22.7% | 19.2–23.0% | 18.6–23.6% |
+| [3–16 November 2025](2025-11-16-Novus.html) | Novus <br> TV4 | 21.0% | 19.9–22.1% | 19.6–22.4% | 19.4–22.7% | 18.9–23.3% |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 20.0% | 19.1–20.9% | 18.9–21.2% | 18.7–21.4% | 18.2–21.9% |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 22.9% | 21.7–24.1% | 21.4–24.4% | 21.1–24.8% | 20.6–25.3% |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 21.6% | 20.5–22.8% | 20.1–23.2% | 19.8–23.5% | 19.3–24.1% |
@@ -104,12 +106,13 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.7% | 100% |  |
 | 18.5–19.5% | 8% | 99.3% |  |
 | 19.5–20.5% | 25% | 92% |  |
-| 20.5–21.5% | 31% | 66% | Median |
-| 21.5–22.5% | 21% | 36% |  |
-| 22.5–23.5% | 11% | 15% |  |
-| 23.5–24.5% | 3% | 3% |  |
-| 24.5–25.5% | 0.3% | 0.3% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 20.5–21.5% | 29% | 66% | Median |
+| 21.5–22.5% | 15% | 38% |  |
+| 22.5–23.5% | 10% | 22% |  |
+| 23.5–24.5% | 9% | 12% |  |
+| 24.5–25.5% | 3% | 3% |  |
+| 25.5–26.5% | 0.3% | 0.3% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,11 +123,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [4–17 November 2025](2025-11-17-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–16 November 2025](2025-11-16-Novus.html) | Novus <br> TV4 | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [27 October–9 November 2025](2025-11-09-Verian.html) | Verian <br> SVT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–27 October 2025](2025-10-27-Indikator.html) | Indikator <br> Sveriges Radio | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [18–27 October 2025](2025-10-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -200,8 +205,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 21% | 100% |  |
-| 5 | 77% | 79% | Median |
-| 6 | 1.2% | 1.2% |  |
+| 5 | 70% | 79% | Median |
+| 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 
 
