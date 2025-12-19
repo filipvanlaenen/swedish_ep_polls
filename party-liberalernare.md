@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.9–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–2.9% | 1.4–3.2% |
+| [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.0% | 1.6–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 2.4% | 2.1–2.9% | 2.0–3.0% | 1.9–3.1% | 1.7–3.3% |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.3% |
@@ -87,10 +88,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 74% | 98% | Median |
-| 2.5–3.5% | 25% | 25% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 1.5–2.5% | 79% | 98% | Median |
+| 2.5–3.5% | 18% | 18% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,6 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 0 | 0 | 0 | 0 | 0 |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
