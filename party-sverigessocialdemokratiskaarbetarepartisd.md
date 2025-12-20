@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.9% | 33.1–36.9% | 32.7–37.5% | 32.3–37.9% | 31.6–38.7% |
+| N/A | [Poll Average](average.html) | 34.4% | 32.9–36.4% | 32.5–37.1% | 32.1–37.6% | 31.4–38.5% |
 | [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 33.6% | 32.3–34.9% | 32.0–35.3% | 31.6–35.6% | 31.0–36.3% |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 34.1% | 32.9–35.3% | 32.6–35.7% | 32.3–36.0% | 31.7–36.6% |
+| [2–14 December 2025](2025-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 34.0% | 32.6–35.5% | 32.2–35.9% | 31.9–36.2% | 31.2–36.9% |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 34.7% | 33.6–35.8% | 33.3–36.2% | 33.0–36.4% | 32.5–37.0% |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 36.3% | 34.9–37.7% | 34.4–38.1% | 34.1–38.5% | 33.4–39.2% |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 33.0% | 31.5–34.5% | 31.1–34.9% | 30.7–35.3% | 30.0–36.1% |
@@ -117,17 +118,16 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.4% | 100% |  |
-| 31.5–32.5% | 4% | 99.5% |  |
-| 32.5–33.5% | 13% | 96% |  |
-| 33.5–34.5% | 25% | 83% |  |
-| 34.5–35.5% | 25% | 58% | Median |
-| 35.5–36.5% | 18% | 34% |  |
-| 36.5–37.5% | 11% | 15% |  |
-| 37.5–38.5% | 4% | 4% |  |
-| 38.5–39.5% | 0.7% | 0.7% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 30.5–31.5% | 0.7% | 100% |  |
+| 31.5–32.5% | 5% | 99.3% |  |
+| 32.5–33.5% | 18% | 94% |  |
+| 33.5–34.5% | 30% | 77% | Median |
+| 34.5–35.5% | 25% | 47% |  |
+| 35.5–36.5% | 13% | 22% |  |
+| 36.5–37.5% | 6% | 9% |  |
+| 37.5–38.5% | 2% | 3% |  |
+| 38.5–39.5% | 0.4% | 0.4% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -141,6 +141,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [2–14 December 2025](2025-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [24 November–7 December 2025](2025-12-07-Verian.html) | Verian <br> SVT | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [5–24 November 2025](2025-11-24-Indikator.html) | Indikator <br> Sveriges Radio | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [15–24 November 2025](2025-11-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -223,8 +224,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 19% | 100% |  |
-| 8 | 75% | 81% | Median |
+| 7 | 22% | 100% |  |
+| 8 | 72% | 78% | Median |
 | 9 | 6% | 6% |  |
 | 10 | 0% | 0% |  |
 
