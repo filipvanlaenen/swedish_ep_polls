@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.3–3.1% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.3–3.1% |
+| [7–18 January 2026](2026-01-18-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 2.4% | 2.0–2.8% | 1.9–2.9% | 1.9–3.0% | 1.7–3.3% |
 | [29 December 2025–11 January 2026](2026-01-11-Verian.html) | Verian <br> SVT | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.4–2.3% | 1.2–2.5% |
-| [3–27 December 2025](2025-12-27-Indikator.html) | Indikator <br> Sveriges Radio | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% |
+| [3–29 December 2025](2025-12-29-Indikator.html) | Indikator <br> Sveriges Radio | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% |
 | [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.0% | 1.6–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 2.4% | 2.1–2.9% | 2.0–3.0% | 1.9–3.1% | 1.7–3.3% |
 | [2–14 December 2025](2025-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
@@ -105,8 +106,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–18 January 2026](2026-01-18-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 0 | 0 | 0 | 0 | 0 |
 | [29 December 2025–11 January 2026](2026-01-11-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
-| [3–27 December 2025](2025-12-27-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
+| [3–29 December 2025](2025-12-29-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
 | [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 0 | 0 | 0 | 0 | 0 |
 | [2–14 December 2025](2025-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
