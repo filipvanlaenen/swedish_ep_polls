@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [7–18 January 2026](2026-01-18-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [29 December 2025–11 January 2026](2026-01-11-Verian.html) | Verian <br> SVT | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [3–29 December 2025](2025-12-29-Indikator.html) | Indikator <br> Sveriges Radio | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [3–29 December 2025](2025-12-29-Indikator.html) | Indikator <br> Sveriges Radio | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [7–16 December 2025](2025-12-16-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [1–14 December 2025](2025-12-14-Novus.html) | Novus <br> TV4 | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [2–14 December 2025](2025-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
@@ -229,8 +229,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 44% | 100% |  |
-| 8 | 54% | 56% | Median |
+| 7 | 43% | 100% |  |
+| 8 | 54% | 57% | Median |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
