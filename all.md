@@ -6,8 +6,8 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [20–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7–9% <br> 2 | 5–7% <br> 1–2 | 32–36% <br> 7–8 | N/A <br> N/A | 1–3% <br> 0 | 4–6% <br> 1 | 16–20% <br> 4 | 3–5% <br> 0–1 | 19–23% <br> 4–5 |
-| [16–26 January 2026](2026-01-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–25 January 2026](2026-01-25-Indikator.html) | Indikator <br> Sveriges Radio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–26 January 2026](2026-01-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6–9% <br> 1–2 | 5–7% <br> 1–2 | 31–35% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 4–5% <br> 0–1 | 16–19% <br> 4 | 4–6% <br> 1 | 19–23% <br> 4–5 |
+| [11–25 January 2026](2026-01-25-Indikator.html) | Indikator <br> Sveriges Radio | 7–8% <br> 1–2 | 4–5% <br> 1 | 34–37% <br> 7–8 | N/A <br> N/A | 1–2% <br> 0 | 5–6% <br> 1 | 18–20% <br> 4 | 3–5% <br> 0–1 | 20–23% <br> 4–5 |
 | [7–18 January 2026](2026-01-18-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6–8% <br> 1–2 | 5–6% <br> 1 | 32–36% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 4–6% <br> 1 | 16–19% <br> 4 | 4–5% <br> 0–1 | 21–24% <br> 5 |
 | [29 December 2025–11 January 2026](2026-01-11-Verian.html) | Verian <br> SVT | 6–8% <br> 1–2 | 6–8% <br> 1–2 | 32–36% <br> 7–8 | N/A <br> N/A | 1–2% <br> 0 | 5–6% <br> 1 | 16–19% <br> 3–4 | 4–5% <br> 0–1 | 20–23% <br> 4–5 |
 | [3–29 December 2025](2025-12-29-Indikator.html) | Indikator <br> Sveriges Radio | 6–8% <br> 1–2 | 6–7% <br> 1–2 | 33–37% <br> 7–9 | N/A <br> N/A | 2–3% <br> 0 | 3–5% <br> 0–1 | 17–20% <br> 4–5 | 3–5% <br> 0–1 | 20–23% <br> 4–5 |
