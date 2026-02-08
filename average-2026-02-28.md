@@ -306,8 +306,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 52% | 100% | Median |
-| 8 | 48% | 48% |  |
+| 7 | 53% | 100% | Median |
+| 8 | 47% | 47% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
@@ -382,7 +382,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 16% | 100% |  |
-| 5 | 83% | 84% | Median |
+| 5 | 84% | 84% | Median |
 | 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
@@ -415,8 +415,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 52% | 100% | Median |
-| 8 | 48% | 48% |  |
+| 7 | 53% | 100% | Median |
+| 8 | 47% | 47% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
@@ -430,8 +430,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 29% | 100% |  |
-| 5 | 71% | 71% | Median |
+| 4 | 28% | 100% |  |
+| 5 | 71% | 72% | Median |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
@@ -446,7 +446,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 16% | 100% |  |
-| 5 | 83% | 84% | Median |
+| 5 | 84% | 84% | Median |
 | 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
@@ -487,6 +487,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 0.82%
