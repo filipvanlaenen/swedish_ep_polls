@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Feb 2026 19:11:30 +0100</pubDate>
+    <pubDate>Sat, 14 Feb 2026 10:22:04 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Verian for SVT, 26 January–8 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian-seats.png"
+        length="236213"
+        type="image/png"/>
+      <pubDate>Sat, 14 Feb 2026 10:22:04 +0100</pubDate>
+      <dc:date>2026-02-14T10:22:04.572004+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for SVT, 26 January–8 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian-coalitions-seats.png"
+        length="128208"
+        type="image/png"/>
+      <pubDate>Sat, 14 Feb 2026 10:22:04 +0100</pubDate>
+      <dc:date>2026-02-14T10:22:04.572004+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for SVT, 26 January–8 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 1.6–2.5%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 32.8–36.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 4.9–6.5%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 3.9–5.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 6.6–8.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 16.9–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.7–21.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-02-08-Verian.png"
+        length="265775"
+        type="image/png"/>
+      <pubDate>Sat, 14 Feb 2026 10:22:04 +0100</pubDate>
+      <dc:date>2026-02-14T10:22:04.572004+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 20–29 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-01-29-Ipsos.html#seats</link>
@@ -2259,6 +2289,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2026-02-08T19:11:30.958366+01:00</dc:date>
+    <dc:date>2026-02-14T10:22:04.572004+01:00</dc:date>
   </channel>
 </rss>
