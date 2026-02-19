@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 16.9–19.2% | 16.6–19.5% | 16.4–19.8% | 15.9–20.2% |
+| N/A | [Poll Average](average.html) | 18.1% | 17.0–19.2% | 16.6–19.5% | 16.4–19.8% | 15.9–20.2% |
+| [2–15 February 2026](2026-02-15-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 17.5% | 16.6–18.5% | 16.3–18.7% | 16.1–19.0% | 15.7–19.5% |
 | [26 January–8 February 2026](2026-02-08-Verian.html) | Verian <br> SVT | 18.2% | 17.3–19.1% | 17.1–19.4% | 16.9–19.6% | 16.5–20.0% |
 | [20–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.0% | 16.9–19.2% | 16.6–19.5% | 16.3–19.8% | 15.8–20.4% |
 | [16–26 January 2026](2026-01-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 17.8% | 16.8–18.9% | 16.5–19.2% | 16.2–19.5% | 15.8–20.0% |
@@ -128,6 +129,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 3–5 |
+| [2–15 February 2026](2026-02-15-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4 | 4 | 4 | 3–4 |
 | [26 January–8 February 2026](2026-02-08-Verian.html) | Verian <br> SVT | 4 | 4 | 4 | 4 | 4 |
 | [20–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 3–5 |
 | [16–26 January 2026](2026-01-26-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4 | 4 | 4 | 3–5 |
@@ -216,8 +218,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.7% | 100% |  |
-| 4 | 98% | 99.3% | Median |
+| 3 | 0.6% | 100% |  |
+| 4 | 98% | 99.4% | Median |
 | 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
