@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.6–6.7% | 4.4–6.9% | 4.2–7.2% | 3.8–7.6% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.6–6.9% | 4.4–7.1% | 4.2–7.3% | 3.8–7.7% |
+| [23 February–8 March 2026](2026-03-08-Verian.html) | Verian <br> SVT | 6.5% | 6.0–7.1% | 5.8–7.3% | 5.7–7.4% | 5.5–7.7% |
 | [10–24 February 2026](2026-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6.3% | 5.5–7.1% | 5.3–7.4% | 5.2–7.6% | 4.8–8.0% |
 | [10–23 February 2026](2026-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [2–23 February 2026](2026-02-23-Indikator.html) | Indikator <br> Sveriges Radio | 4.7% | 4.1–5.4% | 4.0–5.7% | 3.8–5.8% | 3.6–6.2% |
@@ -103,10 +104,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 9% | 99.9% |  |
-| 4.5–5.5% | 35% | 91% |  |
-| 5.5–6.5% | 44% | 56% | Median |
-| 6.5–7.5% | 12% | 13% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
+| 4.5–5.5% | 32% | 91% |  |
+| 5.5–6.5% | 39% | 59% | Median |
+| 6.5–7.5% | 19% | 20% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -118,7 +119,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [23 February–8 March 2026](2026-03-08-Verian.html) | Verian <br> SVT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–24 February 2026](2026-02-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–23 February 2026](2026-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–23 February 2026](2026-02-23-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -209,8 +211,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.3% | 100% | Last Result |
-| 1 | 92% | 98.7% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 89% | 98.7% | Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
