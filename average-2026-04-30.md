@@ -312,7 +312,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 4% | 100% |  |
 | 7 | 72% | 96% | Median |
 | 8 | 24% | 24% |  |
-| 9 | 0.1% | 0.1% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Feministiskt initiativ (S&D)
@@ -422,7 +422,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 4% | 100% |  |
 | 7 | 72% | 96% | Median |
 | 8 | 24% | 24% |  |
-| 9 | 0.1% | 0.1% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Kristdemokraterna (EPP) – Moderata samlingspartiet (EPP)
@@ -436,8 +436,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 14% | 100% |  |
-| 5 | 85% | 86% | Median |
-| 6 | 1.1% | 1.1% |  |
+| 5 | 84% | 86% | Median |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 ### Sverigedemokraterna (ECR)
@@ -493,6 +493,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 1.43%
