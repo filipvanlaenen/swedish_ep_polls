@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.5% | 1.9–4.5% | 1.7–4.9% | 1.6–5.2% | 1.4–5.6% |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 2.9% | 2.6–3.2% | 2.6–3.3% | 2.5–3.4% | 2.4–3.5% |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% | 1.4–3.2% |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.0% |
@@ -125,7 +125,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 0 | 0 | 0 | 0 | 0 |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

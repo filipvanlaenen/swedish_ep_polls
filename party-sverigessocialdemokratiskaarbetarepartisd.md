@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.6% | 30.9–34.1% | 30.3–34.6% | 29.8–35.0% | 28.9–35.8% |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 32.4% | 31.6–33.2% | 31.4–33.4% | 31.2–33.6% | 30.8–34.0% |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 32.7% | 31.6–33.8% | 31.3–34.1% | 31.0–34.4% | 30.5–34.9% |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 32.7% | 31.6–33.8% | 31.3–34.1% | 31.0–34.4% | 30.5–34.9% |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 33.4% | 32.0–34.9% | 31.6–35.3% | 31.3–35.6% | 30.6–36.3% |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33.0% | 31.6–34.5% | 31.2–34.9% | 30.8–35.3% | 30.2–36.0% |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 31.1% | 29.6–32.6% | 29.2–33.0% | 28.9–33.4% | 28.2–34.2% |
@@ -156,7 +156,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -259,7 +259,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 4% | 100% |  |
 | 7 | 70% | 96% | Median |
-| 8 | 26% | 26% |  |
+| 8 | 25% | 25% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 

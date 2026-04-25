@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.9% | 16.4–19.1% | 16.1–19.4% | 15.8–19.7% | 15.3–20.4% |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 18.4% | 17.8–19.1% | 17.6–19.3% | 17.4–19.4% | 17.1–19.7% |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 16.8% | 16.0–17.7% | 15.7–18.0% | 15.5–18.2% | 15.1–18.6% |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 16.8% | 16.0–17.7% | 15.7–18.0% | 15.5–18.2% | 15.1–18.6% |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 18.4% | 17.3–19.6% | 17.0–20.0% | 16.7–20.3% | 16.2–20.8% |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.0% | 16.9–19.2% | 16.5–19.6% | 16.3–19.9% | 15.7–20.5% |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 17.3% | 16.1–18.6% | 15.8–18.9% | 15.5–19.3% | 15.0–19.9% |
@@ -140,7 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–4 | 3–5 |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4 | 4 | 4 | 4–5 |
-| [23 March–5 April 2026](2026-04-05-Verian.html) | Verian <br> SVT | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [5–29 March 2026](2026-03-29-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [10–22 March 2026](2026-03-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4–5 | 4–5 |
 | [10–19 March 2026](2026-03-19-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
