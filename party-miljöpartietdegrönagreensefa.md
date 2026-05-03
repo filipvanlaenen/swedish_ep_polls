@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–27 April 2026](2026-04-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–27 April 2026](2026-04-27-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 1 | 1 | 1 |
+| [1–27 April 2026](2026-04-27-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1 | 1 | 1 | 1–2 |
 | [10–27 April 2026](2026-04-27-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–19 April 2026](2026-04-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1 | 1 | 1–2 | 1–2 |
 | [23 March–6 April 2026](2026-04-06-Verian.html) | Verian <br> SVT | 1 | 1 | 1–2 | 1–2 | 1–2 |
