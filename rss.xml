@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/swedish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 May 2026 15:33:37 +0200</pubDate>
+    <pubDate>Sat, 23 May 2026 22:02:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for Göteborgs-Posten and TV4, 4–17 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 7 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus-seats.png"
+        length="212315"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 22:02:17 +0200</pubDate>
+      <dc:date>2026-05-23T22:02:17.849894+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for Göteborgs-Posten and TV4, 4–17 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus-coalitions-seats.png"
+        length="109254"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 22:02:17 +0200</pubDate>
+      <dc:date>2026-05-23T22:02:17.849894+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for Göteborgs-Posten and TV4, 4–17 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberalerna (RE): 2.0–2.9%&lt;/li&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti (S&amp;amp;D): 29.7–32.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna (Greens/EFA): 6.4–7.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna (EPP): 5.0–6.2%&lt;/li&gt;&lt;li&gt;Centerpartiet (RE): 5.4–6.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet (GUE/NGL): 8.1–9.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet (EPP): 17.2–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna (ECR): 18.2–20.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-17-Novus.png"
+        length="265636"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 22:02:17 +0200</pubDate>
+      <dc:date>2026-05-23T22:02:17.849894+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Verian for SVT, 27 April–10 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-10-Verian.html#seats</link>
@@ -2739,6 +2769,6 @@
       <pubDate>Fri, 27 Sep 2024 16:15:04 +0200</pubDate>
       <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
     </item>
-    <dc:date>2026-05-17T15:33:37.604109+02:00</dc:date>
+    <dc:date>2026-05-23T22:02:17.849894+02:00</dc:date>
   </channel>
 </rss>
