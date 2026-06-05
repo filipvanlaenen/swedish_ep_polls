@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 24 Jul 2024 21:53:01 +0200</pubDate>
     <item>
+      <title>Opinion Poll by SCB, 28 April–28 May 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SCB, 28 April–28 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB-seating-plan.png" length="290884" type="image/png"/>
+      <pubDate>Thu, 4 Jun 2026 20:54:30 +0200</pubDate>
+      <dc:date>2026-06-04T20:54:30.928321456+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–28 May 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by SCB, 28 April–28 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB-seats.png" length="200882" type="image/png"/>
+      <pubDate>Thu, 4 Jun 2026 20:54:30 +0200</pubDate>
+      <dc:date>2026-06-04T20:54:30.928321456+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–28 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SCB, 28 April–28 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-28-SCB.png" length="251570" type="image/png"/>
+      <pubDate>Thu, 4 Jun 2026 20:54:30 +0200</pubDate>
+      <dc:date>2026-06-04T20:54:30.928321456+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 May 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-25-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-25-Ipsos-seating-plan.png"/>]]></description>
@@ -30,28 +54,52 @@
       <dc:date>2026-05-27T17:54:26.447848488+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop-seating-plan.png" length="303533" type="image/png"/>
+      <pubDate>Fri, 5 Jun 2026 18:34:08 +0200</pubDate>
+      <dc:date>2026-06-05T18:34:08.461737243+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop-seats.png" length="235534" type="image/png"/>
+      <pubDate>Fri, 5 Jun 2026 18:34:08 +0200</pubDate>
+      <dc:date>2026-06-05T18:34:08.461737243+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Demoskop for Aftonbladet and Svenska Dagbladet, 10–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Demoskop.png" length="275826" type="image/png"/>
+      <pubDate>Fri, 5 Jun 2026 18:34:08 +0200</pubDate>
+      <dc:date>2026-06-05T18:34:08.461737243+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 4–24 May 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Indikator for Sveriges Radio, 4–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator-seating-plan.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator-seating-plan.png" length="298487" type="image/png"/>
-      <pubDate>Wed, 27 May 2026 18:53:53 +0200</pubDate>
-      <dc:date>2026-05-27T18:53:53.596064892+02:00</dc:date>
+      <pubDate>Fri, 29 May 2026 20:20:49 +0200</pubDate>
+      <dc:date>2026-05-29T20:20:49.360558905+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 4–24 May 2026 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html#seats</link>
       <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Indikator for Sveriges Radio, 4–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator-seats.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator-seats.png" length="228424" type="image/png"/>
-      <pubDate>Wed, 27 May 2026 18:53:53 +0200</pubDate>
-      <dc:date>2026-05-27T18:53:53.596064892+02:00</dc:date>
+      <pubDate>Fri, 29 May 2026 20:20:49 +0200</pubDate>
+      <dc:date>2026-05-29T20:20:49.360558905+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Indikator for Sveriges Radio, 4–24 May 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Indikator for Sveriges Radio, 4–24 May 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-05-24-Indikator.png" length="260556" type="image/png"/>
-      <pubDate>Wed, 27 May 2026 18:53:53 +0200</pubDate>
-      <dc:date>2026-05-27T18:53:53.596064892+02:00</dc:date>
+      <pubDate>Fri, 29 May 2026 20:20:49 +0200</pubDate>
+      <dc:date>2026-05-29T20:20:49.360558905+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for Göteborgs-Posten and TV4, 4–17 May 2026 – Seating Plan Projection</title>
@@ -196,54 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-19-Novus.png" length="262571" type="image/png"/>
       <pubDate>Thu, 23 Apr 2026 21:34:28 +0200</pubDate>
       <dc:date>2026-04-23T21:34:28.285800454+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for SVT, 23 March–6 April 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Verian for SVT, 23 March–6 April 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian-seating-plan.png" length="294489" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 13:45:39 +0200</pubDate>
-      <dc:date>2026-04-25T13:45:39.744520282+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for SVT, 23 March–6 April 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Verian for SVT, 23 March–6 April 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian-seats.png" length="224335" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 13:45:39 +0200</pubDate>
-      <dc:date>2026-04-25T13:45:39.744520282+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for SVT, 23 March–6 April 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian for SVT, 23 March–6 April 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-04-06-Verian.png" length="265015" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 13:45:39 +0200</pubDate>
-      <dc:date>2026-04-25T13:45:39.744520282+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Indikator for Sveriges Radio, 5–29 March 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Indikator for Sveriges Radio, 5–29 March 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator-seating-plan.png" length="301790" type="image/png"/>
-      <pubDate>Sat, 4 Apr 2026 13:01:49 +0200</pubDate>
-      <dc:date>2026-04-04T13:01:49.931515917+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Indikator for Sveriges Radio, 5–29 March 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Indikator for Sveriges Radio, 5–29 March 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator-seats.png" length="247561" type="image/png"/>
-      <pubDate>Sat, 4 Apr 2026 13:01:49 +0200</pubDate>
-      <dc:date>2026-04-04T13:01:49.931515917+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Indikator for Sveriges Radio, 5–29 March 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Indikator for Sveriges Radio, 5–29 March 2026<br/>Details on https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.html<br/><img src="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_ep_polls/2026-03-29-Indikator.png" length="274987" type="image/png"/>
-      <pubDate>Sat, 4 Apr 2026 13:01:49 +0200</pubDate>
-      <dc:date>2026-04-04T13:01:49.931515917+02:00</dc:date>
     </item>
   </channel>
 </rss>
