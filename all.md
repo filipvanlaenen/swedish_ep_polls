@@ -5,6 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–17 June 2026](2026-06-17-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7–9% <br> 1–2 | 7–9% <br> 1–2 | 29–33% <br> 6–7 | N/A <br> N/A | 2–4% <br> 0 | 5–7% <br> 1–2 | 15–18% <br> 3–4 | 6–8% <br> 1–2 | 18–21% <br> 4–5 |
+| [1–14 June 2026](2026-06-14-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 8–10% <br> 2 | 6–7% <br> 1–2 | 31–34% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 6–7% <br> 1–2 | 16–18% <br> 4 | 5–6% <br> 1 | 19–21% <br> 4–5 |
+| [2–14 June 2026](2026-06-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8–12% <br> 2–3 | 6–9% <br> 1–2 | 28–34% <br> 6–8 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | 15–20% <br> 3–4 | 5–8% <br> 1–2 | 17–22% <br> 4–5 |
+| [27 May–7 June 2026](2026-06-07-Verian.html) | Verian <br> SVT | 8–10% <br> 2 | 7–9% <br> 2 | 30–33% <br> 7 | N/A <br> N/A | 2–3% <br> 0 | 5–6% <br> 1 | 16–18% <br> 4 | 5–7% <br> 1 | 17–20% <br> 4 |
 | [28 April–28 May 2026](2026-05-28-SCB.html) | SCB | 8–9% <br> 2 | 6–7% <br> 1–2 | 33–35% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 6–7% <br> 1 | 17–18% <br> 4 | 4–5% <br> 1 | 18–19% <br> 4 |
 | [12–25 May 2026](2026-05-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7–9% <br> 2 | 5–7% <br> 1–2 | 30–34% <br> 7–8 | N/A <br> N/A | 1–3% <br> 0 | 5–7% <br> 1–2 | 17–21% <br> 4–5 | 4–6% <br> 1 | 18–22% <br> 4–5 |
 | [4–24 May 2026](2026-05-24-Indikator.html) | Indikator <br> Sveriges Radio | 7–9% <br> 2 | 5–7% <br> 1–2 | 32–35% <br> 7–8 | N/A <br> N/A | 2% <br> 0 | 6–7% <br> 1–2 | 16–19% <br> 4 | 4–5% <br> 0–1 | 19–22% <br> 4–5 |
