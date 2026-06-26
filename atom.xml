@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-06-23T19:20:40.206944+02:00</updated>
+  <updated>2026-06-24T20:10:18.005824+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalerna (RE): 1.2–2.4%, 0 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 30.3–34.7%, 7–8 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 5.2–7.5%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.1–7.3%, 1–2 seats</li><li>Centerpartiet (RE): 5.9–8.3%, 1–2 seats</li><li>Moderata samlingspartiet (EPP): 16.0–19.6%, 3–4 seats</li><li>Vänsterpartiet (GUE/NGL): 6.6–9.2%, 1–2 seats</li><li>Sverigedemokraterna (ECR): 17.4–21.1%, 4–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2026-06-26-Indikator.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2026-06-26-Indikator.html"/>
+    <title>Opinion Poll by Indikator for Sveriges Radio, 1–26 June 2026</title>
+    <updated>2026-06-24T20:10:18.005824+02:00</updated>
+    <dc:date>2026-06-24T20:10:18.005824+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalerna (RE): 2.2–3.7%, 0 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 29.3–33.4%, 6–7 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 6.5–8.8%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.5–7.7%, 1–2 seats</li><li>Centerpartiet (RE): 5.2–7.3%, 1–2 seats</li><li>Moderata samlingspartiet (EPP): 14.8–18.0%, 3–4 seats</li><li>Vänsterpartiet (GUE/NGL): 6.5–8.8%, 1–2 seats</li><li>Sverigedemokraterna (ECR): 17.7–21.2%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2026-06-17-Demoskop.html</id>
@@ -807,5 +815,5 @@
     <updated>2024-09-27T16:15:04.412651+02:00</updated>
     <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
   </entry>
-  <dc:date>2026-06-23T19:20:40.206944+02:00</dc:date>
+  <dc:date>2026-06-24T20:10:18.005824+02:00</dc:date>
 </feed>
