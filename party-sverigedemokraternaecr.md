@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 18.0–20.4% | 17.7–20.8% | 17.4–21.0% | 16.7–21.7% |
+| N/A | [Poll Average](average.html) | 19.4% | 18.1–20.7% | 17.7–21.0% | 17.4–21.3% | 16.7–21.9% |
+| [6–19 July 2026](2026-07-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 20.4% | 19.7–21.1% | 19.5–21.3% | 19.4–21.5% | 19.1–21.8% |
 | [1–26 June 2026](2026-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 19.2% | 18.0–20.4% | 17.7–20.8% | 17.4–21.1% | 16.9–21.7% |
 | [5–17 June 2026](2026-06-17-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 19.4% | 18.3–20.6% | 18.0–20.9% | 17.7–21.2% | 17.2–21.7% |
 | [1–14 June 2026](2026-06-14-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 20.0% | 19.3–20.7% | 19.1–20.9% | 19.0–21.0% | 18.7–21.4% |
@@ -135,13 +136,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 3% | 99.7% |  |
-| 17.5–18.5% | 26% | 97% |  |
-| 18.5–19.5% | 35% | 70% | Median |
-| 19.5–20.5% | 28% | 36% |  |
-| 20.5–21.5% | 7% | 8% |  |
-| 21.5–22.5% | 0.7% | 0.8% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 3% | 99.6% |  |
+| 17.5–18.5% | 17% | 96% |  |
+| 18.5–19.5% | 34% | 79% | Median |
+| 19.5–20.5% | 31% | 45% |  |
+| 20.5–21.5% | 13% | 14% |  |
+| 21.5–22.5% | 1.1% | 1.2% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -155,6 +156,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [6–19 July 2026](2026-07-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–26 June 2026](2026-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–17 June 2026](2026-06-17-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–14 June 2026](2026-06-14-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -268,9 +270,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 83% | 99.9% | Median |
-| 5 | 17% | 17% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 87% | 99.8% | Median |
+| 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
 
