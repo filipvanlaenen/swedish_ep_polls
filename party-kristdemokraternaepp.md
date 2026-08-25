@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 6.4% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.7–8.7% |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [3–16 August 2026](2026-08-16-Verian.html) | Verian <br> SVT | 6.2% | 5.6–6.8% | 5.5–7.0% | 5.4–7.1% | 5.1–7.4% |
-| [3–16 August 2026](2026-08-16-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.3% | 5.9–6.8% | 5.8–6.9% | 5.7–7.0% | 5.5–7.2% |
+| [3–16 August 2026](2026-08-16-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.3% | 5.9–6.7% | 5.8–6.9% | 5.7–7.0% | 5.5–7.2% |
 | [29 July–10 August 2026](2026-08-10-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [6–19 July 2026](2026-07-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.1% | 5.7–6.5% | 5.6–6.6% | 5.5–6.8% | 5.3–7.0% |
 | [1–26 June 2026](2026-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.1–7.3% | 4.8–7.7% |
@@ -148,7 +148,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–16 August 2026](2026-08-16-Verian.html) | Verian <br> SVT | 1 | 1 | 1 | 1–2 | 1–2 |
-| [3–16 August 2026](2026-08-16-Novus.html) | Novus <br> Göteborgs-Posten and TV4 |  |  |  |  |  |
+| [3–16 August 2026](2026-08-16-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1 | 1 | 1 | 1–2 |
 | [29 July–10 August 2026](2026-08-10-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–19 July 2026](2026-07-19-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1 | 1 | 1 | 1–2 |
 | [1–26 June 2026](2026-06-26-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -262,8 +262,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 
