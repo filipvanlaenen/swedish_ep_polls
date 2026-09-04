@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.7% | 1.7–2.9% | 1.6–3.1% | 1.4–3.5% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.1–3.4% | 1.9–3.6% | 1.8–3.7% | 1.6–4.0% |
+| [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 2.2% | 2.0–2.5% | 1.9–2.6% | 1.8–2.6% | 1.7–2.8% |
+| [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% |
+| [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.4% | 1.7–3.7% |
+| [25 August–1 September 2026](2026-09-01-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
+| [24–30 August 2026](2026-08-30-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 3.3% | 2.9–3.7% | 2.8–3.9% | 2.7–4.0% | 2.5–4.2% |
+| [13–24 August 2026](2026-08-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 2.0% | 1.6–2.4% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [6–23 August 2026](2026-08-23-Indikator.html) | Indikator <br> Sveriges Radio | 2.2% | 1.9–2.5% | 1.9–2.6% | 1.8–2.7% | 1.7–2.9% |
 | [3–16 August 2026](2026-08-16-Verian.html) | Verian <br> SVT | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.5–2.5% | 1.3–2.7% |
@@ -126,10 +132,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 82% | 98% | Median |
-| 2.5–3.5% | 16% | 16% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 39% | 99.5% |  |
+| 2.5–3.5% | 55% | 61% | Median |
+| 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -142,6 +148,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
+| [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
+| [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 0 | 0 | 0 | 0 | 0 |
+| [25 August–1 September 2026](2026-09-01-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
+| [24–30 August 2026](2026-08-30-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 0 | 0 | 0 | 0 | 0–1 |
+| [13–24 August 2026](2026-08-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
 | [6–23 August 2026](2026-08-23-Indikator.html) | Indikator <br> Sveriges Radio | 0 | 0 | 0 | 0 | 0 |
 | [3–16 August 2026](2026-08-16-Verian.html) | Verian <br> SVT | 0 | 0 | 0 | 0 | 0 |
@@ -258,6 +270,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
+| 2 | 0% | 0% |  |
 
 
