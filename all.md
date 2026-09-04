@@ -5,6 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 9–10% <br> 2 | 6–7% <br> 1–2 | 27–29% <br> 6–7 | N/A <br> N/A | 2–3% <br> 0 | 7–8% <br> 1–2 | 17–19% <br> 4 | 6–7% <br> 1–2 | 18–20% <br> 4–5 |
+| [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 7–9% <br> 2 | 7–9% <br> 2 | 28–31% <br> 6–7 | N/A <br> N/A | 2–4% <br> 0 | 7–8% <br> 1–2 | 15–18% <br> 3–4 | 5–7% <br> 1–2 | 18–20% <br> 4 |
+| [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 7–10% <br> 2 | 6–9% <br> 1–2 | 25–29% <br> 5–7 | N/A <br> N/A | 2–3% <br> 0 | 6–9% <br> 1–2 | 16–19% <br> 3–4 | 5–7% <br> 1–2 | 18–22% <br> 4–5 |
+| [25 August–1 September 2026](2026-09-01-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 25–29% <br> 5–6 | N/A <br> N/A | 2–4% <br> 0 | 7–10% <br> 2 | 15–18% <br> 3–4 | 7–9% <br> 1–2 | 18–22% <br> 4–5 |
+| [24–30 August 2026](2026-08-30-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 7–9% <br> 2 | 7–9% <br> 1–2 | 24–27% <br> 5–6 | N/A <br> N/A | 3–4% <br> 0 | 7–9% <br> 2 | 16–19% <br> 3–4 | 6–7% <br> 1–2 | 19–22% <br> 4–5 |
+| [13–24 August 2026](2026-08-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6–8% <br> 1–2 | 6–8% <br> 1–2 | 28–32% <br> 6–7 | N/A <br> N/A | 1–3% <br> 0 | 7–9% <br> 1–2 | 16–19% <br> 3–4 | 7–10% <br> 2 | 17–20% <br> 4 |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7–11% <br> 2 | 5–9% <br> 1–2 | 28–33% <br> 6–7 | N/A <br> N/A | 2–3% <br> 0 | 5–8% <br> 1–2 | 16–20% <br> 3–5 | 5–8% <br> 1–2 | 17–22% <br> 4–5 |
 | [6–23 August 2026](2026-08-23-Indikator.html) | Indikator <br> Sveriges Radio | 7–8% <br> 2 | 6–7% <br> 1–2 | 30–33% <br> 7–8 | N/A <br> N/A | 2–3% <br> 0 | 5–7% <br> 1–2 | 18–20% <br> 4–5 | 5–7% <br> 1 | 19–21% <br> 4–5 |
 | [3–16 August 2026](2026-08-16-Verian.html) | Verian <br> SVT | 7–9% <br> 1–2 | 7–9% <br> 1–2 | 29–32% <br> 6–7 | N/A <br> N/A | 1–2% <br> 0 | 7–9% <br> 1–2 | 16–19% <br> 3–4 | 5–7% <br> 1–2 | 17–20% <br> 4 |
