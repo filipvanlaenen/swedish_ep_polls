@@ -181,7 +181,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 6 | 6 | 5–6 | 5–7 | 5–7 |
-| [25 August–1 September 2026](2026-09-01-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [25 August–1 September 2026](2026-09-01-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–30 August 2026](2026-08-30-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–24 August 2026](2026-08-24-Demoskop.html) | Demoskop <br> Aftonbladet and Svenska Dagbladet | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -307,7 +307,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 9% | 100% |  |
 | 6 | 74% | 91% | Median |
-| 7 | 17% | 18% |  |
+| 7 | 17% | 17% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 
