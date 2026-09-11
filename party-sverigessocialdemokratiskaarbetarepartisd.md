@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 26.1–30.3% | 25.7–31.1% | 25.3–31.9% | 24.7–33.1% |
+| N/A | [Poll Average](average.html) | 28.5% | 26.6–30.2% | 26.1–30.7% | 25.7–31.2% | 24.9–32.1% |
+| [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 28.6% | 26.9–30.4% | 26.4–30.9% | 26.0–31.4% | 25.2–32.2% |
+| [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 29.7% | 28.1–31.3% | 27.7–31.7% | 27.3–32.1% | 26.6–32.9% |
+| [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.4% | 26.1–28.8% | 25.7–29.2% | 25.4–29.5% | 24.8–30.2% |
+| [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 28.6% | 27.8–29.4% | 27.6–29.6% | 27.4–29.8% | 27.1–30.2% |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 26.6% | 25.5–27.8% | 25.1–28.2% | 24.8–28.5% | 24.3–29.1% |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 27.9% | 27.1–28.7% | 26.9–28.9% | 26.7–29.1% | 26.4–29.5% |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 29.2% | 28.1–30.3% | 27.8–30.5% | 27.6–30.8% | 27.1–31.3% |
@@ -156,18 +160,17 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.4% | 100% |  |
-| 24.5–25.5% | 4% | 99.6% |  |
-| 25.5–26.5% | 13% | 96% |  |
-| 26.5–27.5% | 24% | 83% |  |
-| 27.5–28.5% | 25% | 59% | Median |
-| 28.5–29.5% | 16% | 34% |  |
-| 29.5–30.5% | 9% | 18% |  |
-| 30.5–31.5% | 5% | 8% |  |
-| 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.8% | 1.1% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.2% | 100% |  |
+| 24.5–25.5% | 2% | 99.8% |  |
+| 25.5–26.5% | 7% | 98% |  |
+| 26.5–27.5% | 16% | 91% |  |
+| 27.5–28.5% | 26% | 75% |  |
+| 28.5–29.5% | 29% | 49% | Median |
+| 29.5–30.5% | 14% | 20% |  |
+| 30.5–31.5% | 5% | 6% |  |
+| 31.5–32.5% | 1.2% | 1.4% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -178,7 +181,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 6 | 6 | 6 | 6 | 6 |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -307,10 +314,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 7% | 100% |  |
-| 6 | 75% | 93% | Median |
-| 7 | 17% | 17% |  |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 5 | 4% | 100% |  |
+| 6 | 84% | 96% | Median |
+| 7 | 12% | 12% |  |
+| 8 | 0% | 0% |  |
 
 

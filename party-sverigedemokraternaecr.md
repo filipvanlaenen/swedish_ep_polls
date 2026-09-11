@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 18.3–20.9% | 18.0–21.3% | 17.7–21.7% | 17.0–22.4% |
+| N/A | [Poll Average](average.html) | 19.0% | 17.8–20.7% | 17.6–21.2% | 17.3–21.6% | 16.7–22.4% |
+| [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 19.5% | 18.0–21.1% | 17.6–21.6% | 17.3–21.9% | 16.6–22.7% |
+| [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 19.0% | 17.7–20.4% | 17.4–20.8% | 17.1–21.2% | 16.5–21.8% |
+| [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18.8% | 17.6–20.0% | 17.3–20.3% | 17.0–20.7% | 16.5–21.2% |
+| [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 18.3% | 17.6–19.0% | 17.5–19.2% | 17.3–19.3% | 17.0–19.7% |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 19.3% | 18.3–20.4% | 18.0–20.7% | 17.7–21.0% | 17.2–21.5% |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 19.3% | 18.6–20.0% | 18.4–20.2% | 18.3–20.3% | 18.0–20.7% |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 18.9% | 18.0–19.8% | 17.7–20.1% | 17.5–20.3% | 17.1–20.8% |
@@ -148,14 +152,14 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 2% | 99.8% |  |
-| 17.5–18.5% | 13% | 98% |  |
-| 18.5–19.5% | 39% | 85% | Median |
-| 19.5–20.5% | 31% | 46% |  |
-| 20.5–21.5% | 12% | 15% |  |
-| 21.5–22.5% | 3% | 3% |  |
-| 22.5–23.5% | 0.3% | 0.4% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 5% | 99.7% |  |
+| 17.5–18.5% | 28% | 95% |  |
+| 18.5–19.5% | 35% | 67% | Median |
+| 19.5–20.5% | 21% | 32% |  |
+| 20.5–21.5% | 9% | 12% |  |
+| 21.5–22.5% | 2% | 3% |  |
+| 22.5–23.5% | 0.3% | 0.3% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -167,7 +171,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 4 | 4 | 4 | 4–5 | 3–5 |
+| [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4 | 4 | 4 | 4 | 3–5 |
+| [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4 | 4 | 3–4 |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 4 | 4 | 4 | 4 | 4–5 |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 4 | 4 | 4 | 4 | 4–5 |
@@ -294,9 +302,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 87% | 99.9% | Median |
-| 5 | 13% | 13% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 89% | 99.1% | Median |
+| 5 | 10% | 10% |  |
 | 6 | 0% | 0% |  |
 
 
