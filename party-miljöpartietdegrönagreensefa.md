@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.6–8.1% | 5.2–8.4% | 5.0–8.7% | 4.5–9.1% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.2% | 5.2–8.5% | 5.0–8.7% | 4.5–9.1% |
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
+| [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 7.8% | 7.1–8.5% | 7.0–8.7% | 6.8–8.9% | 6.5–9.3% |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 5.6% | 4.8–6.4% | 4.6–6.7% | 4.5–6.9% | 4.2–7.3% |
 | [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.5% |
 | [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 6.9% | 6.5–7.3% | 6.4–7.5% | 6.2–7.6% | 6.1–7.8% |
@@ -142,11 +143,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.6% | 100% |  |
 | 4.5–5.5% | 9% | 99.4% |  |
-| 5.5–6.5% | 24% | 90% |  |
-| 6.5–7.5% | 40% | 66% | Median |
-| 7.5–8.5% | 22% | 26% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 23% | 90% |  |
+| 6.5–7.5% | 38% | 67% | Median |
+| 7.5–8.5% | 25% | 29% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -160,6 +161,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 1 | 1 | 1 | 1 | 1–2 |
 | [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
