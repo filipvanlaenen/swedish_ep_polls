@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 5–8% <br> 1–2 | 5–8% <br> 1–2 | 26–31% <br> 6–7 | N/A <br> N/A | 4–6% <br> 0–1 | 8–11% <br> 2 | 16–21% <br> 3–5 | 4–7% <br> 1–2 | 17–22% <br> 4–5 |
+| [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 7–9% <br> 2 | 7–9% <br> 1–2 | 25–28% <br> 5–6 | N/A <br> N/A | 4–5% <br> 0–1 | 6–8% <br> 1–2 | 16–19% <br> 3–4 | 6–7% <br> 1–2 | 19–22% <br> 4–5 |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 6–9% <br> 1–2 | 4–7% <br> 1 | 27–32% <br> 6–7 | N/A <br> N/A | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 15–19% <br> 3–4 | 6–9% <br> 1–2 | 17–21% <br> 4–5 |
 | [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6–9% <br> 1–2 | 6–8% <br> 1–2 | 25–30% <br> 5–6 | N/A <br> N/A | 4–6% <br> 1 | 6–9% <br> 1–2 | 17–20% <br> 3–4 | 6–8% <br> 1–2 | 17–21% <br> 4 |
 | [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 27–30% <br> 6 | N/A <br> N/A | 5–6% <br> 1 | 7–8% <br> 1–2 | 16–18% <br> 3–4 | 6–8% <br> 1–2 | 17–19% <br> 4 |
