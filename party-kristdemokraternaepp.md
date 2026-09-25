@@ -14,9 +14,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–7.0% | 3.9–7.5% |
 | [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 6.4% | 5.8–7.1% | 5.7–7.3% | 5.5–7.4% | 5.2–7.7% |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 7.6% | 6.8–8.6% | 6.5–8.9% | 6.3–9.1% | 6.0–9.6% |
+| [4–10 September 2026](2026-09-10-Verian.html) | Verian <br> SVT | 6.5% | 5.9–7.1% | 5.8–7.3% | 5.7–7.5% | 5.4–7.8% |
 | [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.9% | 6.2–7.7% | 6.0–8.0% | 5.8–8.2% | 5.5–8.6% |
 | [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 7.1% | 6.7–7.6% | 6.6–7.7% | 6.5–7.8% | 6.3–8.0% |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.4% | 5.8–7.1% | 5.6–7.3% | 5.5–7.5% | 5.2–7.8% |
+| [1–5 September 2026](2026-09-05-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 6.0% | N/A | N/A | N/A | N/A |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 6.6% | 6.2–7.1% | 6.1–7.2% | 6.0–7.3% | 5.8–7.5% |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 6.3% | 5.8–6.9% | 5.6–7.1% | 5.5–7.2% | 5.2–7.5% |
 | [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.7–7.1% | 4.4–7.5% |
@@ -142,9 +144,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 9% | 98.8% |  |
-| 5.5–6.5% | 34% | 90% |  |
-| 6.5–7.5% | 43% | 57% | Median |
+| 4.5–5.5% | 8% | 98.8% |  |
+| 5.5–6.5% | 31% | 91% |  |
+| 6.5–7.5% | 45% | 60% | Median |
 | 7.5–8.5% | 12% | 14% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -163,9 +165,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1 | 1 | 1–2 | 0–2 |
 | [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–10 September 2026](2026-09-10-Verian.html) | Verian <br> SVT | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–10 September 2026](2026-09-10-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–10 September 2026](2026-09-10-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 September 2026](2026-09-08-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [1–5 September 2026](2026-09-05-Novus.html) | Novus <br> Göteborgs-Posten and TV4 |  |  |  |  |  |
 | [18 August–4 September 2026](2026-09-04-Indikator.html) | Indikator <br> Sveriges Radio | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20 August–2 September 2026](2026-09-02-Verian.html) | Verian <br> SVT | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [25 August–1 September 2026](2026-09-01-Infostat.html) | Infostat | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -289,7 +293,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 70% | 99.9% | Median |
+| 1 | 71% | 99.9% | Median |
 | 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
