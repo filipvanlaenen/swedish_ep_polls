@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 27–30% <br> 6–7 | N/A <br> N/A | 3–4% <br> 0–1 | 5–7% <br> 1–2 | 21–24% <br> 4–5 | 5–7% <br> 1 | 16–19% <br> 3–4 |
+| [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 6–8% <br> 1–2 | 6–8% <br> 1–2 | 24–28% <br> 5–6 | N/A <br> N/A | 3–5% <br> 0–1 | 6–8% <br> 1–2 | 22–26% <br> 5–6 | 6–7% <br> 1–2 | 17–20% <br> 4 |
+| [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–11 September 2026](2026-09-11-Novus.html) | Novus <br> Göteborgs-Posten and TV4 | 5–8% <br> 1–2 | 5–8% <br> 1–2 | 26–31% <br> 6–7 | N/A <br> N/A | 4–6% <br> 0–1 | 8–11% <br> 2 | 16–21% <br> 3–5 | 4–7% <br> 1–2 | 17–22% <br> 4–5 |
 | [5–11 September 2026](2026-09-11-Infostat.html) | Infostat | 7–9% <br> 2 | 7–9% <br> 1–2 | 25–28% <br> 5–6 | N/A <br> N/A | 4–5% <br> 0–1 | 6–8% <br> 1–2 | 16–19% <br> 3–4 | 6–7% <br> 1–2 | 19–22% <br> 4–5 |
 | [7–11 September 2026](2026-09-11-Demoskop.html) | Demoskop <br> Aftonbladet and Expressen | 6–9% <br> 1–2 | 4–7% <br> 1 | 27–32% <br> 6–7 | N/A <br> N/A | 4–6% <br> 0–1 | 6–9% <br> 1–2 | 15–19% <br> 3–4 | 6–9% <br> 1–2 | 17–21% <br> 4–5 |
