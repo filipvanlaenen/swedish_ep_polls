@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.9–8.7% | 6.7–8.9% | 6.5–9.1% | 6.1–9.6% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.9–8.6% | 6.7–8.8% | 6.5–9.1% | 6.1–9.6% |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 7.8% | 7.2–8.5% | 7.0–8.7% | 6.9–8.8% | 6.6–9.1% |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 7.2% | 6.6–7.9% | 6.4–8.1% | 6.2–8.3% | 6.0–8.6% |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.5–9.9% |
@@ -148,11 +148,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 4% | 100% |  |
-| 6.5–7.5% | 33% | 96% |  |
-| 7.5–8.5% | 50% | 63% | Median |
-| 8.5–9.5% | 13% | 13% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 38% | 97% |  |
+| 7.5–8.5% | 49% | 59% | Median |
+| 8.5–9.5% | 10% | 10% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
