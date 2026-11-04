@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.0% | 5.4–8.5% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.6–7.2% | 5.3–7.4% | 5.0–7.6% | 4.5–8.0% |
+| [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 5.8% | N/A | N/A | N/A | N/A |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 6.3% | 5.8–6.9% | 5.6–7.1% | 5.5–7.2% | 5.2–7.5% |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 6.7% | 6.1–7.4% | 5.9–7.6% | 5.8–7.7% | 5.5–8.1% |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7.0% | 6.3–7.9% | 6.1–8.1% | 5.9–8.4% | 5.6–8.8% |
@@ -146,12 +148,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 41% | 98% |  |
-| 6.5–7.5% | 48% | 57% | Median |
-| 7.5–8.5% | 9% | 9% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 9% | 99.5% |  |
+| 5.5–6.5% | 51% | 90% | Median |
+| 6.5–7.5% | 36% | 39% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -164,6 +166,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio |  |  |  |  |  |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -298,8 +302,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 58% | 100% | Median |
-| 2 | 42% | 42% |  |
+| 1 | 72% | 100% | Median |
+| 2 | 27% | 27% |  |
 | 3 | 0% | 0% |  |
 
 
