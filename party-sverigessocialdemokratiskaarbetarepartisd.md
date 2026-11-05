@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.2% | 25.2–29.1% | 24.8–29.5% | 24.5–29.9% | 23.8–30.5% |
+| N/A | [Poll Average](average.html) | 27.1% | 25.3–29.0% | 24.9–29.4% | 24.5–29.8% | 23.9–30.4% |
 | [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.5–30.8% |
-| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 27.0% | N/A | N/A | N/A | N/A |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 27.0% | 25.6–28.4% | 25.2–28.8% | 24.9–29.2% | 24.3–29.9% |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 28.5% | 27.5–29.6% | 27.2–29.9% | 26.9–30.1% | 26.4–30.7% |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 25.9% | 24.8–27.1% | 24.5–27.4% | 24.2–27.7% | 23.7–28.2% |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28.0% | 26.6–29.4% | 26.2–29.8% | 25.9–30.2% | 25.2–30.9% |
@@ -168,14 +168,14 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 3% | 99.7% |  |
-| 24.5–25.5% | 13% | 97% |  |
-| 25.5–26.5% | 22% | 84% |  |
-| 26.5–27.5% | 20% | 62% | Median |
-| 27.5–28.5% | 21% | 42% |  |
-| 28.5–29.5% | 16% | 21% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 0.5% | 0.5% |  |
+| 23.5–24.5% | 2% | 99.8% |  |
+| 24.5–25.5% | 11% | 97% |  |
+| 25.5–26.5% | 23% | 86% |  |
+| 26.5–27.5% | 24% | 63% | Median |
+| 27.5–28.5% | 22% | 39% |  |
+| 28.5–29.5% | 14% | 18% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.4% | 0.4% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -187,9 +187,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio |  |  |  |  |  |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6 | 6 | 6–7 | 5–7 | 5–7 |
@@ -329,8 +329,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 14% | 100% |  |
-| 6 | 81% | 86% | Median |
-| 7 | 6% | 6% |  |
+| 6 | 82% | 86% | Median |
+| 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
 

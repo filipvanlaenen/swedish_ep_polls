@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.8–8.6% | 6.6–9.0% | 6.4–9.3% | 6.1–10.0% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.8–8.6% | 6.6–8.9% | 6.4–9.2% | 6.1–9.9% |
 | [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 7.6% | N/A | N/A | N/A | N/A |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–9.0% | 6.1–9.4% |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 7.8% | 7.2–8.5% | 7.0–8.7% | 6.9–8.8% | 6.6–9.1% |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 7.2% | 6.6–7.9% | 6.4–8.1% | 6.2–8.3% | 6.0–8.6% |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.5–9.9% |
@@ -152,9 +152,9 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 4% | 100% |  |
 | 6.5–7.5% | 39% | 96% |  |
-| 7.5–8.5% | 45% | 57% | Median |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 1.4% | 2% |  |
+| 7.5–8.5% | 45% | 56% | Median |
+| 8.5–9.5% | 10% | 11% |  |
+| 9.5–10.5% | 1.1% | 1.2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -169,7 +169,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio |  |  |  |  |  |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 2 | 2 | 2 | 1–2 | 1–2 |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–27 September 2026](2026-09-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 2 | 2 | 2 | 1–2 | 1–2 |
