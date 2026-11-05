@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-11-04T19:49:29.843432+01:00</updated>
+  <updated>2026-11-05T21:17:13.086909+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalerna (RE): 2.9–5.4%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.4–29.9%, 5–7 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 4.7–7.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 3.8–6.5%, 0–1 seats</li><li>Centerpartiet (RE): 4.7–7.6%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.4–9.8%, 1–2 seats</li><li>Moderata samlingspartiet (EPP): 21.5–26.8%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 16.7–21.6%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_ep_polls/2026-10-25-Ipsos.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 October 2026</title>
     <updated>2026-11-04T19:49:29.843432+01:00</updated>
     <dc:date>2026-11-04T19:49:29.843432+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalerna (RE): 3.0–4.8%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 24.9–29.2%, 5–6 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 6.1–8.6%, 1–2 seats</li><li>Kristdemokraterna (EPP): 3.9–6.0%, 0–1 seats</li><li>Centerpartiet (RE): 4.8–7.0%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.4–9.0%, 1–2 seats</li><li>Moderata samlingspartiet (EPP): 24.2–28.5%, 5–6 seats</li><li>Sverigedemokraterna (ECR): 14.6–18.2%, 3–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_ep_polls/2026-10-25-Indikator.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_ep_polls/2026-10-25-Indikator.html"/>
+    <title>Opinion Poll by Indikator for Sveriges Radio, 7–25 October 2026</title>
+    <updated>2026-11-05T21:17:13.086909+01:00</updated>
+    <dc:date>2026-11-05T21:17:13.086909+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberalerna (RE): 3.1–4.5%, 0–1 seats</li><li>Sveriges socialdemokratiska arbetareparti (S&amp;D): 26.9–30.1%, 6–7 seats</li><li>Miljöpartiet de gröna (Greens/EFA): 6.2–8.1%, 1–2 seats</li><li>Kristdemokraterna (EPP): 5.1–6.8%, 1 seats</li><li>Centerpartiet (RE): 5.5–7.2%, 1–2 seats</li><li>Vänsterpartiet (GUE/NGL): 6.9–8.8%, 1–2 seats</li><li>Moderata samlingspartiet (EPP): 20.8–23.8%, 4–5 seats</li><li>Sverigedemokraterna (ECR): 15.9–18.6%, 3–4 seats</li></ul></div></content>
@@ -999,5 +1007,5 @@
     <updated>2024-09-27T16:15:04.412651+02:00</updated>
     <dc:date>2024-09-27T16:15:04.412651+02:00</dc:date>
   </entry>
-  <dc:date>2026-11-04T19:49:29.843432+01:00</dc:date>
+  <dc:date>2026-11-05T21:17:13.086909+01:00</dc:date>
 </feed>
