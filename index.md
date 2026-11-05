@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 27 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | MP | S | Fi | L | C | M | KD | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–9% <br> 1–2 | 5–8% <br> 1–2 | 24–30% <br> 5–7 | N/A <br> N/A | 3–5% <br> 0–1 | 5–8% <br> 1–2 | 21–26% <br> 5–6 | 4–7% <br> 1–2 | 16–21% <br> 3–5 |
+| N/A | [Poll Average](average.html) | 6–9% <br> 1–2 | 5–8% <br> 1–2 | 24–30% <br> 5–7 | N/A <br> N/A | 3–5% <br> 0–1 | 5–8% <br> 1–2 | 21–28% <br> 5–6 | 4–7% <br> 0–2 | 15–21% <br> 3–5 |
 | [13–25 October 2026](2026-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6–10% <br> 1–2 | 5–8% <br> 1–2 | 24–30% <br> 5–7 | N/A <br> N/A | 3–5% <br> 0–1 | 5–8% <br> 1–2 | 21–27% <br> 5–6 | 4–7% <br> 0–1 | 17–22% <br> 4–5 |
-| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–25 October 2026](2026-10-25-Indikator.html) | Indikator <br> Sveriges Radio | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 25–29% <br> 5–6 | N/A <br> N/A | 3–5% <br> 0–1 | 5–7% <br> 1–2 | 24–29% <br> 5–6 | 4–6% <br> 0–1 | 15–18% <br> 3–4 |
 | [28 September–11 October 2026](2026-10-11-Verian.html) | Verian <br> SVT | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 27–30% <br> 6–7 | N/A <br> N/A | 3–4% <br> 0–1 | 5–7% <br> 1–2 | 21–24% <br> 4–5 | 5–7% <br> 1 | 16–19% <br> 3–4 |
 | [5–11 October 2026](2026-10-11-Novus.html) | Novus <br> TV4 | 6–8% <br> 1–2 | 6–8% <br> 1–2 | 24–28% <br> 5–6 | N/A <br> N/A | 3–5% <br> 0–1 | 6–8% <br> 1–2 | 22–26% <br> 5–6 | 6–7% <br> 1–2 | 17–20% <br> 4 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
